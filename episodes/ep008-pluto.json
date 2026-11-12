@@ -29,11 +29,11 @@
     },
     {
       "text": "Pluto is smaller than our own Moon. In two thousand six, it was reclassified as a dwarf planet.",
-      "headline": "Smaller than our Moon",
       "visual": {
-        "type": "image",
-        "query": "Pluto Charon New Horizons",
-        "nasa_id": "PIA19856"
+        "type": "card",
+        "big": "2,377 km",
+        "label": "wide: smaller than our Moon",
+        "sub": "Our Moon: 3,474 km"
       }
     },
     {
