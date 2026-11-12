@@ -219,6 +219,13 @@ def legibility(base):
 
 
 # ---------------------------------------------------------------- text
+def fit(text, path, size, max_w=1000, min_size=60):
+    """Largest font size <= size that keeps text on one line."""
+    while size > min_size and font(path, size).getlength(text) > max_w:
+        size -= 4
+    return size
+
+
 def wrap(text, fnt, max_w):
     words, lines, cur = text.split(), [], ""
     for wd in words:
@@ -356,14 +363,14 @@ def render_episode(path, offline=False):
             if vt == "title":
                 paste_center(frame, text_layer(f"EPISODE {num}", FONT_BOLD, 46, color=(10, 20, 40),
                                                stroke=0, box=ACCENT + (255,)), 720, alpha=ease(t / 0.4))
-                paste_center(frame, text_layer(ep["title"].upper(), FONT_BLACK, 150, max_w=1000), 900,
+                paste_center(frame, text_layer(ep["title"].upper(), FONT_BLACK, fit(ep["title"].upper(), FONT_BLACK, 150, 980, 90), max_w=1000), 900,
                              alpha=ease((t - 0.2) / 0.4), scale=0.85 + 0.15 * ease((t - 0.2) / 0.5))
                 if ep.get("subtitle"):
                     paste_center(frame, text_layer(ep["subtitle"], FONT_SEMI, 56, color=ACCENT, stroke=4),
                                  1060, alpha=ease((t - 0.7) / 0.4))
             elif vt == "card":
                 k = ease((t - 0.15) / 0.45)
-                paste_center(frame, text_layer(v["big"], FONT_BLACK, 230, color=ACCENT, stroke=0, max_w=1000),
+                paste_center(frame, text_layer(v["big"], FONT_BLACK, fit(v["big"], FONT_BLACK, 230, 980), color=ACCENT, stroke=0, max_w=1000),
                              780, alpha=k, scale=0.6 + 0.4 * k)
                 paste_center(frame, text_layer(v.get("label", ""), FONT_BLACK, 74, max_w=960, stroke=0), 1000,
                              alpha=ease((t - 0.5) / 0.4))

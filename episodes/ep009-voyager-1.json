@@ -24,7 +24,8 @@
       "text": "Episode nine. Next stop... Voyager one.",
       "visual": {
         "type": "title",
-        "query": "Voyager spacecraft"
+        "query": "Voyager spacecraft",
+        "nasa_id": "PIA04495"
       }
     },
     {
@@ -58,7 +59,8 @@
       "headline": "Now in interstellar space",
       "visual": {
         "type": "image",
-        "query": "Voyager interstellar space heliosphere"
+        "query": "Voyager interstellar space heliosphere",
+        "nasa_id": "PIA16485"
       }
     },
     {
@@ -66,7 +68,8 @@
       "headline": "A message for aliens",
       "visual": {
         "type": "image",
-        "query": "Voyager golden record"
+        "query": "Voyager golden record",
+        "nasa_id": "PIA14113"
       }
     },
     {
@@ -74,7 +77,8 @@
       "headline": "The Pale Blue Dot",
       "visual": {
         "type": "image",
-        "query": "Pale Blue Dot"
+        "query": "Pale Blue Dot",
+        "nasa_id": "PIA23645"
       }
     },
     {

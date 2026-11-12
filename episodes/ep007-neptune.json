@@ -31,7 +31,8 @@
       "headline": "Found with math",
       "visual": {
         "type": "image",
-        "query": "Neptune Webb"
+        "query": "Neptune Webb",
+        "nasa_id": "PIA02210"
       }
     },
     {
@@ -57,7 +58,8 @@
       "headline": "900× dimmer sunlight",
       "visual": {
         "type": "image",
-        "query": "Neptune Voyager"
+        "query": "Neptune Voyager",
+        "nasa_id": "PIA01539"
       }
     },
     {
@@ -73,7 +75,8 @@
       "visual": {
         "type": "end",
         "query": "Pluto New Horizons",
-        "warm": false
+        "warm": false,
+        "nasa_id": "PIA19873"
       }
     }
   ]
