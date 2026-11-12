@@ -178,7 +178,17 @@ def compose_background(img, seed):
         return starfield(seed, bw, bh)
     iw, ih = img.size
     aspect = iw / ih
-    if aspect <= 1.0:  # portrait/square: cover-crop
+    if 0.75 < aspect <= 1.3:  # square-ish (planets, globes): show it whole over a blurred fill
+        s = max(bw / iw, bh / ih)
+        bg = img.resize((int(iw * s) + 1, int(ih * s) + 1), Image.BILINEAR)
+        x, y = (bg.width - bw) // 2, (bg.height - bh) // 2
+        bg = bg.crop((x, y, x + bw, y + bh)).filter(ImageFilter.GaussianBlur(40))
+        bg = Image.blend(Image.new("RGB", bg.size, (0, 0, 0)), bg, 0.35)
+        fw = int(bw * 0.98)
+        fg = img.resize((fw, int(ih * fw / iw)), Image.LANCZOS)
+        bg.paste(fg, ((bw - fg.width) // 2, (bh - fg.height) // 2 - int(bh * 0.02)))
+        return bg
+    if aspect <= 0.75:  # portrait: cover-crop
         s = max(bw / iw, bh / ih)
         im = img.resize((int(iw * s) + 1, int(ih * s) + 1), Image.LANCZOS)
         x, y = (im.width - bw) // 2, (im.height - bh) // 2
