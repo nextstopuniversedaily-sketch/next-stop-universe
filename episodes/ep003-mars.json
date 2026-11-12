@@ -5,30 +5,92 @@
   "next_stop": "Jupiter",
   "yt_title": "Mars: What Would Kill You First? 🔴 | Ep. 3 #shorts",
   "description": "Episode 3 of a daily journey through the universe. 🔴\nWe land on Mars: why it's red, what would kill you first without a suit, the tallest volcano in the solar system, and why sunsets there are blue.\n\n🪐 Tomorrow, Episode 4: Next stop, Jupiter. More than a thousand Earths could fit inside it.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #mars #astronomy #shorts #science",
-  "tags": ["mars", "space", "universe", "astronomy", "mars facts", "red planet", "olympus mons", "space facts", "journey through the universe", "next stop universe"],
+  "tags": [
+    "mars",
+    "space",
+    "universe",
+    "astronomy",
+    "mars facts",
+    "red planet",
+    "olympus mons",
+    "space facts",
+    "journey through the universe",
+    "next stop universe"
+  ],
   "segments": [
-    {"text": "Episode three. Next stop... Mars.",
-     "visual": {"type": "title", "query": "Mars globe Valles Marineris"}},
-    {"text": "Even at its closest, Mars is more than fifty million kilometers away. The trip takes about seven months.",
-     "headline": "~7 months to get there",
-     "visual": {"type": "image", "query": "Mars 2020 Perseverance launch Atlas V"}},
-    {"text": "Welcome to the red planet. Its color comes from rust. Iron in the dust.",
-     "headline": "The red is rust",
-     "visual": {"type": "image", "query": "Curiosity rover Mars surface panorama"}},
-    {"text": "So what would kill you first? Not the cold. Not the radiation. The air.",
-     "headline": "What kills you first?",
-     "visual": {"type": "image", "query": "Mars dust storm"}},
-    {"text": "It's almost all carbon dioxide, and less than one percent as thick as Earth's. Without a suit, you'd pass out in about fifteen seconds.",
-     "visual": {"type": "card", "big": "15 sec", "label": "until you pass out", "sub": "Air: less than 1% as thick as Earth's"}},
-    {"text": "Survive that, and the cold is next. The average temperature is around minus sixty degrees Celsius.",
-     "visual": {"type": "card", "big": "−60°C", "label": "average temperature", "sub": "Nights can drop below −100°C"}},
-    {"text": "But Mars has wonders too. Olympus Mons, the tallest volcano in the solar system, is about two and a half times taller than Everest.",
-     "headline": "2.5× taller than Everest",
-     "visual": {"type": "image", "query": "Olympus Mons"}},
-    {"text": "And here, sunsets are blue.",
-     "headline": "Blue sunsets",
-     "visual": {"type": "image", "query": "Mars sunset Gale crater Curiosity blue"}},
-    {"text": "Tomorrow, we cross the asteroid belt. Next stop: Jupiter. More than a thousand Earths could fit inside it. Follow, so you don't miss episode four.",
-     "visual": {"type": "end", "query": "Jupiter Juno", "warm": true}}
+    {
+      "text": "Episode three. Next stop... Mars.",
+      "visual": {
+        "type": "title",
+        "nasa_id": "PIA00407",
+        "query": "Mars Valles Marineris hemisphere Viking"
+      }
+    },
+    {
+      "text": "Even at its closest, Mars is more than fifty million kilometers away. The trip takes about seven months.",
+      "headline": "~7 months to get there",
+      "visual": {
+        "type": "image",
+        "query": "Mars 2020 Perseverance launch Atlas V"
+      }
+    },
+    {
+      "text": "Welcome to the red planet. Its color comes from rust. Iron in the dust.",
+      "headline": "The red is rust",
+      "visual": {
+        "type": "image",
+        "query": "Curiosity rover selfie Mars"
+      }
+    },
+    {
+      "text": "So what would kill you first? Not the cold. Not the radiation. The air.",
+      "headline": "What kills you first?",
+      "visual": {
+        "type": "image",
+        "query": "Hubble Mars"
+      }
+    },
+    {
+      "text": "It's almost all carbon dioxide, and less than one percent as thick as Earth's. Without a suit, you'd pass out in about fifteen seconds.",
+      "visual": {
+        "type": "card",
+        "big": "15 sec",
+        "label": "until you pass out",
+        "sub": "Air: less than 1% as thick as Earth's"
+      }
+    },
+    {
+      "text": "Survive that, and the cold is next. The average temperature is around minus sixty degrees Celsius.",
+      "visual": {
+        "type": "card",
+        "big": "−60°C",
+        "label": "average temperature",
+        "sub": "Nights can drop below −100°C"
+      }
+    },
+    {
+      "text": "But Mars has wonders too. Olympus Mons, the tallest volcano in the solar system, is about two and a half times taller than Everest.",
+      "headline": "2.5× taller than Everest",
+      "visual": {
+        "type": "image",
+        "query": "Olympus Mons Viking mosaic"
+      }
+    },
+    {
+      "text": "And here, sunsets are blue.",
+      "headline": "Blue sunsets",
+      "visual": {
+        "type": "image",
+        "query": "Mars sunset Gale crater Curiosity blue"
+      }
+    },
+    {
+      "text": "Tomorrow, we cross the asteroid belt. Next stop: Jupiter. More than a thousand Earths could fit inside it. Follow, so you don't miss episode four.",
+      "visual": {
+        "type": "end",
+        "query": "Jupiter Juno",
+        "warm": true
+      }
+    }
   ]
 }

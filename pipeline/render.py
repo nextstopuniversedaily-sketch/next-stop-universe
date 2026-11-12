@@ -73,6 +73,14 @@ def nasa_image(visual, offline=False):
         return None
     os.makedirs(CACHE, exist_ok=True)
     nasa_id = visual.get("nasa_id")
+    if nasa_id:
+        try:
+            r = requests.get(f"https://images-api.nasa.gov/asset/{nasa_id}", timeout=30)
+            if r.status_code != 200:
+                print(f"  ! nasa_id {nasa_id} not found, using query")
+                nasa_id = None
+        except Exception:  # noqa: BLE001
+            nasa_id = None
     if not nasa_id:
         q = visual["query"]
         r = requests.get("https://images-api.nasa.gov/search",
@@ -107,6 +115,41 @@ def nasa_image(visual, offline=False):
         else:
             return None
     return Image.open(path).convert("RGB")
+
+
+def options_sheet(ep, out_path, per_row=6):
+    """Contact sheet of the top NASA search results for every image segment."""
+    rows = []
+    for si, s in enumerate(ep["segments"]):
+        v = s.get("visual", {})
+        if v.get("type", "image") == "card" or not v.get("query"):
+            continue
+        try:
+            r = requests.get("https://images-api.nasa.gov/search",
+                             params={"q": v["query"], "media_type": "image"}, timeout=30)
+            items = r.json()["collection"]["items"][:per_row]
+        except Exception as e:  # noqa: BLE001
+            print("  ! search failed", v["query"], e)
+            continue
+        row = Image.new("RGB", (per_row * 300, 340), (20, 20, 28))
+        d = ImageDraw.Draw(row)
+        d.text((8, 4), f"seg {si + 1}: {v['query']}", font=font(FONT_BOLD, 22), fill=WHITE)
+        for i, it in enumerate(items):
+            try:
+                th = it["links"][0]["href"]
+                im = Image.open(io.BytesIO(requests.get(th, timeout=30).content)).convert("RGB")
+                im.thumbnail((290, 260))
+                row.paste(im, (i * 300 + 5, 34))
+            except Exception:  # noqa: BLE001
+                pass
+            d.text((i * 300 + 6, 300), f"pick {i}: {it['data'][0]['nasa_id']}"[:30],
+                   font=font(FONT_SEMI, 18), fill=ACCENT)
+        rows.append(row)
+    if rows:
+        sheet = Image.new("RGB", (rows[0].width, 340 * len(rows)))
+        for i, r in enumerate(rows):
+            sheet.paste(r, (0, i * 340))
+        sheet.save(out_path, quality=80)
 
 
 def starfield(seed=1, w=W, h=H, tint=(10, 22, 52)):
@@ -357,6 +400,8 @@ def render_episode(path, offline=False):
         sheet.paste(im, ((i % cols) * 270, (i // cols) * 480))
     os.makedirs(os.path.join(ROOT, "previews"), exist_ok=True)
     sheet.save(os.path.join(ROOT, "previews", stem + ".jpg"), quality=85)
+    if not offline:
+        options_sheet(ep, os.path.join(ROOT, "previews", stem + "-options.jpg"))
     meta = {"source": os.path.basename(path), "hash": file_hash(path), "seconds": round(total, 2),
             "rendered": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     json.dump(meta, open(os.path.join(ROOT, "videos", stem + ".meta.json"), "w"), indent=2)
