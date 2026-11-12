@@ -1,0 +1,80 @@
+{
+  "number": 7,
+  "title": "Neptune",
+  "subtitle": "The windiest planet",
+  "next_stop": "Pluto",
+  "yt_title": "Neptune: The Planet Found by Math 🔵 | Ep. 7 #shorts",
+  "description": "Episode 7 of a daily journey through the universe. 🔵\nWe reach Neptune: the planet found with math, the fastest winds in the solar system, a 165-year orbit, sunlight 900 times dimmer, and a moon that orbits backwards.\n\n➡️ Tomorrow, Episode 8: Next stop, Pluto. A small world with a big heart.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #neptune #astronomy #shorts #science",
+  "tags": [
+    "neptune",
+    "triton",
+    "ice giant",
+    "voyager 2",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seven. Next stop... Neptune.",
+      "visual": {
+        "type": "title",
+        "query": "Neptune Voyager 2"
+      }
+    },
+    {
+      "text": "Neptune is the only planet found with math. In eighteen forty-six, astronomers predicted where it should be, and found it almost exactly there.",
+      "headline": "Found with math",
+      "visual": {
+        "type": "image",
+        "query": "Neptune Webb"
+      }
+    },
+    {
+      "text": "Its winds are the fastest in the solar system, up to two thousand kilometers per hour.",
+      "visual": {
+        "type": "card",
+        "big": "2,000",
+        "label": "km/h winds",
+        "sub": "Fastest in the solar system"
+      }
+    },
+    {
+      "text": "One year on Neptune lasts a hundred and sixty-five Earth years. It finished its first full orbit since discovery only in twenty eleven.",
+      "visual": {
+        "type": "card",
+        "big": "165",
+        "label": "Earth years = 1 Neptune year",
+        "sub": "First full orbit since discovery: 2011"
+      }
+    },
+    {
+      "text": "Out here, sunlight is about nine hundred times dimmer than on Earth.",
+      "headline": "900× dimmer sunlight",
+      "visual": {
+        "type": "image",
+        "query": "Neptune Voyager"
+      }
+    },
+    {
+      "text": "Its largest moon, Triton, orbits backwards and shoots geysers of nitrogen into space. It may be a captured world from beyond Neptune.",
+      "headline": "A moon that orbits backwards",
+      "visual": {
+        "type": "image",
+        "query": "Triton Voyager 2"
+      }
+    },
+    {
+      "text": "Tomorrow, we reach a small world with a big heart. Next stop: Pluto. Follow, so you don't miss episode eight.",
+      "visual": {
+        "type": "end",
+        "query": "Pluto New Horizons",
+        "warm": false
+      }
+    }
+  ]
+}

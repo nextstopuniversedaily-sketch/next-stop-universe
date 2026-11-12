@@ -1,0 +1,88 @@
+{
+  "number": 5,
+  "title": "Saturn",
+  "subtitle": "The planet that could float",
+  "next_stop": "Uranus",
+  "yt_title": "Saturn's Rings Are Disappearing 🪐 | Ep. 5 #shorts",
+  "description": "Episode 5 of a daily journey through the universe. 🪐\nWe fly through Saturn: rings only about ten meters thick, ice that rains onto the planet, a world less dense than water, a six-sided storm, and lakes of liquid methane on Titan.\n\n➡️ Tomorrow, Episode 6: Next stop, Uranus. The planet that rolls on its side.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #saturn #astronomy #shorts #science",
+  "tags": [
+    "saturn",
+    "saturn rings",
+    "titan",
+    "cassini",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode five. Next stop... Saturn.",
+      "visual": {
+        "type": "title",
+        "query": "Saturn Cassini"
+      }
+    },
+    {
+      "text": "Saturn's rings stretch hundreds of thousands of kilometers across. But in most places, they're only about ten meters thick.",
+      "headline": "Rings: about 10 m thick",
+      "visual": {
+        "type": "image",
+        "query": "Saturn rings Cassini"
+      }
+    },
+    {
+      "text": "They're made of countless chunks of ice, from tiny grains to pieces as big as a house.",
+      "headline": "Countless chunks of ice",
+      "visual": {
+        "type": "image",
+        "query": "Saturn rings closeup Cassini"
+      }
+    },
+    {
+      "text": "And the rings are disappearing. Ice is slowly raining down onto the planet. In about three hundred million years, they could be gone.",
+      "visual": {
+        "type": "card",
+        "big": "300M yrs",
+        "label": "until the rings could vanish",
+        "sub": "\"Ring rain\" is pulling them in"
+      }
+    },
+    {
+      "text": "Saturn is so light for its size that it's less dense than water. In a big enough bathtub, it would float.",
+      "visual": {
+        "type": "card",
+        "big": "0.7×",
+        "label": "the density of water",
+        "sub": "It would float"
+      }
+    },
+    {
+      "text": "At its north pole, a giant six-sided storm swirls. Each side is wider than Earth.",
+      "headline": "A hexagon storm",
+      "visual": {
+        "type": "image",
+        "query": "Saturn hexagon"
+      }
+    },
+    {
+      "text": "And its moon Titan has rivers, lakes and rain. Not of water, but of liquid methane.",
+      "headline": "Lakes of liquid methane",
+      "visual": {
+        "type": "image",
+        "query": "Titan lakes"
+      }
+    },
+    {
+      "text": "Tomorrow, we meet the strangest planet of all. Next stop: Uranus, the planet that rolls on its side. Follow, so you don't miss episode six.",
+      "visual": {
+        "type": "end",
+        "query": "Uranus",
+        "warm": false
+      }
+    }
+  ]
+}

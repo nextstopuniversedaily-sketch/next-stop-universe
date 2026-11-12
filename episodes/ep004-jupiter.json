@@ -1,0 +1,88 @@
+{
+  "number": 4,
+  "title": "Jupiter",
+  "subtitle": "The giant of the solar system",
+  "next_stop": "Saturn",
+  "yt_title": "Jupiter: A Storm Bigger Than Earth 🪐 | Ep. 4 #shorts",
+  "description": "Episode 4 of a daily journey through the universe. 🪐\nWe reach Jupiter: a planet that could swallow a thousand Earths, a 10-hour day, no ground to stand on, a storm bigger than Earth, and an ocean hidden on its moon Europa.\n\n➡️ Tomorrow, Episode 5: Next stop, Saturn. A planet light enough to float in water.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #jupiter #astronomy #shorts #science",
+  "tags": [
+    "jupiter",
+    "great red spot",
+    "europa",
+    "juno",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode four. Next stop... Jupiter.",
+      "visual": {
+        "type": "title",
+        "query": "Jupiter Hubble"
+      }
+    },
+    {
+      "text": "Jupiter is the giant of our solar system. More than a thousand Earths could fit inside it.",
+      "headline": "1,000+ Earths fit inside",
+      "visual": {
+        "type": "image",
+        "query": "Jupiter Juno south pole"
+      }
+    },
+    {
+      "text": "And yet, a day here lasts only about ten hours. It's the fastest spinning planet in the solar system.",
+      "visual": {
+        "type": "card",
+        "big": "10 hrs",
+        "label": "one Jupiter day",
+        "sub": "Fastest-spinning planet"
+      }
+    },
+    {
+      "text": "There's no ground to stand on. Jupiter is a ball of gas, mostly hydrogen and helium, getting hotter and denser the deeper you fall.",
+      "headline": "No surface at all",
+      "visual": {
+        "type": "image",
+        "query": "Jupiter clouds Juno"
+      }
+    },
+    {
+      "text": "See that red spot? It's a storm bigger than Earth, and it has been raging for at least a hundred and fifty years.",
+      "headline": "A storm bigger than Earth",
+      "visual": {
+        "type": "image",
+        "query": "Great Red Spot Juno"
+      }
+    },
+    {
+      "text": "Jupiter also has more than a hundred moons.",
+      "visual": {
+        "type": "card",
+        "big": "100+",
+        "label": "moons",
+        "sub": "And astronomers keep finding more"
+      }
+    },
+    {
+      "text": "One of them, Europa, hides a salty ocean under its ice. It may hold twice as much water as all of Earth's oceans.",
+      "headline": "An ocean under the ice",
+      "visual": {
+        "type": "image",
+        "query": "Europa Galileo"
+      }
+    },
+    {
+      "text": "Tomorrow, we visit the jewel of the solar system. Next stop: Saturn, a planet light enough to float in water. Follow, so you don't miss episode five.",
+      "visual": {
+        "type": "end",
+        "query": "Saturn Cassini",
+        "warm": false
+      }
+    }
+  ]
+}

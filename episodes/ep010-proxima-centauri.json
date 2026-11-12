@@ -1,0 +1,80 @@
+{
+  "number": 10,
+  "title": "Proxima Centauri",
+  "subtitle": "Our nearest star",
+  "next_stop": "A Black Hole",
+  "yt_title": "How Long to Reach the Nearest Star? ⭐ | Ep. 10 #shorts",
+  "description": "Episode 10 of a daily journey through the universe. ⭐\nWe leave the solar system for Proxima Centauri: 40 trillion km away, light that left it more than four years ago, a 70,000-year trip at Voyager's speed, and a planet in the habitable zone.\n\n➡️ Tomorrow, Episode 11: Next stop, a black hole. And what would happen if you fell in.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #proximacentauri #astronomy #shorts #science",
+  "tags": [
+    "proxima centauri",
+    "alpha centauri",
+    "nearest star",
+    "light year",
+    "exoplanet",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode ten. Next stop... our nearest star.",
+      "visual": {
+        "type": "title",
+        "query": "Proxima Centauri Hubble"
+      }
+    },
+    {
+      "text": "Proxima Centauri is the closest star to our Sun. But it's still about forty trillion kilometers away.",
+      "headline": "40 trillion km away",
+      "visual": {
+        "type": "image",
+        "query": "Alpha Centauri"
+      }
+    },
+    {
+      "text": "That's four point two light-years. The light you see from it tonight left more than four years ago.",
+      "visual": {
+        "type": "card",
+        "big": "4.2",
+        "label": "light-years away",
+        "sub": "You see it as it was 4 years ago"
+      }
+    },
+    {
+      "text": "Even at Voyager's speed, the trip would take more than seventy thousand years.",
+      "visual": {
+        "type": "card",
+        "big": "70,000+",
+        "label": "years at Voyager's speed"
+      }
+    },
+    {
+      "text": "It's a small red dwarf, cooler and dimmer than our Sun, and it blasts out powerful flares.",
+      "headline": "A small red dwarf",
+      "visual": {
+        "type": "image",
+        "query": "red dwarf star flare"
+      }
+    },
+    {
+      "text": "And it has a planet, Proxima b, a little more massive than Earth, in the zone where liquid water could exist.",
+      "headline": "A planet in the habitable zone",
+      "visual": {
+        "type": "image",
+        "query": "exoplanet red dwarf illustration"
+      }
+    },
+    {
+      "text": "Tomorrow, we visit the most extreme objects in the universe. Next stop: a black hole, and what would happen if you fell in. Follow, so you don't miss episode eleven.",
+      "visual": {
+        "type": "end",
+        "query": "black hole Event Horizon Telescope",
+        "warm": false
+      }
+    }
+  ]
+}

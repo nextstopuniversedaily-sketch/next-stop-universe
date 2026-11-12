@@ -1,0 +1,89 @@
+{
+  "number": 9,
+  "title": "Voyager 1",
+  "subtitle": "The farthest human-made object",
+  "next_stop": "Proxima Centauri",
+  "yt_title": "Voyager 1 Is Now One Light-Day Away 🛰️ | Ep. 9 #shorts",
+  "description": "Episode 9 of a daily journey through the universe. 🛰️\nWe catch up with Voyager 1: launched in 1977, now one full light-day from Earth (a milestone reached on Nov 18, 2026), a golden record for aliens, and the Pale Blue Dot.\n\n➡️ Tomorrow, Episode 10: Next stop, our nearest star. And how long it would really take to get there.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #voyager1 #astronomy #shorts #science",
+  "tags": [
+    "voyager 1",
+    "interstellar space",
+    "golden record",
+    "pale blue dot",
+    "nasa",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode nine. Next stop... Voyager one.",
+      "visual": {
+        "type": "title",
+        "query": "Voyager spacecraft"
+      }
+    },
+    {
+      "text": "Launched in nineteen seventy-seven, Voyager one is the farthest object humans have ever made.",
+      "headline": "Launched in 1977",
+      "visual": {
+        "type": "image",
+        "query": "Voyager 1 launch Titan Centaur"
+      }
+    },
+    {
+      "text": "It's now about twenty-six billion kilometers away, and still moving.",
+      "visual": {
+        "type": "card",
+        "big": "26B km",
+        "label": "from Earth",
+        "sub": "And still moving"
+      }
+    },
+    {
+      "text": "So far that its radio signals take a full day to reach us. This week, it became the first human-made object ever to get that far.",
+      "visual": {
+        "type": "card",
+        "big": "1 day",
+        "label": "for its signal to reach Earth",
+        "sub": "Milestone reached: Nov 18, 2026"
+      }
+    },
+    {
+      "text": "In twenty twelve, it became the first spacecraft to enter interstellar space, leaving the Sun's bubble behind.",
+      "headline": "Now in interstellar space",
+      "visual": {
+        "type": "image",
+        "query": "Voyager interstellar space heliosphere"
+      }
+    },
+    {
+      "text": "On board is a golden record, with music, sounds of Earth, and greetings in fifty-five languages. A message for anyone who finds it.",
+      "headline": "A message for aliens",
+      "visual": {
+        "type": "image",
+        "query": "Voyager golden record"
+      }
+    },
+    {
+      "text": "And in nineteen ninety, it turned around and took a photo of home. Earth, as a single pale blue dot.",
+      "headline": "The Pale Blue Dot",
+      "visual": {
+        "type": "image",
+        "query": "Pale Blue Dot"
+      }
+    },
+    {
+      "text": "Tomorrow, we leave the solar system. Next stop: our nearest star, and how long it would really take to get there. Follow, so you don't miss episode ten.",
+      "visual": {
+        "type": "end",
+        "query": "Alpha Centauri",
+        "warm": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "number": 6,
+  "title": "Uranus",
+  "subtitle": "The planet that rolls on its side",
+  "next_stop": "Neptune",
+  "yt_title": "Uranus: The Planet That Rolls on Its Side 🌍 | Ep. 6 #shorts",
+  "description": "Episode 6 of a daily journey through the universe. 🔵\nWe reach Uranus: a planet tipped on its side, 42 years of daylight at each pole, the coldest atmosphere of any planet, and a world visited only once.\n\n➡️ Tomorrow, Episode 7: Next stop, Neptune. The windiest planet in the solar system.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #uranus #astronomy #shorts #science",
+  "tags": [
+    "uranus",
+    "ice giant",
+    "voyager 2",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode six. Next stop... Uranus.",
+      "visual": {
+        "type": "title",
+        "query": "Uranus Voyager 2"
+      }
+    },
+    {
+      "text": "Uranus is tipped over on its side. Instead of spinning like a top, it rolls around the Sun like a ball.",
+      "headline": "It rolls on its side",
+      "visual": {
+        "type": "image",
+        "query": "Uranus Webb rings"
+      }
+    },
+    {
+      "text": "That means wild seasons. Each pole gets about forty-two years of nonstop sunlight, then forty-two years of darkness.",
+      "visual": {
+        "type": "card",
+        "big": "42 yrs",
+        "label": "of nonstop daylight",
+        "sub": "Then 42 years of night"
+      }
+    },
+    {
+      "text": "It also holds the record for the coldest planetary atmosphere, at about minus two hundred twenty-four degrees Celsius.",
+      "visual": {
+        "type": "card",
+        "big": "−224°C",
+        "label": "coldest atmosphere",
+        "sub": "Of any planet in the solar system"
+      }
+    },
+    {
+      "text": "Its blue-green color comes from methane gas, which absorbs red light.",
+      "headline": "Why it's blue-green",
+      "visual": {
+        "type": "image",
+        "query": "Uranus Hubble"
+      }
+    },
+    {
+      "text": "Only one spacecraft has ever visited. Voyager two flew past in nineteen eighty-six, and we haven't been back since.",
+      "headline": "Visited once: 1986",
+      "visual": {
+        "type": "image",
+        "query": "Voyager 2 spacecraft"
+      }
+    },
+    {
+      "text": "Tomorrow, we go even farther. Next stop: Neptune, where the winds blow faster than anywhere else in the solar system. Follow, so you don't miss episode seven.",
+      "visual": {
+        "type": "end",
+        "query": "Neptune Voyager 2",
+        "warm": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "number": 8,
+  "title": "Pluto",
+  "subtitle": "A small world with a big heart",
+  "next_stop": "Voyager 1",
+  "yt_title": "Pluto Has a Giant Heart ❤️ | Ep. 8 #shorts",
+  "description": "Episode 8 of a daily journey through the universe. ❤️\nWe reach Pluto: smaller than our Moon, a heart of frozen nitrogen the size of Texas, mountains of water ice, and a spacecraft that carried its discoverer along.\n\n➡️ Tomorrow, Episode 9: Next stop, Voyager 1. The farthest object humans have ever made.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #pluto #astronomy #shorts #science",
+  "tags": [
+    "pluto",
+    "new horizons",
+    "dwarf planet",
+    "kuiper belt",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eight. Next stop... Pluto.",
+      "visual": {
+        "type": "title",
+        "query": "Pluto New Horizons"
+      }
+    },
+    {
+      "text": "Pluto is smaller than our own Moon. In two thousand six, it was reclassified as a dwarf planet.",
+      "headline": "Smaller than our Moon",
+      "visual": {
+        "type": "image",
+        "query": "Pluto Charon New Horizons"
+      }
+    },
+    {
+      "text": "But look closer. That bright heart is a giant plain of frozen nitrogen, about the size of Texas.",
+      "headline": "A heart of frozen nitrogen",
+      "visual": {
+        "type": "image",
+        "query": "Pluto heart Sputnik Planitia"
+      }
+    },
+    {
+      "text": "It also has mountains of water ice, as tall as the Rocky Mountains.",
+      "headline": "Mountains of ice",
+      "visual": {
+        "type": "image",
+        "query": "Pluto mountains New Horizons"
+      }
+    },
+    {
+      "text": "Sunlight takes about five and a half hours to reach Pluto.",
+      "visual": {
+        "type": "card",
+        "big": "5.5 hrs",
+        "label": "for sunlight to arrive",
+        "sub": "It reaches Earth in 8 minutes"
+      }
+    },
+    {
+      "text": "The New Horizons spacecraft took nine and a half years to get here, flying past in twenty fifteen.",
+      "visual": {
+        "type": "card",
+        "big": "9.5 yrs",
+        "label": "to reach Pluto",
+        "sub": "New Horizons flyby: July 2015"
+      }
+    },
+    {
+      "text": "And on board, it carries some of the ashes of Clyde Tombaugh, the man who discovered Pluto.",
+      "headline": "Its discoverer came along",
+      "visual": {
+        "type": "image",
+        "query": "New Horizons spacecraft"
+      }
+    },
+    {
+      "text": "Tomorrow, we chase the farthest thing humans have ever made. Next stop: Voyager one, out in interstellar space. Follow, so you don't miss episode nine.",
+      "visual": {
+        "type": "end",
+        "query": "Voyager spacecraft",
+        "warm": false
+      }
+    }
+  ]
+}
