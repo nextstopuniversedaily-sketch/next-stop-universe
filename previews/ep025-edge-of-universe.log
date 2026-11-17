@@ -1,0 +1,17 @@
+[0;93m2026-11-17 20:32:04.768342268 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 25: The Edge
+  audio 55.4s
+  WIKI File:Hubble ultra deep field.jpg (Public domain)
+  segment 1/7 [title] 4.6s
+  NASA 'Hubble deep field' -> PIA12110: Hubble Deep Field Image Unveils Myriad Galaxies Back to the Beginning 
+  segment 2/7 [image] 10.3s
+  segment 3/7 [card] 8.9s
+  segment 4/7 [card] 5.6s
+  ! no usable NASA image for 'Hubble eXtreme Deep Field'
+  segment 5/7 [image] 4.6s
+  NASA 'Webb galaxies' -> webb_first_deep_field: Webb_first_deep_field_SMACS_0723
+  segment 6/7 [image] 7.4s
+  - skip File:WASP-76bEffetdeGloire.jpg: license 'CC BY-SA 3.0'
+  NASA 'hot Jupiter exoplanet illustration' -> PIA21074: Clouds on Hot Jupiters Illustration
+  segment 7/7 [end] 14.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep025.mp4 (21.7 MB)
