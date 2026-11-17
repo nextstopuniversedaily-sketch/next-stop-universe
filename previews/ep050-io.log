@@ -1,0 +1,27 @@
+[0;93m2026-11-17 22:29:59.651367779 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 50: Io
+  audio 71.4s
+  WIKI File:Io_highest_resolution_natural_color.png (Public domain)
+  segment 1/11 [title] 3.2s
+  WIKI File:Io_highest_resolution_natural_color.png (Public domain)
+  segment 2/11 [image] 7.3s
+  segment 3/11 [card] 6.2s
+  WIKI File:Galileo I31 Thor plume colorized.png (Public domain)
+  segment 4/11 [image] 6.6s
+  WIKI File:PIA21972 Jupiter Blues.jpg (Public domain)
+  segment 5/11 [image] 3.6s
+  WIKI File:Jupiter and Io - NASA's Cassini in 2001 (51758670356).png (CC BY 2.0)
+  segment 6/11 [image] 7.6s
+  segment 7/11 [card] 5.9s
+  WIKI File:Io highest resolution true color.jpg (Public domain)
+  segment 8/11 [image] 6.7s
+  - skip File:Juno JunoCam image of Io from October 15, 2023.png: license 'CC BY-SA 4.0'
+  - skip File:Image of Io from Juno JunoCam from December 2023.png: license 'CC BY-SA 3.0'
+  - skip File:Images of Io from the Juno spacecraft.png: license 'CC BY-SA 4.0'
+  WIKI File:Io imaged by Juno.png (Public domain)
+  segment 9/11 [image] 8.6s
+  segment 10/11 [card] 4.7s
+  - skip File:Planet nine artistic plain.png: license 'CC BY-SA 4.0'
+  WIKI File:Hypothetical Planet Nine (24420842591).png (CC BY 2.0)
+  segment 11/11 [end] 10.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep050.mp4 (8.4 MB)
