@@ -1,11 +1,21 @@
-[0;93m2026-11-17 22:19:46.640779522 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 22:45:10.214073851 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 44: Earthrise
-Traceback (most recent call last):
-  File "/home/runner/work/next-stop-universe/next-stop-universe/pipeline/render.py", line 635, in <module>
-    main()
-  File "/home/runner/work/next-stop-universe/next-stop-universe/pipeline/render.py", line 631, in main
-    render_episode(f, offline=a.offline)
-  File "/home/runner/work/next-stop-universe/next-stop-universe/pipeline/render.py", line 471, in render_episode
-    mix = voice + ambient_pad(total)[: len(voice)]
-          ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-ValueError: operands could not be broadcast together with shapes (1888352,) (1888351,) 
+  audio 78.7s
+  WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
+  segment 1/10 [title] 5.0s
+  WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
+  segment 2/10 [image] 9.4s
+  segment 3/10 [card] 5.1s
+  WIKI File:AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536.jpg (Public domain)
+  segment 4/10 [image] 9.8s
+  WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
+  segment 5/10 [image] 9.0s
+  segment 6/10 [card] 6.2s
+  WIKI File:Portrait of ASTP crews - restoration.jpg (Public domain)
+  segment 7/10 [image] 8.7s
+  WIKI File:The Earth seen from Apollo 17.jpg (Public domain)
+  segment 8/10 [image] 8.4s
+  segment 9/10 [card] 5.3s
+  WIKI File:A2017U1_5gsmoothWHT_enhanced.jpg (Public domain)
+  segment 10/10 [end] 11.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep044.mp4 (12.1 MB)
