@@ -1,11 +1,10 @@
-[0;93m2026-11-17 20:33:33.771840195 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:09:31.362847707 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 26: WASP-76b
-  audio 47.4s
-  - skip File:WASP-76bEffetdeGloire.jpg: license 'CC BY-SA 3.0'
-  NASA 'hot Jupiter exoplanet' -> PIA21074: Clouds on Hot Jupiters Illustration
+  audio 47.3s
+  WIKI File:Artist Impression of the exoplanet WASP-76b (noirlab2318a).jpg (CC BY 4.0)
   segment 1/7 [title] 5.0s
   NASA 'exoplanet illustration' -> ACD20-0044-001: ACD20-0044-001
-  segment 2/7 [image] 9.8s
+  segment 2/7 [image] 9.7s
   WIKI File:Artist’s_impression_of_an_ultra-hot_Jupiter_transiting_its_star.jpg (CC BY 4.0)
   segment 3/7 [image] 5.9s
   segment 4/7 [card] 5.6s
@@ -15,4 +14,4 @@
   segment 6/7 [card] 3.2s
   WIKI File:HD_189733_b_comparison.png (CC BY 4.0)
   segment 7/7 [end] 10.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep026.mp4 (6.0 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep026.mp4 (5.1 MB)
