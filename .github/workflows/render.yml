@@ -52,7 +52,7 @@ jobs:
           git config user.name "render-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for f in $(python pipeline/render.py --all --list); do
-            python pipeline/render.py "$f"
+            python pipeline/render.py "$f" 2>&1 | tee "previews/$(basename "$f" .json).log"
             git add videos previews
             git commit -q -m "Render $(basename "$f" .json)" || true
             git pull -q --rebase origin main && git push -q || echo "push failed, will retry"
