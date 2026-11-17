@@ -75,7 +75,12 @@ BLOCK_WORDS = ["infographic", "chart", "graph", "diagram", "plot", "spectrum", "
                "media day", "guests", "crane", "truck", "transporter", "hangar", "high bay", "exhibit", "display"]
 
 
+BLOCK_IDS = {"PIA23863"}  # infographics that slip through the word filter
+
+
 def _ok_metadata(data):
+    if data.get("nasa_id") in BLOCK_IDS:
+        return False
     text = (data.get("title", "") + " " + data.get("description", "")[:600]).lower()
     return not any(w in text for w in BLOCK_WORDS)
 
@@ -180,7 +185,9 @@ def wiki_image(title):
     if "/wikipedia/commons/" not in src:
         print(f"  - no free lead image for {title!r}")
         return None
-    name = requests.utils.unquote(src.rsplit("/", 1)[-1])
+    parts = src.split("?", 1)[0].split("/")
+    name = parts[parts.index("thumb") + 3] if "thumb" in parts else parts[-1]
+    name = requests.utils.unquote(name)
     return _commons_file("File:" + name, name)
 
 
