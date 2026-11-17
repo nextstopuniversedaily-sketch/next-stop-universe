@@ -1,17 +1,16 @@
-[0;93m2026-11-17 20:39:59.057806727 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:15:04.321933868 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 31: Venus
-  audio 40.3s
+  audio 40.4s
   WIKI File:Venus_from_Mariner_10.jpg (Public domain)
   segment 1/7 [title] 3.3s
   WIKI File:Venus Mariner 10 true color.png (Public domain)
   segment 2/7 [image] 5.1s
   segment 3/7 [card] 5.9s
-  - skip File:1982_CPA_5278.jpg: looks like a chart/blank
   NASA 'Venus surface Venera' -> PIA00460: Venus - Venera 8 Landing Site in Navka Region
   segment 4/7 [image] 8.0s
   segment 5/7 [card] 3.2s
   WIKI File:Venus - December 23 2016.png (CC BY 2.0)
   segment 6/7 [image] 5.0s
   WIKI File:Mercury_in_true_color.jpg (Public domain)
-  segment 7/7 [end] 9.9s
+  segment 7/7 [end] 10.0s
   -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep031.mp4 (7.1 MB)
