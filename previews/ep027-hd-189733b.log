@@ -1,0 +1,17 @@
+[0;93m2026-11-17 20:34:52.173164051 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 27: HD 189733b
+  audio 44.8s
+  WIKI File:HD_189733_b_comparison.png (CC BY 4.0)
+  segment 1/7 [title] 5.0s
+  WIKI File:HD_189733_b_comparison.png (CC BY 4.0)
+  segment 2/7 [image] 8.1s
+  WIKI File:Fomalhaut planet.jpg (Public domain)
+  segment 3/7 [image] 4.4s
+  segment 4/7 [card] 5.1s
+  - skip File:Hotjupiter.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Artist Illustration VHS 1256 b (52763565712).jpg (CC BY 2.0)
+  segment 5/7 [image] 4.3s
+  segment 6/7 [card] 7.5s
+  ! no usable NASA image for 'rogue planet'
+  segment 7/7 [end] 10.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep027.mp4 (5.9 MB)
