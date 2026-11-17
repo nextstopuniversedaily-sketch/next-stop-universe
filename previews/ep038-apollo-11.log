@@ -1,0 +1,16 @@
+[0;93m2026-11-17 20:49:37.624503182 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 38: Apollo 11
+  audio 41.4s
+  WIKI File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg (Public domain)
+  segment 1/7 [title] 4.0s
+  WIKI File:Apollo_14_Lunar_Module_(LM)_on_the_moon.jpg (Public domain)
+  segment 2/7 [image] 5.6s
+  segment 3/7 [card] 4.1s
+  WIKI File:Earth, Moon and Lunar Module, AS11-44-6643.jpg (Public domain)
+  segment 4/7 [image] 8.3s
+  segment 5/7 [card] 3.6s
+  WIKI File:Aldrin Apollo 11.jpg (Public domain)
+  segment 6/7 [image] 4.1s
+  WIKI File:Earthset_(art002e009288).jpg (Public domain)
+  segment 7/7 [end] 11.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep038.mp4 (8.4 MB)
