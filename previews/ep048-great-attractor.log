@@ -1,0 +1,27 @@
+[0;93m2026-11-17 22:25:31.836371124 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 48: The Great Attractor
+  audio 86.7s
+  - skip File:07-Laniakea (LofE07240).png: license 'CC BY-SA 4.0'
+  - skip File:Laniakea with Galaktika.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Laniakea Supercluster (Cropped).png (CC BY 4.0)
+  segment 1/10 [title] 4.1s
+  WIKI File:Comparison of Milky Way and compact galaxy (heic0811c).jpg (Public domain)
+  segment 2/10 [image] 8.1s
+  segment 3/10 [card] 7.3s
+  WIKI File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg (Public domain)
+  segment 4/10 [image] 11.2s
+  - skip File:Assy-Turgen Observatory against the backdrop of the center of the Milky Way and the star-forming region around Antares.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Zodiacal Arc and the Milky Way over Kitt Peak Fulldome (360-pano-UArizona-Bok-2-3m-Telescope-007-CC-FD).jpg (CC BY 4.0)
+  segment 5/10 [image] 10.3s
+  WIKI File:View Towards the Great Attractor.jpg (CC BY 4.0)
+  segment 6/10 [image] 9.1s
+  - skip File:07-Laniakea_(LofE07240).png: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Laniakea Supercluster'
+  segment 7/10 [image] 9.9s
+  segment 8/10 [card] 10.4s
+  - skip File:Shapley supercluster.png: license 'CC BY-SA 4.0'
+  WIKI File:More Galaxies of the Shapley Supercluster (28330672719).png (CC BY 2.0)
+  segment 9/10 [image] 6.2s
+  WIKI File:Titan_in_true_color_by_Kevin_M._Gill.jpg (CC BY 2.0)
+  segment 10/10 [end] 10.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep048.mp4 (35.8 MB)
