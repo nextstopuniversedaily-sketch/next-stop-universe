@@ -25,7 +25,11 @@
       "visual": {
         "type": "title",
         "query": "Geminid meteor",
-        "wiki": "Geminids"
+        "wiki": [],
+        "commons": [
+          "Geminids meteor shower photo",
+          "Geminid meteor shower"
+        ]
       }
     },
     {
@@ -86,7 +90,10 @@
         "type": "end",
         "query": "Chicxulub",
         "warm": true,
-        "wiki": "Chicxulub crater"
+        "wiki": [],
+        "commons": [
+          "asteroid impact Earth artist impression"
+        ]
       }
     }
   ]

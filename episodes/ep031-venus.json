@@ -51,7 +51,10 @@
       "visual": {
         "type": "image",
         "query": "Venus surface Venera",
-        "wiki": "Venera 13"
+        "wiki": [],
+        "commons": [
+          "Venera 13 surface color panorama"
+        ]
       }
     },
     {

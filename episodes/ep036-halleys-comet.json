@@ -50,8 +50,11 @@
       "headline": "Last seen: 1986",
       "visual": {
         "type": "image",
-        "query": "Halley comet nucleus Giotto",
-        "commons": "Halley nucleus Giotto"
+        "query": "Halley's Comet 1986",
+        "commons": [],
+        "wiki": [
+          "Giotto (spacecraft)"
+        ]
       }
     },
     {
@@ -68,7 +71,10 @@
       "visual": {
         "type": "image",
         "query": "meteor",
-        "wiki": "Orionids"
+        "wiki": [],
+        "commons": [
+          "Orionid meteor"
+        ]
       }
     },
     {

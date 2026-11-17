@@ -43,7 +43,11 @@
       "visual": {
         "type": "image",
         "query": "aurora",
-        "wiki": "May 2024 solar storms"
+        "wiki": [],
+        "commons": [
+          "aurora May 2024",
+          "aurora borealis 2024 pink"
+        ]
       }
     },
     {

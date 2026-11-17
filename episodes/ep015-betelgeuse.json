@@ -33,8 +33,11 @@
       "headline": "Orion's red shoulder",
       "visual": {
         "type": "image",
-        "query": "Orion constellation",
-        "wiki": "Orion (constellation)"
+        "query": "Betelgeuse",
+        "wiki": "Orion (constellation)",
+        "commons": [
+          "Orion constellation night sky Betelgeuse"
+        ]
       }
     },
     {

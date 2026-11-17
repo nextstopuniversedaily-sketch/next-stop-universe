@@ -73,7 +73,10 @@
         "type": "end",
         "query": "hot Jupiter exoplanet illustration",
         "warm": true,
-        "wiki": "WASP-76b"
+        "wiki": [],
+        "commons": [
+          "WASP-76b artist impression"
+        ]
       }
     }
   ]

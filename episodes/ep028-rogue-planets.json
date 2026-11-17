@@ -23,8 +23,12 @@
       "text": "Episode twenty-eight. Next stop... rogue planets.",
       "visual": {
         "type": "title",
-        "query": "rogue planet illustration",
-        "wiki": "Rogue planet"
+        "query": "exoplanet artist concept",
+        "wiki": [],
+        "commons": [
+          "rogue planet artist impression",
+          "free-floating planet artist concept"
+        ]
       }
     },
     {

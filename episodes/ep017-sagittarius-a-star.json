@@ -59,7 +59,10 @@
       "visual": {
         "type": "image",
         "query": "Sagittarius A* Event Horizon Telescope",
-        "wiki": "Sagittarius A*"
+        "wiki": [],
+        "commons": [
+          "Sagittarius A* Event Horizon Telescope image"
+        ]
       }
     },
     {

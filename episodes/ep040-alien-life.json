@@ -86,7 +86,11 @@
         "type": "end",
         "query": "radio telescope",
         "warm": false,
-        "wiki": "Wow! signal"
+        "wiki": [],
+        "commons": [
+          "radio telescope night sky Milky Way",
+          "Very Large Array night"
+        ]
       }
     }
   ]

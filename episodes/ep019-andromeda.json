@@ -84,7 +84,10 @@
         "type": "end",
         "query": "Bullet Cluster",
         "warm": false,
-        "wiki": "Bullet Cluster"
+        "wiki": [],
+        "commons": [
+          "Bullet Cluster composite Hubble Chandra"
+        ]
       }
     }
   ]

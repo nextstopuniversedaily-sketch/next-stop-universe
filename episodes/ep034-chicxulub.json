@@ -25,7 +25,12 @@
       "visual": {
         "type": "title",
         "query": "Chicxulub",
-        "wiki": "Chicxulub crater"
+        "wiki": [
+          "Chicxulub impactor"
+        ],
+        "commons": [
+          "asteroid impact dinosaurs artist"
+        ]
       }
     },
     {
@@ -51,7 +56,10 @@
       "visual": {
         "type": "image",
         "query": "asteroid impact illustration",
-        "wiki": "Chicxulub impactor"
+        "wiki": [],
+        "commons": [
+          "asteroid impact Earth artist impression"
+        ]
       }
     },
     {
@@ -68,7 +76,10 @@
       "visual": {
         "type": "image",
         "query": "birds",
-        "wiki": "Bird"
+        "wiki": [],
+        "commons": [
+          "bird in flight photograph"
+        ]
       }
     },
     {

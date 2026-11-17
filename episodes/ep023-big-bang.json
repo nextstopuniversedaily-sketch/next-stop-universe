@@ -72,9 +72,13 @@
       "text": "Tomorrow, we see the oldest galaxy ever found. Next stop: the edge of time, with the James Webb Telescope. Follow, so you don't miss episode twenty-four.",
       "visual": {
         "type": "end",
-        "query": "James Webb Space Telescope",
+        "query": "James Webb Space Telescope illustration",
         "warm": false,
-        "wiki": "James Webb Space Telescope"
+        "wiki": [],
+        "commons": [
+          "James Webb Space Telescope artist conception",
+          "JWST spacecraft model"
+        ]
       }
     }
   ]

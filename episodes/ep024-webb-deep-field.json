@@ -33,8 +33,12 @@
       "headline": "1.5 million km from Earth",
       "visual": {
         "type": "image",
-        "query": "James Webb Space Telescope mirror",
-        "wiki": "James Webb Space Telescope"
+        "query": "James Webb Space Telescope illustration",
+        "wiki": [],
+        "commons": [
+          "James Webb Space Telescope artist conception",
+          "JWST spacecraft model"
+        ]
       }
     },
     {

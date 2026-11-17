@@ -78,7 +78,10 @@
         "type": "end",
         "query": "Sagittarius A* Chandra",
         "warm": false,
-        "wiki": "Sagittarius A*"
+        "wiki": [],
+        "commons": [
+          "Sagittarius A* Event Horizon Telescope image"
+        ]
       }
     }
   ]

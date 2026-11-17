@@ -24,7 +24,10 @@
       "visual": {
         "type": "title",
         "query": "Bullet Cluster",
-        "wiki": "Bullet Cluster"
+        "wiki": [],
+        "commons": [
+          "Bullet Cluster composite Hubble Chandra"
+        ]
       }
     },
     {
@@ -59,7 +62,10 @@
       "visual": {
         "type": "image",
         "query": "Bullet Cluster Chandra",
-        "wiki": "Bullet Cluster"
+        "wiki": [],
+        "commons": [
+          "Bullet Cluster composite Hubble Chandra"
+        ]
       }
     },
     {

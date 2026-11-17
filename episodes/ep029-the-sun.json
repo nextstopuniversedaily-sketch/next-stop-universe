@@ -58,7 +58,12 @@
       "visual": {
         "type": "image",
         "query": "Sun surface closeup",
-        "wiki": "Solar core"
+        "wiki": [
+          "Photosphere"
+        ],
+        "commons": [
+          "Sun granulation Inouye"
+        ]
       }
     },
     {
