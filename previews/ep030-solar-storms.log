@@ -1,16 +1,16 @@
-[0;93m2026-11-17 20:38:34.568025450 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:13:36.916125943 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 30: Solar Storms
-  audio 49.9s
+  audio 49.7s
   WIKI File:X_Class_Solar_Flare_Sends_‘Shockwaves’_on_The_Sun_(6819094556).jpg (Public domain)
   segment 1/7 [title] 3.6s
   WIKI File:05_Coronal_Mass_Ejection_(2819895025).jpg (Public domain)
   segment 2/7 [image] 7.7s
-  WIKI File:Northern_Lights_From_Over_the_North_Pole_(NESDIS_2024-05-15_nhem-aurora-labels).png (Public domain)
+  WIKI File:Aurora and perseids.jpg (CC BY 4.0)
   segment 3/7 [image] 9.7s
   segment 4/7 [card] 7.3s
   WIKI File:North America from low orbiting satellite Suomi NPP.jpg (Public domain)
-  segment 5/7 [image] 5.1s
-  segment 6/7 [card] 6.3s
+  segment 5/7 [image] 5.2s
+  segment 6/7 [card] 6.2s
   WIKI File:Venus_from_Mariner_10.jpg (Public domain)
   segment 7/7 [end] 10.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep030.mp4 (7.9 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep030.mp4 (11.0 MB)
