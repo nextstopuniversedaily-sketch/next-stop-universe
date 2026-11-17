@@ -1,27 +1,16 @@
-[0;93m2026-11-17 21:17:56.462907476 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 34: Chicxulub
   audio 49.3s
-  WIKI File:Yucatan_chix_crater.jpg (Public domain)
+  WIKI File:Chicxulub impact - artist impression.jpg (Public domain)
   segment 1/7 [title] 5.7s
   WIKI File:Yucatan_peninsula_250m.jpg (Public domain)
   segment 2/7 [image] 9.2s
   segment 3/7 [card] 5.7s
   WIKI File:Chicxulub impact - artist impression.jpg (Public domain)
   segment 4/7 [image] 5.4s
-  segment 5/7 [card] 6.7s
-  - skip File:Purple martin in flight (30977).jpg: license 'CC BY-SA 4.0'
-  - skip File:The flight of a griffon.jpg: license 'CC BY-SA 4.0'
-  - skip File:White stork (Ciconia ciconia) in flight with transmitter.jpg: license 'CC BY-SA 4.0'
-  - skip File:Fork-tailed flycatcher (Tyrannus savana monachus) in flight Cayo.jpg: license 'CC BY-SA 4.0'
-  - skip File:003 Olive-bellied Sunbird in flight at Kibale forest National Park Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
-  - skip File:Volcano hummingbird (Selasphorus flammula) female in flight 2.jpg: license 'CC BY-SA 4.0'
-  - skip File:Male northern pintail in flight-8276.jpg: license 'CC BY-SA 4.0'
-  - skip File:Brown booby (Sula leucogaster plotus) male in flight Michaelmas Cay.jpg: license 'CC BY-SA 4.0'
-  - skip File:Female Pied Harrier in Flight (retouched).jpg: license 'CC BY-SA 4.0'
-  - skip File:092 Wild Mute swan in flight at Lake Geneva during golden hour of sunset Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
-  NASA 'birds' -> jsc2022e072954: BIRDS-5
+  segment 5/7 [card] 6.6s
+  WIKI File:Bald eagle in Alaska 2016-3.jpg (CC BY 2.0)
   segment 6/7 [image] 5.0s
   - no free lead image for '99942 Apophis'
   NASA 'asteroid illustration' -> PIA24471: Asteroid Psyche (Illustration)
   segment 7/7 [end] 11.6s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep034.mp4 (14.5 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep034.mp4 (12.5 MB)
