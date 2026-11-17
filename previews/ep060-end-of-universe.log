@@ -1,25 +1,24 @@
-[0;93m2026-11-17 23:14:13.944618863 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 23:50:16.102938450 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 60: The End of the Universe
-  audio 91.2s
+  audio 91.3s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 1/11 [title] 5.6s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 2/11 [image] 5.8s
+  segment 2/11 [image] 5.9s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 3/11 [image] 7.7s
-  ! commons search failed Andromeda galaxy 'query'
-  NASA 'Andromeda galaxy' -> PIA04921: Andromeda Galaxy
+  segment 3/11 [image] 7.8s
+  WIKI File:Andromeda Galaxy (with h-alpha).jpg (CC BY 2.0)
   segment 4/11 [image] 7.5s
   segment 5/11 [card] 7.2s
   WIKI File:Black_hole_-_Messier_87_crop_max_res.jpg (CC BY 4.0)
-  segment 6/11 [image] 8.2s
-  segment 7/11 [card] 7.6s
+  segment 6/11 [image] 8.1s
+  segment 7/11 [card] 7.7s
   WIKI File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg (Public domain)
-  segment 8/11 [image] 8.7s
-  WIKI File:Cosmic Web and Slime Mold (2020-11-4635).png (Public domain)
+  segment 8/11 [image] 8.6s
+  WIKI File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg (Public domain)
   segment 9/11 [image] 14.3s
-  WIKI File:Night Sky from Hawai‘i and Chile (iotw2225c).jpg (CC BY 4.0)
-  segment 10/11 [image] 7.7s
+  WIKI File:Milky way in Elbrus.jpg (CC BY 4.0)
+  segment 10/11 [image] 7.8s
   WIKI File:Hubble catches scattered light from the Boomerang Nebula (opo0525a).jpg (Public domain)
   segment 11/11 [end] 10.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep060.mp4 (16.3 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep060.mp4 (18.9 MB)
