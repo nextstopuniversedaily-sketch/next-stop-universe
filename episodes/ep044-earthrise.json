@@ -76,8 +76,9 @@
       "text": "That night they read from the Book of Genesis in a live broadcast. It became one of the most watched television broadcasts in history.",
       "visual": {
         "type": "image",
-        "query": "Apollo 8 crew",
-        "commons": "Apollo 8 crew"
+        "query": "Apollo 8 lunar surface",
+        "wiki": "Apollo 8 Genesis reading",
+        "commons": "Apollo 8 lunar surface"
       },
       "headline": "A Christmas Eve broadcast"
     },
