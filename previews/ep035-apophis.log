@@ -1,0 +1,23 @@
+[0;93m2026-11-17 20:45:25.203171570 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 35: Apophis
+  audio 45.9s
+  - no free lead image for '99942 Apophis'
+  NASA 'asteroid Apophis' -> PIA23195: Asteroid Apophis
+  segment 1/7 [title] 3.7s
+  WIKI File:The binary asteroid 288P (artist’s impression).jpg (CC BY 4.0)
+  segment 2/7 [image] 4.5s
+  segment 3/7 [card] 9.4s
+  - skip File:Noctilucent-clouds-msu-6817.jpg: license 'CC BY-SA 4.0'
+  - skip File:Helkivad ööpilved Kuresoo kohal.jpg: license 'CC BY-SA 4.0'
+  - skip File:Noctilucent cloud 20160719 raunheim germany.jpg: license 'CC BY-SA 4.0'
+  - skip File:Noctilucent cloud band.jpg: license 'CC BY-SA 4.0'
+  - skip File:Noctilucent clouds bargerveen.jpg: license 'CC BY-SA 3.0'
+  - skip File:Noctilucent clouds over Uppsala, Sweden.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Noctilucent (mesospheric) clouds.jpg (CC BY 4.0)
+  segment 4/7 [image] 6.8s
+  segment 5/7 [card] 4.7s
+  WIKI File:OSIRIS-REx_spacecraft_model.png (Public domain)
+  segment 6/7 [image] 7.0s
+  WIKI File:Lspn_comet_halley.jpg (Public domain)
+  segment 7/7 [end] 9.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep035.mp4 (21.3 MB)
