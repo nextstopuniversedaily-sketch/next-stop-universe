@@ -1,18 +1,19 @@
-[0;93m2026-11-17 22:59:23.279804921 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 23:38:24.241567123 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 53: The Quadrantids
-  audio 77.6s
-  - skip File:Quadrantid meteor shower radiant point.jpeg: license 'CC BY-SA 3.0'
-  - skip File:QUADRANTID meteor on January 3 2009.jpg: license 'CC BY-SA 3.0'
-  - skip File:Quadrantid symbol.png: license 'CC BY-SA 4.0'
-  WIKI File:Stormy Weather In North America Prevents Most From Viewing Quadrantid Meteor Shower (NESDIS 2020-01-03).jpg (Public domain)
+  audio 77.5s
+  - skip File:In the photo there is one Perseid, Milky Way and Andromega galaxy and light pollution on the horizon - Luhasoo bog in Estonia.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Aurora and perseids.jpg (CC BY 4.0)
   segment 1/10 [title] 6.0s
   - skip File:Meteor Shower Calendar-2021.png: license 'CC BY-SA 4.0'
   WIKI File:Meteor Shower (NHQ202508030001).jpg (Public domain)
   segment 2/10 [image] 6.3s
-  segment 3/10 [card] 5.9s
+  segment 3/10 [card] 6.0s
   segment 4/10 [card] 5.3s
-  WIKI File:Lunar phases al-Biruni.jpg (Public domain)
-  segment 5/10 [image] 6.3s
+  - skip File:Comet Tsuchinshan–ATLAS, in the night sky over Tuntorp 3.jpg: license 'CC BY-SA 4.0'
+  - skip File:Waxing crescent moon setting over Tuntorp 1.jpg: license 'CC BY-SA 4.0'
+  - skip File:Waxing crescent moon setting over Tuntorp 2.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Crescent Moon (2558144570).jpg (CC BY 2.0)
+  segment 5/10 [image] 6.2s
   - skip File:Thin clouds and the Big Dipper over Brastad 2.jpg: license 'CC BY-SA 4.0'
   - skip File:Thin clouds and the Big Dipper over Brastad 1.jpg: license 'CC BY-SA 4.0'
   - skip File:Big Dipper (15848533724).jpg: looks like a chart/blank
@@ -30,4 +31,4 @@
   segment 9/10 [image] 10.2s
   WIKI File:Rubin Oort Cloud and Kuiper Belt Illustration (rubin-Oort-Cloud-and-Kuiper-Belt).jpg (CC BY 4.0)
   segment 10/10 [end] 10.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep053.mp4 (20.6 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep053.mp4 (20.4 MB)
