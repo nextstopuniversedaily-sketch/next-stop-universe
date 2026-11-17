@@ -25,11 +25,9 @@
       "visual": {
         "type": "title",
         "query": "Chicxulub",
-        "wiki": [
-          "Chicxulub impactor"
-        ],
+        "wiki": [],
         "commons": [
-          "asteroid impact dinosaurs artist"
+          "asteroid impact Earth artist impression"
         ]
       }
     },
@@ -75,9 +73,10 @@
       "headline": "Dinosaurs never fully left",
       "visual": {
         "type": "image",
-        "query": "birds",
+        "query": "bald eagle",
         "wiki": [],
         "commons": [
+          "bald eagle in flight",
           "bird in flight photograph"
         ]
       }
