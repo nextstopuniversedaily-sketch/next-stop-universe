@@ -1,0 +1,17 @@
+[0;93m2026-11-17 20:29:10.061295263 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 23: The Big Bang
+  audio 48.7s
+  WIKI File:Hubble ultra deep field.jpg (Public domain)
+  segment 1/7 [title] 3.8s
+  WIKI File:Artist’s impression of a gamma-ray burst shining through two young galaxies in the early Universe.jpg (CC BY 4.0)
+  segment 2/7 [image] 9.1s
+  segment 3/7 [card] 6.5s
+  NASA 'first stars illustration' -> PIA14725: Three Eclipsing Bodies Artist Concept
+  segment 4/7 [image] 7.1s
+  segment 5/7 [card] 5.8s
+  NASA 'universe timeline' -> PIA07142: Baby Galaxies in the Adult Universe
+  segment 6/7 [image] 4.8s
+  - skip File:JWST_spacecraft_model_3.png: looks like a chart/blank
+  NASA 'James Webb Space Telescope' -> GSFC_20161102_2016-21507_012: James Webb Space Telescope Mirror Reveal
+  segment 7/7 [end] 11.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep023.mp4 (9.3 MB)
