@@ -1,0 +1,29 @@
+[0;93m2026-11-17 22:57:38.083961138 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 52: One Trip Around the Sun
+  audio 78.7s
+  WIKI File:North America from low orbiting satellite Suomi NPP.jpg (Public domain)
+  segment 1/11 [title] 5.4s
+  WIKI File:Bratislava New Year Fireworks.jpg (Public domain)
+  segment 2/11 [image] 8.2s
+  segment 3/11 [card] 4.9s
+  segment 4/11 [card] 6.2s
+  - skip File:Meteosat-12-fci-march-equinox-2025-noon.jpg: license 'Attribution'
+  NASA 'Earth' -> PIA00342: The Earth & Moon
+  segment 5/11 [image] 6.2s
+  ! commons search failed Sun SDO 'query'
+  NASA 'Sun SDO' -> GSFC_20171208_Archive_e000790: NASA's SDO Sees Giant Filament on the Sun
+  segment 6/11 [image] 9.5s
+  segment 7/11 [card] 8.9s
+  WIKI File:The Future Physics of Planet Earth (40217810733).jpg (CC BY 2.0)
+  segment 8/11 [image] 6.9s
+  - skip File:The Beach House, Cottesloe, May 2021 01.jpg: license 'CC BY-SA 4.0'
+  - skip File:The Beach House, Cottesloe, May 2021 02.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Doris Schwaiger, 2008 Summer Olympics beach volleyball.jpg (CC BY 2.0)
+  segment 9/11 [image] 7.8s
+  segment 10/11 [card] 5.8s
+  - skip File:Quadrantid meteor shower radiant point.jpeg: license 'CC BY-SA 3.0'
+  - skip File:QUADRANTID meteor on January 3 2009.jpg: license 'CC BY-SA 3.0'
+  - skip File:Quadrantid symbol.png: license 'CC BY-SA 4.0'
+  WIKI File:Stormy Weather In North America Prevents Most From Viewing Quadrantid Meteor Shower (NESDIS 2020-01-03).jpg (Public domain)
+  segment 11/11 [end] 9.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep052.mp4 (16.2 MB)
