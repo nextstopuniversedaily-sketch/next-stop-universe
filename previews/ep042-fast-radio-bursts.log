@@ -1,0 +1,32 @@
+[0;93m2026-11-17 22:14:55.663889261 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 42: Fast Radio Bursts
+  audio 85.3s
+  WIKI File:CSIRO ScienceImage 4350 CSIROs Parkes Radio Telescope with moon in the background.jpg (CC BY 3.0)
+  segment 1/11 [title] 4.2s
+  segment 2/11 [card] 8.0s
+  WIKI File:CSIRO ScienceImage 4350 CSIROs Parkes Radio Telescope with moon in the background.jpg (CC BY 3.0)
+  segment 3/11 [image] 9.9s
+  WIKI File:Hubble ultra deep field.jpg (Public domain)
+  segment 4/11 [image] 7.5s
+  segment 5/11 [card] 7.1s
+  - skip File:Canadian Hydrogen Intensity Mapping Experiment - overall.jpg: license 'CC BY-SA 4.0'
+  - skip File:Canadian Hydrogen Intensity Mapping Experiment - antennas.jpg: license 'CC BY-SA 4.0'
+  - skip File:Canadian Hydrogen Intensity Mapping Experiment - F-engine.jpg: license 'CC BY-SA 4.0'
+  - skip File:Canadian Hydrogen Intensity Mapping Experiment - X-engine.jpg: license 'CC BY-SA 4.0'
+  - skip File:Canadian Hydrogen Intensity Mapping Experiment - wire-mesh half pipe reflector.jpg: license 'CC BY-SA 4.0'
+  - skip File:CHIME Pathfinder.jpg: license 'CC BY-SA 4.0'
+  - skip File:CHIME experiment construction - 2015-07-16.jpg: license 'CC BY-SA 4.0'
+  - skip File:CHIME-FRBcatalog1.jpg: license 'CC BY-SA 4.0'
+  - skip File:CHIME Antenna.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'CHIME radio telescope'
+  segment 6/11 [image] 5.9s
+  WIKI File:Magnetar (artist’s impression) (heic2504a).jpg (CC BY 4.0)
+  segment 7/11 [image] 10.3s
+  segment 8/11 [card] 6.2s
+  WIKI File:Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg (Public domain)
+  segment 9/11 [image] 7.3s
+  WIKI File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg (Public domain)
+  segment 10/11 [image] 6.8s
+  WIKI File:Laser Towards Milky Ways Centre.jpg (CC BY 4.0)
+  segment 11/11 [end] 12.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep042.mp4 (25.3 MB)
