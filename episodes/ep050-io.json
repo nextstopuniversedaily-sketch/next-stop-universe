@@ -1,0 +1,124 @@
+{
+  "number": 50,
+  "title": "Io",
+  "subtitle": "The volcano world",
+  "next_stop": "Planet Nine",
+  "yt_title": "The Most Volcanic Place in the Solar System 🌋 | Ep. 50 #shorts",
+  "description": "Episode 50 of a daily journey through the universe. 🌋\nIo, Jupiter's volcanic moon: around 400 active volcanoes, lava fountains, plumes hundreds of kilometers high, and the tidal tug-of-war that keeps its insides molten. Episode 50!\n\n➡️ Tomorrow, Episode 51: Next stop, Planet Nine. Is there a hidden planet at the edge of our solar system?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #io #astronomy #shorts #science",
+  "tags": [
+    "io",
+    "jupiter moon",
+    "volcanoes",
+    "juno",
+    "galileo spacecraft",
+    "tidal heating",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fifty. Next stop... Io.",
+      "visual": {
+        "type": "title",
+        "query": "Io (moon)",
+        "wiki": "Io (moon)"
+      }
+    },
+    {
+      "text": "Io is one of Jupiter's moons, about the size of our Moon. But it looks like a pizza, and for good reason.",
+      "visual": {
+        "type": "image",
+        "query": "Io (moon)",
+        "wiki": "Io (moon)"
+      },
+      "headline": "The pizza moon"
+    },
+    {
+      "text": "It has around four hundred active volcanoes. More than anywhere else in the solar system.",
+      "visual": {
+        "type": "card",
+        "big": "~400",
+        "label": "active volcanoes"
+      }
+    },
+    {
+      "text": "Some shoot plumes of gas hundreds of kilometers into space. Lava lakes glow on its surface.",
+      "visual": {
+        "type": "image",
+        "query": "Io volcano plume Galileo",
+        "commons": "Io volcano plume Galileo"
+      },
+      "headline": "Plumes into space"
+    },
+    {
+      "text": "Why so much fire on a small moon? Jupiter.",
+      "visual": {
+        "type": "image",
+        "query": "Jupiter Juno",
+        "commons": "Jupiter Juno"
+      },
+      "headline": "Blame Jupiter"
+    },
+    {
+      "text": "Io's orbit is slightly oval, so Jupiter's enormous gravity squeezes and stretches it, again and again.",
+      "visual": {
+        "type": "image",
+        "query": "Io Jupiter Cassini",
+        "commons": "Io Jupiter Cassini"
+      },
+      "headline": "Squeezed and stretched"
+    },
+    {
+      "text": "Its solid ground rises and falls by up to about one hundred meters, like a tide.",
+      "visual": {
+        "type": "card",
+        "big": "100 m",
+        "label": "rocky tides"
+      }
+    },
+    {
+      "text": "All that squeezing heats its insides, like bending a paper clip back and forth until it gets warm.",
+      "visual": {
+        "type": "image",
+        "query": "Io lava Galileo color",
+        "commons": "Io lava Galileo color"
+      },
+      "headline": "Heat from inside"
+    },
+    {
+      "text": "NASA's Juno spacecraft flew close to Io in twenty twenty-three and twenty twenty-four, capturing lava flows and mountains.",
+      "visual": {
+        "type": "image",
+        "query": "Io Juno JunoCam",
+        "commons": "Io Juno JunoCam"
+      },
+      "headline": "Juno up close"
+    },
+    {
+      "text": "Thank you for being here for fifty episodes. The journey continues.",
+      "visual": {
+        "type": "card",
+        "big": "50",
+        "label": "episodes, thank you!"
+      }
+    },
+    {
+      "text": "Tomorrow, a hidden planet that might be lurking at the edge of our solar system. Next stop: Planet Nine. Follow, so you don't miss episode fifty-one.",
+      "visual": {
+        "type": "end",
+        "query": "Planet Nine artist impression",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "Planet Nine artist impression",
+          "outer solar system artist impression"
+        ]
+      }
+    }
+  ]
+}

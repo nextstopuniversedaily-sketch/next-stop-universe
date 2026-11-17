@@ -1,0 +1,116 @@
+{
+  "number": 44,
+  "title": "Earthrise",
+  "subtitle": "Christmas Eve, 1968",
+  "next_stop": "Interstellar Visitors",
+  "yt_title": "The Christmas Eve Photo That Changed the World 🌍 | Ep. 44 #shorts",
+  "description": "Episode 44 of a daily journey through the universe. 🌍\nOn Christmas Eve 1968, Apollo 8's three astronauts became the first humans to orbit the Moon, and Bill Anders took Earthrise, the photo of our planet rising over the lunar horizon. The story behind it, 58 years ago tonight.\n\n➡️ Tomorrow, Episode 45: Next stop, interstellar visitors. Objects from other stars, flying through our solar system.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #earthrise #astronomy #shorts #science",
+  "tags": [
+    "earthrise",
+    "apollo 8",
+    "christmas eve",
+    "bill anders",
+    "moon",
+    "nasa history",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode forty-four. Christmas Eve special. Next stop... Earthrise.",
+      "visual": {
+        "type": "title",
+        "query": "Earthrise",
+        "wiki": "Earthrise"
+      }
+    },
+    {
+      "text": "On December twenty-first, nineteen sixty-eight, three astronauts launched on Apollo eight: Frank Borman, Jim Lovell and Bill Anders.",
+      "visual": {
+        "type": "image",
+        "query": "Apollo 8",
+        "wiki": "Apollo 8"
+      },
+      "headline": "Apollo 8"
+    },
+    {
+      "text": "They would be the first humans ever to leave Earth's orbit and travel to the Moon.",
+      "visual": {
+        "type": "card",
+        "big": "1st",
+        "label": "humans to orbit the Moon"
+      }
+    },
+    {
+      "text": "On Christmas Eve, they reached the Moon and circled it ten times. They saw the far side with their own eyes. No human had ever seen it before.",
+      "visual": {
+        "type": "image",
+        "query": "Apollo 8 Moon surface far side",
+        "commons": "Apollo 8 Moon surface far side"
+      },
+      "headline": "Around the Moon"
+    },
+    {
+      "text": "On the fourth orbit, Earth came up over the lunar horizon. Anders grabbed a camera. You're looking at the photo he took: Earthrise.",
+      "visual": {
+        "type": "image",
+        "query": "Earthrise",
+        "wiki": "Earthrise"
+      },
+      "headline": "Earthrise"
+    },
+    {
+      "text": "Our entire world: every person, every ocean, every border, in one small blue ball.",
+      "visual": {
+        "type": "card",
+        "big": "1 photo",
+        "label": "our whole world"
+      }
+    },
+    {
+      "text": "That night they read from the Book of Genesis in a live broadcast. It became one of the most watched television broadcasts in history.",
+      "visual": {
+        "type": "image",
+        "query": "Apollo 8 crew",
+        "commons": "Apollo 8 crew"
+      },
+      "headline": "A Christmas Eve broadcast"
+    },
+    {
+      "text": "Many people say Earthrise helped start the modern environmental movement. From space, Earth looked beautiful, and fragile.",
+      "visual": {
+        "type": "image",
+        "query": "Blue Marble Earth Apollo 17",
+        "commons": "Blue Marble Earth Apollo 17"
+      },
+      "headline": "A fragile home"
+    },
+    {
+      "text": "That was fifty-eight years ago tonight. Merry Christmas, from Next Stop Universe.",
+      "visual": {
+        "type": "card",
+        "big": "58 years",
+        "label": "ago tonight"
+      }
+    },
+    {
+      "text": "Tomorrow, visitors from other stars, flying right through our solar system. Next stop: interstellar visitors. Follow, so you don't miss episode forty-five.",
+      "visual": {
+        "type": "end",
+        "query": "Oumuamua artist impression",
+        "warm": false,
+        "wiki": [
+          "ʻOumuamua"
+        ],
+        "commons": [
+          "Oumuamua artist impression"
+        ]
+      }
+    }
+  ]
+}

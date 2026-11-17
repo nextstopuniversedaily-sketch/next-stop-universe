@@ -1,0 +1,125 @@
+{
+  "number": 49,
+  "title": "Titan",
+  "subtitle": "Lakes of methane",
+  "next_stop": "Io",
+  "yt_title": "The Moon Where It Rains Methane 🌧️ | Ep. 49 #shorts",
+  "description": "Episode 49 of a daily journey through the universe. 🌧️\nTitan, Saturn's largest moon: a thick orange atmosphere, methane rain, rivers and seas, the Huygens landing in 2005, and NASA's Dragonfly drone, planned to launch in 2028 and arrive in 2034.\n\n➡️ Tomorrow, Episode 50: Next stop, Io. The most volcanic place in the solar system.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #titan #astronomy #shorts #science",
+  "tags": [
+    "titan",
+    "saturn moon",
+    "dragonfly",
+    "huygens",
+    "methane lakes",
+    "cassini",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode forty-nine. Next stop... Titan.",
+      "visual": {
+        "type": "title",
+        "query": "Titan (moon)",
+        "wiki": "Titan (moon)"
+      }
+    },
+    {
+      "text": "Titan is Saturn's biggest moon. It's larger than the planet Mercury.",
+      "visual": {
+        "type": "image",
+        "query": "Titan (moon)",
+        "wiki": "Titan (moon)"
+      },
+      "headline": "Bigger than Mercury"
+    },
+    {
+      "text": "It's the only moon in the solar system with a thick atmosphere. A golden haze hides its surface.",
+      "visual": {
+        "type": "image",
+        "query": "Titan atmosphere haze Cassini",
+        "commons": "Titan atmosphere haze Cassini"
+      },
+      "headline": "A thick, hazy sky"
+    },
+    {
+      "text": "The air pressure on the ground is about one and a half times what you feel on Earth.",
+      "visual": {
+        "type": "card",
+        "big": "1.5×",
+        "label": "Earth's air pressure"
+      }
+    },
+    {
+      "text": "But it's freezing: about minus one hundred eighty degrees Celsius.",
+      "visual": {
+        "type": "card",
+        "big": "-180°C",
+        "label": "on the surface"
+      }
+    },
+    {
+      "text": "So cold that methane, a gas on Earth, falls as rain. It carves rivers, and fills lakes and seas.",
+      "visual": {
+        "type": "image",
+        "query": "Titan lakes Cassini radar",
+        "commons": "Titan lakes Cassini radar"
+      },
+      "headline": "Methane rain"
+    },
+    {
+      "text": "Titan and Earth are the only worlds we know with liquid lakes on the surface.",
+      "visual": {
+        "type": "image",
+        "query": "Titan Kraken Mare",
+        "commons": "Titan Kraken Mare"
+      },
+      "headline": "Lakes and seas"
+    },
+    {
+      "text": "In two thousand five, the European Huygens probe parachuted down and landed. It's still the farthest landing ever made.",
+      "visual": {
+        "type": "image",
+        "query": "Huygens (spacecraft)",
+        "wiki": "Huygens (spacecraft)"
+      },
+      "headline": "Huygens landed, 2005"
+    },
+    {
+      "text": "Next, NASA's Dragonfly, a nuclear-powered drone, will fly from place to place studying Titan's chemistry.",
+      "visual": {
+        "type": "image",
+        "query": "Dragonfly (Titan space probe)",
+        "wiki": "Dragonfly (Titan space probe)"
+      },
+      "headline": "Dragonfly drone"
+    },
+    {
+      "text": "It's planned to launch in twenty twenty-eight and arrive in twenty thirty-four.",
+      "visual": {
+        "type": "card",
+        "big": "2034",
+        "label": "Dragonfly arrives"
+      }
+    },
+    {
+      "text": "Tomorrow, the most volcanic place in the solar system. Next stop: Io. Follow, so you don't miss episode fifty.",
+      "visual": {
+        "type": "end",
+        "query": "Io Jupiter moon Galileo",
+        "warm": true,
+        "wiki": [
+          "Io (moon)"
+        ],
+        "commons": [
+          "Io Jupiter moon Galileo"
+        ]
+      }
+    }
+  ]
+}

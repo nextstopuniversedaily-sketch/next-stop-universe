@@ -1,0 +1,115 @@
+{
+  "number": 47,
+  "title": "The Boötes Void",
+  "subtitle": "The great nothing",
+  "next_stop": "The Great Attractor",
+  "yt_title": "A Hole in the Universe 330 Million Light-Years Wide 🕳️ | Ep. 47 #shorts",
+  "description": "Episode 47 of a daily journey through the universe. 🕳️\nThe Boötes Void: a nearly empty region of space about 330 million light-years across, discovered in 1981, with only around 60 galaxies where there should be thousands. How voids form in the cosmic web.\n\n➡️ Tomorrow, Episode 48: Next stop, the Great Attractor. Something is pulling our galaxy, and we can't see it.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #bootesvoid #astronomy #shorts #science",
+  "tags": [
+    "bootes void",
+    "cosmic void",
+    "cosmic web",
+    "galaxies",
+    "space mystery",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode forty-seven. Next stop... the Boötes void.",
+      "visual": {
+        "type": "title",
+        "query": "cosmic web simulation",
+        "commons": "cosmic web simulation"
+      }
+    },
+    {
+      "text": "Galaxies aren't spread evenly. They form a giant web, with long threads of galaxies, and huge empty bubbles in between.",
+      "visual": {
+        "type": "image",
+        "query": "Millennium Simulation cosmic web",
+        "commons": "Millennium Simulation cosmic web"
+      },
+      "headline": "The cosmic web"
+    },
+    {
+      "text": "In nineteen eighty-one, astronomers looking toward the constellation Boötes found one of the biggest empty bubbles known.",
+      "visual": {
+        "type": "image",
+        "query": "Bootes constellation night sky",
+        "commons": "Bootes constellation night sky"
+      },
+      "headline": "Toward Boötes"
+    },
+    {
+      "text": "It's about three hundred thirty million light-years across.",
+      "visual": {
+        "type": "card",
+        "big": "330 million",
+        "label": "light-years wide"
+      }
+    },
+    {
+      "text": "A region that size should hold thousands of galaxies. The Boötes void has only about sixty.",
+      "visual": {
+        "type": "card",
+        "big": "~60",
+        "label": "galaxies inside"
+      }
+    },
+    {
+      "text": "If our Milky Way were in the middle of it, we wouldn't have known other galaxies existed until the nineteen sixties.",
+      "visual": {
+        "type": "image",
+        "query": "dark night sky few stars",
+        "commons": "dark night sky few stars"
+      },
+      "headline": "A lonely view"
+    },
+    {
+      "text": "Some people joked it was a place emptied by aliens. The real answer is gravity.",
+      "visual": {
+        "type": "image",
+        "query": "galaxy filament Hubble",
+        "commons": "galaxy filament Hubble"
+      },
+      "headline": "Not aliens"
+    },
+    {
+      "text": "After the Big Bang, matter was spread almost evenly. Slightly denser spots pulled in more and more. Slightly emptier spots kept emptying.",
+      "visual": {
+        "type": "image",
+        "query": "cosmic microwave background Planck",
+        "commons": "cosmic microwave background Planck"
+      },
+      "headline": "Gravity did it"
+    },
+    {
+      "text": "Over billions of years, small differences grew into the threads and voids we see today.",
+      "visual": {
+        "type": "image",
+        "query": "galaxy cluster Hubble",
+        "commons": "galaxy cluster Hubble"
+      },
+      "headline": "Billions of years"
+    },
+    {
+      "text": "Tomorrow, something huge is pulling our galaxy, and we can't see it. Next stop: the Great Attractor. Follow, so you don't miss episode forty-eight.",
+      "visual": {
+        "type": "end",
+        "query": "Laniakea supercluster",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "Laniakea supercluster",
+          "galaxy cluster Hubble"
+        ]
+      }
+    }
+  ]
+}

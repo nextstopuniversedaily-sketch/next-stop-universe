@@ -1,0 +1,125 @@
+{
+  "number": 41,
+  "title": "The Wow! Signal",
+  "subtitle": "72 seconds. Never again.",
+  "next_stop": "Fast Radio Bursts",
+  "yt_title": "The Wow! Signal: 72 Seconds From Space 📡 | Ep. 41 #shorts",
+  "description": "Episode 41 of a daily journey through the universe. 📡\nSeason 3: the mysteries begins. In 1977 a radio telescope in Ohio caught a powerful signal from space that lasted 72 seconds and never came back. An astronomer circled it and wrote \"Wow!\". Was it aliens? A 2024 study offers a natural explanation.\n\n➡️ Tomorrow, Episode 42: Next stop, fast radio bursts. Flashes from space that last a thousandth of a second.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #wowsignal #astronomy #shorts #science",
+  "tags": [
+    "wow signal",
+    "seti",
+    "big ear",
+    "alien signal",
+    "radio telescope",
+    "space mystery",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode forty-one. Season three: the mysteries. Next stop... the Wow signal.",
+      "visual": {
+        "type": "title",
+        "query": "Big Ear radio telescope",
+        "wiki": "Wow! signal",
+        "commons": "Big Ear radio telescope"
+      }
+    },
+    {
+      "text": "On August fifteenth, nineteen seventy-seven, a radio telescope in Ohio called Big Ear was quietly scanning the sky.",
+      "visual": {
+        "type": "image",
+        "query": "Big Ear radio observatory Ohio State",
+        "commons": "Big Ear radio observatory Ohio State"
+      },
+      "headline": "Big Ear, Ohio"
+    },
+    {
+      "text": "Suddenly it picked up a signal far stronger than the background noise of space.",
+      "visual": {
+        "type": "card",
+        "big": "1977",
+        "label": "August 15, Ohio, USA"
+      }
+    },
+    {
+      "text": "Days later, astronomer Jerry Ehman was reading the computer printout. He circled the signal and wrote one word in the margin: Wow.",
+      "visual": {
+        "type": "image",
+        "query": "Wow signal printout",
+        "commons": "Wow signal printout"
+      },
+      "headline": "He wrote: Wow!"
+    },
+    {
+      "text": "The signal lasted seventy-two seconds. Exactly as long as the telescope took to sweep past one point in the sky.",
+      "visual": {
+        "type": "card",
+        "big": "72 sec",
+        "label": "then it was gone"
+      }
+    },
+    {
+      "text": "It came near the frequency of hydrogen, the most common element in the universe. Scientists had suggested aliens might use that exact channel to say hello.",
+      "visual": {
+        "type": "image",
+        "query": "radio telescope array night",
+        "commons": "radio telescope array night"
+      },
+      "headline": "The hydrogen channel"
+    },
+    {
+      "text": "It seemed to come from the direction of the constellation Sagittarius.",
+      "visual": {
+        "type": "image",
+        "query": "Sagittarius constellation Milky Way center",
+        "commons": "Sagittarius constellation Milky Way center"
+      },
+      "headline": "Toward Sagittarius"
+    },
+    {
+      "text": "Astronomers have pointed telescopes at that spot again and again for nearly fifty years. The signal never returned.",
+      "visual": {
+        "type": "card",
+        "big": "0",
+        "label": "repeats, ever"
+      }
+    },
+    {
+      "text": "In twenty twenty-four, a team using old data from the Arecibo telescope suggested a natural cause. A burst of energy, maybe from a dead star, may have made a cold hydrogen cloud flash brightly for a moment.",
+      "visual": {
+        "type": "image",
+        "query": "Arecibo Observatory aerial",
+        "commons": "Arecibo Observatory aerial"
+      },
+      "headline": "A natural explanation?"
+    },
+    {
+      "text": "But no one can prove it. The Wow signal is still one of the greatest mysteries of the radio sky.",
+      "visual": {
+        "type": "image",
+        "query": "Very Large Array night Milky Way",
+        "commons": "Very Large Array night Milky Way"
+      },
+      "headline": "Still unsolved"
+    },
+    {
+      "text": "Tomorrow, flashes from deep space that last just a thousandth of a second. Next stop: fast radio bursts. Follow, so you don't miss episode forty-two.",
+      "visual": {
+        "type": "end",
+        "query": "radio telescope Milky Way night",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "radio telescope Milky Way night",
+          "Parkes radio telescope night"
+        ]
+      }
+    }
+  ]
+}
