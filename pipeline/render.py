@@ -92,7 +92,7 @@ def _ok_pixels(img):
     white = (lum > 235).mean()
     black = (lum < 12).mean()
     flat = small.std()
-    if white > 0.18 or black > 0.97 or flat < 12:
+    if white > 0.18 or black > 0.993 or flat < 6:
         return False
     # text/diagram heuristic: many saturated pure-white thin pixels on a dark field
     return True

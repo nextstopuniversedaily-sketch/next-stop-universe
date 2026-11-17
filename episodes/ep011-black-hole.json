@@ -32,7 +32,8 @@
       "headline": "Not even light escapes",
       "visual": {
         "type": "image",
-        "query": "black hole accretion disk illustration"
+        "query": "black hole accretion disk illustration",
+        "commons": "black hole accretion disk artist impression"
       }
     },
     {
@@ -40,7 +41,8 @@
       "headline": "Spaghettification",
       "visual": {
         "type": "image",
-        "query": "black hole tidal disruption"
+        "query": "black hole tidal disruption",
+        "commons": "tidal disruption event artist impression"
       }
     },
     {
@@ -64,7 +66,8 @@
       "headline": "First photo: 2019",
       "visual": {
         "type": "image",
-        "query": "M87 black hole Event Horizon Telescope"
+        "query": "M87 black hole Event Horizon Telescope",
+        "wiki": "Black hole"
       }
     },
     {
@@ -85,6 +88,5 @@
         "wiki": "Neutron star"
       }
     }
-  ],
-  "_rev": 1
+  ]
 }
