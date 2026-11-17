@@ -1,21 +1,18 @@
-[0;93m2026-11-17 20:46:45.309992821 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:19:25.059568874 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 36: Halley's Comet
-  audio 45.6s
+  audio 45.7s
   WIKI File:Lspn_comet_halley.jpg (Public domain)
   segment 1/7 [title] 3.9s
   - skip File:Comet_Hale-Bopp_1995O1.jpg: license 'CC BY-SA 3.0'
   NASA 'comet tail' -> GSFC_20171208_Archive_e001339: NASA's Hubble Sees Asteroid Spout Six Comet-like Tails
-  segment 2/7 [image] 7.3s
+  segment 2/7 [image] 7.4s
   segment 3/7 [card] 3.9s
-  - skip File:Comet Halley close up.jpg: license 'CC BY-SA 3.0 igo'
-  - skip File:Comet Halley (PIA17485).jpg: license ''
-  - skip File:Comet Halley close up-cropped.jpg: license 'CC BY-SA 3.0 igo'
-  WIKI File:1986 Comet Halley.jpg (Public domain)
+  - no free lead image for 'Giotto (spacecraft)'
+  ! no usable NASA image for "Halley's Comet 1986"
   segment 4/7 [image] 8.1s
   segment 5/7 [card] 3.8s
-  - skip File:Orioniden.png: license 'Copyrighted free use'
-  NASA 'meteor' -> PIA05334: Martian Meteor Crater
+  WIKI File:Orionid Meteor Shower Composite (50521737888).jpg (CC BY 2.0)
   segment 6/7 [image] 7.5s
   WIKI File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg (Public domain)
   segment 7/7 [end] 11.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep036.mp4 (20.9 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep036.mp4 (19.9 MB)
