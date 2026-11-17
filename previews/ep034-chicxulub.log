@@ -1,0 +1,18 @@
+[0;93m2026-11-17 20:44:01.666424693 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 34: Chicxulub
+  audio 49.3s
+  WIKI File:Yucatan_chix_crater.jpg (Public domain)
+  segment 1/7 [title] 5.7s
+  WIKI File:Yucatan_peninsula_250m.jpg (Public domain)
+  segment 2/7 [image] 9.2s
+  segment 3/7 [card] 5.7s
+  WIKI File:Yucatan_chix_crater.jpg (Public domain)
+  segment 4/7 [image] 5.4s
+  segment 5/7 [card] 6.6s
+  - skip File:Kleiber_Flug.jpg: license 'CC BY-SA 3.0'
+  NASA 'birds' -> jsc2022e072954: BIRDS-5
+  segment 6/7 [image] 5.0s
+  - no free lead image for '99942 Apophis'
+  NASA 'asteroid illustration' -> PIA24471: Asteroid Psyche (Illustration)
+  segment 7/7 [end] 11.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep034.mp4 (15.1 MB)
