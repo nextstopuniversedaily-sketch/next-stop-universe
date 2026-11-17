@@ -23,7 +23,8 @@
       "text": "Episode thirty-one. Next stop... Venus.",
       "visual": {
         "type": "title",
-        "query": "Venus Magellan"
+        "query": "Venus Magellan",
+        "wiki": "Venus"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "Hotter than Mercury",
       "visual": {
         "type": "image",
-        "query": "Venus"
+        "query": "Venus",
+        "commons": "Venus Mariner 10 true color"
       }
     },
     {
@@ -48,7 +50,8 @@
       "headline": "Crushing pressure",
       "visual": {
         "type": "image",
-        "query": "Venus surface Venera"
+        "query": "Venus surface Venera",
+        "wiki": "Venera 13"
       }
     },
     {
@@ -65,7 +68,8 @@
       "headline": "Sunrise in the west",
       "visual": {
         "type": "image",
-        "query": "Venus clouds"
+        "query": "Venus clouds",
+        "commons": "Venus clouds Akatsuki"
       }
     },
     {
@@ -73,7 +77,8 @@
       "visual": {
         "type": "end",
         "query": "Mercury MESSENGER",
-        "warm": false
+        "warm": false,
+        "wiki": "Mercury (planet)"
       }
     }
   ]

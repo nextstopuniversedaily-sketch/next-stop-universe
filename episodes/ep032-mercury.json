@@ -23,7 +23,8 @@
       "text": "Episode thirty-two. Next stop... Mercury.",
       "visual": {
         "type": "title",
-        "query": "Mercury MESSENGER"
+        "query": "Mercury MESSENGER",
+        "wiki": "Mercury (planet)"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "The smallest planet",
       "visual": {
         "type": "image",
-        "query": "Mercury"
+        "query": "Mercury",
+        "commons": "Mercury MESSENGER color"
       }
     },
     {
@@ -64,7 +66,8 @@
       "headline": "A shrinking planet",
       "visual": {
         "type": "image",
-        "query": "Mercury surface"
+        "query": "Mercury surface",
+        "commons": "Mercury surface MESSENGER"
       }
     },
     {
@@ -72,7 +75,8 @@
       "visual": {
         "type": "end",
         "query": "meteor shower",
-        "warm": false
+        "warm": false,
+        "wiki": "Geminids"
       }
     }
   ]

@@ -23,7 +23,8 @@
       "text": "Episode twenty-six. Next stop... a planet where it rains iron.",
       "visual": {
         "type": "title",
-        "query": "hot Jupiter exoplanet"
+        "query": "hot Jupiter exoplanet",
+        "wiki": "WASP-76b"
       }
     },
     {
@@ -39,7 +40,8 @@
       "headline": "Iron turns to vapor",
       "visual": {
         "type": "image",
-        "query": "hot Jupiter illustration"
+        "query": "hot Jupiter illustration",
+        "wiki": "Hot Jupiter"
       }
     },
     {
@@ -55,7 +57,8 @@
       "headline": "It rains iron",
       "visual": {
         "type": "image",
-        "query": "exoplanet night side"
+        "query": "exoplanet night side",
+        "commons": "exoplanet night side artist impression"
       }
     },
     {
@@ -71,7 +74,8 @@
       "visual": {
         "type": "end",
         "query": "HD 189733b",
-        "warm": false
+        "warm": false,
+        "wiki": "HD 189733 b"
       }
     }
   ]

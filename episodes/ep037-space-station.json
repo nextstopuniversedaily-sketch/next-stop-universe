@@ -23,7 +23,8 @@
       "text": "Episode thirty-seven. Next stop... the International Space Station.",
       "visual": {
         "type": "title",
-        "query": "International Space Station"
+        "query": "International Space Station",
+        "wiki": "International Space Station"
       }
     },
     {
@@ -64,7 +65,8 @@
       "headline": "Visible from your backyard",
       "visual": {
         "type": "image",
-        "query": "ISS night sky"
+        "query": "ISS night sky",
+        "commons": "ISS pass night sky long exposure"
       }
     },
     {
@@ -72,7 +74,8 @@
       "visual": {
         "type": "end",
         "query": "Apollo 11 Saturn V launch",
-        "warm": false
+        "warm": false,
+        "wiki": "Apollo 11"
       }
     }
   ]

@@ -23,7 +23,8 @@
       "text": "Episode twenty-nine. Next stop... the Sun.",
       "visual": {
         "type": "title",
-        "query": "Sun SDO"
+        "query": "Sun SDO",
+        "wiki": "Sun"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "99.8% of everything",
       "visual": {
         "type": "image",
-        "query": "Sun Solar Dynamics Observatory"
+        "query": "Sun Solar Dynamics Observatory",
+        "commons": "Sun SDO full disk"
       }
     },
     {
@@ -55,7 +57,8 @@
       "headline": "Old light, fast trip",
       "visual": {
         "type": "image",
-        "query": "Sun surface closeup"
+        "query": "Sun surface closeup",
+        "wiki": "Solar core"
       }
     },
     {
@@ -63,7 +66,8 @@
       "headline": "4 million tons a second",
       "visual": {
         "type": "image",
-        "query": "solar flare"
+        "query": "solar flare",
+        "wiki": "Solar flare"
       }
     },
     {
@@ -71,7 +75,8 @@
       "visual": {
         "type": "end",
         "query": "coronal mass ejection",
-        "warm": true
+        "warm": true,
+        "wiki": "Coronal mass ejection"
       }
     }
   ]

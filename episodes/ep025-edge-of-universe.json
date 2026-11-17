@@ -23,7 +23,8 @@
       "text": "Episode twenty-five. Next stop... the edge of the universe.",
       "visual": {
         "type": "title",
-        "query": "Hubble Ultra Deep Field"
+        "query": "Hubble Ultra Deep Field",
+        "commons": "Hubble eXtreme Deep Field"
       }
     },
     {
@@ -71,7 +72,8 @@
       "visual": {
         "type": "end",
         "query": "hot Jupiter exoplanet illustration",
-        "warm": true
+        "warm": true,
+        "wiki": "WASP-76b"
       }
     }
   ]

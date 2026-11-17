@@ -24,7 +24,8 @@
       "text": "Episode thirty. Next stop... solar storms.",
       "visual": {
         "type": "title",
-        "query": "solar flare SDO"
+        "query": "solar flare SDO",
+        "wiki": "Solar flare"
       }
     },
     {
@@ -32,7 +33,8 @@
       "headline": "Billions of tons, launched",
       "visual": {
         "type": "image",
-        "query": "coronal mass ejection SOHO"
+        "query": "coronal mass ejection SOHO",
+        "wiki": "Coronal mass ejection"
       }
     },
     {
@@ -40,7 +42,8 @@
       "headline": "Auroras over Mexico, 2024",
       "visual": {
         "type": "image",
-        "query": "aurora"
+        "query": "aurora",
+        "wiki": "May 2024 solar storms"
       }
     },
     {
@@ -56,7 +59,8 @@
       "headline": "Satellites and power grids at risk",
       "visual": {
         "type": "image",
-        "query": "satellite orbit Earth"
+        "query": "satellite orbit Earth",
+        "commons": "satellite orbit Earth NASA"
       }
     },
     {
@@ -72,7 +76,8 @@
       "visual": {
         "type": "end",
         "query": "Venus Magellan",
-        "warm": true
+        "warm": true,
+        "wiki": "Venus"
       }
     }
   ]

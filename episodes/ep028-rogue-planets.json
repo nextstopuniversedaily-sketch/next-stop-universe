@@ -23,7 +23,8 @@
       "text": "Episode twenty-eight. Next stop... rogue planets.",
       "visual": {
         "type": "title",
-        "query": "rogue planet illustration"
+        "query": "rogue planet illustration",
+        "wiki": "Rogue planet"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "Planets with no star",
       "visual": {
         "type": "image",
-        "query": "free-floating planet"
+        "query": "free-floating planet",
+        "commons": "free-floating planet artist impression"
       }
     },
     {
@@ -39,7 +41,8 @@
       "headline": "Hidden oceans?",
       "visual": {
         "type": "image",
-        "query": "icy planet illustration"
+        "query": "icy planet illustration",
+        "commons": "icy exoplanet artist impression"
       }
     },
     {
@@ -56,7 +59,8 @@
       "headline": "Found by bending light",
       "visual": {
         "type": "image",
-        "query": "gravitational microlensing"
+        "query": "gravitational microlensing",
+        "wiki": "Gravitational microlensing"
       }
     },
     {
@@ -72,7 +76,8 @@
       "visual": {
         "type": "end",
         "query": "Sun Solar Dynamics Observatory",
-        "warm": true
+        "warm": true,
+        "wiki": "Sun"
       }
     }
   ]

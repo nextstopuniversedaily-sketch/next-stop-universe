@@ -24,7 +24,8 @@
       "text": "Episode thirty-four. Next stop... the asteroid that ended the dinosaurs.",
       "visual": {
         "type": "title",
-        "query": "Chicxulub"
+        "query": "Chicxulub",
+        "wiki": "Chicxulub crater"
       }
     },
     {
@@ -32,7 +33,8 @@
       "headline": "Yucatán, Mexico",
       "visual": {
         "type": "image",
-        "query": "Yucatan Peninsula"
+        "query": "Yucatan Peninsula",
+        "wiki": "Yucatán Peninsula"
       }
     },
     {
@@ -48,7 +50,8 @@
       "headline": "Darkness for years",
       "visual": {
         "type": "image",
-        "query": "asteroid impact illustration"
+        "query": "asteroid impact illustration",
+        "wiki": "Chicxulub impactor"
       }
     },
     {
@@ -64,7 +67,8 @@
       "headline": "Dinosaurs never fully left",
       "visual": {
         "type": "image",
-        "query": "birds"
+        "query": "birds",
+        "wiki": "Bird"
       }
     },
     {
@@ -72,7 +76,8 @@
       "visual": {
         "type": "end",
         "query": "asteroid illustration",
-        "warm": false
+        "warm": false,
+        "wiki": "99942 Apophis"
       }
     }
   ]

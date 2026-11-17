@@ -24,7 +24,8 @@
       "text": "Episode thirty-six. Next stop... Halley's Comet.",
       "visual": {
         "type": "title",
-        "query": "Halley's Comet 1986"
+        "query": "Halley's Comet 1986",
+        "wiki": "Halley's Comet"
       }
     },
     {
@@ -32,7 +33,8 @@
       "headline": "A cosmic snowball",
       "visual": {
         "type": "image",
-        "query": "comet tail"
+        "query": "comet tail",
+        "wiki": "Comet"
       }
     },
     {
@@ -48,7 +50,8 @@
       "headline": "Last seen: 1986",
       "visual": {
         "type": "image",
-        "query": "Halley comet nucleus Giotto"
+        "query": "Halley comet nucleus Giotto",
+        "commons": "Halley nucleus Giotto"
       }
     },
     {
@@ -64,7 +67,8 @@
       "headline": "Its dust becomes shooting stars",
       "visual": {
         "type": "image",
-        "query": "meteor"
+        "query": "meteor",
+        "wiki": "Orionids"
       }
     },
     {
@@ -72,7 +76,8 @@
       "visual": {
         "type": "end",
         "query": "International Space Station",
-        "warm": false
+        "warm": false,
+        "wiki": "International Space Station"
       }
     }
   ]

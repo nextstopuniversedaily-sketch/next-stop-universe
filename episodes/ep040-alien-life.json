@@ -24,7 +24,8 @@
       "text": "Episode forty. Next stop... where we might find alien life.",
       "visual": {
         "type": "title",
-        "query": "Enceladus plumes Cassini"
+        "query": "Enceladus plumes Cassini",
+        "wiki": "Enceladus"
       }
     },
     {
@@ -32,7 +33,8 @@
       "headline": "Oceans under the ice",
       "visual": {
         "type": "image",
-        "query": "Europa"
+        "query": "Europa",
+        "wiki": "Europa (moon)"
       }
     },
     {
@@ -40,7 +42,8 @@
       "headline": "A moon that sprays water",
       "visual": {
         "type": "image",
-        "query": "Enceladus"
+        "query": "Enceladus",
+        "wiki": "Enceladus"
       }
     },
     {
@@ -56,7 +59,8 @@
       "headline": "Europa Clipper is on the way",
       "visual": {
         "type": "image",
-        "query": "Europa Clipper"
+        "query": "Europa Clipper",
+        "wiki": "Europa Clipper"
       }
     },
     {
@@ -72,7 +76,8 @@
       "headline": "Searching other planets' air",
       "visual": {
         "type": "image",
-        "query": "exoplanet illustration"
+        "query": "exoplanet illustration",
+        "commons": "exoplanet atmosphere artist impression"
       }
     },
     {
@@ -80,7 +85,8 @@
       "visual": {
         "type": "end",
         "query": "radio telescope",
-        "warm": false
+        "warm": false,
+        "wiki": "Wow! signal"
       }
     }
   ]

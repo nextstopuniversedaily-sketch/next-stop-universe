@@ -24,7 +24,8 @@
       "text": "Episode twenty-seven. Next stop... a planet where it rains glass.",
       "visual": {
         "type": "title",
-        "query": "HD 189733b"
+        "query": "HD 189733b",
+        "wiki": "HD 189733 b"
       }
     },
     {
@@ -32,7 +33,8 @@
       "headline": "A deep blue world",
       "visual": {
         "type": "image",
-        "query": "HD 189733b illustration"
+        "query": "HD 189733b illustration",
+        "wiki": "HD 189733 b"
       }
     },
     {
@@ -40,7 +42,8 @@
       "headline": "Blue from glass",
       "visual": {
         "type": "image",
-        "query": "exoplanet atmosphere illustration"
+        "query": "exoplanet atmosphere illustration",
+        "commons": "exoplanet clouds artist impression"
       }
     },
     {
@@ -56,7 +59,8 @@
       "headline": "Glass rain, sideways",
       "visual": {
         "type": "image",
-        "query": "hot Jupiter"
+        "query": "hot Jupiter",
+        "commons": "hot Jupiter storm artist impression"
       }
     },
     {
@@ -73,7 +77,8 @@
       "visual": {
         "type": "end",
         "query": "rogue planet",
-        "warm": false
+        "warm": false,
+        "wiki": "Rogue planet"
       }
     }
   ]

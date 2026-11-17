@@ -23,7 +23,8 @@
       "text": "Episode thirty-eight. Next stop... Apollo eleven.",
       "visual": {
         "type": "title",
-        "query": "Apollo 11 Aldrin"
+        "query": "Apollo 11 Aldrin",
+        "wiki": "Apollo 11"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "July 20, 1969",
       "visual": {
         "type": "image",
-        "query": "Apollo 11 lunar module"
+        "query": "Apollo 11 lunar module",
+        "wiki": "Apollo Lunar Module"
       }
     },
     {
@@ -48,7 +50,8 @@
       "headline": "Alarms during landing",
       "visual": {
         "type": "image",
-        "query": "Apollo 11 Armstrong"
+        "query": "Apollo 11 Armstrong",
+        "commons": "Apollo 11 lunar module Eagle Moon"
       }
     },
     {
@@ -64,7 +67,8 @@
       "headline": "650 million watched",
       "visual": {
         "type": "image",
-        "query": "Apollo 11 footprint"
+        "query": "Apollo 11 footprint",
+        "commons": "Apollo 11 Buzz Aldrin Moon"
       }
     },
     {
@@ -72,7 +76,8 @@
       "visual": {
         "type": "end",
         "query": "Artemis II Orion",
-        "warm": false
+        "warm": false,
+        "wiki": "Artemis II"
       }
     }
   ]

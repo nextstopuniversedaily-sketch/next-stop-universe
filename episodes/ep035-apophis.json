@@ -24,7 +24,8 @@
       "text": "Episode thirty-five. Next stop... Apophis.",
       "visual": {
         "type": "title",
-        "query": "asteroid Apophis"
+        "query": "asteroid Apophis",
+        "wiki": "99942 Apophis"
       }
     },
     {
@@ -32,7 +33,8 @@
       "headline": "340 meters wide",
       "visual": {
         "type": "image",
-        "query": "asteroid"
+        "query": "asteroid",
+        "commons": "asteroid artist impression NASA"
       }
     },
     {
@@ -48,7 +50,8 @@
       "headline": "Visible with your eyes",
       "visual": {
         "type": "image",
-        "query": "night sky Earth"
+        "query": "night sky Earth",
+        "commons": "night sky Earth horizon"
       }
     },
     {
@@ -64,7 +67,8 @@
       "headline": "A spacecraft will follow it",
       "visual": {
         "type": "image",
-        "query": "OSIRIS-REx spacecraft"
+        "query": "OSIRIS-REx spacecraft",
+        "wiki": "OSIRIS-REx"
       }
     },
     {
@@ -72,7 +76,8 @@
       "visual": {
         "type": "end",
         "query": "Halley's Comet",
-        "warm": false
+        "warm": false,
+        "wiki": "Halley's Comet"
       }
     }
   ]
