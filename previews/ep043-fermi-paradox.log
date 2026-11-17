@@ -1,6 +1,6 @@
-[0;93m2026-11-17 22:17:17.844868215 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 22:43:09.116714320 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 43: The Fermi Paradox
-  audio 90.6s
+  audio 90.8s
   - skip File:In the photo there is one Perseid, Milky Way and Andromega galaxy and light pollution on the horizon - Luhasoo bog in Estonia.jpg: license 'CC BY-SA 4.0'
   WIKI File:Night Sky from Hawai‘i and Chile (iotw2225c).jpg (CC BY 4.0)
   segment 1/11 [title] 4.3s
@@ -9,14 +9,14 @@
   segment 3/11 [card] 5.2s
   WIKI File:Exoplanet K2-18 b (Illustration).jpg (Public domain)
   segment 4/11 [image] 7.7s
-  segment 5/11 [card] 8.6s
+  segment 5/11 [card] 8.5s
   - skip File:The IRAM 30-meter telescope scanning the night sky.jpg: license 'CC BY-SA 4.0'
   WIKI File:A radio telescope Un radiotélescope (46720461475).jpg (Public domain)
   segment 6/11 [image] 5.8s
   WIKI File:Green Bank Telescope NRAO (cropped).jpg (CC BY 4.0)
-  segment 7/11 [image] 11.7s
+  segment 7/11 [image] 11.8s
   WIKI File:Earth's City Lights by DMSP, 1994-1995 (large).jpg (Public domain)
-  segment 8/11 [image] 13.8s
+  segment 8/11 [image] 13.9s
   - skip File:Allen Telescope Array - brewbooks.jpg: license 'CC BY-SA 4.0'
   - skip File:Allen Telescope Array - Flickr - brewbooks.jpg: license 'CC BY-SA 2.0'
   WIKI File:C G-K - DSC 0421.jpg (CC BY 3.0)
