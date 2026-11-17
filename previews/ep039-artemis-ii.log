@@ -1,0 +1,16 @@
+[0;93m2026-11-17 20:51:00.079438590 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 39: Artemis II
+  audio 50.7s
+  WIKI File:Earthset_(art002e009288).jpg (Public domain)
+  segment 1/7 [title] 4.0s
+  WIKI File:Artemis 2 Crew Portrait.jpg (Public domain)
+  segment 2/7 [image] 9.3s
+  segment 3/7 [card] 7.4s
+  WIKI File:Earthset (art002e009288).jpg (Public domain)
+  segment 4/7 [image] 8.1s
+  segment 5/7 [card] 6.4s
+  WIKI File:Artemis_III_ESM3_Engine_Nozzle_Install_Completion_(KSC-20260217-PH-JBS01_0002).jpg (Public domain)
+  segment 6/7 [image] 4.9s
+  WIKI File:Europa_Clipper_spacecraft_model.png (Public domain)
+  segment 7/7 [end] 10.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep039.mp4 (8.8 MB)
