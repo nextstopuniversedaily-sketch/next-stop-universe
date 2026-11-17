@@ -25,8 +25,8 @@
       "text": "Episode forty-six. Next stop... the strangest star in the sky.",
       "visual": {
         "type": "title",
-        "query": "star debris disk artist impression",
-        "commons": "star debris disk artist impression"
+        "query": "debris disk around star artist impression NASA",
+        "commons": "debris disk around star artist impression NASA"
       }
     },
     {
@@ -59,8 +59,8 @@
       "text": "Astronomer Tabetha Boyajian led the study in twenty fifteen. The star became known as Tabby's star.",
       "visual": {
         "type": "image",
-        "query": "Boyajian star",
-        "commons": "Boyajian star"
+        "query": "star with orbiting dust ring artist concept",
+        "commons": "star with orbiting dust ring artist concept"
       },
       "headline": "Tabby's star"
     },
@@ -68,8 +68,8 @@
       "text": "Ideas flew. A swarm of comets? A smashed planet? Some even asked if aliens had built giant structures around it to collect energy, called a Dyson sphere.",
       "visual": {
         "type": "image",
-        "query": "Dyson sphere artist concept",
-        "commons": "Dyson sphere artist concept"
+        "query": "Dyson swarm",
+        "commons": "Dyson swarm"
       },
       "headline": "Alien megastructure?"
     },
@@ -94,8 +94,8 @@
       "text": "So most astronomers now think clouds of dust are the cause. But where the dust comes from is still not fully explained.",
       "visual": {
         "type": "image",
-        "query": "debris disk Hubble",
-        "commons": "debris disk Hubble"
+        "query": "dust disk young star artist impression",
+        "commons": "dust disk young star artist impression"
       },
       "headline": "Probably dust"
     },
@@ -103,12 +103,12 @@
       "text": "Tomorrow, a giant hole in the universe where almost nothing exists. Next stop: the Boötes void. Follow, so you don't miss episode forty-seven.",
       "visual": {
         "type": "end",
-        "query": "cosmic web simulation",
+        "query": "Hubble Ultra Deep Field",
         "warm": false,
         "wiki": [],
         "commons": [
-          "cosmic web simulation",
-          "Millennium Simulation dark matter"
+          "Hubble Ultra Deep Field",
+          "galaxies deep field"
         ]
       }
     }
