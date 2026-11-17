@@ -24,8 +24,8 @@
       "text": "Episode fifty-three. Next stop... the first shooting stars of twenty twenty-seven.",
       "visual": {
         "type": "title",
-        "query": "Quadrantid meteor",
-        "commons": "Quadrantid meteor"
+        "query": "Perseid meteor night sky",
+        "commons": "Perseid meteor night sky"
       }
     },
     {
@@ -57,8 +57,8 @@
       "text": "Good news this year: the Moon is just a thin crescent, so its light won't wash out the meteors.",
       "visual": {
         "type": "image",
-        "query": "waning crescent Moon",
-        "commons": "waning crescent Moon"
+        "query": "crescent moon night sky photograph",
+        "commons": "crescent moon night sky photograph"
       },
       "headline": "A thin Moon this year"
     },

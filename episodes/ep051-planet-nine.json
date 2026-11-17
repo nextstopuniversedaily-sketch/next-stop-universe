@@ -84,8 +84,8 @@
       "text": "Not everyone agrees. Some say the pattern comes from where telescopes happened to look. Others think a disk of small objects could do it.",
       "visual": {
         "type": "image",
-        "query": "Kuiper belt",
-        "commons": "Kuiper belt"
+        "query": "trans-Neptunian object artist impression",
+        "commons": "trans-Neptunian object artist impression"
       },
       "headline": "Others disagree"
     },
@@ -93,8 +93,8 @@
       "text": "The answer may come soon. The new Vera Rubin Observatory in Chile is scanning the whole southern sky again and again.",
       "visual": {
         "type": "image",
-        "query": "Vera C. Rubin Observatory",
-        "wiki": "Vera C. Rubin Observatory"
+        "query": "Rubin Observatory night sky",
+        "commons": "Rubin Observatory night sky"
       },
       "headline": "Rubin is watching"
     },

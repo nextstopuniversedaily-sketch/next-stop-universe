@@ -84,8 +84,8 @@
       "text": "So why is it winter in the north? Because seasons don't come from distance. They come from Earth's tilt.",
       "visual": {
         "type": "image",
-        "query": "Earth axial tilt seasons diagram",
-        "commons": "Earth axial tilt seasons diagram"
+        "query": "snowy winter landscape low sun",
+        "commons": "snowy winter landscape low sun"
       },
       "headline": "Seasons come from the tilt"
     },
@@ -93,8 +93,8 @@
       "text": "Right now the north is tilted away from the Sun, so sunlight is weaker. In Australia and Argentina, it's summer.",
       "visual": {
         "type": "image",
-        "query": "beach summer Australia",
-        "commons": "beach summer Australia"
+        "query": "Bondi Beach aerial",
+        "commons": "Bondi Beach aerial"
       },
       "headline": "Summer down south"
     },
@@ -110,12 +110,12 @@
       "text": "Tomorrow, the first shooting stars of the year. Next stop: the Quadrantids. Follow, so you don't miss episode fifty-three.",
       "visual": {
         "type": "end",
-        "query": "Quadrantid meteor",
+        "query": "Perseid meteor night sky",
         "warm": false,
         "wiki": [],
         "commons": [
-          "Quadrantid meteor",
-          "meteor shower night sky"
+          "Perseid meteor night sky",
+          "meteor streak night sky"
         ]
       }
     }
