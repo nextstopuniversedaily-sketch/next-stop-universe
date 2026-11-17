@@ -1,26 +1,25 @@
-[0;93m2026-11-17 22:49:03.872886079 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 23:23:34.610740929 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 46: Tabby's Star
-  audio 86.5s
-  ! commons search failed star debris disk artist impression HTTPSConnectionPool(host='commons.wikimedia.org', port=443): Read timed out. (read timeout=30)
-  ! no usable NASA image for 'star debris disk artist impression'
-  segment 1/10 [title] 5.3s
+  audio 86.7s
+  WIKI File:Debris Disk Around Star HD 181327 (Artist's Concept) (2025-119).png (Public domain)
+  segment 1/10 [title] 5.2s
   - skip File:Kepler_Space_Telescope_spacecraft_model_2.png: looks like a chart/blank
   NASA 'Kepler space telescope' -> PIA15423: Spitzer, Planck and Kepler Extended by NASA Artist Concept
-  segment 2/10 [image] 9.9s
+  segment 2/10 [image] 10.1s
   - skip File:Kepler Drawing of SN 1604.png: looks like a chart/blank
   - skip File:Kepler FOV hiRes.jpg: looks like a chart/blank
   WIKI File:286253main kepler-milkyway-fov-full full.jpg (Public domain)
   segment 3/10 [image] 9.3s
   segment 4/10 [card] 8.0s
-  WIKI File:KIC 8462852 in IR and UV.png (Public domain)
+  WIKI File:Jupiter-mass planet orbiting the nearby star Epsilon Eridani.jpg (Public domain)
   segment 5/10 [image] 7.5s
-  ! no usable NASA image for 'Dyson sphere artist concept'
-  segment 6/10 [image] 11.7s
+  WIKI File:Dyson Bubble.png (CC BY 2.5)
+  segment 6/10 [image] 11.6s
   segment 7/10 [card] 6.3s
   WIKI File:ESO - The Carina Nebula (by).jpg (CC BY 4.0)
   segment 8/10 [image] 9.1s
-  WIKI File:Hubble Reveals Lopsided Debris Disk Around Star (opo0728a).jpg (Public domain)
+  WIKI File:Artist’s impression of debris around a white dwarf star.jpg (CC BY 4.0)
   segment 9/10 [image] 8.2s
-  WIKI File:Cosmic Web and Slime Mold (2020-11-4635).png (Public domain)
-  segment 10/10 [end] 11.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep046.mp4 (17.7 MB)
+  WIKI File:Hubble ultra deep field.jpg (Public domain)
+  segment 10/10 [end] 11.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep046.mp4 (16.8 MB)
