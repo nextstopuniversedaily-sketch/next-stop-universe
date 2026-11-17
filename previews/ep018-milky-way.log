@@ -1,0 +1,19 @@
+[0;93m2026-11-17 20:22:16.334937368 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 18: The Milky Way
+  audio 50.2s
+  WIKI File:ESO-VLT-Laser-phot-33a-07.jpg (CC BY 4.0)
+  segment 1/8 [title] 3.6s
+  NASA 'Milky Way galaxy illustration' -> PIA17009: Hustle and Bustle at Center of Milky Way
+  segment 2/8 [image] 7.5s
+  segment 3/8 [card] 4.4s
+  segment 4/8 [card] 3.3s
+  ! no usable NASA image for 'Milky Way Gaia'
+  segment 5/8 [image] 9.1s
+  WIKI File:360-degree Panorama of the Southern Sky.jpg (CC BY 4.0)
+  segment 6/8 [image] 6.3s
+  WIKI File:Eso1021d.jpg (CC BY 4.0)
+  segment 7/8 [image] 5.7s
+  - skip File:M31-Andromede-16-09-2023-Hamois.jpg: license 'CC BY-SA 2.5'
+  NASA 'Andromeda galaxy' -> PIA04921: Andromeda Galaxy
+  segment 8/8 [end] 10.3s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep018.mp4 (14.3 MB)
