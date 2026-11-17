@@ -1,0 +1,16 @@
+[0;93m2026-11-17 20:48:08.626908718 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 37: The Space Station
+  audio 48.9s
+  WIKI File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg (Public domain)
+  segment 1/7 [title] 5.1s
+  NASA 'International Space Station orbit' -> iss074e0089785: The International Space Station orbits into a sunset above China
+  segment 2/7 [image] 9.2s
+  segment 3/7 [card] 3.3s
+  NASA 'astronaut ISS' -> iss005e21031: Astronaut Peggy Whitson floats in the Quest/Airlock during Expedition 
+  segment 4/7 [image] 8.2s
+  segment 5/7 [card] 7.0s
+  WIKI File:ISS-52 Africa and Indian Ocean.jpg (Public domain)
+  segment 6/7 [image] 5.9s
+  WIKI File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg (Public domain)
+  segment 7/7 [end] 10.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep037.mp4 (12.5 MB)
