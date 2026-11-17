@@ -1,4 +1,5 @@
 NASA (Public domain)
+A. Fujii (Public domain) https://commons.wikimedia.org/wiki/File:Orion_Constellation_(2006-01-1836).jpg
 ESO/J. Drevon et al. (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Betelgeuse%E2%80%99s_Great_Dimming_Event_in_high_resolution_(potw2343a).jpg
 NASA, ESA, E. Wheatley (STScI), Science: A. Dupree (CfA) (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Betelgeuse_and_wake_of_its_companion_star_(artist%27s_concept)_(opo2602).jpg
 X-ray: NASA/CXC/SAO; IR: NASA/ESA/CSA/STScI; Image Processing: NASA/CXC/SAO/L. Frattare and K. Arcand (Public domain) https://commons.wikimedia.org/wiki/File:NASA%27s_Chandra_Releases_%27Red,_White,_and_Blue%27_Universe_for_US_250th_(Cassiopeia_A_composite).jpg

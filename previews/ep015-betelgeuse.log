@@ -1,16 +1,17 @@
-[0;93m2026-11-17 20:18:00.340646018 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 20:57:26.917280243 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 15: Betelgeuse
-  audio 53.1s
+  audio 53.0s
   NASA 'Betelgeuse' -> PIA16680: Betelgeuse Enigmatic Environment
   segment 1/7 [title] 3.4s
-  NASA 'Orion constellation' -> KSC-07PD-3294: Constructing lightning towers for the Constellation Program and 
+  - skip File:Betelgeuse in Orion (noirlab2523f).jpg: looks like a chart/blank
+  WIKI File:Orion Constellation (2006-01-1836).jpg (Public domain)
   segment 2/7 [image] 6.2s
   segment 3/7 [card] 7.0s
   WIKI File:Betelgeuse’s Great Dimming Event in high resolution (potw2343a).jpg (CC BY 4.0)
-  segment 4/7 [image] 9.9s
+  segment 4/7 [image] 9.8s
   WIKI File:Betelgeuse and wake of its companion star (artist's concept) (opo2602).jpg (CC BY 4.0)
   segment 5/7 [image] 9.3s
-  segment 6/7 [card] 7.0s
+  segment 6/7 [card] 6.9s
   WIKI File:NASA's_Chandra_Releases_'Red,_White,_and_Blue'_Universe_for_US_250th_(Cassiopeia_A_composite).jpg (Public domain)
   segment 7/7 [end] 10.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep015.mp4 (7.6 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep015.mp4 (8.4 MB)
