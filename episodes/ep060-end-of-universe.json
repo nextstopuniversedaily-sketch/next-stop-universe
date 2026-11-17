@@ -1,0 +1,125 @@
+{
+  "number": 60,
+  "title": "The End of the Universe",
+  "subtitle": "Season 3 finale",
+  "next_stop": "The Coldest Place",
+  "yt_title": "How Will the Universe End? 🌌 | Ep. 60 #shorts",
+  "description": "Episode 60 of a daily journey through the universe. 🌌\nSeason 3 finale: how will the universe end? The Big Freeze, where stars burn out over trillions of years and black holes slowly evaporate; the Big Rip; or a Big Crunch, which new hints about changing dark energy have brought back into the debate.\n\n➡️ Tomorrow, Episode 61: Season 4 begins: the coldest place in the universe.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #endoftheuniverse #astronomy #shorts #science",
+  "tags": [
+    "end of the universe",
+    "heat death",
+    "big freeze",
+    "big rip",
+    "big crunch",
+    "cosmology",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode sixty. The season finale. Next stop... the end of the universe.",
+      "visual": {
+        "type": "title",
+        "query": "Hubble Ultra Deep Field",
+        "commons": "Hubble Ultra Deep Field"
+      }
+    },
+    {
+      "text": "We've seen how the universe began. Now, the biggest question of all: how will it end?",
+      "visual": {
+        "type": "image",
+        "query": "Hubble Ultra Deep Field",
+        "commons": "Hubble Ultra Deep Field"
+      },
+      "headline": "How will it end?"
+    },
+    {
+      "text": "The universe is expanding, and dark energy is making it speed up. If that continues, we get the Big Freeze.",
+      "visual": {
+        "type": "image",
+        "query": "galaxies Hubble deep field",
+        "commons": "galaxies Hubble deep field"
+      },
+      "headline": "1: The Big Freeze"
+    },
+    {
+      "text": "Galaxies drift so far apart that, from here, the sky beyond our local group of galaxies goes dark.",
+      "visual": {
+        "type": "image",
+        "query": "Andromeda galaxy",
+        "commons": "Andromeda galaxy"
+      },
+      "headline": "Galaxies drift away"
+    },
+    {
+      "text": "The smallest stars, red dwarfs, can shine for trillions of years. But eventually, even they burn out.",
+      "visual": {
+        "type": "card",
+        "big": "trillions",
+        "label": "of years of starlight left"
+      }
+    },
+    {
+      "text": "Then only black holes remain. And even they slowly evaporate, leaking away energy over unimaginable time.",
+      "visual": {
+        "type": "image",
+        "query": "Black hole",
+        "wiki": "Black hole"
+      },
+      "headline": "Only black holes"
+    },
+    {
+      "text": "The last ones could take around ten to the power of one hundred years. A one, followed by a hundred zeros.",
+      "visual": {
+        "type": "card",
+        "big": "10¹⁰⁰",
+        "label": "years"
+      }
+    },
+    {
+      "text": "Option two: the Big Rip. If dark energy grows stronger, it could one day tear apart galaxies, stars, even atoms.",
+      "visual": {
+        "type": "image",
+        "query": "galaxy collision Hubble",
+        "commons": "galaxy collision Hubble"
+      },
+      "headline": "2: The Big Rip"
+    },
+    {
+      "text": "Option three: the Big Crunch. If dark energy weakens, gravity could win, and everything could fall back together. Recent hints that dark energy is changing have made scientists take this seriously again.",
+      "visual": {
+        "type": "image",
+        "query": "cosmic web simulation",
+        "commons": "cosmic web simulation"
+      },
+      "headline": "3: The Big Crunch"
+    },
+    {
+      "text": "Whichever it is, it's trillions upon trillions of years away. The universe is still young. And so is our journey.",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way night sky",
+        "commons": "Milky Way night sky"
+      },
+      "headline": "The universe is young"
+    },
+    {
+      "text": "Season four starts tomorrow, with the coldest place in the universe. Colder than empty space itself. Follow, so you don't miss episode sixty-one.",
+      "visual": {
+        "type": "end",
+        "query": "Boomerang Nebula Hubble",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "Boomerang Nebula Hubble",
+          "Boomerang Nebula"
+        ]
+      }
+    }
+  ]
+}

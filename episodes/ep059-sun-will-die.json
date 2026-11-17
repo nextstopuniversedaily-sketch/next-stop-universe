@@ -1,0 +1,124 @@
+{
+  "number": 59,
+  "title": "How the Sun Will Die",
+  "subtitle": "5 billion years from now",
+  "next_stop": "The End of the Universe",
+  "yt_title": "How Our Sun Will Die ☀️ | Ep. 59 #shorts",
+  "description": "Episode 59 of a daily journey through the universe. ☀️\nHow the Sun will die: in about 5 billion years it runs low on hydrogen, swells into a red giant that swallows Mercury and Venus, sheds its outer layers into a glowing nebula, and ends as a white dwarf about the size of Earth.\n\n➡️ Tomorrow, Episode 60: Next stop, the season finale: how the whole universe will end.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #sundeath #astronomy #shorts #science",
+  "tags": [
+    "sun death",
+    "red giant",
+    "white dwarf",
+    "planetary nebula",
+    "ring nebula",
+    "future of earth",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fifty-nine. Next stop... how the Sun will die.",
+      "visual": {
+        "type": "title",
+        "query": "red giant star artist impression",
+        "commons": "red giant star artist impression"
+      }
+    },
+    {
+      "text": "Our Sun is about four and a half billion years old. It's about halfway through its life.",
+      "visual": {
+        "type": "image",
+        "query": "Sun SDO",
+        "commons": "Sun SDO"
+      },
+      "headline": "Halfway through"
+    },
+    {
+      "text": "In its core, it fuses hydrogen into helium. Eventually, the hydrogen in the core will run low.",
+      "visual": {
+        "type": "image",
+        "query": "Sun interior diagram",
+        "commons": "Sun interior diagram"
+      },
+      "headline": "Running low"
+    },
+    {
+      "text": "That happens in about five billion years.",
+      "visual": {
+        "type": "card",
+        "big": "5 billion",
+        "label": "years from now"
+      }
+    },
+    {
+      "text": "Then the Sun will swell into a red giant, hundreds of times wider than it is today.",
+      "visual": {
+        "type": "image",
+        "query": "red giant star artist impression",
+        "commons": "red giant star artist impression"
+      },
+      "headline": "A red giant"
+    },
+    {
+      "text": "Mercury and Venus will be swallowed. Earth may be too, or it may survive as a scorched rock. Scientists still debate it.",
+      "visual": {
+        "type": "image",
+        "query": "scorched planet artist impression",
+        "commons": "scorched planet artist impression"
+      },
+      "headline": "What about Earth?"
+    },
+    {
+      "text": "Even before that, in about a billion years, the brightening Sun will make Earth too hot for oceans.",
+      "visual": {
+        "type": "card",
+        "big": "~1 billion",
+        "label": "years until the oceans boil"
+      }
+    },
+    {
+      "text": "Near the end, the Sun will gently blow off its outer layers into space, making a glowing shell called a planetary nebula, like this one.",
+      "visual": {
+        "type": "image",
+        "query": "Ring Nebula",
+        "commons": "Ring Nebula"
+      },
+      "headline": "A glowing shell"
+    },
+    {
+      "text": "What's left will be its hot core: a white dwarf, about the size of Earth, but with half the Sun's mass.",
+      "visual": {
+        "type": "image",
+        "query": "Sirius B white dwarf Hubble",
+        "commons": "Sirius B white dwarf Hubble"
+      },
+      "headline": "A white dwarf"
+    },
+    {
+      "text": "A teaspoon of it would weigh several tons. It will slowly cool and fade for trillions of years.",
+      "visual": {
+        "type": "card",
+        "big": "tons",
+        "label": "per teaspoon"
+      }
+    },
+    {
+      "text": "Tomorrow, our season finale: how the whole universe will end. Next stop: the end of the universe. Follow, so you don't miss episode sixty.",
+      "visual": {
+        "type": "end",
+        "query": "Hubble Ultra Deep Field",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "Hubble Ultra Deep Field",
+          "dark sky stars fading"
+        ]
+      }
+    }
+  ]
+}

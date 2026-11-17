@@ -1,0 +1,124 @@
+{
+  "number": 54,
+  "title": "The Oort Cloud",
+  "subtitle": "Where comets are born",
+  "next_stop": "The Runaway Moon",
+  "yt_title": "The Edge of Our Solar System Is Made of Ice ❄️ | Ep. 54 #shorts",
+  "description": "Episode 54 of a daily journey through the universe. ❄️\nThe Oort Cloud: a giant shell of icy objects that may surround our solar system, possibly reaching a quarter of the way to the nearest star. No one has ever seen it directly. Voyager 1 will need about 300 years to reach it and tens of thousands to cross it.\n\n➡️ Tomorrow, Episode 55: Next stop, the runaway Moon. The Moon is slowly drifting away from Earth.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #oortcloud #astronomy #shorts #science",
+  "tags": [
+    "oort cloud",
+    "comets",
+    "voyager 1",
+    "edge of solar system",
+    "kuiper belt",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fifty-four. Next stop... the Oort cloud.",
+      "visual": {
+        "type": "title",
+        "query": "Oort cloud illustration",
+        "commons": "Oort cloud illustration"
+      }
+    },
+    {
+      "text": "Where do long-period comets come from? Some take thousands, even millions of years to orbit the Sun once.",
+      "visual": {
+        "type": "image",
+        "query": "comet Hale-Bopp",
+        "commons": "comet Hale-Bopp"
+      },
+      "headline": "Where comets come from"
+    },
+    {
+      "text": "In nineteen fifty, Dutch astronomer Jan Oort proposed an answer: a giant shell of icy objects surrounding the entire solar system.",
+      "visual": {
+        "type": "image",
+        "query": "Jan Oort",
+        "wiki": "Jan Oort"
+      },
+      "headline": "Jan Oort's idea"
+    },
+    {
+      "text": "It may contain trillions of icy bodies.",
+      "visual": {
+        "type": "card",
+        "big": "trillions",
+        "label": "of icy objects"
+      }
+    },
+    {
+      "text": "And it's enormous. It might stretch a quarter of the way, or more, to the nearest star.",
+      "visual": {
+        "type": "image",
+        "query": "solar system scale illustration",
+        "commons": "solar system scale illustration"
+      },
+      "headline": "Enormous"
+    },
+    {
+      "text": "Yet no one has ever seen it. The objects are too small, too dark, and too far away. We know it's there from the comets it sends us.",
+      "visual": {
+        "type": "image",
+        "query": "comet NEOWISE",
+        "commons": "comet NEOWISE"
+      },
+      "headline": "Never seen"
+    },
+    {
+      "text": "Sometimes a passing star or the pull of our galaxy nudges one of these ice balls, and it begins a long fall toward the Sun.",
+      "visual": {
+        "type": "image",
+        "query": "comet tail Sun",
+        "commons": "comet tail Sun"
+      },
+      "headline": "A nudge, and a fall"
+    },
+    {
+      "text": "Remember Voyager one from episode nine? It's the farthest spacecraft from Earth.",
+      "visual": {
+        "type": "image",
+        "query": "Voyager 1",
+        "wiki": "Voyager 1"
+      },
+      "headline": "Voyager 1"
+    },
+    {
+      "text": "Even at its speed, it will need about three hundred years to reach the Oort cloud's inner edge.",
+      "visual": {
+        "type": "card",
+        "big": "~300 years",
+        "label": "to reach the Oort Cloud"
+      }
+    },
+    {
+      "text": "And maybe thirty thousand years to pass through it.",
+      "visual": {
+        "type": "card",
+        "big": "~30,000 yrs",
+        "label": "to cross it"
+      }
+    },
+    {
+      "text": "Tomorrow, the Moon is slowly drifting away from us. Next stop: the runaway Moon. Follow, so you don't miss episode fifty-five.",
+      "visual": {
+        "type": "end",
+        "query": "full Moon",
+        "warm": false,
+        "wiki": [
+          "Moon"
+        ],
+        "commons": [
+          "full Moon"
+        ]
+      }
+    }
+  ]
+}

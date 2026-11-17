@@ -25,8 +25,8 @@
       "text": "Episode forty-five. Next stop... visitors from other stars.",
       "visual": {
         "type": "title",
-        "query": "ʻOumuamua",
-        "wiki": "ʻOumuamua"
+        "query": "Oumuamua artist impression",
+        "commons": "Oumuamua artist impression"
       }
     },
     {
@@ -94,8 +94,8 @@
       "text": "It may come from an older part of our galaxy, which means this comet could be older than our solar system.",
       "visual": {
         "type": "image",
-        "query": "comet Hubble image",
-        "commons": "comet Hubble image"
+        "query": "Comet NEOWISE night sky",
+        "commons": "Comet NEOWISE night sky"
       },
       "headline": "Older than the Sun?"
     },
@@ -103,8 +103,8 @@
       "text": "New telescopes like the Vera Rubin Observatory may find many more. Pieces of other worlds, delivered to our door.",
       "visual": {
         "type": "image",
-        "query": "Vera C. Rubin Observatory",
-        "wiki": "Vera C. Rubin Observatory"
+        "query": "Vera Rubin Observatory Cerro Pachon",
+        "commons": "Vera Rubin Observatory Cerro Pachon"
       },
       "headline": "More are coming"
     },

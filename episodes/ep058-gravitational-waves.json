@@ -1,0 +1,124 @@
+{
+  "number": 58,
+  "title": "Gravitational Waves",
+  "subtitle": "Ripples in space",
+  "next_stop": "How the Sun Will Die",
+  "yt_title": "We Felt Two Black Holes Collide 🌊 | Ep. 58 #shorts",
+  "description": "Episode 58 of a daily journey through the universe. 🌊\nGravitational waves: Einstein predicted them in 1916. On September 14, 2015, LIGO detected ripples from two black holes colliding 1.3 billion light-years away, stretching its 4 km arms by far less than the width of a proton. Nobel Prize 2017.\n\n➡️ Tomorrow, Episode 59: Next stop, how the Sun will die. And what happens to Earth.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #gravitationalwaves #astronomy #shorts #science",
+  "tags": [
+    "gravitational waves",
+    "ligo",
+    "black hole merger",
+    "einstein",
+    "nobel prize",
+    "virgo",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fifty-eight. Next stop... gravitational waves.",
+      "visual": {
+        "type": "title",
+        "query": "black hole merger simulation",
+        "commons": "black hole merger simulation"
+      }
+    },
+    {
+      "text": "In nineteen sixteen, Albert Einstein predicted something wild. When heavy objects move, they make ripples in space itself.",
+      "visual": {
+        "type": "image",
+        "query": "Albert Einstein",
+        "wiki": "Albert Einstein"
+      },
+      "headline": "Einstein's prediction"
+    },
+    {
+      "text": "He thought they'd be so weak that humans could never detect them.",
+      "visual": {
+        "type": "image",
+        "query": "spacetime curvature illustration",
+        "commons": "spacetime curvature illustration"
+      },
+      "headline": "Too weak to detect?"
+    },
+    {
+      "text": "Almost a hundred years later, scientists built LIGO: two detectors in the United States with arms four kilometers long, using lasers to measure their length.",
+      "visual": {
+        "type": "image",
+        "query": "LIGO Hanford aerial",
+        "commons": "LIGO Hanford aerial"
+      },
+      "headline": "LIGO"
+    },
+    {
+      "text": "On September fourteenth, twenty fifteen, both detectors felt a tiny wobble.",
+      "visual": {
+        "type": "card",
+        "big": "2015",
+        "label": "September 14"
+      }
+    },
+    {
+      "text": "The ripple changed the length of the four-kilometer arms by far less than the width of a proton.",
+      "visual": {
+        "type": "card",
+        "big": "< 1 proton",
+        "label": "the stretch measured"
+      }
+    },
+    {
+      "text": "It came from two black holes, each about thirty times heavier than the Sun, spiraling together and merging.",
+      "visual": {
+        "type": "image",
+        "query": "binary black hole artist impression",
+        "commons": "binary black hole artist impression"
+      },
+      "headline": "Two black holes merged"
+    },
+    {
+      "text": "That crash happened one point three billion years ago. The ripple had been travelling toward us ever since.",
+      "visual": {
+        "type": "card",
+        "big": "1.3 billion",
+        "label": "light-years away"
+      }
+    },
+    {
+      "text": "The discovery won the Nobel Prize in Physics in twenty seventeen. Since then, detectors have caught hundreds more.",
+      "visual": {
+        "type": "image",
+        "query": "LIGO Livingston",
+        "commons": "LIGO Livingston"
+      },
+      "headline": "Nobel Prize, 2017"
+    },
+    {
+      "text": "For the first time, we're not just seeing the universe. We're feeling it.",
+      "visual": {
+        "type": "image",
+        "query": "neutron star merger artist impression",
+        "commons": "neutron star merger artist impression"
+      },
+      "headline": "Feeling the universe"
+    },
+    {
+      "text": "Tomorrow, the end of our Sun, and what happens to Earth. Next stop: how the Sun will die. Follow, so you don't miss episode fifty-nine.",
+      "visual": {
+        "type": "end",
+        "query": "Ring Nebula",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Ring Nebula",
+          "planetary nebula Hubble"
+        ]
+      }
+    }
+  ]
+}

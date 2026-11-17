@@ -1,0 +1,125 @@
+{
+  "number": 56,
+  "title": "Gamma-Ray Bursts",
+  "subtitle": "The biggest explosions",
+  "next_stop": "The Biggest Star",
+  "yt_title": "The Biggest Explosions Since the Big Bang 💥 | Ep. 56 #shorts",
+  "description": "Episode 56 of a daily journey through the universe. 💥\nGamma-ray bursts: in seconds they can release more energy than our Sun will in its whole lifetime. Discovered by accident by spy satellites in the 1960s. In October 2022, the brightest one ever seen hit Earth's upper atmosphere from about 2 billion light-years away.\n\n➡️ Tomorrow, Episode 57: Next stop, the biggest stars. A star so big it would swallow Saturn's orbit.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #gammarayburst #astronomy #shorts #science",
+  "tags": [
+    "gamma ray burst",
+    "grb 221009a",
+    "boat",
+    "hypernova",
+    "kilonova",
+    "space explosion",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fifty-six. Next stop... gamma-ray bursts.",
+      "visual": {
+        "type": "title",
+        "query": "gamma-ray burst artist impression",
+        "commons": "gamma-ray burst artist impression"
+      }
+    },
+    {
+      "text": "In the nineteen sixties, the United States launched satellites to watch for secret nuclear bomb tests.",
+      "visual": {
+        "type": "image",
+        "query": "Vela satellite",
+        "commons": "Vela satellite"
+      },
+      "headline": "Spy satellites"
+    },
+    {
+      "text": "They caught flashes of gamma rays, the most powerful kind of light. But they weren't coming from Earth. They were coming from space.",
+      "visual": {
+        "type": "image",
+        "query": "Fermi gamma-ray space telescope",
+        "commons": "Fermi gamma-ray space telescope"
+      },
+      "headline": "Flashes from space"
+    },
+    {
+      "text": "In just seconds, a gamma-ray burst can release more energy than our Sun will in its entire ten-billion-year life.",
+      "visual": {
+        "type": "card",
+        "big": "seconds",
+        "label": "more energy than the Sun's whole life"
+      }
+    },
+    {
+      "text": "The longer ones happen when a giant star collapses into a black hole, shooting two narrow jets out at nearly the speed of light.",
+      "visual": {
+        "type": "image",
+        "query": "hypernova artist impression",
+        "commons": "hypernova artist impression"
+      },
+      "headline": "A dying giant star"
+    },
+    {
+      "text": "The shorter ones happen when two neutron stars crash together, the same collisions that make gold.",
+      "visual": {
+        "type": "image",
+        "query": "kilonova neutron star merger artist",
+        "commons": "kilonova neutron star merger artist"
+      },
+      "headline": "Neutron stars colliding"
+    },
+    {
+      "text": "In October twenty twenty-two, the brightest burst ever recorded hit Earth. Astronomers nicknamed it the BOAT: the brightest of all time.",
+      "visual": {
+        "type": "image",
+        "query": "GRB 221009A Swift",
+        "commons": "GRB 221009A Swift"
+      },
+      "headline": "The BOAT, 2022"
+    },
+    {
+      "text": "It came from about two billion light-years away, and it still disturbed Earth's upper atmosphere.",
+      "visual": {
+        "type": "card",
+        "big": "2 billion",
+        "label": "light-years away"
+      }
+    },
+    {
+      "text": "Some scientists have suggested a nearby burst could have contributed to a mass extinction on Earth, about four hundred forty million years ago. It's an idea, not proven.",
+      "visual": {
+        "type": "image",
+        "query": "Ordovician sea fossil",
+        "commons": "Ordovician sea fossil"
+      },
+      "headline": "A danger? Maybe once"
+    },
+    {
+      "text": "Don't worry. No star close enough to hurt us is known to be about to do this.",
+      "visual": {
+        "type": "image",
+        "query": "Earth",
+        "wiki": "Earth"
+      },
+      "headline": "We're safe"
+    },
+    {
+      "text": "Tomorrow, a star so big it would swallow Saturn's orbit. Next stop: the biggest stars. Follow, so you don't miss episode fifty-seven.",
+      "visual": {
+        "type": "end",
+        "query": "red supergiant star artist impression",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "red supergiant star artist impression",
+          "Betelgeuse artist impression"
+        ]
+      }
+    }
+  ]
+}

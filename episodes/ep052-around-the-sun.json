@@ -1,0 +1,123 @@
+{
+  "number": 52,
+  "title": "One Trip Around the Sun",
+  "subtitle": "Happy New Year!",
+  "next_stop": "The Quadrantids",
+  "yt_title": "Happy New Year! You Just Traveled 940 Million km 🎆 | Ep. 52 #shorts",
+  "description": "Episode 52 of a daily journey through the universe. 🎆\nHappy New Year! In one year Earth travels about 940 million kilometers around the Sun at about 30 km per second. And tomorrow evening (January 2) Earth reaches perihelion, its closest point to the Sun, in the middle of northern winter.\n\n➡️ Tomorrow, Episode 53: Next stop, the Quadrantids. The first meteor shower of the year, peaking the night of January 3 to 4.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #newyear #astronomy #shorts #science",
+  "tags": [
+    "new year",
+    "perihelion",
+    "earth orbit",
+    "happy new year 2027",
+    "seasons",
+    "earth",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fifty-two. Happy New Year! Next stop... one trip around the Sun.",
+      "visual": {
+        "type": "title",
+        "query": "Earth from space",
+        "commons": "Earth from space"
+      }
+    },
+    {
+      "text": "Last night, a new year began. Since last January, you've ridden Earth all the way around the Sun, one more time.",
+      "visual": {
+        "type": "image",
+        "query": "New Year fireworks night",
+        "commons": "New Year fireworks night"
+      },
+      "headline": "Another lap complete"
+    },
+    {
+      "text": "In one year, Earth travels about nine hundred forty million kilometers.",
+      "visual": {
+        "type": "card",
+        "big": "940 million km",
+        "label": "in one year"
+      }
+    },
+    {
+      "text": "That's about thirty kilometers every second. More than a hundred thousand kilometers per hour.",
+      "visual": {
+        "type": "card",
+        "big": "30 km/s",
+        "label": "Earth's speed around the Sun"
+      }
+    },
+    {
+      "text": "And you didn't feel a thing, because everything around you, the air, the oceans, is moving with you.",
+      "visual": {
+        "type": "image",
+        "query": "Earth",
+        "wiki": "Earth"
+      },
+      "headline": "You didn't feel it"
+    },
+    {
+      "text": "Here's a surprise. Tomorrow evening, January second, Earth reaches its closest point to the Sun all year. It's called perihelion.",
+      "visual": {
+        "type": "image",
+        "query": "Sun SDO",
+        "commons": "Sun SDO"
+      },
+      "headline": "Closest to the Sun"
+    },
+    {
+      "text": "Earth will be about one hundred forty-seven million kilometers away. In July, it's about five million kilometers farther.",
+      "visual": {
+        "type": "card",
+        "big": "147 million km",
+        "label": "closest point, January 2"
+      }
+    },
+    {
+      "text": "So why is it winter in the north? Because seasons don't come from distance. They come from Earth's tilt.",
+      "visual": {
+        "type": "image",
+        "query": "Earth axial tilt seasons diagram",
+        "commons": "Earth axial tilt seasons diagram"
+      },
+      "headline": "Seasons come from the tilt"
+    },
+    {
+      "text": "Right now the north is tilted away from the Sun, so sunlight is weaker. In Australia and Argentina, it's summer.",
+      "visual": {
+        "type": "image",
+        "query": "beach summer Australia",
+        "commons": "beach summer Australia"
+      },
+      "headline": "Summer down south"
+    },
+    {
+      "text": "A new lap begins right now. Happy twenty twenty-seven, from Next Stop Universe.",
+      "visual": {
+        "type": "card",
+        "big": "2027",
+        "label": "Happy New Year!"
+      }
+    },
+    {
+      "text": "Tomorrow, the first shooting stars of the year. Next stop: the Quadrantids. Follow, so you don't miss episode fifty-three.",
+      "visual": {
+        "type": "end",
+        "query": "Quadrantid meteor",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "Quadrantid meteor",
+          "meteor shower night sky"
+        ]
+      }
+    }
+  ]
+}

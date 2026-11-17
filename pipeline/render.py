@@ -468,7 +468,9 @@ def render_episode(path, offline=False):
     voice = np.concatenate(seg_audio)
     total = len(voice) / SR + 0.6
     voice = np.concatenate([voice, np.zeros(int(0.6 * SR), np.float32)])
-    mix = voice + ambient_pad(total)[: len(voice)]
+    pad = ambient_pad(total + 0.1)[: len(voice)]
+    pad = np.pad(pad, (0, len(voice) - len(pad)))
+    mix = voice + pad
     mix = mix / max(1.0, np.max(np.abs(mix)) / 0.95)
     wav = f"/tmp/{stem}.wav"
     sf.write(wav, mix, SR)
