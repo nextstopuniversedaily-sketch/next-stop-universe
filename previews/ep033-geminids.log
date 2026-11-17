@@ -1,24 +1,25 @@
-[0;93m2026-11-17 20:42:30.351978730 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:16:19.211821583 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 33: The Geminids
-  audio 53.6s
-  - skip File:Geminids.jpg: license 'CC BY-SA 3.0'
-  ! no usable NASA image for 'Geminid meteor'
-  segment 1/8 [title] 4.5s
+  audio 53.4s
+  - skip File:The Geminid Meteor Shower 2009 (4183481993).jpg: license 'GFDL 1.2'
+  - skip File:The Geminid Meteor Shower 2009 (4184243810).jpg: license 'GFDL 1.2'
+  WIKI File:Geminids Over Kitt Peak National Observatory (iotw2352a).jpg (CC BY 4.0)
+  segment 1/8 [title] 4.4s
   - skip File:Geminid meteor shower.jpg: license 'CC BY-SA 4.0'
   - skip File:The Geminid Meteor Shower 2009 (4183481993).jpg: license 'GFDL 1.2'
   - skip File:The Geminid Meteor Shower 2009 (4184243810).jpg: license 'GFDL 1.2'
   WIKI File:Meteor showers, First Place (ann21047j).jpg (CC BY 4.0)
   segment 2/8 [image] 5.3s
-  segment 3/8 [card] 5.6s
+  segment 3/8 [card] 5.5s
   - skip File:Comet Tsuchinshan–ATLAS, in the night sky over Tuntorp 3.jpg: license 'CC BY-SA 4.0'
   WIKI File:Night sky Crescent Moon.jpg (CC BY 4.0)
-  segment 4/8 [image] 6.1s
+  segment 4/8 [image] 6.0s
   NASA 'asteroid Phaethon' -> PIA22185: Arecibo Observatory Radar Imagery of Phaethon Asteroid
   segment 5/8 [image] 7.7s
   segment 6/8 [card] 5.3s
   - skip File:Copper Breaks State Park with the Milky Way Galaxy.jpg: license 'CC BY-SA 4.0'
   WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
   segment 7/8 [image] 7.2s
-  WIKI File:Yucatan_chix_crater.jpg (Public domain)
-  segment 8/8 [end] 12.0s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep033.mp4 (15.8 MB)
+  WIKI File:Chicxulub impact - artist impression.jpg (Public domain)
+  segment 8/8 [end] 12.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep033.mp4 (16.7 MB)
