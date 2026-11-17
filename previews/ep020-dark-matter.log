@@ -1,0 +1,16 @@
+[0;93m2026-11-17 20:25:10.435113757 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 20: Dark Matter
+  audio 47.6s
+  WIKI File:Bullet_cluster.jpg (Public domain)
+  segment 1/7 [title] 3.6s
+  NASA 'spiral galaxy Hubble' -> GSFC_20171208_Archive_e000158: Hubble Spies Spiral Galaxy
+  segment 2/7 [image] 6.3s
+  segment 3/7 [card] 5.7s
+  WIKI File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG (Public domain)
+  segment 4/7 [image] 6.3s
+  WIKI File:Bullet_cluster.jpg (Public domain)
+  segment 5/7 [image] 8.2s
+  segment 6/7 [card] 7.1s
+  WIKI File:Hubble_ultra_deep_field_high_rez_edit1.jpg (Public domain)
+  segment 7/7 [end] 10.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep020.mp4 (8.9 MB)
