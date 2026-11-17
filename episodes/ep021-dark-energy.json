@@ -1,0 +1,78 @@
+{
+  "number": 21,
+  "title": "Dark Energy",
+  "subtitle": "Why the universe is speeding up",
+  "next_stop": "The Oldest Light",
+  "yt_title": "The Universe Is Speeding Up 🚀 | Ep. 21 #shorts",
+  "description": "Episode 21 of a daily journey through the universe. 🚀\nWe meet dark energy: the universe is expanding, the 1998 discovery that it's speeding up, the 2011 Nobel Prize, 68% of the universe, and new hints that dark energy may be changing.\n\n➡️ Tomorrow, Episode 22: Next stop, the oldest light in the universe.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #darkenergy #astronomy #shorts #science",
+  "tags": [
+    "dark energy",
+    "expanding universe",
+    "nobel prize",
+    "cosmology",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-one. Next stop... dark energy.",
+      "visual": {
+        "type": "title",
+        "query": "Hubble deep field"
+      }
+    },
+    {
+      "text": "Since the Big Bang, the universe has been expanding. Galaxies are moving away from each other.",
+      "headline": "The universe is expanding",
+      "visual": {
+        "type": "image",
+        "query": "galaxies Hubble"
+      }
+    },
+    {
+      "text": "In nineteen ninety-eight, astronomers studying exploding stars found something shocking. The expansion is speeding up.",
+      "headline": "1998: it's speeding up",
+      "visual": {
+        "type": "image",
+        "query": "supernova distant galaxy"
+      }
+    },
+    {
+      "text": "The discovery won the Nobel Prize in Physics in twenty eleven.",
+      "visual": {
+        "type": "card",
+        "big": "2011",
+        "label": "Nobel Prize in Physics"
+      }
+    },
+    {
+      "text": "Whatever is causing it, we call dark energy. It makes up about sixty-eight percent of the universe.",
+      "visual": {
+        "type": "card",
+        "big": "68%",
+        "label": "of the universe is dark energy"
+      }
+    },
+    {
+      "text": "And new measurements hint that dark energy might be changing over time. Nobody knows what it really is.",
+      "headline": "The biggest mystery in physics",
+      "visual": {
+        "type": "image",
+        "query": "cosmic web"
+      }
+    },
+    {
+      "text": "Tomorrow, we look at the oldest light in the universe. Next stop: the afterglow of the Big Bang. Follow, so you don't miss episode twenty-two.",
+      "visual": {
+        "type": "end",
+        "query": "cosmic microwave background",
+        "warm": false
+      }
+    }
+  ]
+}

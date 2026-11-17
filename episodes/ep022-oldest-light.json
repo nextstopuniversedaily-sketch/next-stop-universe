@@ -1,0 +1,79 @@
+{
+  "number": 22,
+  "title": "The Oldest Light",
+  "subtitle": "The afterglow of the Big Bang",
+  "next_stop": "The Big Bang",
+  "yt_title": "The Oldest Light in the Universe 📡 | Ep. 22 #shorts",
+  "description": "Episode 22 of a daily journey through the universe. 📡\nWe find the oldest light in the universe: the cosmic microwave background, released 380,000 years after the Big Bang, discovered by accident in 1965, and part of the static on old TVs.\n\n➡️ Tomorrow, Episode 23: Next stop, the Big Bang itself.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #oldestlight #astronomy #shorts #science",
+  "tags": [
+    "cosmic microwave background",
+    "big bang",
+    "CMB",
+    "planck",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-two. Next stop... the oldest light in the universe.",
+      "visual": {
+        "type": "title",
+        "query": "cosmic microwave background"
+      }
+    },
+    {
+      "text": "Everywhere we look, space glows faintly with the oldest light in the universe. It's called the cosmic microwave background.",
+      "headline": "The oldest light",
+      "visual": {
+        "type": "image",
+        "query": "cosmic microwave background Planck"
+      }
+    },
+    {
+      "text": "This light was released about three hundred eighty thousand years after the Big Bang.",
+      "visual": {
+        "type": "card",
+        "big": "380,000",
+        "label": "years after the Big Bang"
+      }
+    },
+    {
+      "text": "It was found by accident in nineteen sixty-five. Two scientists first blamed the strange hiss in their antenna on pigeons.",
+      "headline": "Blamed on pigeons",
+      "visual": {
+        "type": "image",
+        "query": "Holmdel Horn Antenna"
+      }
+    },
+    {
+      "text": "Today it's incredibly cold, just under three degrees above absolute zero.",
+      "visual": {
+        "type": "card",
+        "big": "2.7 K",
+        "label": "above absolute zero",
+        "sub": "About −270°C"
+      }
+    },
+    {
+      "text": "And a tiny part of the static on old TVs came from this ancient light.",
+      "headline": "In your old TV",
+      "visual": {
+        "type": "image",
+        "query": "COBE satellite"
+      }
+    },
+    {
+      "text": "Tomorrow, we go back to the very beginning. Next stop: the Big Bang. Follow, so you don't miss episode twenty-three.",
+      "visual": {
+        "type": "end",
+        "query": "early universe illustration",
+        "warm": false
+      }
+    }
+  ]
+}

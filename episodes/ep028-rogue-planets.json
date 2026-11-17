@@ -1,0 +1,79 @@
+{
+  "number": 28,
+  "title": "Rogue Planets",
+  "subtitle": "Worlds without a sun",
+  "next_stop": "The Sun",
+  "yt_title": "Planets With No Sun 🪐 | Ep. 28 #shorts",
+  "description": "Episode 28 of a daily journey through the universe. 🪐\nWe meet rogue planets: worlds thrown out of their solar systems, drifting alone, maybe hiding oceans under ice, possibly outnumbering stars, and how we find them by bent light.\n\n➡️ Tomorrow, Episode 29: Next stop, back home to the Sun.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #rogueplanets #astronomy #shorts #science",
+  "tags": [
+    "rogue planets",
+    "free-floating planets",
+    "microlensing",
+    "roman space telescope",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-eight. Next stop... rogue planets.",
+      "visual": {
+        "type": "title",
+        "query": "rogue planet illustration"
+      }
+    },
+    {
+      "text": "Some planets have no star. They were kicked out of their solar systems, and now drift alone through the galaxy.",
+      "headline": "Planets with no star",
+      "visual": {
+        "type": "image",
+        "query": "free-floating planet"
+      }
+    },
+    {
+      "text": "With no sunlight, they're frozen and dark. But some might hide liquid oceans under thick ice, warmed from inside.",
+      "headline": "Hidden oceans?",
+      "visual": {
+        "type": "image",
+        "query": "icy planet illustration"
+      }
+    },
+    {
+      "text": "There may be billions of them in our galaxy. Possibly even more than there are stars.",
+      "visual": {
+        "type": "card",
+        "big": "Billions",
+        "label": "of rogue planets in our galaxy",
+        "sub": "Maybe more than stars"
+      }
+    },
+    {
+      "text": "They're very hard to find. We spot them when they pass in front of a distant star, and bend its light for a moment.",
+      "headline": "Found by bending light",
+      "visual": {
+        "type": "image",
+        "query": "gravitational microlensing"
+      }
+    },
+    {
+      "text": "NASA's Roman Space Telescope is designed to find hundreds of them.",
+      "visual": {
+        "type": "card",
+        "big": "Hundreds",
+        "label": "to be found by NASA's Roman telescope"
+      }
+    },
+    {
+      "text": "Tomorrow, we come home to the star that keeps us alive. Next stop: the Sun. Follow, so you don't miss episode twenty-nine.",
+      "visual": {
+        "type": "end",
+        "query": "Sun Solar Dynamics Observatory",
+        "warm": true
+      }
+    }
+  ]
+}

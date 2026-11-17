@@ -1,0 +1,80 @@
+{
+  "number": 16,
+  "title": "Supernova",
+  "subtitle": "You are made of stars",
+  "next_stop": "Sagittarius A*",
+  "yt_title": "You Are Made of Exploded Stars 💫 | Ep. 16 #shorts",
+  "description": "Episode 16 of a daily journey through the universe. 💫\nWe watch a star explode: a supernova can outshine its whole galaxy, it made the iron in your blood, the Crab Nebula from 1054, and why none are close enough to hurt us.\n\n➡️ Tomorrow, Episode 17: Next stop, the monster black hole at the center of our galaxy.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #supernova #astronomy #shorts #science",
+  "tags": [
+    "supernova",
+    "crab nebula",
+    "stardust",
+    "cassiopeia a",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode sixteen. Next stop... a supernova.",
+      "visual": {
+        "type": "title",
+        "query": "Cassiopeia A supernova remnant"
+      }
+    },
+    {
+      "text": "A supernova is a star exploding. For a few weeks, it can outshine its entire galaxy.",
+      "headline": "Brighter than a galaxy",
+      "visual": {
+        "type": "image",
+        "query": "supernova galaxy Hubble"
+      }
+    },
+    {
+      "text": "The calcium in your bones and the iron in your blood were made inside stars that lived and died long ago.",
+      "headline": "You are made of stars",
+      "visual": {
+        "type": "image",
+        "query": "Crab Nebula"
+      }
+    },
+    {
+      "text": "In ten fifty-four, astronomers in China saw a new star so bright it was visible in daylight for weeks. Today, its remains are the Crab Nebula.",
+      "visual": {
+        "type": "card",
+        "big": "1054",
+        "label": "the year it was seen",
+        "sub": "Visible in daylight for 23 days"
+      }
+    },
+    {
+      "text": "In a galaxy like ours, astronomers expect about one or two supernovae every century.",
+      "visual": {
+        "type": "card",
+        "big": "1–2",
+        "label": "per century in our galaxy",
+        "sub": "Last one seen by eye: 1604"
+      }
+    },
+    {
+      "text": "If one exploded within about fifty light-years, it could damage Earth's ozone layer. Luckily, no candidates are that close.",
+      "headline": "Too close for comfort?",
+      "visual": {
+        "type": "image",
+        "query": "supernova remnant"
+      }
+    },
+    {
+      "text": "Tomorrow, we travel to the heart of our galaxy. Next stop: a monster black hole called Sagittarius A star. Follow, so you don't miss episode seventeen.",
+      "visual": {
+        "type": "end",
+        "query": "Sagittarius A* Chandra",
+        "warm": false
+      }
+    }
+  ]
+}

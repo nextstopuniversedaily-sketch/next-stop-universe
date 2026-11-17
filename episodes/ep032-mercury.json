@@ -1,0 +1,79 @@
+{
+  "number": 32,
+  "title": "Mercury",
+  "subtitle": "Fire and ice",
+  "next_stop": "The Geminids",
+  "yt_title": "Ice on the Planet Closest to the Sun? ❄️ | Ep. 32 #shorts",
+  "description": "Episode 32 of a daily journey through the universe. ❄️\nWe visit Mercury: the smallest planet, 430°C days and −180°C nights, ice hiding in shadowed polar craters, an 88-day year, and a planet that is slowly shrinking.\n\n➡️ Tomorrow, Episode 33: Next stop, tonight's shooting stars: the Geminids.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #mercury #astronomy #shorts #science",
+  "tags": [
+    "mercury",
+    "planet",
+    "messenger",
+    "solar system",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-two. Next stop... Mercury.",
+      "visual": {
+        "type": "title",
+        "query": "Mercury MESSENGER"
+      }
+    },
+    {
+      "text": "Mercury is the smallest planet, and the closest to the Sun.",
+      "headline": "The smallest planet",
+      "visual": {
+        "type": "image",
+        "query": "Mercury"
+      }
+    },
+    {
+      "text": "Days reach about four hundred thirty degrees Celsius. Nights drop to minus one hundred eighty.",
+      "visual": {
+        "type": "card",
+        "big": "430°C",
+        "label": "by day",
+        "sub": "−180°C at night"
+      }
+    },
+    {
+      "text": "Yet there's ice on Mercury, hidden in craters near its poles, where sunlight never reaches.",
+      "headline": "Ice near the Sun?",
+      "visual": {
+        "type": "image",
+        "query": "Mercury north pole ice"
+      }
+    },
+    {
+      "text": "A year on Mercury lasts just eighty-eight Earth days.",
+      "visual": {
+        "type": "card",
+        "big": "88 days",
+        "label": "one year"
+      }
+    },
+    {
+      "text": "And it's shrinking. As its iron core cools, the whole planet slowly contracts, wrinkling its surface.",
+      "headline": "A shrinking planet",
+      "visual": {
+        "type": "image",
+        "query": "Mercury surface"
+      }
+    },
+    {
+      "text": "Tomorrow night, look up: the best meteor shower of the year peaks. Next stop: the Geminids. Follow, so you don't miss episode thirty-three.",
+      "visual": {
+        "type": "end",
+        "query": "meteor shower",
+        "warm": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "number": 30,
+  "title": "Solar Storms",
+  "subtitle": "When the Sun gets angry",
+  "next_stop": "Venus",
+  "yt_title": "Auroras Over Mexico?! Solar Storms 🌌 | Ep. 30 #shorts",
+  "description": "Episode 30 of a daily journey through the universe. 🌌\nWe ride a solar storm: billions of tons of charged gas, the May 2024 storm that brought auroras as far south as Mexico, the Carrington Event of 1859, and the Sun's 11-year cycle.\n\n➡️ Tomorrow, Episode 31: Next stop, Venus. The hottest planet.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #solarstorms #astronomy #shorts #science",
+  "tags": [
+    "solar storm",
+    "aurora",
+    "carrington event",
+    "coronal mass ejection",
+    "geomagnetic storm",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty. Next stop... solar storms.",
+      "visual": {
+        "type": "title",
+        "query": "solar flare SDO"
+      }
+    },
+    {
+      "text": "Sometimes the Sun throws billions of tons of charged gas into space. It's called a coronal mass ejection.",
+      "headline": "Billions of tons, launched",
+      "visual": {
+        "type": "image",
+        "query": "coronal mass ejection SOHO"
+      }
+    },
+    {
+      "text": "When it hits Earth, it lights up auroras. In May twenty twenty-four, a huge storm painted the sky pink and red as far south as Mexico.",
+      "headline": "Auroras over Mexico, 2024",
+      "visual": {
+        "type": "image",
+        "query": "aurora"
+      }
+    },
+    {
+      "text": "The biggest storm on record, the Carrington Event of eighteen fifty-nine, set telegraph wires sparking.",
+      "visual": {
+        "type": "card",
+        "big": "1859",
+        "label": "the Carrington Event"
+      }
+    },
+    {
+      "text": "A storm that strong today could damage satellites and knock out power grids.",
+      "headline": "Satellites and power grids at risk",
+      "visual": {
+        "type": "image",
+        "query": "satellite orbit Earth"
+      }
+    },
+    {
+      "text": "The Sun follows a cycle of about eleven years. We've just passed its most active phase.",
+      "visual": {
+        "type": "card",
+        "big": "11 yrs",
+        "label": "the Sun's activity cycle"
+      }
+    },
+    {
+      "text": "Tomorrow, we visit the hottest planet. And no, it's not Mercury. Next stop: Venus. Follow, so you don't miss episode thirty-one.",
+      "visual": {
+        "type": "end",
+        "query": "Venus Magellan",
+        "warm": true
+      }
+    }
+  ]
+}

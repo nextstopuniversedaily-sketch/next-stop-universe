@@ -1,0 +1,79 @@
+{
+  "number": 14,
+  "title": "Pillars of Creation",
+  "subtitle": "Where stars are born",
+  "next_stop": "Betelgeuse",
+  "yt_title": "Where Stars Are Born: Pillars of Creation ✨ | Ep. 14 #shorts",
+  "description": "Episode 14 of a daily journey through the universe. ✨\nWe fly into the Pillars of Creation in the Eagle Nebula: towers of gas four light-years tall, 6,500 light-years away, where new stars are being born right now.\n\n➡️ Tomorrow, Episode 15: Next stop, Betelgeuse. A giant star that will one day explode.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #pillarsofcreation #astronomy #shorts #science",
+  "tags": [
+    "pillars of creation",
+    "eagle nebula",
+    "james webb",
+    "hubble",
+    "star formation",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fourteen. Next stop... the Pillars of Creation.",
+      "visual": {
+        "type": "title",
+        "query": "Pillars of Creation Webb"
+      }
+    },
+    {
+      "text": "These towers of gas and dust are the Pillars of Creation, inside the Eagle Nebula.",
+      "headline": "Inside the Eagle Nebula",
+      "visual": {
+        "type": "image",
+        "query": "Eagle Nebula"
+      }
+    },
+    {
+      "text": "The tallest one is about four light-years long. Our whole solar system would be a tiny speck next to it.",
+      "visual": {
+        "type": "card",
+        "big": "4",
+        "label": "light-years tall"
+      }
+    },
+    {
+      "text": "They're about six and a half thousand light-years away.",
+      "visual": {
+        "type": "card",
+        "big": "6,500",
+        "label": "light-years from Earth"
+      }
+    },
+    {
+      "text": "Inside them, new stars are being born right now. Webb's infrared eyes can see through the dust to the young stars glowing inside.",
+      "headline": "Stars being born",
+      "visual": {
+        "type": "image",
+        "query": "Pillars of Creation infrared"
+      }
+    },
+    {
+      "text": "Hubble first photographed them in nineteen ninety-five, and it became one of the most famous space photos ever.",
+      "headline": "Famous since 1995",
+      "visual": {
+        "type": "image",
+        "query": "Pillars of Creation Hubble"
+      }
+    },
+    {
+      "text": "Tomorrow, we meet a giant star that will one day explode. Next stop: Betelgeuse. Follow, so you don't miss episode fifteen.",
+      "visual": {
+        "type": "end",
+        "query": "Betelgeuse",
+        "warm": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "number": 27,
+  "title": "HD 189733b",
+  "subtitle": "Glass rain, sideways",
+  "next_stop": "Rogue Planets",
+  "yt_title": "The Blue Planet Where It Rains Glass 🔵 | Ep. 27 #shorts",
+  "description": "Episode 27 of a daily journey through the universe. 🔵\nWe visit HD 189733b: a deep blue world colored by glass clouds, 8,700 km/h winds that blow glass rain sideways, and a smell of rotten eggs found by Webb in 2024.\n\n➡️ Tomorrow, Episode 28: Next stop, rogue planets. Worlds with no sun at all.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #hd189733b #astronomy #shorts #science",
+  "tags": [
+    "HD 189733b",
+    "exoplanet",
+    "glass rain",
+    "hubble",
+    "webb",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-seven. Next stop... a planet where it rains glass.",
+      "visual": {
+        "type": "title",
+        "query": "HD 189733b"
+      }
+    },
+    {
+      "text": "From far away, HD one eight nine seven three three b looks like a calm, deep blue world, a bit like Earth.",
+      "headline": "A deep blue world",
+      "visual": {
+        "type": "image",
+        "query": "HD 189733b illustration"
+      }
+    },
+    {
+      "text": "But its blue color comes from clouds full of tiny glass particles.",
+      "headline": "Blue from glass",
+      "visual": {
+        "type": "image",
+        "query": "exoplanet atmosphere illustration"
+      }
+    },
+    {
+      "text": "Its winds blow at about eight thousand seven hundred kilometers per hour.",
+      "visual": {
+        "type": "card",
+        "big": "8,700",
+        "label": "km/h winds"
+      }
+    },
+    {
+      "text": "So the glass rain doesn't fall down. It flies sideways.",
+      "headline": "Glass rain, sideways",
+      "visual": {
+        "type": "image",
+        "query": "hot Jupiter"
+      }
+    },
+    {
+      "text": "And in twenty twenty-four, Webb found its air contains hydrogen sulfide. It would smell like rotten eggs.",
+      "visual": {
+        "type": "card",
+        "big": "H2S",
+        "label": "rotten-egg gas in its air",
+        "sub": "Found by Webb in 2024"
+      }
+    },
+    {
+      "text": "Tomorrow, a planet with no sun at all. Next stop: rogue planets, drifting alone through the dark. Follow, so you don't miss episode twenty-eight.",
+      "visual": {
+        "type": "end",
+        "query": "rogue planet",
+        "warm": false
+      }
+    }
+  ]
+}

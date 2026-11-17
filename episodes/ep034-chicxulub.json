@@ -1,0 +1,79 @@
+{
+  "number": 34,
+  "title": "Chicxulub",
+  "subtitle": "It hit Mexico",
+  "next_stop": "Apophis",
+  "yt_title": "The Asteroid That Killed the Dinosaurs Hit Mexico ☄️ | Ep. 34 #shorts",
+  "description": "Episode 34 of a daily journey through the universe. ☄️\nWe go back 66 million years to Chicxulub: a 10 km asteroid that hit Mexico's Yucatán Peninsula, a 180 km crater, years of darkness, 75% of species lost, and why birds are living dinosaurs.\n\n➡️ Tomorrow, Episode 35: Next stop, Apophis. An asteroid passing very close to Earth in 2029.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #chicxulub #astronomy #shorts #science",
+  "tags": [
+    "chicxulub",
+    "dinosaurs",
+    "asteroid impact",
+    "yucatan",
+    "mexico",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-four. Next stop... the asteroid that ended the dinosaurs.",
+      "visual": {
+        "type": "title",
+        "query": "Chicxulub"
+      }
+    },
+    {
+      "text": "Sixty-six million years ago, an asteroid about ten kilometers wide slammed into what is now Mexico's Yucatán Peninsula.",
+      "headline": "Yucatán, Mexico",
+      "visual": {
+        "type": "image",
+        "query": "Yucatan Peninsula"
+      }
+    },
+    {
+      "text": "It left a crater about one hundred eighty kilometers wide, now buried underground.",
+      "visual": {
+        "type": "card",
+        "big": "180 km",
+        "label": "wide crater"
+      }
+    },
+    {
+      "text": "The impact threw dust and soot high into the sky, blocking sunlight for years.",
+      "headline": "Darkness for years",
+      "visual": {
+        "type": "image",
+        "query": "asteroid impact illustration"
+      }
+    },
+    {
+      "text": "About three quarters of all species on Earth died out, including the dinosaurs that couldn't fly.",
+      "visual": {
+        "type": "card",
+        "big": "75%",
+        "label": "of species wiped out"
+      }
+    },
+    {
+      "text": "The birds you see today are descendants of the dinosaurs that survived.",
+      "headline": "Dinosaurs never fully left",
+      "visual": {
+        "type": "image",
+        "query": "birds"
+      }
+    },
+    {
+      "text": "Tomorrow, an asteroid that will fly incredibly close to Earth in twenty twenty-nine. Next stop: Apophis. Follow, so you don't miss episode thirty-five.",
+      "visual": {
+        "type": "end",
+        "query": "asteroid illustration",
+        "warm": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "number": 29,
+  "title": "The Sun",
+  "subtitle": "Our star",
+  "next_stop": "Solar Storms",
+  "yt_title": "1.3 Million Earths Fit Inside the Sun ☀️ | Ep. 29 #shorts",
+  "description": "Episode 29 of a daily journey through the universe. ☀️\nWe come home to the Sun: 99.8% of the solar system's mass, 1.3 million Earths inside, a 15-million-degree core, light that takes thousands of years to escape, and 4 million tons turned into energy every second.\n\n➡️ Tomorrow, Episode 30: Next stop, solar storms. And why people saw auroras over Mexico.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #thesun #astronomy #shorts #science",
+  "tags": [
+    "sun",
+    "our star",
+    "solar dynamics observatory",
+    "solar system",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-nine. Next stop... the Sun.",
+      "visual": {
+        "type": "title",
+        "query": "Sun SDO"
+      }
+    },
+    {
+      "text": "The Sun holds about ninety-nine point eight percent of all the mass in our solar system.",
+      "headline": "99.8% of everything",
+      "visual": {
+        "type": "image",
+        "query": "Sun Solar Dynamics Observatory"
+      }
+    },
+    {
+      "text": "About one point three million Earths could fit inside it.",
+      "visual": {
+        "type": "card",
+        "big": "1.3M",
+        "label": "Earths could fit inside"
+      }
+    },
+    {
+      "text": "Its core is about fifteen million degrees Celsius.",
+      "visual": {
+        "type": "card",
+        "big": "15M°C",
+        "label": "at the core"
+      }
+    },
+    {
+      "text": "Light made in the core can take tens of thousands of years to escape. Then, just eight minutes to reach you.",
+      "headline": "Old light, fast trip",
+      "visual": {
+        "type": "image",
+        "query": "Sun surface closeup"
+      }
+    },
+    {
+      "text": "Every second, it turns about four million tons of matter into pure energy.",
+      "headline": "4 million tons a second",
+      "visual": {
+        "type": "image",
+        "query": "solar flare"
+      }
+    },
+    {
+      "text": "Tomorrow, we see what happens when the Sun gets angry, and why people saw auroras over Mexico. Next stop: solar storms. Follow, so you don't miss episode thirty.",
+      "visual": {
+        "type": "end",
+        "query": "coronal mass ejection",
+        "warm": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "number": 18,
+  "title": "The Milky Way",
+  "subtitle": "Our home galaxy",
+  "next_stop": "Andromeda",
+  "yt_title": "Our Galaxy Has 100 Billion+ Stars 🌌 | Ep. 18 #shorts",
+  "description": "Episode 18 of a daily journey through the universe. 🌌\nWe zoom out to the Milky Way: a spiral of 100 to 400 billion stars, 100,000 light-years across, a galaxy no one has ever photographed from outside, and the small galaxies orbiting it.\n\n➡️ Tomorrow, Episode 19: Next stop, Andromeda. Will it crash into us?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #milkyway #astronomy #shorts #science",
+  "tags": [
+    "milky way",
+    "galaxy",
+    "spiral galaxy",
+    "magellanic clouds",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eighteen. Next stop... the Milky Way.",
+      "visual": {
+        "type": "title",
+        "query": "Milky Way"
+      }
+    },
+    {
+      "text": "Our galaxy, the Milky Way, is a giant spiral of stars, gas and dust. We live in one of its arms.",
+      "headline": "We live in a spiral arm",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way galaxy illustration"
+      }
+    },
+    {
+      "text": "It holds between one hundred and four hundred billion stars.",
+      "visual": {
+        "type": "card",
+        "big": "100–400B",
+        "label": "stars"
+      }
+    },
+    {
+      "text": "It's about a hundred thousand light-years across.",
+      "visual": {
+        "type": "card",
+        "big": "100,000",
+        "label": "light-years across"
+      }
+    },
+    {
+      "text": "No one has ever photographed it from outside. Every picture of the whole galaxy is an illustration, based on maps of its stars.",
+      "headline": "No photo from outside exists",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way Gaia"
+      }
+    },
+    {
+      "text": "On a dark night, that band of light across the sky is our galaxy, seen from the inside.",
+      "headline": "Seen from the inside",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way night sky"
+      }
+    },
+    {
+      "text": "And it isn't alone. Smaller galaxies, like the Magellanic Clouds, orbit around it.",
+      "headline": "Galaxies orbiting ours",
+      "visual": {
+        "type": "image",
+        "query": "Large Magellanic Cloud"
+      }
+    },
+    {
+      "text": "Tomorrow, we visit our biggest neighbor, and ask: will it crash into us? Next stop: Andromeda. Follow, so you don't miss episode nineteen.",
+      "visual": {
+        "type": "end",
+        "query": "Andromeda galaxy",
+        "warm": false
+      }
+    }
+  ]
+}

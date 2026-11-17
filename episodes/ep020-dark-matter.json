@@ -1,0 +1,78 @@
+{
+  "number": 20,
+  "title": "Dark Matter",
+  "subtitle": "The invisible universe",
+  "next_stop": "Dark Energy",
+  "yt_title": "95% of the Universe Is Invisible 🌑 | Ep. 20 #shorts",
+  "description": "Episode 20 of a daily journey through the universe. 🌑\nWe hunt dark matter: why galaxies don't fly apart, five times more of it than normal matter, how we see it bend light, the Bullet Cluster, and why everything we can see is just 5% of the universe.\n\n➡️ Tomorrow, Episode 21: Next stop, dark energy. The force pushing the universe apart.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #darkmatter #astronomy #shorts #science",
+  "tags": [
+    "dark matter",
+    "bullet cluster",
+    "gravitational lensing",
+    "cosmology",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty. Next stop... dark matter.",
+      "visual": {
+        "type": "title",
+        "query": "Bullet Cluster"
+      }
+    },
+    {
+      "text": "Galaxies spin so fast they should fly apart. Something invisible is holding them together.",
+      "headline": "Something invisible",
+      "visual": {
+        "type": "image",
+        "query": "spiral galaxy Hubble"
+      }
+    },
+    {
+      "text": "Scientists call it dark matter. There's about five times more of it than normal matter.",
+      "visual": {
+        "type": "card",
+        "big": "5×",
+        "label": "more dark matter than normal matter"
+      }
+    },
+    {
+      "text": "We can't see it or touch it. We only see its gravity, bending the light of distant galaxies.",
+      "headline": "We only see its gravity",
+      "visual": {
+        "type": "image",
+        "query": "gravitational lensing Hubble"
+      }
+    },
+    {
+      "text": "This is the Bullet Cluster. Two clusters of galaxies smashed together, and the dark matter, shown in blue, passed right through.",
+      "headline": "The Bullet Cluster",
+      "visual": {
+        "type": "image",
+        "query": "Bullet Cluster Chandra"
+      }
+    },
+    {
+      "text": "Everything we can see, every star, planet and person, is only about five percent of the universe.",
+      "visual": {
+        "type": "card",
+        "big": "5%",
+        "label": "of the universe is normal matter"
+      }
+    },
+    {
+      "text": "Tomorrow, we meet something even stranger, pushing the universe apart. Next stop: dark energy. Follow, so you don't miss episode twenty-one.",
+      "visual": {
+        "type": "end",
+        "query": "Hubble deep field galaxies",
+        "warm": false
+      }
+    }
+  ]
+}

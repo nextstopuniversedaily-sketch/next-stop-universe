@@ -1,0 +1,80 @@
+{
+  "number": 15,
+  "title": "Betelgeuse",
+  "subtitle": "The star that will explode",
+  "next_stop": "Supernova",
+  "yt_title": "This Star Will Explode 💥 Betelgeuse | Ep. 15 #shorts",
+  "description": "Episode 15 of a daily journey through the universe. 🔴\nWe visit Betelgeuse: a red supergiant about 700 times wider than the Sun, the Great Dimming of 2019, its hidden companion star Siwarha found in 2025, and the supernova coming within 100,000 years.\n\n➡️ Tomorrow, Episode 16: Next stop, a supernova. And where you came from.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #betelgeuse #astronomy #shorts #science",
+  "tags": [
+    "betelgeuse",
+    "red supergiant",
+    "supernova",
+    "orion",
+    "siwarha",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode fifteen. Next stop... Betelgeuse.",
+      "visual": {
+        "type": "title",
+        "query": "Betelgeuse"
+      }
+    },
+    {
+      "text": "Betelgeuse is the red star on Orion's shoulder. You can see it tonight with your own eyes.",
+      "headline": "Orion's red shoulder",
+      "visual": {
+        "type": "image",
+        "query": "Orion constellation"
+      }
+    },
+    {
+      "text": "It's about seven hundred times wider than our Sun. In our solar system, it would reach past Mars.",
+      "visual": {
+        "type": "card",
+        "big": "~700×",
+        "label": "wider than our Sun"
+      }
+    },
+    {
+      "text": "In twenty nineteen, it suddenly dimmed, and people wondered if it was about to explode. It turned out to be a giant cloud of dust it had thrown off.",
+      "headline": "The Great Dimming",
+      "visual": {
+        "type": "image",
+        "query": "Betelgeuse Hubble"
+      }
+    },
+    {
+      "text": "And in twenty twenty-five, astronomers finally spotted a small companion star circling it, named Siwarha, meaning her bracelet.",
+      "headline": "A hidden companion: Siwarha",
+      "visual": {
+        "type": "image",
+        "query": "Betelgeuse companion star"
+      }
+    },
+    {
+      "text": "Within about a hundred thousand years, it will explode as a supernova, bright enough to see in daylight.",
+      "visual": {
+        "type": "card",
+        "big": "100,000",
+        "label": "years or less until it explodes",
+        "sub": "Bright enough to see in daylight"
+      }
+    },
+    {
+      "text": "Tomorrow, we watch a star explode, and discover where you came from. Next stop: a supernova. Follow, so you don't miss episode sixteen.",
+      "visual": {
+        "type": "end",
+        "query": "Cassiopeia A",
+        "warm": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "number": 33,
+  "title": "The Geminids",
+  "subtitle": "The best meteor shower of the year",
+  "next_stop": "Chicxulub",
+  "yt_title": "Look Up Tonight: Geminid Meteor Shower 🌠 | Ep. 33 #shorts",
+  "description": "Episode 33 of a daily journey through the universe. 🌠\nTonight (Dec 13–14) the Geminid meteor shower peaks: up to 120 meteors an hour under dark skies, a thin crescent Moon that sets early, and shooting stars that come from an asteroid. How and when to watch.\n\n➡️ Tomorrow, Episode 34: Next stop, the asteroid that killed the dinosaurs. It hit Mexico.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #geminids #astronomy #shorts #science",
+  "tags": [
+    "geminids",
+    "meteor shower",
+    "shooting stars",
+    "phaethon",
+    "geminid meteor shower 2026",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-three. Next stop... tonight's shooting stars.",
+      "visual": {
+        "type": "title",
+        "query": "Geminid meteor"
+      }
+    },
+    {
+      "text": "Tonight, the Geminid meteor shower peaks. It's the strongest shower of the year.",
+      "headline": "Peaks tonight",
+      "visual": {
+        "type": "image",
+        "query": "meteor shower night sky"
+      }
+    },
+    {
+      "text": "Under a dark sky, you could see up to about a hundred twenty shooting stars an hour.",
+      "visual": {
+        "type": "card",
+        "big": "120",
+        "label": "meteors per hour (dark sky)"
+      }
+    },
+    {
+      "text": "And this year the Moon is only a thin crescent that sets early, so the sky will stay dark.",
+      "headline": "Dark skies this year",
+      "visual": {
+        "type": "image",
+        "query": "crescent Moon"
+      }
+    },
+    {
+      "text": "Most meteor showers come from comets. The Geminids come from an asteroid, called thirty-two hundred Phaethon.",
+      "headline": "They come from an asteroid",
+      "visual": {
+        "type": "image",
+        "query": "asteroid Phaethon"
+      }
+    },
+    {
+      "text": "They hit our atmosphere at about thirty-five kilometers per second, and burn up.",
+      "visual": {
+        "type": "card",
+        "big": "35 km/s",
+        "label": "meteor speed"
+      }
+    },
+    {
+      "text": "Best time: after midnight. Find a dark place, let your eyes adjust, and look up. No telescope needed.",
+      "headline": "How to watch",
+      "visual": {
+        "type": "image",
+        "query": "stars night sky"
+      }
+    },
+    {
+      "text": "Tomorrow, the most famous space rock of all, which hit Mexico. Next stop: the asteroid that killed the dinosaurs. Follow, so you don't miss episode thirty-four.",
+      "visual": {
+        "type": "end",
+        "query": "Chicxulub",
+        "warm": true
+      }
+    }
+  ]
+}

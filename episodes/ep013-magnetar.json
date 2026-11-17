@@ -1,0 +1,79 @@
+{
+  "number": 13,
+  "title": "Magnetar",
+  "subtitle": "The strongest magnet in the universe",
+  "next_stop": "Pillars of Creation",
+  "yt_title": "The Strongest Magnet in the Universe 🧲 | Ep. 13 #shorts",
+  "description": "Episode 13 of a daily journey through the universe. 🧲\nWe get close to a magnetar: a magnetic field a quadrillion times Earth's, strong enough to wipe credit cards from halfway to the Moon, and a 2004 flare felt on Earth from 50,000 light-years away.\n\n➡️ Tomorrow, Episode 14: Next stop, the Pillars of Creation. Where stars are born.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #magnetar #astronomy #shorts #science",
+  "tags": [
+    "magnetar",
+    "neutron star",
+    "SGR 1806-20",
+    "magnetic field",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirteen. Next stop... a magnetar.",
+      "visual": {
+        "type": "title",
+        "query": "magnetar"
+      }
+    },
+    {
+      "text": "A magnetar is a neutron star with the most powerful magnetic field known in the universe.",
+      "headline": "The strongest magnets known",
+      "visual": {
+        "type": "image",
+        "query": "magnetar illustration"
+      }
+    },
+    {
+      "text": "Its magnetic field is about a thousand trillion times stronger than Earth's.",
+      "visual": {
+        "type": "card",
+        "big": "1 quadrillion×",
+        "label": "Earth's magnetic field"
+      }
+    },
+    {
+      "text": "Put one halfway to the Moon, and it would erase every credit card on Earth.",
+      "headline": "Wipes credit cards from far away",
+      "visual": {
+        "type": "image",
+        "query": "magnetar flare"
+      }
+    },
+    {
+      "text": "Get within about a thousand kilometers, and its field would tear apart the atoms in your body.",
+      "headline": "Deadly from 1,000 km",
+      "visual": {
+        "type": "image",
+        "query": "neutron star magnetic field"
+      }
+    },
+    {
+      "text": "In two thousand four, a magnetar fifty thousand light-years away flared so brightly it disturbed Earth's upper atmosphere.",
+      "visual": {
+        "type": "card",
+        "big": "50,000",
+        "label": "light-years away, and felt on Earth",
+        "sub": "SGR 1806-20, December 2004"
+      }
+    },
+    {
+      "text": "Tomorrow, we visit a place where stars are born. Next stop: the Pillars of Creation. Follow, so you don't miss episode fourteen.",
+      "visual": {
+        "type": "end",
+        "query": "Pillars of Creation Webb",
+        "warm": false
+      }
+    }
+  ]
+}

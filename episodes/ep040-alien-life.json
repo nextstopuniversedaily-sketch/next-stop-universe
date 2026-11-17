@@ -1,0 +1,87 @@
+{
+  "number": 40,
+  "title": "Alien Life?",
+  "subtitle": "Where we're looking",
+  "next_stop": "The Wow! Signal",
+  "yt_title": "Where We Might Find Alien Life 👽 | Ep. 40 #shorts",
+  "description": "Episode 40 of a daily journey through the universe. 👽\nWe search for alien life: icy moons with hidden oceans, Enceladus spraying water into space, phosphorus found in its ocean in 2023, Europa Clipper arriving in 2030, and the hunt in other planets' air.\n\n➡️ Tomorrow, Episode 41: Next stop, the Wow! signal. A message from space never explained.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #alienlife #astronomy #shorts #science",
+  "tags": [
+    "alien life",
+    "astrobiology",
+    "enceladus",
+    "europa clipper",
+    "europa",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode forty. Next stop... where we might find alien life.",
+      "visual": {
+        "type": "title",
+        "query": "Enceladus plumes Cassini"
+      }
+    },
+    {
+      "text": "If life exists beyond Earth, our best bets may be icy moons with oceans hidden under their shells.",
+      "headline": "Oceans under the ice",
+      "visual": {
+        "type": "image",
+        "query": "Europa"
+      }
+    },
+    {
+      "text": "Saturn's moon Enceladus sprays water into space from cracks near its south pole. The Cassini spacecraft flew right through the spray.",
+      "headline": "A moon that sprays water",
+      "visual": {
+        "type": "image",
+        "query": "Enceladus"
+      }
+    },
+    {
+      "text": "Its ocean holds many of the ingredients life needs. In twenty twenty-three, scientists even found phosphorus.",
+      "visual": {
+        "type": "card",
+        "big": "2023",
+        "label": "phosphorus found in its ocean"
+      }
+    },
+    {
+      "text": "NASA's Europa Clipper is on its way to Jupiter's moon Europa, to find out if its ocean could support life.",
+      "headline": "Europa Clipper is on the way",
+      "visual": {
+        "type": "image",
+        "query": "Europa Clipper"
+      }
+    },
+    {
+      "text": "It arrives in twenty thirty.",
+      "visual": {
+        "type": "card",
+        "big": "2030",
+        "label": "Europa Clipper arrives"
+      }
+    },
+    {
+      "text": "And beyond our solar system, telescopes are studying the air of distant planets, looking for signs of life.",
+      "headline": "Searching other planets' air",
+      "visual": {
+        "type": "image",
+        "query": "exoplanet illustration"
+      }
+    },
+    {
+      "text": "Tomorrow, a mysterious signal from space that has never been explained. Next stop: the Wow signal. Follow, so you don't miss episode forty-one.",
+      "visual": {
+        "type": "end",
+        "query": "radio telescope",
+        "warm": false
+      }
+    }
+  ]
+}

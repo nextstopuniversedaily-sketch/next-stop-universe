@@ -1,0 +1,78 @@
+{
+  "number": 26,
+  "title": "WASP-76b",
+  "subtitle": "Season 2: Strange worlds",
+  "next_stop": "HD 189733b",
+  "yt_title": "The Planet Where It Rains Iron 🔥 | Ep. 26 #shorts",
+  "description": "Episode 26 of a daily journey through the universe. 🔥\nSeason 2 begins with WASP-76b: one side always facing its star, 2,400°C days, iron vapor that falls as iron rain on the night side, and a year that lasts 1.8 days.\n\n➡️ Tomorrow, Episode 27: Next stop, a blue planet where it rains glass sideways.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #wasp76b #astronomy #shorts #science",
+  "tags": [
+    "wasp-76b",
+    "exoplanet",
+    "iron rain",
+    "hot jupiter",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-six. Next stop... a planet where it rains iron.",
+      "visual": {
+        "type": "title",
+        "query": "hot Jupiter exoplanet"
+      }
+    },
+    {
+      "text": "Welcome to season two: the strangest worlds ever found. First, WASP seventy-six b, about six hundred forty light-years away.",
+      "headline": "Season 2: strange worlds",
+      "visual": {
+        "type": "image",
+        "query": "exoplanet illustration"
+      }
+    },
+    {
+      "text": "One side always faces its star. It's so hot there that iron turns into vapor.",
+      "headline": "Iron turns to vapor",
+      "visual": {
+        "type": "image",
+        "query": "hot Jupiter illustration"
+      }
+    },
+    {
+      "text": "On the day side, temperatures climb above two thousand four hundred degrees Celsius.",
+      "visual": {
+        "type": "card",
+        "big": "2,400°C",
+        "label": "on the day side"
+      }
+    },
+    {
+      "text": "Winds carry that iron vapor to the cooler night side, where it condenses, and falls as iron rain.",
+      "headline": "It rains iron",
+      "visual": {
+        "type": "image",
+        "query": "exoplanet night side"
+      }
+    },
+    {
+      "text": "And a year there lasts less than two Earth days.",
+      "visual": {
+        "type": "card",
+        "big": "1.8 days",
+        "label": "one full year"
+      }
+    },
+    {
+      "text": "Tomorrow, an even more violent world. Next stop: a blue planet where it rains glass sideways. Follow, so you don't miss episode twenty-seven.",
+      "visual": {
+        "type": "end",
+        "query": "HD 189733b",
+        "warm": false
+      }
+    }
+  ]
+}

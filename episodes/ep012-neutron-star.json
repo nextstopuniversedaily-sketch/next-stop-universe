@@ -1,0 +1,87 @@
+{
+  "number": 12,
+  "title": "Neutron Star",
+  "subtitle": "A billion tons per teaspoon",
+  "next_stop": "Magnetar",
+  "yt_title": "One Teaspoon Weighs a Billion Tons 🤯 | Ep. 12 #shorts",
+  "description": "Episode 12 of a daily journey through the universe. ⭐\nWe visit a neutron star: heavier than the Sun but only 20 km wide, a billion tons per teaspoon, spinning 716 times a second, mountains under a millimeter tall, and where gold comes from.\n\n➡️ Tomorrow, Episode 13: Next stop, a magnetar. The strongest magnet in the universe.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #neutronstar #astronomy #shorts #science",
+  "tags": [
+    "neutron star",
+    "pulsar",
+    "kilonova",
+    "gold",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twelve. Next stop... a neutron star.",
+      "visual": {
+        "type": "title",
+        "query": "neutron star illustration"
+      }
+    },
+    {
+      "text": "When a giant star explodes, its core can collapse into a ball just twenty kilometers wide, but heavier than our Sun.",
+      "headline": "Heavier than the Sun, 20 km wide",
+      "visual": {
+        "type": "image",
+        "query": "Crab Nebula"
+      }
+    },
+    {
+      "text": "It's so dense that one teaspoon of it would weigh about a billion tons.",
+      "visual": {
+        "type": "card",
+        "big": "1 billion",
+        "label": "tons per teaspoon"
+      }
+    },
+    {
+      "text": "Some spin over seven hundred times every second.",
+      "visual": {
+        "type": "card",
+        "big": "716",
+        "label": "spins per second",
+        "sub": "The fastest known pulsar"
+      }
+    },
+    {
+      "text": "As they spin, beams of radiation sweep across space like a lighthouse. We call them pulsars.",
+      "headline": "Cosmic lighthouses",
+      "visual": {
+        "type": "image",
+        "query": "pulsar illustration"
+      }
+    },
+    {
+      "text": "Its gravity is so strong that the tallest mountains on its surface are less than a millimeter high.",
+      "headline": "Mountains under 1 mm",
+      "visual": {
+        "type": "image",
+        "query": "neutron star"
+      }
+    },
+    {
+      "text": "And when two neutron stars crash together, they forge gold. Some of the gold on Earth may have been made this way.",
+      "headline": "Where gold comes from",
+      "visual": {
+        "type": "image",
+        "query": "neutron star merger kilonova"
+      }
+    },
+    {
+      "text": "Tomorrow, we meet the strongest magnet in the universe. Next stop: a magnetar. Follow, so you don't miss episode thirteen.",
+      "visual": {
+        "type": "end",
+        "query": "magnetar illustration",
+        "warm": false
+      }
+    }
+  ]
+}

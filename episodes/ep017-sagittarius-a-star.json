@@ -1,0 +1,79 @@
+{
+  "number": 17,
+  "title": "Sagittarius A*",
+  "subtitle": "The black hole at the heart of the Milky Way",
+  "next_stop": "The Milky Way",
+  "yt_title": "The Monster at the Center of Our Galaxy 🌀 | Ep. 17 #shorts",
+  "description": "Episode 17 of a daily journey through the universe. 🌀\nWe reach the center of the Milky Way: Sagittarius A*, a black hole of 4 million suns, stars racing around it, its first image from 2022, and our 230-million-year lap around it.\n\n➡️ Tomorrow, Episode 18: Next stop, the Milky Way. Our whole galaxy.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #sagittariusastar #astronomy #shorts #science",
+  "tags": [
+    "sagittarius a*",
+    "supermassive black hole",
+    "milky way",
+    "galactic center",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seventeen. Next stop... the center of our galaxy.",
+      "visual": {
+        "type": "title",
+        "query": "galactic center Chandra"
+      }
+    },
+    {
+      "text": "At the center of the Milky Way hides a supermassive black hole, about twenty-six thousand light-years from us.",
+      "headline": "26,000 light-years away",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way center"
+      }
+    },
+    {
+      "text": "It weighs about four million times as much as our Sun.",
+      "visual": {
+        "type": "card",
+        "big": "4 million",
+        "label": "Suns"
+      }
+    },
+    {
+      "text": "We know it's there because stars race around it. One star, S2, reaches almost three percent of the speed of light.",
+      "headline": "Stars racing around it",
+      "visual": {
+        "type": "image",
+        "query": "galactic center stars"
+      }
+    },
+    {
+      "text": "In twenty twenty-two, astronomers released the first image of it. From here, it looks as small as a donut on the Moon.",
+      "headline": "First image: 2022",
+      "visual": {
+        "type": "image",
+        "query": "Sagittarius A* Event Horizon Telescope"
+      }
+    },
+    {
+      "text": "Our whole solar system takes about two hundred thirty million years to go around it once.",
+      "visual": {
+        "type": "card",
+        "big": "230M",
+        "label": "years for one lap around it",
+        "sub": "One \"galactic year\""
+      }
+    },
+    {
+      "text": "Tomorrow, we zoom out and see our whole galaxy. Next stop: the Milky Way. Follow, so you don't miss episode eighteen.",
+      "visual": {
+        "type": "end",
+        "query": "Milky Way galaxy",
+        "warm": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "number": 36,
+  "title": "Halley's Comet",
+  "subtitle": "Once in a lifetime",
+  "next_stop": "The Space Station",
+  "yt_title": "Halley's Comet Returns in 2061 ☄️ | Ep. 36 #shorts",
+  "description": "Episode 36 of a daily journey through the universe. ☄️\nWe chase Halley's Comet: a dirty snowball that returns every 76 years, the 1986 spacecraft flyby, its return in 2061, and the two meteor showers its dust creates every year.\n\n➡️ Tomorrow, Episode 37: Next stop, the International Space Station.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #halleyscomet #astronomy #shorts #science",
+  "tags": [
+    "halley's comet",
+    "comet",
+    "giotto",
+    "2061",
+    "meteor shower",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-six. Next stop... Halley's Comet.",
+      "visual": {
+        "type": "title",
+        "query": "Halley's Comet 1986"
+      }
+    },
+    {
+      "text": "A comet is a dirty snowball of ice and dust. Near the Sun, it heats up and grows a glowing tail.",
+      "headline": "A cosmic snowball",
+      "visual": {
+        "type": "image",
+        "query": "comet tail"
+      }
+    },
+    {
+      "text": "Halley's Comet returns about every seventy-six years.",
+      "visual": {
+        "type": "card",
+        "big": "76 yrs",
+        "label": "between visits"
+      }
+    },
+    {
+      "text": "Its last visit was in nineteen eighty-six. Spacecraft flew past and photographed its dark, potato-shaped core.",
+      "headline": "Last seen: 1986",
+      "visual": {
+        "type": "image",
+        "query": "Halley comet nucleus Giotto"
+      }
+    },
+    {
+      "text": "It comes back in twenty sixty-one. Mark your calendar.",
+      "visual": {
+        "type": "card",
+        "big": "2061",
+        "label": "its next return"
+      }
+    },
+    {
+      "text": "And every year, Earth passes through its leftover dust. That creates two meteor showers, in May and October.",
+      "headline": "Its dust becomes shooting stars",
+      "visual": {
+        "type": "image",
+        "query": "meteor"
+      }
+    },
+    {
+      "text": "Tomorrow, we visit the only home humans have in space. Next stop: the International Space Station. Follow, so you don't miss episode thirty-seven.",
+      "visual": {
+        "type": "end",
+        "query": "International Space Station",
+        "warm": false
+      }
+    }
+  ]
+}

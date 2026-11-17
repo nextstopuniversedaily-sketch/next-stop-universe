@@ -1,0 +1,78 @@
+{
+  "number": 23,
+  "title": "The Big Bang",
+  "subtitle": "The first moments",
+  "next_stop": "Webb's Deepest View",
+  "yt_title": "What Happened at the Big Bang? 💥 | Ep. 23 #shorts",
+  "description": "Episode 23 of a daily journey through the universe. 💥\nWe go back to the Big Bang: 13.8 billion years ago, the first elements in three minutes, the cosmic dark ages, the first stars, and why your water is billions of years old.\n\n➡️ Tomorrow, Episode 24: Next stop, the oldest galaxy ever found.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #bigbang #astronomy #shorts #science",
+  "tags": [
+    "big bang",
+    "early universe",
+    "first stars",
+    "cosmology",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-three. Next stop... the Big Bang.",
+      "visual": {
+        "type": "title",
+        "query": "Big Bang"
+      }
+    },
+    {
+      "text": "Thirteen point eight billion years ago, the universe began. Not as an explosion in space, but as space itself expanding.",
+      "headline": "13.8 billion years ago",
+      "visual": {
+        "type": "image",
+        "query": "early universe"
+      }
+    },
+    {
+      "text": "Within its first three minutes, the first atomic nuclei formed, mostly hydrogen and helium.",
+      "visual": {
+        "type": "card",
+        "big": "3 min",
+        "label": "to make the first elements"
+      }
+    },
+    {
+      "text": "For millions of years after, there were no stars at all. Astronomers call it the cosmic dark ages.",
+      "headline": "The cosmic dark ages",
+      "visual": {
+        "type": "image",
+        "query": "first stars illustration"
+      }
+    },
+    {
+      "text": "The first stars switched on within roughly two hundred million years, lighting up the universe.",
+      "visual": {
+        "type": "card",
+        "big": "~200M",
+        "label": "years until the first stars"
+      }
+    },
+    {
+      "text": "And the hydrogen in the water you drink was made in those first minutes.",
+      "headline": "Your water is 13.8 billion years old",
+      "visual": {
+        "type": "image",
+        "query": "universe timeline"
+      }
+    },
+    {
+      "text": "Tomorrow, we see the oldest galaxy ever found. Next stop: the edge of time, with the James Webb Telescope. Follow, so you don't miss episode twenty-four.",
+      "visual": {
+        "type": "end",
+        "query": "James Webb Space Telescope",
+        "warm": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "number": 31,
+  "title": "Venus",
+  "subtitle": "The hottest planet",
+  "next_stop": "Mercury",
+  "yt_title": "Venus: Hot Enough to Melt Lead 🔥 | Ep. 31 #shorts",
+  "description": "Episode 31 of a daily journey through the universe. 🔥\nWe land on Venus: hotter than Mercury at 465°C, crushing air like 900 meters under the sea, a day longer than its year, and a Sun that rises in the west.\n\n➡️ Tomorrow, Episode 32: Next stop, Mercury. Fire and ice.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #venus #astronomy #shorts #science",
+  "tags": [
+    "venus",
+    "hottest planet",
+    "greenhouse effect",
+    "magellan",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-one. Next stop... Venus.",
+      "visual": {
+        "type": "title",
+        "query": "Venus Magellan"
+      }
+    },
+    {
+      "text": "Venus is the hottest planet, even though Mercury is closer to the Sun.",
+      "headline": "Hotter than Mercury",
+      "visual": {
+        "type": "image",
+        "query": "Venus"
+      }
+    },
+    {
+      "text": "Its surface is about four hundred sixty-five degrees Celsius. Hot enough to melt lead.",
+      "visual": {
+        "type": "card",
+        "big": "465°C",
+        "label": "on the surface",
+        "sub": "Hot enough to melt lead"
+      }
+    },
+    {
+      "text": "Its thick carbon dioxide air traps the heat. Standing there would feel like being nine hundred meters under the ocean.",
+      "headline": "Crushing pressure",
+      "visual": {
+        "type": "image",
+        "query": "Venus surface Venera"
+      }
+    },
+    {
+      "text": "And a day on Venus is longer than its year.",
+      "visual": {
+        "type": "card",
+        "big": "243 days",
+        "label": "for one spin",
+        "sub": "One year: 225 days"
+      }
+    },
+    {
+      "text": "It also spins backwards. On Venus, the Sun rises in the west.",
+      "headline": "Sunrise in the west",
+      "visual": {
+        "type": "image",
+        "query": "Venus clouds"
+      }
+    },
+    {
+      "text": "Tomorrow, the smallest planet, hiding ice right next to the Sun. Next stop: Mercury. Follow, so you don't miss episode thirty-two.",
+      "visual": {
+        "type": "end",
+        "query": "Mercury MESSENGER",
+        "warm": false
+      }
+    }
+  ]
+}

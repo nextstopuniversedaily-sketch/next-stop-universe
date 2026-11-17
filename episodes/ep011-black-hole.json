@@ -1,0 +1,87 @@
+{
+  "number": 11,
+  "title": "A Black Hole",
+  "subtitle": "What if you fell in?",
+  "next_stop": "Neutron Star",
+  "yt_title": "What If You Fell Into a Black Hole? 🕳️ | Ep. 11 #shorts",
+  "description": "Episode 11 of a daily journey through the universe. 🕳️\nWe fall toward a black hole: gravity so strong light can't escape, spaghettification, frozen time, the first photo of a black hole, and how small our Sun would be as one.\n\n➡️ Tomorrow, Episode 12: Next stop, a neutron star. One teaspoon weighs a billion tons.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #blackhole #astronomy #shorts #science",
+  "tags": [
+    "black hole",
+    "spaghettification",
+    "event horizon",
+    "M87",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eleven. Next stop... a black hole.",
+      "visual": {
+        "type": "title",
+        "query": "black hole illustration"
+      }
+    },
+    {
+      "text": "A black hole is a place where gravity is so strong that nothing, not even light, can escape.",
+      "headline": "Not even light escapes",
+      "visual": {
+        "type": "image",
+        "query": "black hole accretion disk illustration"
+      }
+    },
+    {
+      "text": "Fall in feet first, and gravity pulls your feet much harder than your head. You'd be stretched like spaghetti. Scientists really call it spaghettification.",
+      "headline": "Spaghettification",
+      "visual": {
+        "type": "image",
+        "query": "black hole tidal disruption"
+      }
+    },
+    {
+      "text": "Time slows down near the edge. To a friend watching from far away, you'd seem to freeze there, and slowly fade from view.",
+      "headline": "Time slows down",
+      "visual": {
+        "type": "image",
+        "query": "black hole simulation"
+      }
+    },
+    {
+      "text": "The biggest black holes weigh billions of times more than our Sun.",
+      "visual": {
+        "type": "card",
+        "big": "Billions",
+        "label": "of Suns in the biggest ones"
+      }
+    },
+    {
+      "text": "In twenty nineteen, we finally saw one. This black hole sits fifty-five million light-years away, in the galaxy M87.",
+      "headline": "First photo: 2019",
+      "visual": {
+        "type": "image",
+        "query": "M87 black hole Event Horizon Telescope"
+      }
+    },
+    {
+      "text": "And if our Sun became a black hole, it would be only about six kilometers across.",
+      "visual": {
+        "type": "card",
+        "big": "6 km",
+        "label": "our Sun, as a black hole",
+        "sub": "Smaller than a city"
+      }
+    },
+    {
+      "text": "Tomorrow, we visit what's left after a giant star dies. Next stop: a neutron star, where one teaspoon weighs a billion tons. Follow, so you don't miss episode twelve.",
+      "visual": {
+        "type": "end",
+        "query": "neutron star illustration",
+        "warm": false
+      }
+    }
+  ]
+}

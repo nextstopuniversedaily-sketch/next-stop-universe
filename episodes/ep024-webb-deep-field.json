@@ -1,0 +1,80 @@
+{
+  "number": 24,
+  "title": "Webb's Deepest View",
+  "subtitle": "Galaxies from the first moments",
+  "next_stop": "The Edge",
+  "yt_title": "The Oldest Galaxy Ever Found 🔭 | Ep. 24 #shorts",
+  "description": "Episode 24 of a daily journey through the universe. 🔭\nWe look through the James Webb Space Telescope: a 6.5-meter mirror 1.5 million km away, galaxies whose light traveled 13 billion years, and MoM-z14, the most distant galaxy ever confirmed.\n\n➡️ Tomorrow, Episode 25: Next stop, the edge of the observable universe.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #webbdeepfield #astronomy #shorts #science",
+  "tags": [
+    "james webb",
+    "jwst",
+    "most distant galaxy",
+    "MoM-z14",
+    "deep field",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-four. Next stop... the dawn of time.",
+      "visual": {
+        "type": "title",
+        "query": "Webb deep field"
+      }
+    },
+    {
+      "text": "This is the James Webb Space Telescope. Its mirror is six and a half meters wide, and it works a million and a half kilometers from Earth.",
+      "headline": "1.5 million km from Earth",
+      "visual": {
+        "type": "image",
+        "query": "James Webb Space Telescope mirror"
+      }
+    },
+    {
+      "text": "Every dot of light here is a galaxy. Some of this light traveled more than thirteen billion years to reach us.",
+      "headline": "Every dot is a galaxy",
+      "visual": {
+        "type": "image",
+        "query": "Webb first deep field"
+      }
+    },
+    {
+      "text": "In twenty twenty-five, Webb confirmed the most distant galaxy ever seen. We see it as it was just two hundred eighty million years after the Big Bang.",
+      "visual": {
+        "type": "card",
+        "big": "280M",
+        "label": "years after the Big Bang",
+        "sub": "Galaxy MoM-z14"
+      }
+    },
+    {
+      "text": "That's when the universe was only about two percent of its current age.",
+      "visual": {
+        "type": "card",
+        "big": "2%",
+        "label": "of the universe's current age"
+      }
+    },
+    {
+      "text": "These early galaxies are bigger and brighter than scientists expected. Webb is rewriting the story of the first galaxies.",
+      "headline": "Bigger than expected",
+      "visual": {
+        "type": "image",
+        "query": "JADES Webb galaxies"
+      }
+    },
+    {
+      "text": "Tomorrow, we reach the end of everything we can see. Next stop: the edge of the observable universe. Follow, so you don't miss episode twenty-five.",
+      "visual": {
+        "type": "end",
+        "query": "Hubble Ultra Deep Field",
+        "warm": false
+      }
+    }
+  ]
+}

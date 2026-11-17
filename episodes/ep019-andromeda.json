@@ -1,0 +1,89 @@
+{
+  "number": 19,
+  "title": "Andromeda",
+  "subtitle": "Will it crash into us?",
+  "next_stop": "Dark Matter",
+  "yt_title": "Will Andromeda Crash Into Us? 🌌 | Ep. 19 #shorts",
+  "description": "Episode 19 of a daily journey through the universe. 🌌\nWe visit the Andromeda galaxy: 2.5 million light-years away, visible with your own eyes, racing toward us at 100 km/s, and why a 2025 study says a crash is now only a 50/50 chance.\n\n➡️ Tomorrow, Episode 20: Next stop, dark matter. The invisible stuff holding galaxies together.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #andromeda #astronomy #shorts #science",
+  "tags": [
+    "andromeda",
+    "galaxy collision",
+    "milky way",
+    "hubble",
+    "gaia",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode nineteen. Next stop... Andromeda.",
+      "visual": {
+        "type": "title",
+        "query": "Andromeda galaxy"
+      }
+    },
+    {
+      "text": "Andromeda is the biggest galaxy near us, about two and a half million light-years away.",
+      "headline": "2.5 million light-years away",
+      "visual": {
+        "type": "image",
+        "query": "Andromeda galaxy Hubble"
+      }
+    },
+    {
+      "text": "On a dark night, you can see it without a telescope. It's the farthest thing most people can see with their own eyes.",
+      "headline": "Visible with your eyes",
+      "visual": {
+        "type": "image",
+        "query": "Andromeda galaxy night sky"
+      }
+    },
+    {
+      "text": "It's racing toward us at about a hundred kilometers per second.",
+      "visual": {
+        "type": "card",
+        "big": "100 km/s",
+        "label": "racing toward us",
+        "sub": "About 360,000 km/h"
+      }
+    },
+    {
+      "text": "For years, scientists said the two galaxies would crash in about four and a half billion years.",
+      "headline": "A crash in 4.5 billion years?",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way Andromeda collision"
+      }
+    },
+    {
+      "text": "But in twenty twenty-five, new data from Hubble and Gaia changed the story. Now it's only about a fifty-fifty chance in the next ten billion years.",
+      "visual": {
+        "type": "card",
+        "big": "50/50",
+        "label": "chance of a crash",
+        "sub": "In the next 10 billion years (2025 study)"
+      }
+    },
+    {
+      "text": "And even if they collide, stars are so far apart that almost none would hit each other.",
+      "headline": "Stars would almost never touch",
+      "visual": {
+        "type": "image",
+        "query": "colliding galaxies Hubble"
+      }
+    },
+    {
+      "text": "Tomorrow, we discover the invisible stuff holding galaxies together. Next stop: dark matter. Follow, so you don't miss episode twenty.",
+      "visual": {
+        "type": "end",
+        "query": "Bullet Cluster",
+        "warm": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "number": 37,
+  "title": "The Space Station",
+  "subtitle": "Life 400 km up",
+  "next_stop": "Apollo 11",
+  "yt_title": "What Life Is Like on the Space Station 👨‍🚀 | Ep. 37 #shorts",
+  "description": "Episode 37 of a daily journey through the universe. 👨‍🚀\nWe move into the International Space Station: home to people nonstop since 2000, 16 orbits a day, astronauts growing taller, 98% of water recycled (yes, including urine), and how to spot it from your backyard.\n\n➡️ Tomorrow, Episode 38: Next stop, Apollo 11. The computer that took us to the Moon.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #spacestation #astronomy #shorts #science",
+  "tags": [
+    "international space station",
+    "ISS",
+    "astronauts",
+    "life in space",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-seven. Next stop... the International Space Station.",
+      "visual": {
+        "type": "title",
+        "query": "International Space Station"
+      }
+    },
+    {
+      "text": "The International Space Station orbits about four hundred kilometers above us. People have lived on it nonstop since the year two thousand.",
+      "headline": "Home since 2000",
+      "visual": {
+        "type": "image",
+        "query": "International Space Station orbit"
+      }
+    },
+    {
+      "text": "It circles the Earth about sixteen times a day.",
+      "visual": {
+        "type": "card",
+        "big": "16",
+        "label": "orbits every day"
+      }
+    },
+    {
+      "text": "In space, your spine stretches out. Astronauts can grow up to about five centimeters taller, then shrink back on Earth.",
+      "headline": "You grow taller",
+      "visual": {
+        "type": "image",
+        "query": "astronaut ISS"
+      }
+    },
+    {
+      "text": "About ninety-eight percent of its water, including sweat and urine, is recycled into drinking water.",
+      "visual": {
+        "type": "card",
+        "big": "98%",
+        "label": "of water recycled",
+        "sub": "Yes, including urine"
+      }
+    },
+    {
+      "text": "It's about the size of a football field, and on a clear night you can see it pass over your house.",
+      "headline": "Visible from your backyard",
+      "visual": {
+        "type": "image",
+        "query": "ISS night sky"
+      }
+    },
+    {
+      "text": "Tomorrow, the tiny computer that took humans to the Moon. Next stop: Apollo eleven. Follow, so you don't miss episode thirty-eight.",
+      "visual": {
+        "type": "end",
+        "query": "Apollo 11 Saturn V launch",
+        "warm": false
+      }
+    }
+  ]
+}

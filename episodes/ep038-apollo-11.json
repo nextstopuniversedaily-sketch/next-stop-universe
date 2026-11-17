@@ -1,0 +1,79 @@
+{
+  "number": 38,
+  "title": "Apollo 11",
+  "subtitle": "The first steps on the Moon",
+  "next_stop": "Artemis II",
+  "yt_title": "Apollo 11 Had 4 KB of Memory 🌑 | Ep. 38 #shorts",
+  "description": "Episode 38 of a daily journey through the universe. 🌑\nWe fly with Apollo 11: the July 20, 1969 landing, a guidance computer with about 4 KB of memory, alarms during the descent, under a minute of fuel left, and 650 million people watching.\n\n➡️ Tomorrow, Episode 39: Next stop, Artemis II. The farthest humans have ever gone.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #apollo11 #astronomy #shorts #science",
+  "tags": [
+    "apollo 11",
+    "moon landing",
+    "neil armstrong",
+    "1969",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-eight. Next stop... Apollo eleven.",
+      "visual": {
+        "type": "title",
+        "query": "Apollo 11 Aldrin"
+      }
+    },
+    {
+      "text": "On July twentieth, nineteen sixty-nine, Apollo eleven landed on the Moon.",
+      "headline": "July 20, 1969",
+      "visual": {
+        "type": "image",
+        "query": "Apollo 11 lunar module"
+      }
+    },
+    {
+      "text": "Its guidance computer had about four kilobytes of memory.",
+      "visual": {
+        "type": "card",
+        "big": "4 KB",
+        "label": "of memory",
+        "sub": "Your phone has millions of times more"
+      }
+    },
+    {
+      "text": "During the landing, alarms went off as the computer was overloaded. Armstrong steered past a field of boulders by hand.",
+      "headline": "Alarms during landing",
+      "visual": {
+        "type": "image",
+        "query": "Apollo 11 Armstrong"
+      }
+    },
+    {
+      "text": "They touched down with less than a minute of fuel left.",
+      "visual": {
+        "type": "card",
+        "big": "< 60 sec",
+        "label": "of fuel left at landing"
+      }
+    },
+    {
+      "text": "About six hundred fifty million people watched on TV.",
+      "headline": "650 million watched",
+      "visual": {
+        "type": "image",
+        "query": "Apollo 11 footprint"
+      }
+    },
+    {
+      "text": "Tomorrow, humans return to the Moon's neighborhood. Next stop: Artemis two, the farthest humans have ever gone. Follow, so you don't miss episode thirty-nine.",
+      "visual": {
+        "type": "end",
+        "query": "Artemis II Orion",
+        "warm": false
+      }
+    }
+  ]
+}

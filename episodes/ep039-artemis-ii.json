@@ -1,0 +1,79 @@
+{
+  "number": 39,
+  "title": "Artemis II",
+  "subtitle": "The farthest humans have ever gone",
+  "next_stop": "Alien Life",
+  "yt_title": "The Farthest Humans Have Ever Traveled 🚀 | Ep. 39 #shorts",
+  "description": "Episode 39 of a daily journey through the universe. 🚀\nWe relive Artemis II (April 2026): the first crew around the Moon in more than 50 years, a record 406,771 km from Earth, the far side and a total solar eclipse, and a Mach 33 homecoming.\n\n➡️ Tomorrow, Episode 40: Next stop, where we might find alien life.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #artemisii #astronomy #shorts #science",
+  "tags": [
+    "artemis ii",
+    "artemis 2",
+    "nasa",
+    "moon",
+    "orion",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-nine. Next stop... Artemis two.",
+      "visual": {
+        "type": "title",
+        "query": "Artemis II launch"
+      }
+    },
+    {
+      "text": "In April twenty twenty-six, four astronauts flew around the Moon on Artemis two. The first crew to go there in more than fifty years.",
+      "headline": "April 2026",
+      "visual": {
+        "type": "image",
+        "query": "Artemis II crew"
+      }
+    },
+    {
+      "text": "They traveled four hundred six thousand seven hundred kilometers from Earth. The farthest any human has ever been.",
+      "visual": {
+        "type": "card",
+        "big": "406,771 km",
+        "label": "the farthest humans have ever traveled"
+      }
+    },
+    {
+      "text": "Behind the Moon, they saw parts of the far side no human eyes had ever seen, and even a total solar eclipse.",
+      "headline": "A view no one had seen",
+      "visual": {
+        "type": "image",
+        "query": "Artemis II Moon"
+      }
+    },
+    {
+      "text": "They came home at about thirty-three times the speed of sound, and splashed down off San Diego.",
+      "visual": {
+        "type": "card",
+        "big": "Mach 33",
+        "label": "reentry speed"
+      }
+    },
+    {
+      "text": "Next, Artemis three aims to land astronauts on the Moon once again.",
+      "headline": "Next: landing on the Moon",
+      "visual": {
+        "type": "image",
+        "query": "Orion spacecraft Moon"
+      }
+    },
+    {
+      "text": "Tomorrow, our journey asks the biggest question of all. Next stop: where we might find alien life. Follow, so you don't miss episode forty.",
+      "visual": {
+        "type": "end",
+        "query": "Europa Clipper",
+        "warm": false
+      }
+    }
+  ]
+}

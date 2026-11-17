@@ -1,0 +1,78 @@
+{
+  "number": 25,
+  "title": "The Edge",
+  "subtitle": "Of everything we can see",
+  "next_stop": "WASP-76b",
+  "yt_title": "How Big Is the Universe? 🌌 | Ep. 25 #shorts",
+  "description": "Episode 25 of a daily journey through the universe. 🌌\nWe reach the edge of the observable universe: 46 billion light-years away, 93 billion light-years across, hundreds of billions of galaxies, and what might lie beyond. The end of season one.\n\n➡️ Tomorrow, Episode 26: Season two begins: a planet where it rains iron.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #edgeofuniverse #astronomy #shorts #science",
+  "tags": [
+    "observable universe",
+    "size of the universe",
+    "deep field",
+    "cosmology",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode twenty-five. Next stop... the edge of the universe.",
+      "visual": {
+        "type": "title",
+        "query": "Hubble Ultra Deep Field"
+      }
+    },
+    {
+      "text": "The universe is about thirteen point eight billion years old. But the edge of what we can see is much farther than thirteen point eight billion light-years.",
+      "headline": "Farther than you think",
+      "visual": {
+        "type": "image",
+        "query": "Hubble deep field"
+      }
+    },
+    {
+      "text": "Because space kept stretching while the light traveled, that edge is now about forty-six billion light-years away, in every direction.",
+      "visual": {
+        "type": "card",
+        "big": "46B",
+        "label": "light-years to the edge"
+      }
+    },
+    {
+      "text": "That makes the observable universe about ninety-three billion light-years across.",
+      "visual": {
+        "type": "card",
+        "big": "93B",
+        "label": "light-years across"
+      }
+    },
+    {
+      "text": "Inside it, there are hundreds of billions of galaxies, maybe more.",
+      "headline": "Hundreds of billions of galaxies",
+      "visual": {
+        "type": "image",
+        "query": "Hubble eXtreme Deep Field"
+      }
+    },
+    {
+      "text": "And beyond the edge? Almost certainly more universe. We just can't see it, because its light hasn't reached us yet.",
+      "headline": "What's beyond?",
+      "visual": {
+        "type": "image",
+        "query": "Webb galaxies"
+      }
+    },
+    {
+      "text": "That's the end of season one. Tomorrow, season two begins with the strangest worlds ever found. Next stop: a planet where it rains iron. Follow, so you don't miss episode twenty-six.",
+      "visual": {
+        "type": "end",
+        "query": "hot Jupiter exoplanet illustration",
+        "warm": true
+      }
+    }
+  ]
+}

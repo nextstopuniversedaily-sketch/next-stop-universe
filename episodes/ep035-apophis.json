@@ -1,0 +1,79 @@
+{
+  "number": 35,
+  "title": "Apophis",
+  "subtitle": "Coming close in 2029",
+  "next_stop": "Halley's Comet",
+  "yt_title": "This Asteroid Passes Closer Than Satellites in 2029 ☄️ | Ep. 35 #shorts",
+  "description": "Episode 35 of a daily journey through the universe. ☄️\nWe meet Apophis: a 340-meter asteroid that will pass just 32,000 km from Earth on April 13, 2029, visible without a telescope, with zero chance of impact for at least 100 years.\n\n➡️ Tomorrow, Episode 36: Next stop, Halley's Comet. Once in a lifetime.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #apophis #astronomy #shorts #science",
+  "tags": [
+    "apophis",
+    "asteroid",
+    "2029",
+    "osiris-apex",
+    "near earth asteroid",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode thirty-five. Next stop... Apophis.",
+      "visual": {
+        "type": "title",
+        "query": "asteroid Apophis"
+      }
+    },
+    {
+      "text": "Apophis is an asteroid about three hundred forty meters wide.",
+      "headline": "340 meters wide",
+      "visual": {
+        "type": "image",
+        "query": "asteroid"
+      }
+    },
+    {
+      "text": "On April thirteenth, twenty twenty-nine, it will pass about thirty-two thousand kilometers from Earth. Closer than some of our satellites.",
+      "visual": {
+        "type": "card",
+        "big": "32,000 km",
+        "label": "from Earth, April 13, 2029"
+      }
+    },
+    {
+      "text": "It will be so close that people in parts of Europe, Africa and Asia could see it without a telescope.",
+      "headline": "Visible with your eyes",
+      "visual": {
+        "type": "image",
+        "query": "night sky Earth"
+      }
+    },
+    {
+      "text": "And the chance it hits us? Zero, for at least the next hundred years.",
+      "visual": {
+        "type": "card",
+        "big": "0%",
+        "label": "chance of impact for 100+ years"
+      }
+    },
+    {
+      "text": "NASA's OSIRIS-APEX spacecraft will meet it after the flyby, to see how Earth's gravity changed it.",
+      "headline": "A spacecraft will follow it",
+      "visual": {
+        "type": "image",
+        "query": "OSIRIS-REx spacecraft"
+      }
+    },
+    {
+      "text": "Tomorrow, a comet that comes back once in a lifetime. Next stop: Halley's Comet. Follow, so you don't miss episode thirty-six.",
+      "visual": {
+        "type": "end",
+        "query": "Halley's Comet",
+        "warm": false
+      }
+    }
+  ]
+}
