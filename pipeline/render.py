@@ -67,54 +67,99 @@ def ambient_pad(seconds, seed=7):
 
 
 # ---------------------------------------------------------------- images
+BLOCK_WORDS = ["infographic", "chart", "graph", "diagram", "plot", "spectrum", "spectra", "map of", " map",
+               "briefing", "conference", "press", "panel", "speaks", "talks", "poses", "engineer", "technician",
+               "team members", "workers", "clean room", "cleanroom", "logo", "poster", "timeline", "lineup",
+               "data from", "light curve", "schematic", "annotated", "labeled", "labelled", "comparison of",
+               "sizes of", "artist's concept chart", "students", "audience", "ceremony", "interview"]
+
+
+def _ok_metadata(data):
+    text = (data.get("title", "") + " " + data.get("description", "")[:600]).lower()
+    return not any(w in text for w in BLOCK_WORDS)
+
+
+def _ok_pixels(img):
+    """Reject charts on white backgrounds and nearly empty frames."""
+    small = np.asarray(img.convert("RGB").resize((160, 160)), np.float32)
+    lum = small.mean(axis=2)
+    white = (lum > 235).mean()
+    black = (lum < 12).mean()
+    flat = small.std()
+    if white > 0.18 or black > 0.97 or flat < 12:
+        return False
+    # text/diagram heuristic: many saturated pure-white thin pixels on a dark field
+    return True
+
+
+def _download(nasa_id, path):
+    r = requests.get(f"https://images-api.nasa.gov/asset/{nasa_id}", timeout=30)
+    if r.status_code != 200:
+        return None
+    hrefs = [i["href"].replace("http://", "https://") for i in r.json()["collection"]["items"]]
+    jpgs = [h for h in hrefs if h.lower().endswith((".jpg", ".jpeg", ".png"))]
+    order = ["~orig", "~large", "~medium"]
+    jpgs.sort(key=lambda h: next((i for i, k in enumerate(order) if k in h), 9))
+    for h in jpgs:
+        try:
+            resp = requests.get(h, timeout=60)
+            if resp.status_code != 200 or len(resp.content) > 40_000_000:
+                continue
+            img = Image.open(io.BytesIO(resp.content)).convert("RGB")
+            img.thumbnail((3000, 3000))
+            img.save(path, quality=92)
+            return img
+        except Exception as e:  # noqa: BLE001
+            print("  ! asset failed", h, e)
+    return None
+
+
 def nasa_image(visual, offline=False):
-    """Return a PIL RGB image for a visual spec using the NASA Image Library."""
+    """Return a PIL RGB image for a visual spec using the NASA Image Library.
+
+    An explicit nasa_id is used as-is. Otherwise search results are screened:
+    charts, diagrams, press events and empty frames are skipped.
+    """
     if offline:
         return None
     os.makedirs(CACHE, exist_ok=True)
+    cache = lambda nid: os.path.join(CACHE, re.sub(r"[^A-Za-z0-9_.-]", "_", nid) + ".jpg")
     nasa_id = visual.get("nasa_id")
     if nasa_id:
-        try:
-            r = requests.get(f"https://images-api.nasa.gov/asset/{nasa_id}", timeout=30)
-            if r.status_code != 200:
-                print(f"  ! nasa_id {nasa_id} not found, using query")
-                nasa_id = None
-        except Exception:  # noqa: BLE001
-            nasa_id = None
-    if not nasa_id:
-        q = visual["query"]
+        if os.path.exists(cache(nasa_id)):
+            return Image.open(cache(nasa_id)).convert("RGB")
+        img = _download(nasa_id, cache(nasa_id))
+        if img is not None:
+            return img
+        print(f"  ! nasa_id {nasa_id} unavailable, searching instead")
+    q = visual.get("query")
+    if not q:
+        return None
+    try:
         r = requests.get("https://images-api.nasa.gov/search",
                          params={"q": q, "media_type": "image"}, timeout=30)
         r.raise_for_status()
         items = r.json()["collection"]["items"]
-        if not items:
-            print(f"  ! no NASA result for {q!r}")
-            return None
-        pick = min(visual.get("pick", 0), len(items) - 1)
-        nasa_id = items[pick]["data"][0]["nasa_id"]
-        print(f"  NASA {q!r} -> {nasa_id}: {items[pick]['data'][0].get('title','')[:70]}")
-    path = os.path.join(CACHE, re.sub(r"[^A-Za-z0-9_.-]", "_", nasa_id) + ".jpg")
-    if not os.path.exists(path):
-        r = requests.get(f"https://images-api.nasa.gov/asset/{nasa_id}", timeout=30)
-        r.raise_for_status()
-        hrefs = [i["href"].replace("http://", "https://") for i in r.json()["collection"]["items"]]
-        jpgs = [h for h in hrefs if h.lower().endswith((".jpg", ".jpeg", ".png"))]
-        order = ["~orig", "~large", "~medium"]
-        jpgs.sort(key=lambda h: next((i for i, k in enumerate(order) if k in h), 9))
-        for h in jpgs:
-            try:
-                resp = requests.get(h, timeout=60)
-                if resp.status_code != 200 or len(resp.content) > 40_000_000:
-                    continue
-                img = Image.open(io.BytesIO(resp.content)).convert("RGB")
-                img.thumbnail((3000, 3000))
-                img.save(path, quality=92)
-                break
-            except Exception as e:  # noqa: BLE001
-                print("  ! asset failed", h, e)
-        else:
-            return None
-    return Image.open(path).convert("RGB")
+    except Exception as e:  # noqa: BLE001
+        print("  ! search failed", q, e)
+        return None
+    start = visual.get("pick", 0)
+    tried = 0
+    for it in items[start:start + 25]:
+        data = it["data"][0]
+        nid = data["nasa_id"]
+        if not _ok_metadata(data):
+            continue
+        tried += 1
+        if tried > 8:
+            break
+        img = Image.open(cache(nid)).convert("RGB") if os.path.exists(cache(nid)) else _download(nid, cache(nid))
+        if img is None or not _ok_pixels(img):
+            continue
+        print(f"  NASA {q!r} -> {nid}: {data.get('title', '')[:70]}")
+        return img
+    print(f"  ! no usable NASA image for {q!r}")
+    return None
 
 
 def options_sheet(ep, out_path, per_row=6):
@@ -331,6 +376,7 @@ def render_episode(path, offline=False):
     brand = text_layer("NEXT STOP: UNIVERSE", FONT_BOLD, 34, color=(255, 255, 255), stroke=3)
     preview_frames = []
     n_segs = len(ep["segments"])
+    last_img = None
     for si, s in enumerate(ep["segments"]):
         v = s.get("visual", {"type": "image"})
         vt = v.get("type", "image")
@@ -340,7 +386,12 @@ def render_episode(path, offline=False):
         if vt == "card":
             base = starfield(seed=num * 100 + si)
         else:
-            base = legibility(compose_background(nasa_image(v, offline), seed=num * 100 + si))
+            img = nasa_image(v, offline)
+            if img is None:
+                img = last_img
+            else:
+                last_img = img
+            base = legibility(compose_background(img, seed=num * 100 + si))
         bw, bh = base.size
         zoom_in = (si % 2 == 0)
         subs = chunks(s["text"])
@@ -444,10 +495,16 @@ def main():
     ap.add_argument("files", nargs="*")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--offline", action="store_true")
+    ap.add_argument("--list", action="store_true", help="only print the files that would render")
     a = ap.parse_args()
     files = a.files or sorted(glob.glob(os.path.join(ROOT, "episodes", "*.json")))
     if a.all:
         files = [f for f in files if needs_render(f)]
+    min_ep = int(os.environ.get("MIN_EPISODE", "0"))
+    files = [f for f in files if json.load(open(f))["number"] >= min_ep]
+    if a.list:
+        print("\n".join(files))
+        return
     if not files:
         print("Nothing to render.")
     for f in files:

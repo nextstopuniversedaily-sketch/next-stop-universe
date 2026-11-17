@@ -45,15 +45,16 @@ jobs:
       - name: Install Python packages
         run: pip install -r pipeline/requirements.txt
 
-      - name: Render new or changed episodes
-        run: python pipeline/render.py --all
-
-      - name: Save videos to the repo
+      - name: Render new or changed episodes (saving each one as it finishes)
+        env:
+          MIN_EPISODE: "11"   # episodes before this are already published; don't re-render them
         run: |
           git config user.name "render-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add videos previews
-          if git diff --cached --quiet; then echo "No new videos."; exit 0; fi
-          git commit -m "Render episodes"
-          git pull --rebase origin main
-          git push
+          for f in $(python pipeline/render.py --all --list); do
+            python pipeline/render.py "$f"
+            git add videos previews
+            git commit -q -m "Render $(basename "$f" .json)" || true
+            git pull -q --rebase origin main && git push -q || echo "push failed, will retry"
+          done
+          git push -q || true
