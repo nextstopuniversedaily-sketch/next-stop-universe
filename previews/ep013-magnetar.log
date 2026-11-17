@@ -1,0 +1,16 @@
+[0;93m2026-11-17 20:15:31.846014328 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 13: Magnetar
+  audio 44.8s
+  WIKI File:Artist’s_impression_of_the_magnetar_in_the_star_cluster_Westerlund_1.jpg (CC BY 4.0)
+  segment 1/7 [title] 3.5s
+  WIKI File:Magnetar (artist’s impression) (heic2504a).jpg (CC BY 4.0)
+  segment 2/7 [image] 6.4s
+  segment 3/7 [card] 5.1s
+  WIKI File:Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg (Public domain)
+  segment 4/7 [image] 5.0s
+  NASA 'neutron star magnetic field' -> PIA25781: Magnetic Fields Around an Ultraluminous X-ray Source (Illustration)
+  segment 5/7 [image] 6.2s
+  segment 6/7 [card] 8.8s
+  WIKI File:Eagle_nebula_pillars.jpg (Public domain)
+  segment 7/7 [end] 9.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep013.mp4 (8.4 MB)
