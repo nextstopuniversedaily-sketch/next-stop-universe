@@ -1,16 +1,16 @@
-[0;93m2026-11-17 20:20:52.592861163 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:00:29.375512611 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 17: Sagittarius A*
-  audio 47.8s
+  audio 47.9s
   WIKI File:Galactic_Cntr_full_cropped.jpg (Public domain)
   segment 1/7 [title] 4.7s
   WIKI File:Milky Way IR Spitzer.jpg (Public domain)
   segment 2/7 [image] 7.6s
   segment 3/7 [card] 3.9s
-  WIKI File:Stars around Sgr A* in March 2021 (eso2119b).jpg (CC BY 4.0)
-  segment 4/7 [image] 8.0s
-  ! no usable NASA image for 'Sagittarius A* Event Horizon Telescope'
-  segment 5/7 [image] 8.4s
+  WIKI File:Stars around Sgr A* in May 2021 (eso2119c).jpg (CC BY 4.0)
+  segment 4/7 [image] 8.1s
+  WIKI File:A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg (CC BY 4.0)
+  segment 5/7 [image] 8.3s
   segment 6/7 [card] 6.2s
   WIKI File:ESO-VLT-Laser-phot-33a-07.jpg (CC BY 4.0)
   segment 7/7 [end] 8.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep017.mp4 (21.6 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep017.mp4 (22.6 MB)
