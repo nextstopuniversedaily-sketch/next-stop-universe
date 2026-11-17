@@ -1,0 +1,11 @@
+[0;93m2026-11-17 22:22:49.130475351 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 46: Tabby's Star
+Traceback (most recent call last):
+  File "/home/runner/work/next-stop-universe/next-stop-universe/pipeline/render.py", line 635, in <module>
+    main()
+  File "/home/runner/work/next-stop-universe/next-stop-universe/pipeline/render.py", line 631, in main
+    render_episode(f, offline=a.offline)
+  File "/home/runner/work/next-stop-universe/next-stop-universe/pipeline/render.py", line 471, in render_episode
+    mix = voice + ambient_pad(total)[: len(voice)]
+          ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ValueError: operands could not be broadcast together with shapes (2080864,) (2080863,) 
