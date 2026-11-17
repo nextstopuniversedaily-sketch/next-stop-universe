@@ -1,17 +1,17 @@
-[0;93m2026-11-17 20:36:00.653881322 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:10:53.883884975 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 28: Rogue Planets
-  audio 46.3s
-  ! no usable NASA image for 'rogue planet illustration'
+  audio 46.4s
+  WIKI File:Icy Earth-mass Rogue Planet (SVS14380).jpg (Public domain)
   segment 1/7 [title] 3.8s
   WIKI File:Artist's impression of a free-floating planet (noirlab2131a).jpg (CC BY 4.0)
   segment 2/7 [image] 7.1s
   WIKI File:Icy Exoplanet.jpg (CC BY 4.0)
   segment 3/7 [image] 8.0s
-  segment 4/7 [card] 5.8s
+  segment 4/7 [card] 5.9s
   WIKI File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG (Public domain)
-  segment 5/7 [image] 7.3s
+  segment 5/7 [image] 7.4s
   segment 6/7 [card] 4.9s
   - skip File:The_Sun_in_white_light.jpg: license 'CC BY-SA 4.0'
   NASA 'Sun Solar Dynamics Observatory' -> PIA26681:  Image of Sun From NASA's Solar Dynamics Observatory
   segment 7/7 [end] 9.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep028.mp4 (8.5 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep028.mp4 (9.0 MB)
