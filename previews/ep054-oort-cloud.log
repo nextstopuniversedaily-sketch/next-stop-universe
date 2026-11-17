@@ -1,4 +1,4 @@
-[0;93m2026-11-17 23:01:15.625268007 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 23:40:43.959735184 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 54: The Oort Cloud
   audio 72.8s
   WIKI File:Rubin Oort Cloud and Kuiper Belt Illustration (rubin-Oort-Cloud-and-Kuiper-Belt).jpg (CC BY 4.0)
@@ -9,7 +9,7 @@
   segment 2/11 [image] 7.6s
   - skip File:Jan_Oort_1970.jpg: license 'Attribution'
   ! no usable NASA image for 'Jan Oort'
-  segment 3/11 [image] 9.7s
+  segment 3/11 [image] 9.8s
   segment 4/11 [card] 2.9s
   WIKI File:Solar system scale edit.jpg (Public domain)
   segment 5/11 [image] 5.5s
@@ -17,20 +17,13 @@
   WIKI File:Comet NEOWISE above Strzelce Dolne.jpg (CC BY 4.0)
   segment 6/11 [image] 9.1s
   WIKI File:Comet ISON Approaching the Sun (still) (11088251783).jpg (Public domain)
-  segment 7/11 [image] 9.2s
+  segment 7/11 [image] 9.1s
   WIKI File:Voyager_spacecraft_model.png (Public domain)
   segment 8/11 [image] 5.5s
   segment 9/11 [card] 6.2s
   segment 10/11 [card] 3.3s
-  - skip File:FullMoon2010.jpg: license 'CC BY-SA 3.0'
   - skip File:Full Moon Luc Viatour.jpg: license 'CC BY-SA 3.0'
-  - skip File:FullMoon2010.jpg: license 'CC BY-SA 3.0'
   - skip File:Full moon partially obscured by atmosphere.jpg: looks like a chart/blank
-  - skip File:042 Full Moon rising behind Chasseral during sunset Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
-  - skip File:Full moon in the evening in the dry paddy fields of Don Det Laos.jpg: license 'CC BY-SA 4.0'
-  - skip File:2026-08-29 Sunrise Windpark Gollenberg (D500-97780M) by Achim Lammerts.jpg: license 'CC BY-SA 4.0'
-  - skip File:Harvest Moon in Kolkata September 2026 by Paramanu Sarkar.jpg: license 'CC BY-SA 4.0'
-  - skip File:Asahi Breweries headquarters building with the Asahi Flame and Skytree at blue hour with full moon, Sumida-ku, Tokyo, Japan.jpg: license 'CC BY-SA 4.0'
   WIKI File:Space Shuttle Discovery under a full moon, 03-11-09.jpg (Public domain)
   segment 11/11 [end] 9.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep054.mp4 (19.7 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep054.mp4 (19.4 MB)
