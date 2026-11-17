@@ -1,14 +1,14 @@
-[0;93m2026-11-17 22:23:24.847058750 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 22:51:33.944442031 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 47: The Boötes Void
   audio 72.2s
-  WIKI File:Cosmic Web and Slime Mold (2020-11-4635).png (Public domain)
+  WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 1/10 [title] 4.4s
   - skip File:Cosmic web.jpg: license 'CC BY-SA 4.0'
   - skip File:Home in Relation to Everything.png: license 'CC BY-SA 3.0'
   ! no usable NASA image for 'Millennium Simulation cosmic web'
   segment 2/10 [image] 8.7s
   WIKI File:Bootes Field- New Panorama Reveals More Than a Thousand Black Holes (2007-bootes - bootes).jpg (Public domain)
-  segment 3/10 [image] 8.3s
+  segment 3/10 [image] 8.4s
   segment 4/10 [card] 3.7s
   segment 5/10 [card] 7.0s
   WIKI File:Hiding in the night sky.jpg (CC BY 4.0)
@@ -16,11 +16,11 @@
   WIKI File:Antennae galaxies xl.jpg (Public domain)
   segment 7/10 [image] 5.8s
   WIKI File:Cosmic Microwave Background (CMB).jpeg (CC BY 4.0)
-  segment 8/10 [image] 10.1s
+  segment 8/10 [image] 10.0s
   WIKI File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg (Public domain)
-  segment 9/10 [image] 6.0s
+  segment 9/10 [image] 5.9s
   - skip File:07-Laniakea (LofE07240).png: license 'CC BY-SA 4.0'
   - skip File:Laniakea with Galaktika.jpg: license 'CC BY-SA 4.0'
   WIKI File:Laniakea Supercluster (Cropped).png (CC BY 4.0)
   segment 10/10 [end] 10.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep047.mp4 (20.3 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep047.mp4 (21.2 MB)
