@@ -71,7 +71,8 @@ BLOCK_WORDS = ["infographic", "chart", "graph", "diagram", "plot", "spectrum", "
                "briefing", "conference", "press", "panel", "speaks", "talks", "poses", "engineer", "technician",
                "team members", "workers", "clean room", "cleanroom", "logo", "poster", "timeline", "lineup",
                "data from", "light curve", "schematic", "annotated", "labeled", "labelled", "comparison of",
-               "sizes of", "artist's concept chart", "students", "audience", "ceremony", "interview"]
+               "sizes of", "artist's concept chart", "students", "audience", "ceremony", "interview", "socks", "event", "visitors", "auditorium",
+               "media day", "guests", "crane", "truck", "transporter", "hangar", "high bay", "exhibit", "display"]
 
 
 def _ok_metadata(data):
@@ -112,6 +113,110 @@ def _download(nasa_id, path):
         except Exception as e:  # noqa: BLE001
             print("  ! asset failed", h, e)
     return None
+
+
+UA = {"User-Agent": "NextStopUniverseBot/1.0 (https://github.com/nextstopuniversedaily-sketch/next-stop-universe)"}
+CREDITS = []  # (artist, license, source page) for images used in the current episode
+
+
+def _strip_html(t):
+    return re.sub(r"<[^>]+>", "", t or "").strip()
+
+
+def _license_ok(lic):
+    l = (lic or "").lower()
+    if "sa" in re.split(r"[\s\-]", l) or "nd" in re.split(r"[\s\-]", l):
+        return False
+    return l.startswith("public domain") or l.startswith("pd") or "cc0" in l or l.startswith("cc by") or l.startswith("cc-by")
+
+
+def _commons_file(file_title, cache_key):
+    """Download a Commons file (as a 2400px rendition) if its license allows reuse in a video."""
+    try:
+        r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=30, params={
+            "action": "query", "titles": file_title, "prop": "imageinfo", "format": "json",
+            "iiprop": "url|extmetadata|mime", "iiurlwidth": 2400})
+        page = next(iter(r.json()["query"]["pages"].values()))
+        ii = page["imageinfo"][0]
+    except Exception as e:  # noqa: BLE001
+        print("  ! commons lookup failed", file_title, e)
+        return None
+    if ii.get("mime") not in ("image/jpeg", "image/png"):
+        return None
+    meta = ii.get("extmetadata", {})
+    lic = meta.get("LicenseShortName", {}).get("value", "")
+    if not _license_ok(lic):
+        print(f"  - skip {file_title}: license {lic!r}")
+        return None
+    path = os.path.join(CACHE, "wm_" + re.sub(r"[^A-Za-z0-9_.-]", "_", cache_key)[:120] + ".jpg")
+    if not os.path.exists(path):
+        try:
+            resp = requests.get(ii.get("thumburl") or ii["url"], headers=UA, timeout=90)
+            img = Image.open(io.BytesIO(resp.content)).convert("RGB")
+            img.thumbnail((3000, 3000))
+            img.save(path, quality=92)
+        except Exception as e:  # noqa: BLE001
+            print("  ! commons download failed", file_title, e)
+            return None
+    img = Image.open(path).convert("RGB")
+    if not _ok_pixels(img):
+        print(f"  - skip {file_title}: looks like a chart/blank")
+        return None
+    artist = _strip_html(meta.get("Artist", {}).get("value", "")) or "Unknown"
+    CREDITS.append((artist[:120], lic, ii.get("descriptionurl", "")))
+    print(f"  WIKI {file_title} ({lic})")
+    return img
+
+
+def wiki_image(title):
+    """Lead image of an English Wikipedia article, if freely licensed."""
+    try:
+        r = requests.get("https://en.wikipedia.org/api/rest_v1/page/summary/" + requests.utils.quote(title.replace(" ", "_")),
+                         headers=UA, timeout=30)
+        src = r.json().get("originalimage", {}).get("source", "")
+    except Exception as e:  # noqa: BLE001
+        print("  ! wiki summary failed", title, e)
+        return None
+    if "/wikipedia/commons/" not in src:
+        print(f"  - no free lead image for {title!r}")
+        return None
+    name = requests.utils.unquote(src.rsplit("/", 1)[-1])
+    return _commons_file("File:" + name, name)
+
+
+def commons_search(query, limit=10):
+    try:
+        r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=30, params={
+            "action": "query", "list": "search", "srnamespace": 6, "srsearch": query + " filetype:bitmap",
+            "srlimit": limit, "format": "json"})
+        hits = [h["title"] for h in r.json()["query"]["search"]]
+    except Exception as e:  # noqa: BLE001
+        print("  ! commons search failed", query, e)
+        return None
+    for t in hits:
+        img = _commons_file(t, t)
+        if img is not None:
+            return img
+    return None
+
+
+def pick_image(visual, offline=False):
+    """Try sources in order: Wikipedia lead image, Commons search, NASA."""
+    if offline:
+        return None
+    os.makedirs(CACHE, exist_ok=True)
+    for t in ([visual["wiki"]] if isinstance(visual.get("wiki"), str) else visual.get("wiki", [])):
+        img = wiki_image(t)
+        if img is not None:
+            return img
+    for q in ([visual["commons"]] if isinstance(visual.get("commons"), str) else visual.get("commons", [])):
+        img = commons_search(q)
+        if img is not None:
+            return img
+    img = nasa_image(visual, offline)
+    if img is not None:
+        CREDITS.append(("NASA", "Public domain", "https://images.nasa.gov"))
+    return img
 
 
 def nasa_image(visual, offline=False):
@@ -377,6 +482,7 @@ def render_episode(path, offline=False):
     preview_frames = []
     n_segs = len(ep["segments"])
     last_img = None
+    CREDITS.clear()
     for si, s in enumerate(ep["segments"]):
         v = s.get("visual", {"type": "image"})
         vt = v.get("type", "image")
@@ -386,7 +492,7 @@ def render_episode(path, offline=False):
         if vt == "card":
             base = starfield(seed=num * 100 + si)
         else:
-            img = nasa_image(v, offline)
+            img = pick_image(v, offline)
             if img is None:
                 img = last_img
             else:
@@ -473,6 +579,13 @@ def render_episode(path, offline=False):
     meta = {"source": os.path.basename(path), "hash": file_hash(path), "seconds": round(total, 2),
             "rendered": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     json.dump(meta, open(os.path.join(ROOT, "videos", stem + ".meta.json"), "w"), indent=2)
+    seen, lines = set(), []
+    for artist, lic, url in CREDITS:
+        if (artist, lic) in seen:
+            continue
+        seen.add((artist, lic))
+        lines.append(f"{artist} ({lic})" + (f" {url}" if url and "nasa.gov" not in url else ""))
+    open(os.path.join(ROOT, "videos", stem + ".credits.txt"), "w").write("\n".join(lines) + "\n")
     print(f"  -> {out_mp4} ({os.path.getsize(out_mp4) / 1e6:.1f} MB)")
 
 

@@ -23,7 +23,8 @@
       "text": "Episode twenty-two. Next stop... the oldest light in the universe.",
       "visual": {
         "type": "title",
-        "query": "cosmic microwave background"
+        "query": "cosmic microwave background",
+        "wiki": "Cosmic microwave background"
       }
     },
     {
@@ -47,7 +48,8 @@
       "headline": "Blamed on pigeons",
       "visual": {
         "type": "image",
-        "query": "Holmdel Horn Antenna"
+        "query": "Holmdel Horn Antenna",
+        "wiki": "Holmdel Horn Antenna"
       }
     },
     {
@@ -72,7 +74,8 @@
       "visual": {
         "type": "end",
         "query": "early universe illustration",
-        "warm": false
+        "warm": false,
+        "commons": "Hubble deep field galaxies"
       }
     }
   ]

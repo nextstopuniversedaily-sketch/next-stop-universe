@@ -23,7 +23,8 @@
       "text": "Episode twenty. Next stop... dark matter.",
       "visual": {
         "type": "title",
-        "query": "Bullet Cluster"
+        "query": "Bullet Cluster",
+        "wiki": "Bullet Cluster"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "Something invisible",
       "visual": {
         "type": "image",
-        "query": "spiral galaxy Hubble"
+        "query": "spiral galaxy Hubble",
+        "wiki": "Galaxy rotation curve"
       }
     },
     {
@@ -47,7 +49,8 @@
       "headline": "We only see its gravity",
       "visual": {
         "type": "image",
-        "query": "gravitational lensing Hubble"
+        "query": "gravitational lensing Hubble",
+        "wiki": "Gravitational lens"
       }
     },
     {
@@ -55,7 +58,8 @@
       "headline": "The Bullet Cluster",
       "visual": {
         "type": "image",
-        "query": "Bullet Cluster Chandra"
+        "query": "Bullet Cluster Chandra",
+        "wiki": "Bullet Cluster"
       }
     },
     {
@@ -71,7 +75,8 @@
       "visual": {
         "type": "end",
         "query": "Hubble deep field galaxies",
-        "warm": false
+        "warm": false,
+        "wiki": "Hubble Ultra-Deep Field"
       }
     }
   ]

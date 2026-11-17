@@ -23,7 +23,8 @@
       "text": "Episode thirteen. Next stop... a magnetar.",
       "visual": {
         "type": "title",
-        "query": "magnetar"
+        "query": "magnetar",
+        "wiki": "Magnetar"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "The strongest magnets known",
       "visual": {
         "type": "image",
-        "query": "magnetar illustration"
+        "query": "magnetar illustration",
+        "commons": "magnetar artist impression"
       }
     },
     {
@@ -47,7 +49,8 @@
       "headline": "Wipes credit cards from far away",
       "visual": {
         "type": "image",
-        "query": "magnetar flare"
+        "query": "magnetar flare",
+        "commons": "neutron star artist impression"
       }
     },
     {
@@ -72,7 +75,8 @@
       "visual": {
         "type": "end",
         "query": "Pillars of Creation Webb",
-        "warm": false
+        "warm": false,
+        "wiki": "Pillars of Creation"
       }
     }
   ]

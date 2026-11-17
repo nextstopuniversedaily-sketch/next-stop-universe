@@ -24,7 +24,8 @@
       "text": "Episode nineteen. Next stop... Andromeda.",
       "visual": {
         "type": "title",
-        "query": "Andromeda galaxy"
+        "query": "Andromeda galaxy",
+        "wiki": "Andromeda Galaxy"
       }
     },
     {
@@ -82,7 +83,8 @@
       "visual": {
         "type": "end",
         "query": "Bullet Cluster",
-        "warm": false
+        "warm": false,
+        "wiki": "Bullet Cluster"
       }
     }
   ]

@@ -23,7 +23,8 @@
       "text": "Episode sixteen. Next stop... a supernova.",
       "visual": {
         "type": "title",
-        "query": "Cassiopeia A supernova remnant"
+        "query": "Cassiopeia A supernova remnant",
+        "wiki": "Cassiopeia A"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "Brighter than a galaxy",
       "visual": {
         "type": "image",
-        "query": "supernova galaxy Hubble"
+        "query": "supernova galaxy Hubble",
+        "wiki": "Supernova"
       }
     },
     {
@@ -39,7 +41,8 @@
       "headline": "You are made of stars",
       "visual": {
         "type": "image",
-        "query": "Crab Nebula"
+        "query": "Crab Nebula",
+        "wiki": "Crab Nebula"
       }
     },
     {
@@ -65,7 +68,8 @@
       "headline": "Too close for comfort?",
       "visual": {
         "type": "image",
-        "query": "supernova remnant"
+        "query": "supernova remnant",
+        "wiki": "SN 1987A"
       }
     },
     {
@@ -73,7 +77,8 @@
       "visual": {
         "type": "end",
         "query": "Sagittarius A* Chandra",
-        "warm": false
+        "warm": false,
+        "wiki": "Sagittarius A*"
       }
     }
   ]

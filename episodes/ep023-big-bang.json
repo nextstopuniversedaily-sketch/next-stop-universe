@@ -23,7 +23,8 @@
       "text": "Episode twenty-three. Next stop... the Big Bang.",
       "visual": {
         "type": "title",
-        "query": "Big Bang"
+        "query": "Big Bang",
+        "commons": "Hubble eXtreme Deep Field"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "13.8 billion years ago",
       "visual": {
         "type": "image",
-        "query": "early universe"
+        "query": "early universe",
+        "commons": "early universe galaxies artist impression"
       }
     },
     {
@@ -71,7 +73,8 @@
       "visual": {
         "type": "end",
         "query": "James Webb Space Telescope",
-        "warm": false
+        "warm": false,
+        "wiki": "James Webb Space Telescope"
       }
     }
   ]

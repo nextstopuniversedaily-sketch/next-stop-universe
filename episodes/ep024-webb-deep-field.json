@@ -24,7 +24,8 @@
       "text": "Episode twenty-four. Next stop... the dawn of time.",
       "visual": {
         "type": "title",
-        "query": "Webb deep field"
+        "query": "Webb deep field",
+        "wiki": "Webb's First Deep Field"
       }
     },
     {
@@ -32,7 +33,8 @@
       "headline": "1.5 million km from Earth",
       "visual": {
         "type": "image",
-        "query": "James Webb Space Telescope mirror"
+        "query": "James Webb Space Telescope mirror",
+        "wiki": "James Webb Space Telescope"
       }
     },
     {
@@ -40,7 +42,8 @@
       "headline": "Every dot is a galaxy",
       "visual": {
         "type": "image",
-        "query": "Webb first deep field"
+        "query": "Webb first deep field",
+        "wiki": "Webb's First Deep Field"
       }
     },
     {
@@ -65,7 +68,8 @@
       "headline": "Bigger than expected",
       "visual": {
         "type": "image",
-        "query": "JADES Webb galaxies"
+        "query": "JADES Webb galaxies",
+        "commons": "JADES Webb deep field"
       }
     },
     {
@@ -73,7 +77,8 @@
       "visual": {
         "type": "end",
         "query": "Hubble Ultra Deep Field",
-        "warm": false
+        "warm": false,
+        "wiki": "Hubble Ultra-Deep Field"
       }
     }
   ]

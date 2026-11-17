@@ -23,7 +23,8 @@
       "text": "Episode twelve. Next stop... a neutron star.",
       "visual": {
         "type": "title",
-        "query": "neutron star illustration"
+        "query": "neutron star illustration",
+        "wiki": "Neutron star"
       }
     },
     {
@@ -56,7 +57,8 @@
       "headline": "Cosmic lighthouses",
       "visual": {
         "type": "image",
-        "query": "pulsar illustration"
+        "query": "pulsar illustration",
+        "wiki": "Pulsar"
       }
     },
     {
@@ -64,7 +66,8 @@
       "headline": "Mountains under 1 mm",
       "visual": {
         "type": "image",
-        "query": "neutron star"
+        "query": "neutron star",
+        "commons": "Crab Nebula pulsar Chandra"
       }
     },
     {
@@ -72,7 +75,8 @@
       "headline": "Where gold comes from",
       "visual": {
         "type": "image",
-        "query": "neutron star merger kilonova"
+        "query": "neutron star merger kilonova",
+        "wiki": "Kilonova"
       }
     },
     {
@@ -80,7 +84,8 @@
       "visual": {
         "type": "end",
         "query": "magnetar illustration",
-        "warm": false
+        "warm": false,
+        "wiki": "Magnetar"
       }
     }
   ]

@@ -23,7 +23,8 @@
       "text": "Episode seventeen. Next stop... the center of our galaxy.",
       "visual": {
         "type": "title",
-        "query": "galactic center Chandra"
+        "query": "galactic center Chandra",
+        "wiki": "Galactic Center"
       }
     },
     {
@@ -31,7 +32,8 @@
       "headline": "26,000 light-years away",
       "visual": {
         "type": "image",
-        "query": "Milky Way center"
+        "query": "Milky Way center",
+        "commons": "Galactic Center Hubble Spitzer"
       }
     },
     {
@@ -47,7 +49,8 @@
       "headline": "Stars racing around it",
       "visual": {
         "type": "image",
-        "query": "galactic center stars"
+        "query": "galactic center stars",
+        "commons": "stars orbiting Sagittarius A* ESO"
       }
     },
     {
@@ -55,7 +58,8 @@
       "headline": "First image: 2022",
       "visual": {
         "type": "image",
-        "query": "Sagittarius A* Event Horizon Telescope"
+        "query": "Sagittarius A* Event Horizon Telescope",
+        "wiki": "Sagittarius A*"
       }
     },
     {
@@ -72,7 +76,8 @@
       "visual": {
         "type": "end",
         "query": "Milky Way galaxy",
-        "warm": false
+        "warm": false,
+        "wiki": "Milky Way"
       }
     }
   ]

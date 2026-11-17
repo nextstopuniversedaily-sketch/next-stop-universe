@@ -23,7 +23,8 @@
       "text": "Episode eleven. Next stop... a black hole.",
       "visual": {
         "type": "title",
-        "query": "black hole illustration"
+        "query": "black hole illustration",
+        "wiki": "Black hole"
       }
     },
     {
@@ -80,7 +81,8 @@
       "visual": {
         "type": "end",
         "query": "neutron star illustration",
-        "warm": false
+        "warm": false,
+        "wiki": "Neutron star"
       }
     }
   ]

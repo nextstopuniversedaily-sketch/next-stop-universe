@@ -23,7 +23,8 @@
       "text": "Episode twenty-one. Next stop... dark energy.",
       "visual": {
         "type": "title",
-        "query": "Hubble deep field"
+        "query": "Hubble deep field",
+        "wiki": "Hubble Ultra-Deep Field"
       }
     },
     {
@@ -71,7 +72,8 @@
       "visual": {
         "type": "end",
         "query": "cosmic microwave background",
-        "warm": false
+        "warm": false,
+        "wiki": "Cosmic microwave background"
       }
     }
   ]

@@ -23,7 +23,8 @@
       "text": "Episode eighteen. Next stop... the Milky Way.",
       "visual": {
         "type": "title",
-        "query": "Milky Way"
+        "query": "Milky Way",
+        "wiki": "Milky Way"
       }
     },
     {
@@ -63,7 +64,8 @@
       "headline": "Seen from the inside",
       "visual": {
         "type": "image",
-        "query": "Milky Way night sky"
+        "query": "Milky Way night sky",
+        "commons": "Milky Way night sky panorama ESO"
       }
     },
     {
@@ -71,7 +73,8 @@
       "headline": "Galaxies orbiting ours",
       "visual": {
         "type": "image",
-        "query": "Large Magellanic Cloud"
+        "query": "Large Magellanic Cloud",
+        "wiki": "Large Magellanic Cloud"
       }
     },
     {
@@ -79,7 +82,8 @@
       "visual": {
         "type": "end",
         "query": "Andromeda galaxy",
-        "warm": false
+        "warm": false,
+        "wiki": "Andromeda Galaxy"
       }
     }
   ]
