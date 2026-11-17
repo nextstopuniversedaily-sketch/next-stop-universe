@@ -1,4 +1,4 @@
-[0;93m2026-11-17 20:37:17.916357464 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:12:18.259361836 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 29: The Sun
   audio 41.5s
   - skip File:The_Sun_in_white_light.jpg: license 'CC BY-SA 4.0'
@@ -6,12 +6,12 @@
   segment 1/7 [title] 3.6s
   WIKI File:Full disk of the Sun (eso1703e-comparisona).jpg (CC BY 4.0)
   segment 2/7 [image] 5.7s
-  segment 3/7 [card] 3.6s
+  segment 3/7 [card] 3.5s
   segment 4/7 [card] 3.5s
-  WIKI File:02_Sun_Structure_(2819311727).jpg (CC BY 2.0)
+  WIKI File:Highest_resolution_photo_of_Sun_(NSF)_as_of_January_20,_2020.jpg (CC BY 4.0)
   segment 5/7 [image] 7.1s
   WIKI File:X_Class_Solar_Flare_Sends_‘Shockwaves’_on_The_Sun_(6819094556).jpg (Public domain)
   segment 6/7 [image] 5.4s
   WIKI File:05_Coronal_Mass_Ejection_(2819895025).jpg (Public domain)
-  segment 7/7 [end] 12.6s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep029.mp4 (6.9 MB)
+  segment 7/7 [end] 12.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep029.mp4 (7.5 MB)
