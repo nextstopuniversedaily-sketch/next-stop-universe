@@ -1,17 +1,17 @@
-[0;93m2026-11-17 20:12:32.743969284 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 22:34:13.221307491 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 11: A Black Hole
-  audio 60.3s
+  audio 60.5s
   WIKI File:Black_hole_-_Messier_87_crop_max_res.jpg (CC BY 4.0)
   segment 1/8 [title] 3.6s
   WIKI File:Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg (CC BY 4.0)
-  segment 2/8 [image] 6.1s
+  segment 2/8 [image] 6.2s
   WIKI File:Artist's concept of Tidal Disruption Event (PIA22355).jpg (Public domain)
-  segment 3/8 [image] 10.0s
+  segment 3/8 [image] 10.1s
   NASA 'black hole simulation' -> PIA15429: Black Hole Erupts
   segment 4/8 [image] 8.3s
   segment 5/8 [card] 4.0s
   WIKI File:Black_hole_-_Messier_87_crop_max_res.jpg (CC BY 4.0)
-  segment 6/8 [image] 9.6s
+  segment 6/8 [image] 9.7s
   segment 7/8 [card] 5.7s
   WIKI File:Moving_heart_of_the_Crab_Nebula.jpg (CC BY 4.0)
   segment 8/8 [end] 13.0s
