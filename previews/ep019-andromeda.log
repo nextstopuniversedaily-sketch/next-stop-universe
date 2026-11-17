@@ -1,0 +1,19 @@
+[0;93m2026-11-17 20:23:48.462952920 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 19: Andromeda
+  audio 53.8s
+  - skip File:M31-Andromede-16-09-2023-Hamois.jpg: license 'CC BY-SA 2.5'
+  NASA 'Andromeda galaxy' -> PIA04921: Andromeda Galaxy
+  segment 1/8 [title] 3.6s
+  NASA 'Andromeda galaxy Hubble' -> hubble-sees-galaxy-hiding-in-the-night-sky_26774948406_o: Hiding in the night sky
+  segment 2/8 [image] 6.1s
+  NASA 'Andromeda galaxy night sky' -> hubble-sees-galaxy-hiding-in-the-night-sky_26774948406_o: Hiding in the night sky
+  segment 3/8 [image] 7.6s
+  segment 4/8 [card] 4.5s
+  NASA 'Milky Way Andromeda collision' -> GSFC_20171208_Archive_e000052: Hubble Catches a Galaxy Duo by the "Hare"
+  segment 5/8 [image] 6.0s
+  segment 6/8 [card] 10.1s
+  NASA 'colliding galaxies Hubble' -> PIA04213: Edge-on Galaxy
+  segment 7/8 [image] 5.8s
+  WIKI File:Bullet_cluster.jpg (Public domain)
+  segment 8/8 [end] 10.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep019.mp4 (8.1 MB)
