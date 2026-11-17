@@ -1,19 +1,18 @@
-[0;93m2026-11-17 20:52:27.387640015 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 21:22:21.702817112 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 40: Alien Life?
   audio 57.2s
   WIKI File:PIA17202_-_Approaching_Enceladus.jpg (Public domain)
-  segment 1/8 [title] 4.8s
+  segment 1/8 [title] 4.9s
   WIKI File:Europa_-_Perijove_45_(cropped).png (CC BY 2.0)
   segment 2/8 [image] 6.9s
   WIKI File:PIA17202_-_Approaching_Enceladus.jpg (Public domain)
-  segment 3/8 [image] 9.4s
-  segment 4/8 [card] 7.9s
+  segment 3/8 [image] 9.3s
+  segment 4/8 [card] 8.0s
   WIKI File:Europa_Clipper_spacecraft_model.png (Public domain)
   segment 5/8 [image] 7.6s
   segment 6/8 [card] 2.4s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
   segment 7/8 [image] 7.4s
-  - skip File:Wow_signal.jpg: looks like a chart/blank
-  NASA 'radio telescope' -> PIA20986: Five-hundred-meter Aperture Spherical Telescope, China
+  WIKI File:ALMA and a Starry Night.jpg (CC BY 4.0)
   segment 8/8 [end] 10.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep040.mp4 (8.2 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep040.mp4 (8.8 MB)
