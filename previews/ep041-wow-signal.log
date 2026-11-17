@@ -1,20 +1,13 @@
-[0;93m2026-11-17 22:12:21.923791412 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 22:39:10.167239488 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 41: The Wow! Signal
   audio 93.8s
-  - skip File:Wow_signal.jpg: looks like a chart/blank
-  - skip File:THE BIG EAR 2005.jpg: license 'CC BY-SA 3.0'
-  - skip File:Big Ears Festival 09, Matmos (3268187481).jpg: license 'CC BY-SA 2.0'
-  - skip File:Stachys byzantina Big Ears 2020-06-23 08284.jpg: license 'CC BY-SA 4.0'
-  - skip File:Stachys byzantina Big Ears 2020-06-23 08285.jpg: license 'CC BY-SA 4.0'
-  - skip File:Big Ears 09 kicks off at the Knoxville Museum of Art, Alive After Five - Feb. 6, 2009 with Matmos.jpg: license 'CC BY-SA 2.0'
-  WIKI File:Tribes woman with ear piercing.jpg (CC BY 2.0)
+  - skip File:Wow signal.jpg: looks like a chart/blank
+  - skip File:Wow signal (large).jpg: looks like a chart/blank
+  WIKI File:Wow! signal.png (Public domain)
   segment 1/11 [title] 5.7s
-  - skip File:THE BIG EAR 2005.jpg: license 'CC BY-SA 3.0'
-  - skip File:Big Ears Festival 09, Matmos (3268187481).jpg: license 'CC BY-SA 2.0'
-  - skip File:Stachys byzantina Big Ears 2020-06-23 08284.jpg: license 'CC BY-SA 4.0'
-  - skip File:Stachys byzantina Big Ears 2020-06-23 08285.jpg: license 'CC BY-SA 4.0'
-  - skip File:Big Ears 09 kicks off at the Knoxville Museum of Art, Alive After Five - Feb. 6, 2009 with Matmos.jpg: license 'CC BY-SA 2.0'
-  WIKI File:Tribes woman with ear piercing.jpg (CC BY 2.0)
+  - no free lead image for 'Big Ear (telescope)'
+  - skip File:The IRAM 30-meter telescope scanning the night sky.jpg: license 'CC BY-SA 4.0'
+  WIKI File:A lonely little telescope.jpg (CC BY 4.0)
   segment 2/11 [image] 8.7s
   segment 3/11 [card] 5.1s
   - skip File:Wow signal.jpg: looks like a chart/blank
@@ -23,14 +16,14 @@
   segment 4/11 [image] 9.2s
   segment 5/11 [card] 8.0s
   WIKI File:Submillimeter Array Night.jpg (CC BY 4.0)
-  segment 6/11 [image] 10.9s
+  segment 6/11 [image] 11.0s
   WIKI File:Guisard - Milky Way.jpg (CC BY 4.0)
   segment 7/11 [image] 4.7s
   segment 8/11 [card] 8.1s
   WIKI File:Arecibo Observatory Aerial View.jpg (CC BY 4.0)
-  segment 9/11 [image] 15.1s
+  segment 9/11 [image] 15.0s
   WIKI File:Night over Chajnantor (2016 04 09 ALMA Central Array Reproj-CC).jpg (CC BY 4.0)
   segment 10/11 [image] 6.7s
   WIKI File:ALMA and a Starry Night.jpg (CC BY 4.0)
   segment 11/11 [end] 11.6s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep041.mp4 (22.4 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep041.mp4 (29.0 MB)
