@@ -1,16 +1,16 @@
-[0;93m2026-11-17 20:19:27.411592112 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-17 20:58:56.494445166 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 16: Supernova
-  audio 55.3s
+  audio 55.2s
   WIKI File:NASA's_Chandra_Releases_'Red,_White,_and_Blue'_Universe_for_US_250th_(Cassiopeia_A_composite).jpg (Public domain)
   segment 1/7 [title] 3.7s
   WIKI File:SN1994D.jpg (Public domain)
   segment 2/7 [image] 6.7s
   WIKI File:Crab_Nebula.jpg (Public domain)
-  segment 3/7 [image] 7.1s
+  segment 3/7 [image] 7.0s
   segment 4/7 [card] 10.6s
   segment 5/7 [card] 6.5s
   WIKI File:New_Hubble_Observations_of_Supernova_1987A_Trace_Shock_Wave_(4954621859).jpg (Public domain)
   segment 6/7 [image] 8.9s
-  ! no usable NASA image for 'Sagittarius A* Chandra'
+  WIKI File:A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg (CC BY 4.0)
   segment 7/7 [end] 11.8s
   -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep016.mp4 (7.6 MB)

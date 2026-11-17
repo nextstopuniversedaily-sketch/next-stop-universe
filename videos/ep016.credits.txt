@@ -2,3 +2,4 @@ X-ray: NASA/CXC/SAO; IR: NASA/ESA/CSA/STScI; Image Processing: NASA/CXC/SAO/L. F
 NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team (Public domain) https://commons.wikimedia.org/wiki/File:SN1994D.jpg
 NASA, ESA, J. Hester and A. Loll (Arizona State University) (Public domain) https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg
 NASA Goddard Space Flight Center from Greenbelt, MD, USA (Public domain) https://commons.wikimedia.org/wiki/File:New_Hubble_Observations_of_Supernova_1987A_Trace_Shock_Wave_(4954621859).jpg
+EHT Collaboration (CC BY 4.0) https://commons.wikimedia.org/wiki/File:A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A*_in_polarised_light_(eso2406a).jpg
