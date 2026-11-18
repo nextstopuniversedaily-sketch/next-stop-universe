@@ -1,4 +1,3 @@
-[0;93m2026-11-18 20:34:13.200693927 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 92: The Great Red Spot
   audio 77.0s
   WIKI File:Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_(49803032983).png (CC BY 2.0)
@@ -10,15 +9,17 @@
   segment 4/10 [card] 8.6s
   WIKI File:Great Red Spot From Voyager 1.jpg (Public domain)
   segment 5/10 [image] 8.7s
-  WIKI File:Hubble shows winds in Jupiter’s great red spot are speeding up (51565147214).jpg (CC BY 2.0)
+  WIKI File:NASA's Hubble Shows Jupiter's Great Red Spot is Smaller than Ever (14005564929).jpg (Public domain)
   segment 6/10 [image] 7.1s
   WIKI File:PIA21972 Jupiter Blues.jpg (Public domain)
   segment 7/10 [image] 8.8s
   - skip File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg: license ''
   WIKI File:Chaotic Clouds of Jupiter.jpg (Public domain)
   segment 8/10 [image] 7.3s
-  WIKI File:Oval BA (Hubble).jpg (Public domain)
+  WIKI File:Portrait_of_Jupiter_from_Cassini.jpg (Public domain)
   segment 9/10 [image] 5.4s
-  WIKI File:Ganymede - Perijove 34 Composite.jpg (CC BY 2.0)
+  ! commons search failed Ganymede Juno 'query'
+  ! commons search failed Ganymede Galileo 'query'
+  NASA 'Ganymede Juno' -> PIA24681: Juno's Ganymede Close-up
   segment 10/10 [end] 12.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep092.mp4 (13.7 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep092.mp4 (18.8 MB)
