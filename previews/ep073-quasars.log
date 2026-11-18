@@ -1,22 +1,22 @@
-[0;93m2026-11-18 03:31:56.437509344 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-18 04:23:14.678374010 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 73: Quasars
-  audio 76.7s
+  audio 76.9s
   WIKI File:Artist’s impression of the quasar 3C 279.jpg (CC BY 4.0)
   segment 1/10 [title] 3.8s
   WIKI File:CSIRO ScienceImage 4350 CSIROs Parkes Radio Telescope with moon in the background.jpg (CC BY 3.0)
   segment 2/10 [image] 9.3s
-  WIKI File:Hubble view of heart of quasar 3C 273 (opo2424a).jpg (CC BY 4.0)
-  segment 3/10 [image] 10.6s
+  WIKI File:Quasar Outflow (Illustration) (2021-026).png (Public domain)
+  segment 3/10 [image] 10.5s
   WIKI File:Artist’s impression of quasar J0313-1806.jpg (CC BY 4.0)
-  segment 4/10 [image] 4.8s
+  segment 4/10 [image] 4.9s
   WIKI File:Accretion Disk Binary System.jpg (Public domain)
-  segment 5/10 [image] 9.1s
+  segment 5/10 [image] 9.2s
   WIKI File:Artist’s impression of the record-breaking quasar J0529-4351 (eso2402a).jpg (CC BY 4.0)
-  segment 6/10 [image] 6.9s
+  segment 6/10 [image] 7.0s
   segment 7/10 [card] 4.7s
-  segment 8/10 [card] 7.6s
+  segment 8/10 [card] 7.5s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 9/10 [image] 7.9s
+  segment 9/10 [image] 8.0s
   - skip File:SurfaceDetector.png: license 'CC BY-SA 3.0'
   - skip File:The Catskill Mountains; (1905) (14736412216).jpg: license 'No restrictions'
   - skip File:The Catskill Mountains (1903) (14778877483).jpg: license 'No restrictions'
@@ -25,4 +25,4 @@
   - skip File:The Catskill Mountains (1912) (14758529394).jpg: license 'No restrictions'
   WIKI File:Aurora Australis From ISS.JPG (Public domain)
   segment 10/10 [end] 12.0s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep073.mp4 (19.0 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep073.mp4 (18.5 MB)
