@@ -1,13 +1,6 @@
-[0;93m2026-11-18 04:55:13.693180254 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 87: Ring of Fire
   audio 78.8s
-  - skip File:'Ring of fire' Annular Solar Eclipse 2019.jpg: license 'CC BY-SA 4.0'
-  - skip File:Annular Solar Eclipse over Pakistan.jpg: license 'Attribution'
-  - skip File:The "Ring of Fire" - Annular Solar Eclipse, Mesquite, Nevada (7239346730).jpg: license 'CC BY-SA 2.0'
-  - skip File:The "Ring of Fire" - Annular Solar Eclipse, Mesquite, Nevada (3) (7239346576).jpg: license 'CC BY-SA 2.0'
-  - skip File:The "Ring of Fire" - Annular Solar Eclipse, Mesquite, Nevada (2) (7239346638).jpg: license 'CC BY-SA 2.0'
-  - skip File:Annular solar eclipse ESA521433.png: license 'CC BY-SA 3.0 igo'
-  WIKI File:NASA Interview Opportunity- Ring of Fire THIS Weekend With Annular Solar Eclipse (SVS14424 - english final).png (Public domain)
+  WIKI File:2023-10-14 eclipse around annularity.jpg (CC BY 4.0)
   segment 1/10 [title] 4.0s
   - skip File:Solar annular eclipse of January 15, 2010 in Jinan, China.jpg: license 'CC BY-SA 3.0'
   - skip File:Solar eclipse 1999 4.jpg: license 'CC BY-SA 3.0'
@@ -17,14 +10,10 @@
   - skip File:2019-12-26 Annular-Solar-Eclipse-in-Singapore.jpg: license 'CC BY-SA 4.0'
   WIKI File:Statue of Liberty Annular Solar Eclipse (51239095574).jpg (CC BY 2.0)
   segment 2/10 [image] 6.7s
-  - skip File:'Ring of fire' Annular Solar Eclipse 2019.jpg: license 'CC BY-SA 4.0'
-  - skip File:Annular Solar Eclipse over Pakistan.jpg: license 'Attribution'
-  - skip File:The "Ring of Fire" - Annular Solar Eclipse, Mesquite, Nevada (7239346730).jpg: license 'CC BY-SA 2.0'
-  - skip File:The "Ring of Fire" - Annular Solar Eclipse, Mesquite, Nevada (3) (7239346576).jpg: license 'CC BY-SA 2.0'
-  - skip File:The "Ring of Fire" - Annular Solar Eclipse, Mesquite, Nevada (2) (7239346638).jpg: license 'CC BY-SA 2.0'
-  - skip File:Annular solar eclipse ESA521433.png: license 'CC BY-SA 3.0 igo'
-  WIKI File:NASA Interview Opportunity- Ring of Fire THIS Weekend With Annular Solar Eclipse (SVS14424 - english final).png (Public domain)
-  segment 3/10 [image] 7.3s
+  - skip File:Solar Eclipse May 20,2012.jpg: license 'CC BY-SA 3.0'
+  - skip File:Solar eclipse at kashima Japan May 21 2012.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Annular-Solar-Eclipse 2012-05-21 02.jpg (CC BY 4.0)
+  segment 3/10 [image] 7.4s
   - skip File:Lunar perigee apogee.png: license 'CC BY-SA 3.0'
   - skip File:Earth-Moon system to scale.png: license 'CC BY-SA 4.0'
   - skip File:Earth-Moon ScaledTo Basketball-Tennisball.png: license 'CC BY-SA 3.0'
@@ -42,9 +31,9 @@
   WIKI File:A Moon-size Line Up.jpg (Public domain)
   segment 7/10 [image] 12.1s
   WIKI File:Eclipsbrilletje.JPG (Public domain)
-  segment 8/10 [image] 8.1s
+  segment 8/10 [image] 8.0s
   WIKI File:Partial solar eclipse with some clouds in Tuntorp 43.jpg (CC BY 4.0)
   segment 9/10 [image] 4.7s
   WIKI File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png (CC BY 2.0)
-  segment 10/10 [end] 10.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep087.mp4 (10.9 MB)
+  segment 10/10 [end] 10.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep087.mp4 (10.3 MB)
