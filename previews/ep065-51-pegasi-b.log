@@ -1,8 +1,8 @@
-[0;93m2026-11-18 03:17:45.279495708 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-18 04:07:58.145291370 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 65: 51 Pegasi b
-  audio 73.4s
+  audio 73.3s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
-  segment 1/10 [title] 4.9s
+  segment 1/10 [title] 4.8s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
   segment 2/10 [image] 10.9s
   WIKI File:Fomalhaut planet.jpg (Public domain)
@@ -12,13 +12,19 @@
   segment 5/10 [image] 9.5s
   segment 6/10 [card] 7.1s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
-  segment 7/10 [image] 6.4s
-  - skip File:Nobel prize medal for medicine, Sweden, 1945, to Sir Alexander Fleming (1881-1955) who discovered Penicillin. On display at the National Museum of Scotland.jpg: license 'CC BY-SA 4.0'
-  - skip File:Nobel prize medal awarded to Alexander Fleming, 1945. (9660573705).jpg: license 'CC BY-SA 2.0'
-  - skip File:PSM V70 D094 Nobel prize medals.jpg: looks like a chart/blank
-  WIKI File:2026 gift to President Donald Trump of the Nobel Peace Prize medal awarded to Maria Corina Machado inside the White House Oval Office on 15 January (cropped).jpg (Public domain)
-  segment 8/10 [image] 5.0s
+  segment 7/10 [image] 6.5s
+  - skip File:L'Observatoire de Haute Provence in Winter.jpg: license 'CC BY-SA 4.0'
+  - skip File:OHP T193 Pano.jpg: license 'CC BY-SA 4.0'
+  - skip File:T193 in observations.jpg: license 'CC BY-SA 4.0'
+  - skip File:Montagne de Lure et Observatoire de Haute-Provence (2).jpg: license 'CC BY-SA 3.0'
+  - skip File:Montagne de Lure et Observatoire de Haute-Provence (3).jpg: license 'CC BY-SA 3.0'
+  - skip File:Montagne de Lure et Observatoire de Haute-Provence.jpg: license 'CC BY-SA 3.0'
+  - skip File:Comet Neowise.jpg: license 'CC BY-SA 4.0'
+  - skip File:L'Observatoire de Haute Provence in Winter (crop).jpg: license 'CC BY-SA 4.0'
+  - skip File:Comet Neowise and OHP lidar cropped.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'Observatoire de Haute-Provence'
+  segment 8/10 [image] 4.9s
   segment 9/10 [card] 7.8s
   WIKI File:TRAPPIST-1h artist impression 2018.png (Public domain)
   segment 10/10 [end] 10.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep065.mp4 (8.0 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep065.mp4 (7.6 MB)
