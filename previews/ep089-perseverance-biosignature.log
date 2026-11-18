@@ -1,0 +1,25 @@
+[0;93m2026-11-18 05:00:23.346642111 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 89: Signs of Life on Mars?
+  audio 77.6s
+  WIKI File:Perseverance Stuns in New Selfie.png (Public domain)
+  segment 1/10 [title] 4.7s
+  - skip File:Jezero Crater delta ESA23163264.jpeg: license 'CC BY-SA 3.0 igo'
+  WIKI File:Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg (Public domain)
+  segment 2/10 [image] 9.1s
+  - skip File:Perseverance's Selfie With 'Cheyava Falls' (PIA26344).jpg: license ''
+  WIKI File:E1a-PIA26401-Mastcam-Z-Views-the-Cheyava-Falls-Workspace.jpg (Public domain)
+  segment 3/10 [image] 10.4s
+  WIKI File:1-PIA26368-Perseverance Finds a Rock with Leopard Spots-annotated.png (Public domain)
+  segment 4/10 [image] 6.6s
+  WIKI File:Moscow State University microbial mat 2014-01 1389532009.JPG (CC BY 4.0)
+  segment 5/10 [image] 5.8s
+  segment 6/10 [card] 7.8s
+  WIKI File:PIA25962-MarsPerseveranceRover-OtisPeak-RockSample-20230612.jpg (Public domain)
+  segment 7/10 [image] 7.3s
+  WIKI File:Perseverance Sample Tubes, Tubes 1-6.png (Public domain)
+  segment 8/10 [image] 6.7s
+  WIKI File:Mars Sample Return Concept Illustration.jpg (Public domain)
+  segment 9/10 [image] 8.1s
+  WIKI File:Orion Nebula - Hubble 2006 mosaic 18000.jpg (Public domain)
+  segment 10/10 [end] 11.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep089.mp4 (19.4 MB)
