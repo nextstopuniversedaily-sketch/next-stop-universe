@@ -1,0 +1,27 @@
+[0;93m2026-11-18 04:37:18.949952498 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 79: The Moon's South Pole
+  audio 70.6s
+  WIKI File:LRO WAC South Pole Mosaic.jpg (Public domain)
+  segment 1/10 [title] 4.6s
+  WIKI File:Aldrin Apollo 11.jpg (Public domain)
+  segment 2/10 [image] 7.7s
+  WIKI File:Ernest Shackleton before 1909.jpg (Public domain)
+  segment 3/10 [image] 8.5s
+  segment 4/10 [card] 6.6s
+  WIKI File:LRO WAC South Pole Mosaic.jpg (Public domain)
+  segment 5/10 [image] 4.1s
+  WIKI File:Water drop 001.jpg (CC BY 2.0)
+  segment 6/10 [image] 7.6s
+  - skip File:Chandrayaan-3 Pragyan rover.png: license 'GODL-India'
+  - skip File:Chandrayaan-2 Rover Engineering Model 3.jpg: license 'CC BY-SA 4.0'
+  - skip File:GSLV Mk III M1, Chandrayaan-2 - Pragyan rover mounted on the ramp of Vikram lander.jpg: license 'GODL-India'
+  ! no usable NASA image for 'Chandrayaan-3 Pragyan rover'
+  segment 7/10 [image] 7.1s
+  WIKI File:Artist’s Concepts Depict SpaceX’s Starship HLS Test Article for NASA’s Artemis III.jpg (Public domain)
+  segment 8/10 [image] 10.2s
+  - skip File:Chang'e 4 lander.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Chang'e 4 Lander- A Closer Look (02 m1147290066lr m130C5A1B).jpg (Public domain)
+  segment 9/10 [image] 5.5s
+  WIKI File:Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg (Public domain)
+  segment 10/10 [end] 8.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep079.mp4 (17.0 MB)
