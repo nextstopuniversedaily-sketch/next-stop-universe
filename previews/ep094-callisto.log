@@ -1,4 +1,3 @@
-[0;93m2026-11-18 20:38:04.858737302 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 94: Callisto
   audio 72.1s
   - skip File:Callisto_VGR2_C2060635_OGB.png: license 'CC BY-SA 2.0'
@@ -12,12 +11,12 @@
   segment 5/10 [image] 6.3s
   WIKI File:Jupiter and Callisto from Voyager 1.png (Public domain)
   segment 6/10 [image] 6.3s
-  WIKI File:PIA01478 Interior of Callisto (cropped).jpg (Public domain)
+  WIKI File:Callisto - Voyager 2 (26602921414).png (CC BY 2.0)
   segment 7/10 [image] 8.6s
   ! no usable NASA image for 'Callisto Galileo full disk'
   segment 8/10 [image] 5.6s
   WIKI File:Jupiter Family of Moons by Juno.png (Public domain)
   segment 9/10 [image] 6.2s
-  WIKI File:Europa Clipper commemorative plate 1.jpg (Public domain)
+  WIKI File:Europa_Clipper_spacecraft_model.png (Public domain)
   segment 10/10 [end] 11.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep094.mp4 (13.1 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep094.mp4 (9.6 MB)
