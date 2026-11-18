@@ -1,0 +1,116 @@
+{
+  "number": 78,
+  "title": "Starship",
+  "subtitle": "The biggest rocket ever",
+  "next_stop": "The Moon's South Pole",
+  "yt_title": "The Biggest Rocket Ever Built 🚀 | Ep. 78 #shorts",
+  "description": "Episode 78 of a daily journey through the universe. 🚀\nStarship: SpaceX's giant rocket stands about 124 meters tall, the biggest and most powerful ever flown. Its booster is designed to be caught by the launch tower's 'chopsticks', and a version of Starship is planned as NASA's Moon lander.\n\n➡️ Tomorrow, Episode 79: Next stop, the Moon's south pole. Where water ice hides in eternal darkness.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #starship #astronomy #shorts #science",
+  "tags": [
+    "starship",
+    "spacex",
+    "super heavy",
+    "biggest rocket",
+    "chopsticks catch",
+    "artemis",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seventy-eight. Next stop... Starship.",
+      "visual": {
+        "type": "title",
+        "query": "SpaceX Starship launch",
+        "commons": "SpaceX Starship launch"
+      }
+    },
+    {
+      "text": "The Saturn five, which carried astronauts to the Moon, was a giant. But a new rocket is even bigger.",
+      "visual": {
+        "type": "image",
+        "query": "Saturn V launch Apollo 11",
+        "commons": "Saturn V launch Apollo 11"
+      },
+      "headline": "Saturn V"
+    },
+    {
+      "text": "Starship, built by SpaceX, is the biggest and most powerful rocket ever flown. About one hundred twenty-four meters tall.",
+      "visual": {
+        "type": "card",
+        "big": "124 m",
+        "label": "taller than a 40-story building"
+      }
+    },
+    {
+      "text": "It has two parts: a giant booster called Super Heavy, and the Starship spacecraft on top.",
+      "visual": {
+        "type": "image",
+        "query": "Starship Super Heavy Starbase",
+        "commons": "Starship Super Heavy Starbase"
+      },
+      "headline": "Two stages"
+    },
+    {
+      "text": "The big idea is to reuse everything, like an airplane, instead of throwing rockets away.",
+      "visual": {
+        "type": "image",
+        "query": "Falcon 9 booster landing",
+        "commons": "Falcon 9 booster landing"
+      },
+      "headline": "Reuse everything"
+    },
+    {
+      "text": "In October twenty twenty-four, the booster flew back to its launch tower, and giant mechanical arms, nicknamed chopsticks, caught it in midair.",
+      "visual": {
+        "type": "image",
+        "query": "Starship launch tower Starbase",
+        "commons": "Starship launch tower Starbase"
+      },
+      "headline": "Caught by chopsticks"
+    },
+    {
+      "text": "It has flown more than a dozen test flights, with explosions, fixes and big successes along the way.",
+      "visual": {
+        "type": "card",
+        "big": "12+",
+        "label": "test flights so far"
+      }
+    },
+    {
+      "text": "NASA plans to use a version of Starship as a lander to put astronauts back on the Moon.",
+      "visual": {
+        "type": "image",
+        "query": "Starship HLS artist concept Moon",
+        "commons": "Starship HLS artist concept Moon"
+      },
+      "headline": "A Moon lander"
+    },
+    {
+      "text": "And SpaceX hopes one day to send it to Mars.",
+      "visual": {
+        "type": "image",
+        "query": "Mars Viking orbiter",
+        "commons": "Mars Viking orbiter"
+      },
+      "headline": "Next: Mars?"
+    },
+    {
+      "text": "Tomorrow, where Starship and astronauts are headed: the Moon's south pole. Next stop: the lunar south pole. Follow, so you don't miss episode seventy-nine.",
+      "visual": {
+        "type": "end",
+        "query": "Moon south pole LRO",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "Moon south pole LRO",
+          "Shackleton crater"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "number": 87,
+  "title": "Ring of Fire",
+  "subtitle": "Eclipse tomorrow",
+  "next_stop": "Mars Is Coming",
+  "yt_title": "Ring of Fire Eclipse Tomorrow! 🔥 | Ep. 87 #shorts",
+  "description": "Episode 87 of a daily journey through the universe. 🔥\nTomorrow, February 6, 2027, an annular 'ring of fire' solar eclipse crosses southern Chile and Argentina, Uruguay and southern Brazil, then the Atlantic to Africa. Near its maximum the ring lasts up to about 7 minutes 51 seconds. Why it happens and how to watch safely.\n\n➡️ Tomorrow, Episode 88: Next stop, Mars. The Red Planet is about to be at its brightest.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #annulareclipse #astronomy #shorts #science",
+  "tags": [
+    "annular eclipse",
+    "ring of fire",
+    "solar eclipse 2027",
+    "eclipse february 6 2027",
+    "argentina eclipse",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eighty-seven. Next stop... a ring of fire.",
+      "visual": {
+        "type": "title",
+        "query": "annular solar eclipse ring of fire",
+        "commons": "annular solar eclipse ring of fire"
+      }
+    },
+    {
+      "text": "Tomorrow, February sixth, the Moon will pass in front of the Sun. But it won't cover it completely.",
+      "visual": {
+        "type": "image",
+        "query": "annular eclipse",
+        "commons": "annular eclipse"
+      },
+      "headline": "Tomorrow: an eclipse"
+    },
+    {
+      "text": "A blazing ring of sunlight will surround the dark Moon. It's called an annular eclipse, or a ring of fire.",
+      "visual": {
+        "type": "image",
+        "query": "annular solar eclipse ring of fire",
+        "commons": "annular solar eclipse ring of fire"
+      },
+      "headline": "A ring of fire"
+    },
+    {
+      "text": "Why a ring? Because the Moon's orbit is an oval. Tomorrow it's far from Earth, so it looks slightly too small to cover the Sun.",
+      "visual": {
+        "type": "image",
+        "query": "Moon apogee perigee comparison",
+        "commons": "Moon apogee perigee comparison"
+      },
+      "headline": "The Moon looks too small"
+    },
+    {
+      "text": "The ring will be visible along a path across southern Chile and Argentina, Uruguay and southern Brazil, then across the Atlantic to Africa.",
+      "visual": {
+        "type": "image",
+        "query": "Patagonia landscape",
+        "commons": "Patagonia landscape"
+      },
+      "headline": "Where to see it"
+    },
+    {
+      "text": "Near its maximum, the ring lasts up to about seven minutes and fifty-one seconds. Unusually long.",
+      "visual": {
+        "type": "card",
+        "big": "7 min 51 s",
+        "label": "of ring of fire, at most"
+      }
+    },
+    {
+      "text": "Here's a fun coincidence: the Sun is about four hundred times wider than the Moon, but also about four hundred times farther away. That's why they look the same size.",
+      "visual": {
+        "type": "image",
+        "query": "Sun Moon size comparison",
+        "commons": "Sun Moon size comparison"
+      },
+      "headline": "A perfect coincidence"
+    },
+    {
+      "text": "Most important: never look at it without certified eclipse glasses. Even a ring of sunlight can damage your eyes.",
+      "visual": {
+        "type": "image",
+        "query": "eclipse glasses",
+        "commons": "eclipse glasses"
+      },
+      "headline": "Protect your eyes"
+    },
+    {
+      "text": "Not in the path? Many observatories will stream it live online.",
+      "visual": {
+        "type": "image",
+        "query": "partial solar eclipse",
+        "commons": "partial solar eclipse"
+      },
+      "headline": "Watch online"
+    },
+    {
+      "text": "Tomorrow, the Red Planet is about to be at its brightest in two years. Next stop: Mars. Follow, so you don't miss episode eighty-eight.",
+      "visual": {
+        "type": "end",
+        "query": "Mars Hubble",
+        "warm": true,
+        "wiki": [
+          "Mars"
+        ],
+        "commons": [
+          "Mars Hubble"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "number": 77,
+  "title": "Space Junk",
+  "subtitle": "A traffic jam in orbit",
+  "next_stop": "Starship",
+  "yt_title": "There Are 47,000 Objects Tracked Around Earth 🛰️ | Ep. 77 #shorts",
+  "description": "Episode 77 of a daily journey through the universe. 🛰️\nSpace junk: the European Space Agency counts about 47,000 objects regularly tracked in orbit and estimates around 1.5 million pieces between 1 and 10 centimeters, all moving at about 28,000 km/h. The danger of a chain reaction called Kessler syndrome.\n\n➡️ Tomorrow, Episode 78: Next stop, Starship. The biggest rocket ever built.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #spacejunk #astronomy #shorts #science",
+  "tags": [
+    "space junk",
+    "space debris",
+    "kessler syndrome",
+    "satellites",
+    "orbit",
+    "esa",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seventy-seven. Next stop... space junk.",
+      "visual": {
+        "type": "title",
+        "query": "space debris illustration ESA",
+        "commons": "space debris illustration ESA"
+      }
+    },
+    {
+      "text": "Since nineteen fifty-seven, humans have launched thousands of rockets and tens of thousands of satellites.",
+      "visual": {
+        "type": "image",
+        "query": "Sputnik 1 replica",
+        "commons": "Sputnik 1 replica"
+      },
+      "headline": "Since 1957"
+    },
+    {
+      "text": "Many are still up there. Dead satellites, old rocket stages, and fragments from explosions and collisions.",
+      "visual": {
+        "type": "image",
+        "query": "rocket upper stage orbit",
+        "commons": "rocket upper stage orbit"
+      },
+      "headline": "Still up there"
+    },
+    {
+      "text": "The European Space Agency says about forty-seven thousand objects are regularly tracked in orbit.",
+      "visual": {
+        "type": "card",
+        "big": "~47,000",
+        "label": "tracked objects"
+      }
+    },
+    {
+      "text": "And it estimates around one and a half million pieces between one and ten centimeters. Too small to track, big enough to destroy a satellite.",
+      "visual": {
+        "type": "card",
+        "big": "1.5 million",
+        "label": "pieces of 1–10 cm"
+      }
+    },
+    {
+      "text": "In low orbit, they move at about twenty-eight thousand kilometers per hour. Ten times faster than a bullet.",
+      "visual": {
+        "type": "card",
+        "big": "28,000 km/h",
+        "label": "orbital speed"
+      }
+    },
+    {
+      "text": "Even a paint fleck can chip a window. The space station regularly moves out of the way of debris.",
+      "visual": {
+        "type": "image",
+        "query": "ISS window impact chip",
+        "commons": "ISS window impact chip"
+      },
+      "headline": "Dodging debris"
+    },
+    {
+      "text": "Scientists worry about Kessler syndrome: one collision creates fragments that cause more collisions, in a chain reaction.",
+      "visual": {
+        "type": "image",
+        "query": "satellite collision illustration",
+        "commons": "satellite collision illustration"
+      },
+      "headline": "Kessler syndrome"
+    },
+    {
+      "text": "Today new satellites are designed to burn up when they're done, and missions are being tested to grab old junk.",
+      "visual": {
+        "type": "image",
+        "query": "ClearSpace-1 illustration",
+        "commons": "ClearSpace-1 illustration"
+      },
+      "headline": "Cleaning up"
+    },
+    {
+      "text": "Tomorrow, the biggest and most powerful rocket ever built. Next stop: Starship. Follow, so you don't miss episode seventy-eight.",
+      "visual": {
+        "type": "end",
+        "query": "SpaceX Starship launch",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "SpaceX Starship launch"
+        ]
+      }
+    }
+  ]
+}

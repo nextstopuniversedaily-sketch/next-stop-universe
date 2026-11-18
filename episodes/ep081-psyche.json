@@ -1,0 +1,116 @@
+{
+  "number": 81,
+  "title": "Psyche",
+  "subtitle": "A world of metal",
+  "next_stop": "Saturn's Vanishing Rings",
+  "yt_title": "An Asteroid That May Be Made of Metal 🔩 | Ep. 81 #shorts",
+  "description": "Episode 81 of a daily journey through the universe. 🔩\n16 Psyche: a metal-rich asteroid about 220 km wide that may be the exposed core of a baby planet. NASA's Psyche spacecraft launched in October 2023, flew past Mars in May 2026, and is set to arrive in August 2029.\n\n➡️ Tomorrow, Episode 82: Next stop, Saturn's rings. They're disappearing.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #psyche #astronomy #shorts #science",
+  "tags": [
+    "psyche",
+    "16 psyche",
+    "metal asteroid",
+    "nasa psyche mission",
+    "asteroid belt",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eighty-one. Next stop... Psyche.",
+      "visual": {
+        "type": "title",
+        "query": "Psyche asteroid artist concept",
+        "commons": "Psyche asteroid artist concept"
+      }
+    },
+    {
+      "text": "In the outer asteroid belt there's an asteroid unlike almost any other. It's called sixteen Psyche.",
+      "visual": {
+        "type": "image",
+        "query": "asteroid belt artist impression",
+        "commons": "asteroid belt artist impression"
+      },
+      "headline": "16 Psyche"
+    },
+    {
+      "text": "It's about two hundred twenty kilometers wide.",
+      "visual": {
+        "type": "card",
+        "big": "~220 km",
+        "label": "wide"
+      }
+    },
+    {
+      "text": "Most asteroids are rock or ice. But telescopes suggest Psyche is rich in metal.",
+      "visual": {
+        "type": "image",
+        "query": "iron meteorite",
+        "commons": "iron meteorite"
+      },
+      "headline": "Made of metal?"
+    },
+    {
+      "text": "One idea: it's the core of a baby planet, whose rocky outer layers were smashed away by collisions billions of years ago.",
+      "visual": {
+        "type": "image",
+        "query": "protoplanet collision artist impression",
+        "commons": "protoplanet collision artist impression"
+      },
+      "headline": "A planet's core?"
+    },
+    {
+      "text": "We can never visit Earth's core. It's thousands of kilometers below us. But Psyche might let us see one up close.",
+      "visual": {
+        "type": "image",
+        "query": "Earth interior cutaway",
+        "commons": "Earth interior cutaway"
+      },
+      "headline": "A look at a core"
+    },
+    {
+      "text": "NASA's Psyche spacecraft launched in October twenty twenty-three. It flies on blue-glowing electric thrusters.",
+      "visual": {
+        "type": "image",
+        "query": "Psyche spacecraft",
+        "commons": "Psyche spacecraft"
+      },
+      "headline": "Launched 2023"
+    },
+    {
+      "text": "It flew past Mars in May twenty twenty-six for a gravity boost, and is set to arrive in August twenty twenty-nine.",
+      "visual": {
+        "type": "card",
+        "big": "2029",
+        "label": "Psyche arrives"
+      }
+    },
+    {
+      "text": "Headlines love to say it's worth quadrillions of dollars. But no one can mine it. The real treasure is knowledge.",
+      "visual": {
+        "type": "image",
+        "query": "metal surface asteroid illustration",
+        "commons": "metal surface asteroid illustration"
+      },
+      "headline": "The real treasure"
+    },
+    {
+      "text": "Tomorrow, Saturn's rings are slowly disappearing. Next stop: Saturn's vanishing rings. Follow, so you don't miss episode eighty-two.",
+      "visual": {
+        "type": "end",
+        "query": "Saturn Cassini",
+        "warm": false,
+        "wiki": [
+          "Saturn"
+        ],
+        "commons": [
+          "Saturn Cassini"
+        ]
+      }
+    }
+  ]
+}

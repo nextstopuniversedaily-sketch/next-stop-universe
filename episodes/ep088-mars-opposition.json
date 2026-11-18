@@ -1,0 +1,115 @@
+{
+  "number": 88,
+  "title": "Mars Is Coming",
+  "subtitle": "Opposition, February 19",
+  "next_stop": "Signs of Life on Mars?",
+  "yt_title": "Mars Is About to Be at Its Brightest 🔴 | Ep. 88 #shorts",
+  "description": "Episode 88 of a daily journey through the universe. 🔴\nMars reaches opposition on February 19, 2027 and its closest point to Earth on February 20, about 101 million km away, shining bright in the constellation Leo all night. Why it happens every 26 months, and why some approaches are closer than others.\n\n➡️ Tomorrow, Episode 89: Next stop, the rock on Mars that might hold signs of ancient life.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #mars #astronomy #shorts #science",
+  "tags": [
+    "mars opposition 2027",
+    "mars",
+    "red planet",
+    "leo",
+    "mars closest approach",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eighty-eight. Next stop... Mars is coming.",
+      "visual": {
+        "type": "title",
+        "query": "Mars",
+        "wiki": "Mars"
+      }
+    },
+    {
+      "text": "Look east after sunset this month, and you'll see a bright orange-red point of light, getting brighter every night. That's Mars.",
+      "visual": {
+        "type": "image",
+        "query": "Mars night sky bright",
+        "commons": "Mars night sky bright"
+      },
+      "headline": "Look east after sunset"
+    },
+    {
+      "text": "On February nineteenth, Mars reaches opposition: Earth passes directly between Mars and the Sun.",
+      "visual": {
+        "type": "card",
+        "big": "Feb 19",
+        "label": "Mars at opposition"
+      }
+    },
+    {
+      "text": "Earth moves faster around the Sun, so it catches up with Mars and laps it, like runners on a track. That happens about every twenty-six months.",
+      "visual": {
+        "type": "image",
+        "query": "Earth Mars orbits illustration",
+        "commons": "Earth Mars orbits illustration"
+      },
+      "headline": "Earth laps Mars"
+    },
+    {
+      "text": "The next day, Mars is closest to us, about one hundred one million kilometers away.",
+      "visual": {
+        "type": "card",
+        "big": "101 million km",
+        "label": "closest, Feb 20"
+      }
+    },
+    {
+      "text": "It will rise at sunset, shine all night in the constellation Leo, and set at sunrise.",
+      "visual": {
+        "type": "image",
+        "query": "Leo constellation night sky",
+        "commons": "Leo constellation night sky"
+      },
+      "headline": "Up all night"
+    },
+    {
+      "text": "This isn't a record close approach. Mars's orbit is quite oval. In twenty oh three, it came much closer, the closest in about sixty thousand years.",
+      "visual": {
+        "type": "image",
+        "query": "Mars Hubble 2003",
+        "commons": "Mars Hubble 2003"
+      },
+      "headline": "Not a record"
+    },
+    {
+      "text": "Even so, it'll be one of the brightest points in the sky. With a small telescope, you may glimpse its white polar cap.",
+      "visual": {
+        "type": "image",
+        "query": "Mars polar cap Hubble",
+        "commons": "Mars polar cap Hubble"
+      },
+      "headline": "Try a telescope"
+    },
+    {
+      "text": "Right now, several spacecraft orbit Mars, and rovers are exploring its surface. One of them may have found signs of ancient life.",
+      "visual": {
+        "type": "image",
+        "query": "Perseverance rover selfie",
+        "commons": "Perseverance rover selfie"
+      },
+      "headline": "Robots on Mars"
+    },
+    {
+      "text": "Tomorrow, the rock with leopard spots that might hold signs of life. Next stop: Perseverance's big discovery. Follow, so you don't miss episode eighty-nine.",
+      "visual": {
+        "type": "end",
+        "query": "Cheyava Falls Perseverance",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Cheyava Falls Perseverance",
+          "Perseverance rover selfie"
+        ]
+      }
+    }
+  ]
+}

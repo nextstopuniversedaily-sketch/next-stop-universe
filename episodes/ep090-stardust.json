@@ -1,0 +1,117 @@
+{
+  "number": 90,
+  "title": "You Are Stardust",
+  "subtitle": "Season 5 finale",
+  "next_stop": "Jupiter's Biggest Night",
+  "yt_title": "You Are Made of Stardust ✨ | Ep. 90 #shorts",
+  "description": "Episode 90 of a daily journey through the universe. ✨\nSeason 5 finale: where the atoms in your body came from. Hydrogen from the Big Bang, carbon and oxygen made in stars, iron from exploding stars, and gold from colliding neutron stars. Most of your body's mass was made inside stars.\n\n➡️ Tomorrow, Episode 91: Next stop: Jupiter's biggest night of the year, at opposition February 10 to 11.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #stardust #astronomy #shorts #science",
+  "tags": [
+    "stardust",
+    "we are made of stars",
+    "nucleosynthesis",
+    "big bang",
+    "supernova",
+    "carl sagan",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode ninety. The season finale. Next stop... you are stardust.",
+      "visual": {
+        "type": "title",
+        "query": "Orion Nebula Hubble",
+        "commons": "Orion Nebula Hubble"
+      }
+    },
+    {
+      "text": "Ninety episodes. We've traveled across the universe. For the finale, let's look at the most amazing place of all: you.",
+      "visual": {
+        "type": "image",
+        "query": "person silhouette Milky Way",
+        "commons": "person silhouette Milky Way"
+      },
+      "headline": "The finale: you"
+    },
+    {
+      "text": "The hydrogen in the water in your body was made in the Big Bang, almost fourteen billion years ago.",
+      "visual": {
+        "type": "image",
+        "query": "cosmic microwave background Planck",
+        "commons": "cosmic microwave background Planck"
+      },
+      "headline": "Hydrogen from the Big Bang"
+    },
+    {
+      "text": "But the carbon in your cells, and the oxygen you breathe, were made inside stars, by nuclear fusion.",
+      "visual": {
+        "type": "image",
+        "query": "star forming region Hubble",
+        "commons": "star forming region Hubble"
+      },
+      "headline": "Carbon and oxygen from stars"
+    },
+    {
+      "text": "When big stars die, they explode as supernovas, scattering those elements into space, along with iron, like the iron in your blood.",
+      "visual": {
+        "type": "image",
+        "query": "Crab Nebula Hubble",
+        "commons": "Crab Nebula Hubble"
+      },
+      "headline": "Scattered by supernovas"
+    },
+    {
+      "text": "Remember episode twelve? Gold and other heavy elements were forged when neutron stars collided.",
+      "visual": {
+        "type": "image",
+        "query": "kilonova artist impression",
+        "commons": "kilonova artist impression"
+      },
+      "headline": "Gold from collisions"
+    },
+    {
+      "text": "That star dust drifted through space, collected into clouds, and formed new stars and planets. Including the Sun, and Earth.",
+      "visual": {
+        "type": "image",
+        "query": "protoplanetary disk ALMA",
+        "commons": "protoplanetary disk ALMA"
+      },
+      "headline": "New stars from old"
+    },
+    {
+      "text": "Most of the mass of your body was made inside stars. You are literally made of stardust.",
+      "visual": {
+        "type": "card",
+        "big": "stardust",
+        "label": "that's what you are"
+      }
+    },
+    {
+      "text": "As Carl Sagan put it, we are a way for the universe to know itself. Thank you for traveling with us.",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way over mountains",
+        "commons": "Milky Way over mountains"
+      },
+      "headline": "Thank you"
+    },
+    {
+      "text": "The journey continues tomorrow. Jupiter is about to have its biggest night of the year. Follow, so you don't miss episode ninety-one.",
+      "visual": {
+        "type": "end",
+        "query": "Jupiter Juno",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Jupiter Juno",
+          "Jupiter Hubble"
+        ]
+      }
+    }
+  ]
+}

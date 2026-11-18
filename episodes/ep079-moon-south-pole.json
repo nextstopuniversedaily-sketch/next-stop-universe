@@ -1,0 +1,117 @@
+{
+  "number": 79,
+  "title": "The Moon's South Pole",
+  "subtitle": "Ice in eternal darkness",
+  "next_stop": "Ceres",
+  "yt_title": "Water Ice Hides at the Moon's South Pole 🌑 | Ep. 79 #shorts",
+  "description": "Episode 79 of a daily journey through the universe. 🌑\nThe Moon's south pole: craters in permanent shadow, colder than minus 200 degrees Celsius, hide water ice. India's Chandrayaan-3 landed near the south pole in 2023, and NASA plans to land astronauts there on Artemis IV, targeted for 2028.\n\n➡️ Tomorrow, Episode 80: Next stop, Ceres. A dwarf planet with mysterious bright spots.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #moonsouthpole #astronomy #shorts #science",
+  "tags": [
+    "moon south pole",
+    "lunar ice",
+    "chandrayaan-3",
+    "artemis",
+    "shackleton crater",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seventy-nine. Next stop... the Moon's south pole.",
+      "visual": {
+        "type": "title",
+        "query": "Moon south pole LRO",
+        "commons": "Moon south pole LRO"
+      }
+    },
+    {
+      "text": "Every human who walked on the Moon landed near its equator. But everyone wants to go to its south pole now. Why?",
+      "visual": {
+        "type": "image",
+        "query": "Apollo astronaut Moon surface",
+        "commons": "Apollo astronaut Moon surface"
+      },
+      "headline": "Why the south pole?"
+    },
+    {
+      "text": "At the poles, the Sun always skims the horizon. The bottoms of some deep craters haven't seen sunlight in billions of years.",
+      "visual": {
+        "type": "image",
+        "query": "Shackleton crater",
+        "commons": "Shackleton crater"
+      },
+      "headline": "Never seen sunlight"
+    },
+    {
+      "text": "They're among the coldest places in the solar system, colder than minus two hundred degrees Celsius.",
+      "visual": {
+        "type": "card",
+        "big": "-200°C",
+        "label": "in shadowed craters"
+      }
+    },
+    {
+      "text": "And in that cold, there's ice. Water, frozen in the dark.",
+      "visual": {
+        "type": "image",
+        "query": "lunar south pole ice map",
+        "commons": "lunar south pole ice map"
+      },
+      "headline": "Water ice"
+    },
+    {
+      "text": "Water means drinking water for astronauts, and it can be split into oxygen to breathe, and fuel for rockets.",
+      "visual": {
+        "type": "image",
+        "query": "water drop",
+        "commons": "water drop"
+      },
+      "headline": "Water = air and fuel"
+    },
+    {
+      "text": "In August twenty twenty-three, India's Chandrayaan three became the first mission to land near the south pole.",
+      "visual": {
+        "type": "image",
+        "query": "Chandrayaan-3 Pragyan rover",
+        "commons": "Chandrayaan-3 Pragyan rover"
+      },
+      "headline": "Chandrayaan-3, 2023"
+    },
+    {
+      "text": "NASA plans to land astronauts there on Artemis four, targeted for twenty twenty-eight. Artemis three will first test the landers in Earth orbit.",
+      "visual": {
+        "type": "image",
+        "query": "Artemis astronauts Moon artist concept",
+        "commons": "Artemis astronauts Moon artist concept"
+      },
+      "headline": "Artemis: humans next"
+    },
+    {
+      "text": "China is also planning crewed landings and a research base near the south pole.",
+      "visual": {
+        "type": "image",
+        "query": "Chang'e lander Moon",
+        "commons": "Chang'e lander Moon"
+      },
+      "headline": "A new race"
+    },
+    {
+      "text": "Tomorrow, a dwarf planet with glowing white spots. Next stop: Ceres. Follow, so you don't miss episode eighty.",
+      "visual": {
+        "type": "end",
+        "query": "Ceres Dawn",
+        "warm": false,
+        "wiki": [
+          "Ceres (dwarf planet)"
+        ],
+        "commons": [
+          "Ceres Dawn"
+        ]
+      }
+    }
+  ]
+}

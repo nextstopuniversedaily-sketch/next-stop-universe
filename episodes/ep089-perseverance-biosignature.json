@@ -1,0 +1,116 @@
+{
+  "number": 89,
+  "title": "Signs of Life on Mars?",
+  "subtitle": "The leopard-spot rock",
+  "next_stop": "You Are Stardust",
+  "yt_title": "Did Perseverance Find Signs of Life on Mars? 🧪 | Ep. 89 #shorts",
+  "description": "Episode 89 of a daily journey through the universe. 🧪\nPerseverance and the 'Cheyava Falls' rock: in July 2024 the rover found a reddish rock with 'leopard spots' in an ancient river valley in Jezero Crater. In September 2025 a study in Nature called its sample, 'Sapphire Canyon', a potential biosignature. What that means, and what it doesn't.\n\n➡️ Tomorrow, Episode 90: Next stop, the season finale: you are made of stardust.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #perseverance #astronomy #shorts #science",
+  "tags": [
+    "perseverance",
+    "cheyava falls",
+    "sapphire canyon",
+    "life on mars",
+    "biosignature",
+    "jezero crater",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eighty-nine. Next stop... signs of life on Mars?",
+      "visual": {
+        "type": "title",
+        "query": "Perseverance rover selfie",
+        "commons": "Perseverance rover selfie"
+      }
+    },
+    {
+      "text": "Perseverance landed in Jezero crater on Mars in February twenty twenty-one. Billions of years ago, this crater was a lake.",
+      "visual": {
+        "type": "image",
+        "query": "Jezero crater delta",
+        "commons": "Jezero crater delta"
+      },
+      "headline": "An ancient lake"
+    },
+    {
+      "text": "In July twenty twenty-four, exploring an old river valley, the rover found a reddish rock unlike any other. Scientists named it Cheyava Falls.",
+      "visual": {
+        "type": "image",
+        "query": "Cheyava Falls Perseverance",
+        "commons": "Cheyava Falls Perseverance"
+      },
+      "headline": "Cheyava Falls"
+    },
+    {
+      "text": "It was covered in small spots, light in the middle with dark rims. They called them leopard spots.",
+      "visual": {
+        "type": "image",
+        "query": "Cheyava Falls leopard spots",
+        "commons": "Cheyava Falls leopard spots"
+      },
+      "headline": "Leopard spots"
+    },
+    {
+      "text": "On Earth, very similar spots can form when microbes feed on chemicals in rocks.",
+      "visual": {
+        "type": "image",
+        "query": "microbial mat",
+        "commons": "microbial mat"
+      },
+      "headline": "Like microbes on Earth"
+    },
+    {
+      "text": "In September twenty twenty-five, scientists published a study saying the sample contains a potential biosignature.",
+      "visual": {
+        "type": "card",
+        "big": "2025",
+        "label": "a potential biosignature"
+      }
+    },
+    {
+      "text": "That's the strongest hint yet. But potential means maybe. Chemistry without life might make the same spots.",
+      "visual": {
+        "type": "image",
+        "query": "Mars rock close-up Perseverance",
+        "commons": "Mars rock close-up Perseverance"
+      },
+      "headline": "Potential means maybe"
+    },
+    {
+      "text": "Perseverance drilled a sample, called Sapphire Canyon, and sealed it in a tube. It's waiting on Mars.",
+      "visual": {
+        "type": "image",
+        "query": "Perseverance sample tube",
+        "commons": "Perseverance sample tube"
+      },
+      "headline": "Sealed in a tube"
+    },
+    {
+      "text": "To know for sure, scientists want to study it in labs on Earth. How and when to bring it home is still being decided.",
+      "visual": {
+        "type": "image",
+        "query": "Mars sample return illustration",
+        "commons": "Mars sample return illustration"
+      },
+      "headline": "Bring it home?"
+    },
+    {
+      "text": "Tomorrow, our season finale. Where the atoms in your body really came from. Next stop: you are stardust. Follow, so you don't miss episode ninety.",
+      "visual": {
+        "type": "end",
+        "query": "Orion Nebula Hubble",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Orion Nebula Hubble"
+        ]
+      }
+    }
+  ]
+}

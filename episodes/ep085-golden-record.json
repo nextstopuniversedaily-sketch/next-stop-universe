@@ -1,0 +1,116 @@
+{
+  "number": 85,
+  "title": "The Golden Record",
+  "subtitle": "A message to the stars",
+  "next_stop": "Dark Matter",
+  "yt_title": "Earth's Message to Aliens 📀 | Ep. 85 #shorts",
+  "description": "Episode 85 of a daily journey through the universe. 📀\nThe Voyager Golden Records, launched in 1977 on Voyager 1 and 2: greetings in 55 languages, 115 images, sounds of Earth and 90 minutes of music, with instructions for playing them, now drifting between the stars.\n\n➡️ Tomorrow, Episode 86: Next stop, dark matter. The invisible stuff holding galaxies together.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #goldenrecord #astronomy #shorts #science",
+  "tags": [
+    "voyager golden record",
+    "golden record",
+    "voyager",
+    "carl sagan",
+    "message to aliens",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode eighty-five. Next stop... the Golden Record.",
+      "visual": {
+        "type": "title",
+        "query": "Voyager Golden Record",
+        "wiki": "Voyager Golden Record"
+      }
+    },
+    {
+      "text": "In nineteen seventy-seven, two Voyager spacecraft launched to explore the giant planets, and then leave the solar system forever.",
+      "visual": {
+        "type": "image",
+        "query": "Voyager spacecraft",
+        "commons": "Voyager spacecraft"
+      },
+      "headline": "Voyager, 1977"
+    },
+    {
+      "text": "Each one carries a gold-plated copper record. A message, in case anyone ever finds it.",
+      "visual": {
+        "type": "image",
+        "query": "Voyager Golden Record",
+        "commons": "Voyager Golden Record"
+      },
+      "headline": "A golden record"
+    },
+    {
+      "text": "A team led by astronomer Carl Sagan chose what to put on it: a portrait of life on Earth.",
+      "visual": {
+        "type": "image",
+        "query": "Voyager Golden Record cover",
+        "commons": "Voyager Golden Record cover"
+      },
+      "headline": "Chosen by Carl Sagan's team"
+    },
+    {
+      "text": "Greetings in fifty-five languages.",
+      "visual": {
+        "type": "card",
+        "big": "55",
+        "label": "languages"
+      }
+    },
+    {
+      "text": "One hundred fifteen images, and about ninety minutes of music from around the world.",
+      "visual": {
+        "type": "card",
+        "big": "115",
+        "label": "images of Earth"
+      }
+    },
+    {
+      "text": "Sounds of Earth too: wind, thunder, birds, whales, laughter, a kiss, and a mother with her baby.",
+      "visual": {
+        "type": "image",
+        "query": "humpback whale",
+        "commons": "humpback whale"
+      },
+      "headline": "Sounds of Earth"
+    },
+    {
+      "text": "The cover shows, in symbols, how to play the record and where Earth is, using pulsars as a map.",
+      "visual": {
+        "type": "image",
+        "query": "Voyager Golden Record cover diagram",
+        "commons": "Voyager Golden Record cover diagram"
+      },
+      "headline": "Instructions included"
+    },
+    {
+      "text": "Both Voyagers are now in interstellar space. In about forty thousand years, Voyager one will pass near another star. It's still far, far away from it.",
+      "visual": {
+        "type": "image",
+        "query": "Voyager spacecraft artist concept",
+        "commons": "Voyager spacecraft artist concept"
+      },
+      "headline": "Forever drifting"
+    },
+    {
+      "text": "Tomorrow, the invisible matter that outweighs everything we can see. Next stop: dark matter. Follow, so you don't miss episode eighty-six.",
+      "visual": {
+        "type": "end",
+        "query": "Bullet Cluster",
+        "warm": false,
+        "wiki": [
+          "Bullet Cluster"
+        ],
+        "commons": [
+          "Bullet Cluster"
+        ]
+      }
+    }
+  ]
+}
