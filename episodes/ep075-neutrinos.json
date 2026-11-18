@@ -25,8 +25,8 @@
       "text": "Episode seventy-five. Season four finale. Next stop... neutrinos.",
       "visual": {
         "type": "title",
-        "query": "IceCube Neutrino Observatory",
-        "wiki": "IceCube Neutrino Observatory"
+        "query": "IceCube Laboratory South Pole",
+        "commons": "IceCube Laboratory South Pole"
       }
     },
     {
@@ -77,8 +77,8 @@
       "text": "At the South Pole, scientists buried thousands of light sensors deep in the ice, filling a cubic kilometer. It's called IceCube.",
       "visual": {
         "type": "image",
-        "query": "IceCube Neutrino Observatory",
-        "wiki": "IceCube Neutrino Observatory"
+        "query": "IceCube Laboratory Amundsen-Scott",
+        "commons": "IceCube Laboratory Amundsen-Scott"
       },
       "headline": "IceCube, South Pole"
     },
@@ -95,8 +95,8 @@
       "text": "In twenty seventeen, IceCube traced one high-energy neutrino back to a giant black hole in a galaxy billions of light-years away.",
       "visual": {
         "type": "image",
-        "query": "blazar artist impression",
-        "commons": "blazar artist impression"
+        "query": "blazar artist impression NASA",
+        "commons": "blazar artist impression NASA"
       },
       "headline": "From a distant galaxy"
     },

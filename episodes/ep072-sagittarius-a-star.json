@@ -24,8 +24,8 @@
       "text": "Episode seventy-two. Next stop... Sagittarius A star.",
       "visual": {
         "type": "title",
-        "query": "Sagittarius A*",
-        "wiki": "Sagittarius A*"
+        "query": "Milky Way galactic center",
+        "commons": "Milky Way galactic center"
       }
     },
     {
@@ -93,8 +93,8 @@
       "text": "Compared to other giant black holes, ours is quiet. It only nibbles on gas. But some black holes are anything but quiet.",
       "visual": {
         "type": "image",
-        "query": "Milky Way galaxy illustration",
-        "commons": "Milky Way galaxy illustration"
+        "query": "Milky Way artist illustration NASA",
+        "commons": "Milky Way artist illustration NASA"
       },
       "headline": "A quiet giant"
     },
