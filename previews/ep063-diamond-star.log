@@ -1,24 +1,22 @@
-[0;93m2026-11-18 03:13:51.146866941 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-18 04:05:34.906208434 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 63: The Diamond Star
-  audio 76.2s
+  audio 76.3s
   WIKI File:Merging white dwarf remnant (artist impression) (heic2510a).jpg (CC BY 4.0)
   segment 1/10 [title] 4.3s
-  - skip File:Alpha Centauri in the constellation of Centaurus (The Centaur) (eso1241d).jpg: looks like a chart/blank
-  WIKI File:The interacting galaxy NGC 5291 in the constellation of Centaurus (eso1547b).jpg (CC BY 4.0)
+  WIKI File:Milky Way over Avenue of Baobabs (ann22042n).jpg (CC BY 4.0)
   segment 2/10 [image] 6.6s
   WIKI File:Sirius A and B artwork.jpg (Public domain)
-  segment 3/10 [image] 9.4s
+  segment 3/10 [image] 9.3s
   WIKI File:Colorado Diamond Crystal, Freedom Diamond, Uncle Sam Diamond, Canary Diamond.jpg (Public domain)
-  segment 4/10 [image] 8.4s
+  segment 4/10 [image] 8.5s
   WIKI File:Accreting White Dwarf (2003-deml71 - aquilae illustration bl72lg).jpg (Public domain)
   segment 5/10 [image] 8.0s
   segment 6/10 [card] 3.8s
   segment 7/10 [card] 6.4s
-  ! commons download failed File:Diamond (side view).png ('Connection broken: IncompleteRead(4057027 bytes read, 52499318 more expected)', IncompleteRead(4057027 bytes read, 52499318 more expected))
-  WIKI File:Diamond Icon Transparent.png (CC0)
+  WIKI File:Diamond (side view).png (CC BY 4.0)
   segment 8/10 [image] 6.8s
   WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
-  segment 9/10 [image] 9.6s
+  segment 9/10 [image] 9.7s
   WIKI File:Artist's impression of pulsar planet B1620-26c.jpg (Public domain)
-  segment 10/10 [end] 12.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep063.mp4 (14.9 MB)
+  segment 10/10 [end] 12.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep063.mp4 (17.8 MB)
