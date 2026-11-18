@@ -1,0 +1,32 @@
+[0;93m2026-11-18 04:50:43.988652479 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 85: The Golden Record
+  audio 69.0s
+  WIKI File:The_Sounds_of_Earth_-_GPN-2000-001976.jpg (Public domain)
+  segment 1/10 [title] 4.0s
+  WIKI File:Voyager spacecraft.jpg (Public domain)
+  segment 2/10 [image] 8.9s
+  WIKI File:The Sounds of Earth Record Cover - GPN-2000-001978.jpg (Public domain)
+  segment 3/10 [image] 6.3s
+  WIKI File:The Sounds of Earth Record Cover - GPN-2000-001978.jpg (Public domain)
+  segment 4/10 [image] 6.4s
+  segment 5/10 [card] 2.7s
+  segment 6/10 [card] 5.5s
+  - skip File:Humpback whale (Megaptera novaeangliae) calf Moorea 2.jpg: license 'CC BY-SA 4.0'
+  - skip File:031 Humpback whale lobtailing Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
+  - skip File:Humpback whale (Megaptera novaeangliae) with calf Moorea 2.jpg: license 'CC BY-SA 4.0'
+  - skip File:026b Humpback whale jump and splash Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
+  - skip File:001 Humpback whale breaching in Ballena Marine National Park Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
+  - skip File:Humpback whale (Megaptera novaeangliae) Eyjafjordur diving 20 of 27.jpg: license 'CC BY-SA 4.0'
+  - skip File:Humpback whale (Megaptera novaeangliae) Eyjafjordur diving 3 of 27.jpg: license 'CC BY-SA 4.0'
+  - skip File:073 Humpback whale tail in Ballena Marine National Park Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
+  - skip File:Humpback whale (Megaptera novaeangliae) Eyjafjordur diving 15 of 27.jpg: license 'CC BY-SA 4.0'
+  - skip File:Humpback whale (Megaptera novaeangliae) Eyjafjordur diving 7 of 27.jpg: license 'CC BY-SA 4.0'
+  ! no usable NASA image for 'humpback whale'
+  segment 7/10 [image] 6.8s
+  WIKI File:The Sounds of Earth Record Cover - GPN-2000-001978.jpg (Public domain)
+  segment 8/10 [image] 6.6s
+  WIKI File:Voyager spacecraft.jpg (Public domain)
+  segment 9/10 [image] 11.3s
+  WIKI File:Bullet_cluster.jpg (Public domain)
+  segment 10/10 [end] 10.3s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep085.mp4 (16.0 MB)
