@@ -1,0 +1,43 @@
+[0;93m2026-11-18 03:33:50.008475460 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 74: Cosmic Rays
+  audio 77.7s
+  - skip File:SurfaceDetector.png: license 'CC BY-SA 3.0'
+  - skip File:The Catskill Mountains; (1905) (14736412216).jpg: license 'No restrictions'
+  - skip File:The Catskill Mountains (1903) (14778877483).jpg: license 'No restrictions'
+  - skip File:The Catskill Mountains; (1906) (14574684267).jpg: license 'No restrictions'
+  - skip File:PIA16938-RadiationSources-InterplanetarySpace.jpg: license ''
+  - skip File:The Catskill Mountains (1912) (14758529394).jpg: license 'No restrictions'
+  ! no usable NASA image for 'cosmic ray shower illustration'
+  segment 1/10 [title] 4.0s
+  - skip File:Hess & co 1912.jpg: license 'FAL'
+  WIKI File:Captain H.C. Gray Balloon Basket - DPLA - bab59faf69932dc71a2a98720256a9ed (page 2).jpg (CC0)
+  segment 2/10 [image] 9.3s
+  - skip File:Hot air balloon and moon.jpg: license 'CC BY-SA 3.0'
+  - skip File:Hot-air balloon in Tambov - 02.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hot air balloon IMGP0344a.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hot air balloon IMGP0348a.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hot-air balloon in Tambov - 03.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hot air balloons IMGP1798p.jpg: license 'CC BY-SA 4.0'
+  - skip File:Illuminated hot air balloon.jpg: license 'CC BY-SA 3.0'
+  - skip File:Akita Sky Festa 2023-A.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hot Air Balloon Safari in Maasai Mara.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Hot Air Balloon Ride by Sky Waltz.jpg (Public domain)
+  segment 3/10 [image] 8.4s
+  segment 4/10 [card] 4.5s
+  WIKI File:Diagram of the Atmospheres of Uranus and Neptune (noirlab2211b).jpg (CC BY 4.0)
+  segment 5/10 [image] 7.4s
+  WIKI File:Top of Atmosphere.jpg (Public domain)
+  segment 6/10 [image] 6.7s
+  WIKI File:Desert Sky (Unsplash).jpg (CC0)
+  segment 7/10 [image] 9.8s
+  segment 8/10 [card] 8.6s
+  WIKI File:Tycho-supernova-xray.jpg (Public domain)
+  segment 9/10 [image] 7.5s
+  - skip File:IceCube_Neutrino_Observatory_in_2023_02.jpg: license 'CC BY-SA 4.0'
+  - skip File:IceCube Neutrino Observatory in 2023 02.jpg: license 'CC BY-SA 4.0'
+  - skip File:IceCube Neutrino Observatory in 2023 01.jpg: license 'CC BY-SA 4.0'
+  - skip File:The IceCube Neutrino Observatory.jpg: looks like a chart/blank
+  - skip File:Top-view-of-the-IceCube-Neutrino-Observatory-The-IceCube-InIce-strings-and-IceTop.png: looks like a chart/blank
+  WIKI File:The ICL at Dawn.jpg (CC BY 4.0)
+  segment 10/10 [end] 11.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep074.mp4 (26.3 MB)
