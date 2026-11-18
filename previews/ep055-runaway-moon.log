@@ -1,21 +1,29 @@
-[0;93m2026-11-18 00:44:32.156407023 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-18 00:55:00.903603420 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 55: The Runaway Moon
   audio 73.0s
-  - skip File:Full Moon Luc Viatour.jpg: license 'CC BY-SA 3.0'
-  - skip File:Full moon partially obscured by atmosphere.jpg: looks like a chart/blank
-  WIKI File:Space Shuttle Discovery under a full moon, 03-11-09.jpg (Public domain)
+  - skip File:FullMoon2010.jpg: license 'CC BY-SA 3.0'
+  - skip File:FullMoon2010 (cropped).jpg: license 'CC BY-SA 3.0'
+  - skip File:FullMoon2010 (cropped)-1.jpg: license 'CC BY-SA 3.0'
+  - skip File:Full Moon with south polar markings.jpg: license 'CC BY-SA 4.0'
+  - skip File:Moon Rotation.png: license 'CC BY-SA 3.0'
+  - skip File:Earth with Moon ScaledTo Basketball-Rockets full court.png: license 'CC BY-SA 3.0'
+  - skip File:Earth with Moon ScaledTo Basketball-Rockets full-court.png: license 'CC BY-SA 3.0'
+  - skip File:Apollo-11-landing-site.png: license 'CC BY-SA 3.0'
+  - skip File:Earth-Moon system to scale.png: license 'CC BY-SA 4.0'
+  - skip File:YinYang-Moon&Sun.jpg: license 'CC BY-SA 3.0'
+  ! no usable NASA image for 'FullMoon2010'
   segment 1/10 [title] 4.2s
   WIKI File:Good Morning From the International Space Station.jpg (Public domain)
   segment 2/10 [image] 5.7s
   segment 3/10 [card] 7.9s
   WIKI File:Apollo 11 Lunar Laser Ranging Experiment.jpg (Public domain)
   segment 4/10 [image] 5.3s
-  WIKI File:Apollo 11 Crew.jpg (Public domain)
+  WIKI File:Laser Towards Milky Ways Centre.jpg (CC BY 4.0)
   segment 5/10 [image] 8.9s
   - skip File:Low tide beach, lågt tidvatten strand 7.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 1.JPG: license 'CC BY-SA 4.0'
-  - skip File:Low tide beach, lågt tidvatten strand 2.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 6.JPG: license 'CC BY-SA 4.0'
+  - skip File:Low tide beach, lågt tidvatten strand 2.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 5.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 4.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 3.JPG: license 'CC BY-SA 4.0'
@@ -28,4 +36,4 @@
   segment 9/10 [image] 7.5s
   WIKI File:Artist’s impression of a gamma-ray burst shining through two young galaxies in the early Universe.jpg (CC BY 4.0)
   segment 10/10 [end] 10.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep055.mp4 (22.6 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep055.mp4 (24.3 MB)
