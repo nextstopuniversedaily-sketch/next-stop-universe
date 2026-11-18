@@ -1,17 +1,7 @@
-[0;93m2026-11-18 04:16:41.329156510 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 70: Time Dilation
-  audio 66.5s
-  - skip File:Czech-2013-Prague-Astronomical clock face.jpg: license 'CC BY-SA 4.0'
-  - skip File:The Prague Astronomical Clock in Old Town - 8559.jpg: license 'CC BY-SA 3.0'
-  - skip File:2015 Zegar astronomiczny w Pradze 01.jpg: license 'CC BY-SA 4.0'
-  - skip File:Praha Astronomical Clock 02.jpg: license 'CC BY-SA 4.0'
-  - skip File:Praha Astronomical Clock 01.jpg: license 'CC BY-SA 4.0'
-  - skip File:Prague Town Hall Clock 2021 16.jpg: license 'CC BY-SA 4.0'
-  - skip File:Prague September 2016-14.jpg: license 'CC BY-SA 4.0'
-  - skip File:Prague September 2016-13.jpg: license 'CC BY-SA 4.0'
-  - skip File:Prague September 2016-15.jpg: license 'CC BY-SA 4.0'
-  - skip File:Prag, Altstädter Rathaus, Astronomische Uhr -- 2019 -- 6591.jpg: license 'CC BY-SA 4.0'
-  ! no usable NASA image for 'Prague astronomical clock'
+  audio 66.6s
+  - skip File:Wooden hourglass 3.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Hourglass with sand.jpg (CC BY 2.0)
   segment 1/10 [title] 3.8s
   - skip File:MontreGousset001.jpg: license 'CC BY-SA 3.0'
   - skip File:Longines 4 Grand Prix pocket watch - clockwork visible - enhanced resolution DSF3402-PSMS.jpg: license 'CC BY-SA 4.0'
@@ -20,17 +10,17 @@
   WIKI File:Pocket watch of William S. Haynes.jpg (CC0)
   segment 2/10 [image] 7.2s
   WIKI File:Ecostress on ISS (cropped).jpg (Public domain)
-  segment 3/10 [image] 5.4s
+  segment 3/10 [image] 5.3s
   WIKI File:Artist’s impression of the black hole inside NGC 300 X-1 (ESO 1004a).jpg (CC BY 4.0)
   segment 4/10 [image] 6.4s
   WIKI File:GPS satellite constellation.jpg (Public domain)
-  segment 5/10 [image] 6.0s
+  segment 5/10 [image] 6.1s
   segment 6/10 [card] 5.9s
   segment 7/10 [card] 7.0s
   WIKI File:ISS-68 NASA astronaut Frank Rubio peers through a window in the cupola.jpg (Public domain)
   segment 8/10 [image] 9.1s
   WIKI File:Binary Black Hole.jpg (CC BY 4.0)
-  segment 9/10 [image] 6.2s
+  segment 9/10 [image] 6.1s
   WIKI File:Green Wormhole.png (CC0)
   segment 10/10 [end] 9.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep070.mp4 (12.5 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep070.mp4 (12.9 MB)
