@@ -1,0 +1,23 @@
+[0;93m2026-11-18 20:36:13.134035335 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 93: Ganymede
+  audio 75.5s
+  WIKI File:Ganymede_-_Perijove_34_Composite.png (CC BY 2.0)
+  segment 1/10 [title] 3.7s
+  WIKI File:Ganymede - Perijove 34 Composite.jpg (CC BY 2.0)
+  segment 2/10 [image] 5.9s
+  segment 3/10 [card] 6.5s
+  WIKI File:15-33i2-JupiterMoon-Ganymede-Aurora-20150312.png (Public domain)
+  segment 4/10 [image] 7.1s
+  WIKI File:Hubble’s View of Ganymede.jpg (CC BY 4.0)
+  segment 5/10 [image] 8.7s
+  segment 6/10 [card] 8.6s
+  - skip File:Ganymede and California (4078806508).jpg: looks like a chart/blank
+  - skip File:Ganymede and Arizona (4078051875).jpg: looks like a chart/blank
+  WIKI File:Ganymede terrain.jpg (Public domain)
+  segment 7/10 [image] 7.1s
+  WIKI File:Orange juice 1 edit1.jpg (Public domain)
+  segment 8/10 [image] 7.0s
+  segment 9/10 [card] 7.6s
+  WIKI File:Callisto moon 2.png (CC0)
+  segment 10/10 [end] 13.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep093.mp4 (10.6 MB)
