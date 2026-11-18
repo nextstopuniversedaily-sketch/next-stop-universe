@@ -1,0 +1,37 @@
+[0;93m2026-11-18 03:11:56.617990842 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 62: The Hottest Places
+  audio 77.0s
+  WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
+  segment 1/11 [title] 5.2s
+  WIKI File:X3.2 Solar flare on 2013-05-14 at four wavelengths.jpg (Public domain)
+  segment 2/11 [image] 5.1s
+  segment 3/11 [card] 5.1s
+  segment 4/11 [card] 6.0s
+  - skip File:Total Solar Eclipse 8-21-17.jpg: license 'CC BY-SA 4.0'
+  - skip File:Solar eclipse 1999 4.jpg: license 'CC BY-SA 3.0'
+  - skip File:Eclipse-totale-2026-couronne-Luc-Viatour.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Total solar eclipse of March 20, 2015 by Damien Deltenre (licensed for free use). (32844461616).jpg (CC BY 2.0)
+  segment 5/11 [image] 9.6s
+  WIKI File:Center of the Milky Way Galaxy IV – Composite.jpg (Public domain)
+  segment 6/11 [image] 9.5s
+  WIKI File:Tycho-supernova-xray.jpg (Public domain)
+  segment 7/11 [image] 6.3s
+  - skip File:Views of the LHC tunnel sector 3-4, tirage 2.jpg: license 'CC BY-SA 3.0'
+  - skip File:CERN Large Hadron Collider.jpg: license 'CC BY-SA 4.0'
+  - skip File:Large Hadron Collider dipole magnets IMG 0955.jpg: license 'CC BY-SA 2.0'
+  WIKI File:CERN Collider, France-Switzerland (ASTER).jpg (Public domain)
+  segment 8/11 [image] 7.1s
+  segment 9/11 [card] 6.6s
+  - skip File:ALICE experiment at CERN.jpg: license 'CC BY-SA 2.0'
+  - skip File:ALICE HMPID.jpg: license 'CC BY-SA 3.0'
+  - skip File:CERN ALICE Experiment.jpg: license 'CC BY-SA 3.0'
+  - skip File:2012-Aug-02-ALICE 3D v0 with Text (1) 2.jpg: license 'CC BY-SA 3.0'
+  - skip File:ALICE TPC.jpg: license 'CC BY-SA 3.0'
+  - skip File:ALICE TPC 1.jpg: license 'CC BY-SA 3.0'
+  - skip File:ALICE pPb event.jpg: license 'CC BY-SA 3.0'
+  - skip File:ALICE all.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Alice-in-Wonderland by-David-Revoy 2010-07-21.jpg (CC BY 4.0)
+  segment 10/11 [image] 6.9s
+  WIKI File:Merging white dwarf remnant (artist impression) (heic2510a).jpg (CC BY 4.0)
+  segment 11/11 [end] 9.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep062.mp4 (16.9 MB)
