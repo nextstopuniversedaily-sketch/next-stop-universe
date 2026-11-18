@@ -1,0 +1,25 @@
+[0;93m2026-11-18 20:32:09.358216767 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 91: Jupiter's Biggest Night
+  audio 80.6s
+  WIKI File:Jupiter_OPAL_2024.png (Public domain)
+  segment 1/10 [title] 6.8s
+  WIKI File:Hubble Takes Close-up Portrait of Jupiter.png (CC BY 2.0)
+  segment 2/10 [image] 7.6s
+  WIKI File:Waxing half moon over Brofjorden 1.jpg (CC0)
+  segment 3/10 [image] 5.1s
+  segment 4/10 [card] 5.6s
+  - skip File:Mars.Venus.Jupiter.sigmaLeo.2015-10-27.03.55.jpg: looks like a chart/blank
+  - skip File:Звёздное небо в Альпах.jpg: license 'CC BY-SA 3.0'
+  WIKI File:2012-03-24 21-15-43-lion-5fov-9f-5s-iso640-72d-27o-ann.jpg (CC BY 3.0)
+  segment 5/10 [image] 11.3s
+  segment 6/10 [card] 9.7s
+  WIKI File:Galilean satellite triple conjunction 2015-01-24 (right).jpg (Public domain)
+  segment 7/10 [image] 6.8s
+  WIKI File:Jupiter Family of Moons by Juno.png (Public domain)
+  segment 8/10 [image] 11.7s
+  WIKI File:Jupiter Moon Transit.jpg (CC BY 2.0)
+  segment 9/10 [image] 4.2s
+  - skip File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg: license ''
+  WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
+  segment 10/10 [end] 12.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep091.mp4 (13.1 MB)
