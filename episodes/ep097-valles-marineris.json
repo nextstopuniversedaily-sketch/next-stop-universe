@@ -70,7 +70,7 @@
       "visual": {
         "type": "image",
         "query": "Mariner 9 spacecraft",
-        "commons": "Mariner 9 spacecraft"
+        "wiki": "Mariner 9"
       },
       "headline": "Named for Mariner 9"
     },
@@ -79,7 +79,10 @@
       "visual": {
         "type": "image",
         "query": "Valles Marineris Mars Express perspective",
-        "commons": "Valles Marineris Mars Express perspective"
+        "commons": [
+          "Melas Chasma Mars Express",
+          "Candor Chasma"
+        ]
       },
       "headline": "The crust cracked"
     },

@@ -70,7 +70,10 @@
       "visual": {
         "type": "image",
         "query": "Great Red Spot Hubble shrinking",
-        "commons": "Great Red Spot Hubble shrinking"
+        "commons": [
+          "Great Red Spot Hubble 2014",
+          "Jupiter Hubble OPAL 2015"
+        ]
       },
       "headline": "It's shrinking"
     },
@@ -97,7 +100,7 @@
       "visual": {
         "type": "image",
         "query": "Oval BA Jupiter Hubble",
-        "commons": "Oval BA Jupiter Hubble"
+        "wiki": "Oval BA"
       },
       "headline": "Red Spot Junior"
     },

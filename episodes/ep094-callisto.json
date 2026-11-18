@@ -79,7 +79,10 @@
       "visual": {
         "type": "image",
         "query": "Callisto moon base artist concept",
-        "commons": "Callisto moon base artist concept"
+        "commons": [
+          "Callisto Voyager 2",
+          "Callisto moon"
+        ]
       },
       "headline": "A future base?"
     },
@@ -107,10 +110,11 @@
         "type": "end",
         "query": "Europa Clipper",
         "warm": true,
-        "wiki": [],
-        "commons": [
-          "Europa Clipper spacecraft",
+        "wiki": [
           "Europa Clipper"
+        ],
+        "commons": [
+          "Europa Clipper spacecraft"
         ]
       }
     }
