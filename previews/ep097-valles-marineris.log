@@ -1,4 +1,3 @@
-[0;93m2026-11-18 20:43:56.973830383 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 97: Valles Marineris
   audio 74.0s
   WIKI File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg (Public domain)
@@ -19,15 +18,15 @@
   NASA 'Grand Canyon from space' -> iss048e011242: Earth Observation
   segment 4/10 [image] 7.8s
   segment 5/10 [card] 5.2s
-  WIKI File:Voyager 1 Iapetus.png (Public domain)
+  WIKI File:Mariner09.jpg (Public domain)
   segment 6/10 [image] 9.4s
-  - skip File:Valles Marineris perspective view, HRSC image 14 January ESA212584.jpg: license 'CC BY-SA 3.0 igo'
-  - skip File:Close-up of the southern part of Valles Marineris ESA210279.jpg: license 'CC BY-SA 3.0 igo'
-  - skip File:South of Valles Marineris, HRSC image 14 January 2004 ESA228112.jpg: license 'CC BY-SA 3.0 igo'
-  - skip File:East of of Valles Marineris - HRSC image 14 January 2004 ESA233244.jpg: license 'CC BY-SA 3.0 igo'
-  - skip File:Valles Marineris ESA278889.jpg: license 'CC BY-SA 3.0 igo'
-  - skip File:Picture taken by the High Resolution Stereo Camera (HRSC) onboard ESA's Mars Express orbiter on 14 January 2004 ESA219154.jpg: license 'CC BY-SA 3.0 igo'
-  ! no usable NASA image for 'Valles Marineris Mars Express perspective'
+  - skip File:Melas Chasma by HRSC.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Melas Chasma on Mars in 3D ESA215213.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Features in Melas Chasma on Mars ESA235658.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Perspective view of Melas Chasma by HRSC.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Elevation of Melas Chasma region on Mars ESA214943.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Melas Chasma in high resolution ESA228478.jpg: license 'CC BY-SA 3.0 igo'
+  WIKI File:Candor Chasma THEMIS mosaic.jpg (Public domain)
   segment 7/10 [image] 7.9s
   - skip File:Distal End of Valles Marineris Landslide (PSP 001350 1655).jpg: license 'CC BY-SA 4.0'
   WIKI File:PIA00005 Oblique View of Valles Marineris.jpg (Public domain)
@@ -38,4 +37,4 @@
   segment 9/10 [image] 6.6s
   WIKI File:Phobos colour 2008.jpg (Public domain)
   segment 10/10 [end] 12.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep097.mp4 (11.5 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep097.mp4 (16.8 MB)
