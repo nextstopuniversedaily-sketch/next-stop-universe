@@ -1,4 +1,4 @@
-[0;93m2026-11-18 03:24:38.546854717 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-18 04:14:17.643896994 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 69: The Speed of Light
   audio 73.1s
   - skip File:Dichroitisches Prisma -- 2020 -- 5123.jpg: license 'CC BY-SA 4.0'
@@ -16,18 +16,25 @@
   - skip File:Sunset at Noronhas' beach.jpg: license 'CC BY-SA 3.0'
   - skip File:Sunset 2007-1.jpg: license 'CC BY-SA 3.0'
   WIKI File:View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028.jpg (CC BY 4.0)
-  segment 5/10 [image] 7.1s
+  segment 5/10 [image] 7.0s
   WIKI File:Andromeda Galaxy (with h-alpha).jpg (CC BY 2.0)
-  segment 6/10 [image] 7.5s
+  segment 6/10 [image] 7.4s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 7/10 [image] 6.1s
   WIKI File:Albert_Einstein_Head_cleaned.jpg (Public domain)
   segment 8/10 [image] 9.7s
   WIKI File:Parker Solar Probe.jpg (Public domain)
   segment 9/10 [image] 11.0s
-  - skip File:Reloj de flores, Stadtpark, Viena, Austria, 2020-01-31, DD 96-98 HDR.jpg: license 'CC BY-SA 4.0'
-  - skip File:Dülmen, Heilig-Kreuz-Kirche, Uhrwerk -- 2019 -- 3056.jpg: license 'CC BY-SA 4.0'
-  - skip File:Schiphol Airport terminal long exposure.jpg: license 'CC BY-SA 4.0'
-  WIKI File:Ratusz w Kolobrzegu.jpg (CC BY 3.0)
-  segment 10/10 [end] 12.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep069.mp4 (21.4 MB)
+  - skip File:Czech-2013-Prague-Astronomical clock face.jpg: license 'CC BY-SA 4.0'
+  - skip File:The Prague Astronomical Clock in Old Town - 8559.jpg: license 'CC BY-SA 3.0'
+  - skip File:2015 Zegar astronomiczny w Pradze 01.jpg: license 'CC BY-SA 4.0'
+  - skip File:Praha Astronomical Clock 02.jpg: license 'CC BY-SA 4.0'
+  - skip File:Praha Astronomical Clock 01.jpg: license 'CC BY-SA 4.0'
+  - skip File:Prague Town Hall Clock 2021 16.jpg: license 'CC BY-SA 4.0'
+  - skip File:Prague September 2016-14.jpg: license 'CC BY-SA 4.0'
+  - skip File:Prague September 2016-13.jpg: license 'CC BY-SA 4.0'
+  - skip File:Prague September 2016-15.jpg: license 'CC BY-SA 4.0'
+  - skip File:Prag, Altstädter Rathaus, Astronomische Uhr -- 2019 -- 6591.jpg: license 'CC BY-SA 4.0'
+  WIKI File:GPS satellite constellation.jpg (Public domain)
+  segment 10/10 [end] 12.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep069.mp4 (19.2 MB)
