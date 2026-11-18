@@ -1,0 +1,23 @@
+[0;93m2026-11-18 04:39:38.406056641 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 80: Ceres
+  audio 71.1s
+  WIKI File:Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg (Public domain)
+  segment 1/10 [title] 3.1s
+  WIKI File:Giuseppe Piazzi vescovo.jpg (Public domain)
+  segment 2/10 [image] 10.0s
+  WIKI File:Solar System Walk Decal - Asteroid Belt (ann21025i).jpg (CC BY 4.0)
+  segment 3/10 [image] 7.2s
+  segment 4/10 [card] 5.8s
+  segment 5/10 [card] 6.4s
+  - skip File:Occator crater.jpg: license ''
+  WIKI File:Occator topograpy Dawn CERES Oct 2015.jpg (Public domain)
+  segment 6/10 [image] 9.1s
+  WIKI File:Ceres - RC3 - Haulani Crater (22381131691) (cropped).jpg (Public domain)
+  segment 7/10 [image] 6.2s
+  WIKI File:Ceres - RC3 - Haulani Crater (22381131691) (cropped).jpg (Public domain)
+  segment 8/10 [image] 7.2s
+  WIKI File:Dawn spacecraft model 2.png (Public domain)
+  segment 9/10 [image] 5.3s
+  WIKI File:Psyche asteroid (Artist's Concept) (2).png (Public domain)
+  segment 10/10 [end] 10.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep080.mp4 (13.7 MB)
