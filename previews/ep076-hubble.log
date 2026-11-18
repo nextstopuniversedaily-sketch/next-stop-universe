@@ -1,12 +1,11 @@
-[0;93m2026-11-18 04:30:27.345229848 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 76: The Hubble Space Telescope
-  audio 80.1s
+  audio 80.4s
   WIKI File:Hubble_2009_close-up_2.jpg (Public domain)
   segment 1/10 [title] 7.2s
   WIKI File:Windows of Firing Room 1 at KSC during STS-31 launch.jpg (Public domain)
-  segment 2/10 [image] 7.9s
-  WIKI File:Hubble Returns to Science Operations.jpg (CC BY 4.0)
-  segment 3/10 [image] 8.2s
+  segment 2/10 [image] 8.0s
+  WIKI File:Artist concept of the Hubble Space Telescope (HST) after STS-31 deployment.jpg (Public domain)
+  segment 3/10 [image] 8.1s
   segment 4/10 [card] 6.5s
   WIKI File:Stephan's Quintet Hubble 2009.full.jpg (Public domain)
   segment 5/10 [image] 8.2s
@@ -21,4 +20,4 @@
   - skip File:Space debris ESA414897.png: license 'CC BY-SA 3.0 igo'
   WIKI File:Debris-GEO1280.jpg (Public domain)
   segment 10/10 [end] 9.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep076.mp4 (19.0 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep076.mp4 (19.1 MB)
