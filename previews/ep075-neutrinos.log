@@ -1,3 +1,4 @@
+[0;93m2026-11-18 06:04:03.949076060 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 75: Neutrinos
   audio 72.8s
   WIKI File:Amundsen-Scott marsstation ray h edit.jpg (Public domain)
@@ -11,7 +12,8 @@
   segment 5/10 [image] 8.6s
   WIKI File:Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901).jpg (CC BY 2.0)
   segment 6/10 [image] 3.6s
-  WIKI File:A Northwest Night Awash in Light (154757).jpg (Public domain)
+  - skip File:South pole telescope nov2009.jpg: license 'CC BY-SA 3.0'
+  WIKI File:South pole telescope during polar night.jpg (Public domain)
   segment 7/10 [image] 9.0s
   WIKI File:Reactor-core-from-above-1400-opt tcm18-278435.jpg (Public domain)
   segment 8/10 [image] 7.9s
@@ -19,4 +21,4 @@
   segment 9/10 [image] 9.4s
   WIKI File:Hubble_2009_close-up_2.jpg (Public domain)
   segment 10/10 [end] 14.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep075.mp4 (19.1 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep075.mp4 (19.7 MB)
