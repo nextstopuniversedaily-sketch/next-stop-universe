@@ -1,7 +1,7 @@
-[0;93m2026-11-17 23:05:08.401894831 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-18 00:46:50.310872337 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 56: Gamma-Ray Bursts
   audio 85.4s
-  WIKI File:Artist’s impression of a gamma-ray burst shining through two young galaxies in the early Universe.jpg (CC BY 4.0)
+  WIKI File:Gamma Ray Burst Illustration (labels) (2003-grb020813-more-2).jpg (Public domain)
   segment 1/11 [title] 4.0s
   WIKI File:Vela Supernova Remnant - Noirlab2406a.jpg (CC BY 4.0)
   segment 2/11 [image] 7.0s
@@ -20,12 +20,12 @@
   WIKI File:Xrt image crop.jpg (Public domain)
   segment 7/11 [image] 9.7s
   segment 8/11 [card] 6.1s
-  ! commons search failed Ordovician sea fossil HTTPSConnectionPool(host='commons.wikimedia.org', port=443): Read timed out. (read timeout=30)
-  ! no usable NASA image for 'Ordovician sea fossil'
+  - skip File:The late Ordovician sea floor of southwest Wisconsin.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Carneyella ulrichi fossil edrioasteroid Upper Ordovician KY.jpg (CC BY 2.0)
   segment 9/11 [image] 12.1s
   - skip File:Meteosat-12-fci-march-equinox-2025-noon.jpg: license 'Attribution'
   NASA 'Earth' -> PIA00342: The Earth & Moon
   segment 10/11 [image] 5.3s
   WIKI File:Artist’s impression of the red supergiant star Antares.jpg (CC BY 4.0)
   segment 11/11 [end] 10.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep056.mp4 (16.7 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep056.mp4 (16.1 MB)
