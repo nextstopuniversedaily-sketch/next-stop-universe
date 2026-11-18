@@ -1,0 +1,41 @@
+[0;93m2026-11-18 20:43:56.973830383 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 97: Valles Marineris
+  audio 74.0s
+  WIKI File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg (Public domain)
+  segment 1/10 [title] 4.3s
+  WIKI File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg (Public domain)
+  segment 2/10 [image] 6.3s
+  segment 3/10 [card] 8.5s
+  - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 6009.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5962.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), South Rim nahe Tusayan -- 2012 -- 5892.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), South Rim nahe Tusayan -- 2012 -- 5893.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), South Rim nahe Tusayan -- 2012 -- 6042.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5968.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5963.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5997.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5964.jpg: license 'CC BY-SA 4.0'
+  - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5960.jpg: license 'CC BY-SA 4.0'
+  NASA 'Grand Canyon from space' -> iss048e011242: Earth Observation
+  segment 4/10 [image] 7.8s
+  segment 5/10 [card] 5.2s
+  WIKI File:Voyager 1 Iapetus.png (Public domain)
+  segment 6/10 [image] 9.4s
+  - skip File:Valles Marineris perspective view, HRSC image 14 January ESA212584.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Close-up of the southern part of Valles Marineris ESA210279.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:South of Valles Marineris, HRSC image 14 January 2004 ESA228112.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:East of of Valles Marineris - HRSC image 14 January 2004 ESA233244.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Valles Marineris ESA278889.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Picture taken by the High Resolution Stereo Camera (HRSC) onboard ESA's Mars Express orbiter on 14 January 2004 ESA219154.jpg: license 'CC BY-SA 3.0 igo'
+  ! no usable NASA image for 'Valles Marineris Mars Express perspective'
+  segment 7/10 [image] 7.9s
+  - skip File:Distal End of Valles Marineris Landslide (PSP 001350 1655).jpg: license 'CC BY-SA 4.0'
+  WIKI File:PIA00005 Oblique View of Valles Marineris.jpg (Public domain)
+  segment 8/10 [image] 5.2s
+  - skip File:Layers in Walls of Valles Marineris (ESP 013191 1660).png: license 'CC BY-SA 4.0'
+  - skip File:Layers in Walls of Valles Marineris (ESP 013191 1660) Mars.png: license 'CC BY-SA 4.0'
+  WIKI File:Possible Clay Deposit in Valles Marineris (46306435295).jpg (Public domain)
+  segment 9/10 [image] 6.6s
+  WIKI File:Phobos colour 2008.jpg (Public domain)
+  segment 10/10 [end] 12.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep097.mp4 (11.5 MB)
