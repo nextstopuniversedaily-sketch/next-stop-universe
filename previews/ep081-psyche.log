@@ -1,0 +1,32 @@
+[0;93m2026-11-18 04:41:51.958635025 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 81: Psyche
+  audio 69.3s
+  WIKI File:Psyche asteroid (Artist's Concept) (2).png (Public domain)
+  segment 1/10 [title] 3.4s
+  WIKI File:The binary asteroid 288P (artist’s impression).jpg (CC BY 4.0)
+  segment 2/10 [image] 7.0s
+  segment 3/10 [card] 3.1s
+  - skip File:Iron meteorite. Hammersley Range, Australia-8911.jpg: license 'CC BY-SA 4.0'
+  - skip File:Iron meteorite. Toluca, Mexico-8913.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Iron meteorite (Museum für Natur und Umwelt Lübeck).jpg (CC BY 4.0)
+  segment 4/10 [image] 6.1s
+  - skip File:Protoplanet.jpg: license 'CC BY-SA 4.0'
+  - skip File:Planetesimal.jpg: license 'CC BY-SA 4.0'
+  - skip File:Lavaplanet.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Planetesimal Collison Around Star HD 166191 (Illustration).jpg (Public domain)
+  segment 5/10 [image] 8.3s
+  - skip File:Earth Interior Structure Blank.png: license 'CC BY-SA 4.0'
+  - skip File:Earth cutaway.png: license 'CC BY-SA 3.0'
+  - skip File:Jordens inre.jpg: license 'CC BY-SA 3.0'
+  - skip File:The layers of the Earth model.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Terrestrial Planet Interiors (Earth, Mars and Moon) - Artist's Concept.jpg (Public domain)
+  segment 6/10 [image] 7.8s
+  - skip File:Psyche-spacecraft-diagram.png: looks like a chart/blank
+  WIKI File:Psyche Mission Psyche Spacecraft.png (Public domain)
+  segment 7/10 [image] 7.7s
+  segment 8/10 [card] 8.0s
+  WIKI File:Psyche asteroid (Artist's Concept) (5) rock and metal intimately mixed.jpg (Public domain)
+  segment 9/10 [image] 7.7s
+  WIKI File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png (Public domain)
+  segment 10/10 [end] 10.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep081.mp4 (12.8 MB)
