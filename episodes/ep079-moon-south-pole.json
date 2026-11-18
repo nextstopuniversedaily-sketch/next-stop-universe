@@ -41,8 +41,8 @@
       "text": "At the poles, the Sun always skims the horizon. The bottoms of some deep craters haven't seen sunlight in billions of years.",
       "visual": {
         "type": "image",
-        "query": "Shackleton crater",
-        "commons": "Shackleton crater"
+        "query": "Shackleton crater LRO",
+        "commons": "Shackleton crater LRO"
       },
       "headline": "Never seen sunlight"
     },
@@ -76,8 +76,8 @@
       "text": "In August twenty twenty-three, India's Chandrayaan three became the first mission to land near the south pole.",
       "visual": {
         "type": "image",
-        "query": "Chandrayaan-3 Pragyan rover",
-        "commons": "Chandrayaan-3 Pragyan rover"
+        "query": "Chandrayaan-3 Vikram lander Moon",
+        "commons": "Chandrayaan-3 Vikram lander Moon"
       },
       "headline": "Chandrayaan-3, 2023"
     },

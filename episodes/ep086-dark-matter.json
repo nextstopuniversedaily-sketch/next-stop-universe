@@ -24,8 +24,8 @@
       "text": "Episode eighty-six. Next stop... dark matter.",
       "visual": {
         "type": "title",
-        "query": "Bullet Cluster",
-        "wiki": "Bullet Cluster"
+        "query": "Abell 1689 Hubble",
+        "commons": "Abell 1689 Hubble"
       }
     },
     {
@@ -94,8 +94,8 @@
       "text": "The new Vera Rubin Observatory, named after her, will map dark matter across billions of galaxies.",
       "visual": {
         "type": "image",
-        "query": "Rubin Observatory night sky",
-        "commons": "Rubin Observatory night sky"
+        "query": "Vera C. Rubin Observatory",
+        "commons": "Vera C. Rubin Observatory"
       },
       "headline": "Rubin will map it"
     },
@@ -103,11 +103,11 @@
       "text": "Tomorrow, a ring of fire is coming to the sky. Next stop: the annular eclipse. Follow, so you don't miss episode eighty-seven.",
       "visual": {
         "type": "end",
-        "query": "annular solar eclipse ring of fire",
+        "query": "annular eclipse October 2023",
         "warm": true,
         "wiki": [],
         "commons": [
-          "annular solar eclipse ring of fire"
+          "annular eclipse October 2023"
         ]
       }
     }
