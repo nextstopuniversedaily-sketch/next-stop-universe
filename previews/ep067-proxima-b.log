@@ -1,0 +1,23 @@
+[0;93m2026-11-18 03:21:14.520521770 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 67: Proxima b
+  audio 70.0s
+  WIKI File:Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg (CC BY 4.0)
+  segment 1/10 [title] 4.1s
+  WIKI File:New_shot_of_Proxima_Centauri,_our_nearest_neighbour.jpg (CC BY 4.0)
+  segment 2/10 [image] 5.3s
+  segment 3/10 [card] 5.0s
+  WIKI File:Alpha Centauri 3 Panel (DSS, Hubble, Webb) (weic2515b).jpg (CC BY 4.0)
+  segment 4/10 [image] 5.5s
+  WIKI File:Artist’s impression of Proxima d (wider view).jpg (CC BY 4.0)
+  segment 5/10 [image] 7.8s
+  segment 6/10 [card] 6.9s
+  WIKI File:Flaring red dwarf star (artist's impression) (opo1102a).jpg (CC BY 4.0)
+  segment 7/10 [image] 8.8s
+  - skip File:'Endless sunset' over water surface of tidally locked planet TOI 700 e.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Exotic blue planet HD 189733b (artist’s impression).jpg (CC BY 4.0)
+  segment 8/10 [image] 7.5s
+  WIKI File:Rocky Exoplanet TRAPPIST-1 c (Artist Concept).jpg (Public domain)
+  segment 9/10 [image] 7.3s
+  WIKI File:Laser Sail (25259478171).png (CC BY 2.0)
+  segment 10/10 [end] 12.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep067.mp4 (8.9 MB)
