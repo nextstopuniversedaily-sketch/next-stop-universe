@@ -1,0 +1,22 @@
+[0;93m2026-11-18 04:46:30.007554900 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 83: Triton
+  audio 69.7s
+  WIKI File:Triton-usgs23-with-frame.jpg (CC BY 4.0)
+  segment 1/10 [title] 3.4s
+  WIKI File:Neptune Full.jpg (Public domain)
+  segment 2/10 [image] 3.7s
+  WIKI File:Voyager 2 Neptune and Triton.jpg (Public domain)
+  segment 3/10 [image] 7.9s
+  WIKI File:Artist’s Impression of a Kuiper Belt Object.jpg (CC BY 4.0)
+  segment 4/10 [image] 8.1s
+  segment 5/10 [card] 6.7s
+  WIKI File:Triton moon mosaic Voyager 2 (large).jpg (Public domain)
+  segment 6/10 [image] 10.0s
+  WIKI File:Triton moon mosaic Voyager 2 (large).jpg (Public domain)
+  segment 7/10 [image] 6.3s
+  WIKI File:Neptune Full.jpg (Public domain)
+  segment 8/10 [image] 6.8s
+  segment 9/10 [card] 5.5s
+  WIKI File:Reworked_composite_image_of_Arrokoth.png (Public domain)
+  segment 10/10 [end] 11.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep083.mp4 (12.5 MB)
