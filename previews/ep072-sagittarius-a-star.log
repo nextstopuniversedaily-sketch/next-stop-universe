@@ -1,0 +1,23 @@
+[0;93m2026-11-18 03:30:03.276189050 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 72: Sagittarius A*
+  audio 74.5s
+  ! no usable NASA image for 'Sagittarius A*'
+  segment 1/10 [title] 4.7s
+  WIKI File:Milky way in Elbrus.jpg (CC BY 4.0)
+  segment 2/10 [image] 6.3s
+  segment 3/10 [card] 3.9s
+  WIKI File:Milky Way IR Spitzer.jpg (Public domain)
+  segment 4/10 [image] 7.1s
+  - skip File:Keck laser at night.png: license 'CC BY-SA 2.5'
+  WIKI File:Dueling LGS (Gemini North vs Keck) (gemini-20061010-gemini-mk-0870).jpg (CC BY 4.0)
+  segment 5/10 [image] 8.9s
+  segment 6/10 [card] 7.4s
+  WIKI File:Center of the Milky Way Galaxy IV – Composite.jpg (Public domain)
+  segment 7/10 [image] 7.6s
+  ! no usable NASA image for 'Sagittarius A*'
+  segment 8/10 [image] 9.1s
+  WIKI File:Comparison of Milky Way and compact galaxy (heic0811c).jpg (Public domain)
+  segment 9/10 [image] 9.1s
+  WIKI File:Artist’s impression of the quasar 3C 279.jpg (CC BY 4.0)
+  segment 10/10 [end] 10.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep072.mp4 (25.4 MB)
