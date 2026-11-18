@@ -47,7 +47,7 @@ jobs:
 
       - name: Render new or changed episodes (saving each one as it finishes)
         env:
-          MIN_EPISODE: "41"   # episodes before this are already uploaded; don't re-render them
+          MIN_EPISODE: "41"   # earlier episodes are already uploaded; do not re-render them
         run: |
           git config user.name "render-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
