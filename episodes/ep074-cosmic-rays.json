@@ -1,0 +1,116 @@
+{
+  "number": 74,
+  "title": "Cosmic Rays",
+  "subtitle": "Bullets from space",
+  "next_stop": "Neutrinos",
+  "yt_title": "A Particle From Space Hit Like a Baseball ⚾ | Ep. 74 #shorts",
+  "description": "Episode 74 of a daily journey through the universe. ⚾\nCosmic rays: high-energy particles from space, discovered by Victor Hess on a balloon flight in 1912. In 1991 the 'Oh-My-God particle' arrived with the energy of a thrown baseball, packed into a single proton. Where do they come from?\n\n➡️ Tomorrow, Episode 75: Next stop, neutrinos. Ghost particles passing through you right now.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #cosmicrays #astronomy #shorts #science",
+  "tags": [
+    "cosmic rays",
+    "oh my god particle",
+    "amaterasu particle",
+    "victor hess",
+    "particle physics",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seventy-four. Next stop... cosmic rays.",
+      "visual": {
+        "type": "title",
+        "query": "cosmic ray shower illustration",
+        "commons": "cosmic ray shower illustration"
+      }
+    },
+    {
+      "text": "In nineteen twelve, scientist Victor Hess took a balloon flight more than five kilometers high, carrying instruments to measure radiation.",
+      "visual": {
+        "type": "image",
+        "query": "Victor Hess balloon",
+        "commons": "Victor Hess balloon"
+      },
+      "headline": "A balloon flight, 1912"
+    },
+    {
+      "text": "He expected radiation to fade as he rose away from the ground. Instead, it got stronger. It was coming from space.",
+      "visual": {
+        "type": "image",
+        "query": "hot air balloon sky",
+        "commons": "hot air balloon sky"
+      },
+      "headline": "Radiation from space"
+    },
+    {
+      "text": "He had discovered cosmic rays, and won the Nobel Prize for it.",
+      "visual": {
+        "type": "card",
+        "big": "1912",
+        "label": "cosmic rays discovered"
+      }
+    },
+    {
+      "text": "Cosmic rays are mostly protons and atomic nuclei, racing through space at nearly the speed of light.",
+      "visual": {
+        "type": "image",
+        "query": "particle shower illustration",
+        "commons": "particle shower illustration"
+      },
+      "headline": "Particles at light speed"
+    },
+    {
+      "text": "When they hit our atmosphere, they shatter into showers of particles. Some are passing through you right now.",
+      "visual": {
+        "type": "image",
+        "query": "Earth atmosphere from ISS",
+        "commons": "Earth atmosphere from ISS"
+      },
+      "headline": "Particle showers"
+    },
+    {
+      "text": "In nineteen ninety-one, a detector in Utah caught the most energetic particle ever seen. Scientists called it the Oh-My-God particle.",
+      "visual": {
+        "type": "image",
+        "query": "Utah desert night sky",
+        "commons": "Utah desert night sky"
+      },
+      "headline": "The Oh-My-God particle"
+    },
+    {
+      "text": "A single proton carried about the energy of a baseball thrown fast. Millions of times more than our best particle colliders.",
+      "visual": {
+        "type": "card",
+        "big": "1 proton",
+        "label": "= a thrown baseball"
+      }
+    },
+    {
+      "text": "Where do these monsters come from? Exploding stars, black holes, colliding galaxies? Nobody knows for sure.",
+      "visual": {
+        "type": "image",
+        "query": "supernova remnant Chandra",
+        "commons": "supernova remnant Chandra"
+      },
+      "headline": "Where from? Unknown"
+    },
+    {
+      "text": "Tomorrow, ghost particles. Trillions are flying through your body this second. Next stop: neutrinos. Follow, so you don't miss episode seventy-five.",
+      "visual": {
+        "type": "end",
+        "query": "IceCube Neutrino Observatory",
+        "warm": false,
+        "wiki": [
+          "IceCube Neutrino Observatory"
+        ],
+        "commons": [
+          "IceCube Neutrino Observatory"
+        ]
+      }
+    }
+  ]
+}

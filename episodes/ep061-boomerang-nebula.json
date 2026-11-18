@@ -1,0 +1,114 @@
+{
+  "number": 61,
+  "title": "The Coldest Place",
+  "subtitle": "Colder than empty space",
+  "next_stop": "The Hottest Places",
+  "yt_title": "The Coldest Place in the Universe 🥶 | Ep. 61 #shorts",
+  "description": "Episode 61 of a daily journey through the universe. 🥶\nSeason 4: Extremes begins. The Boomerang Nebula, about 5,000 light-years away, is the coldest known natural place in the universe: about 1 degree above absolute zero, colder than the faint afterglow of the Big Bang that fills empty space.\n\n➡️ Tomorrow, Episode 62: Next stop, the hottest places in the universe. From the Sun's core to trillions of degrees.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #boomerangnebula #astronomy #shorts #science",
+  "tags": [
+    "boomerang nebula",
+    "coldest place in the universe",
+    "absolute zero",
+    "nebula",
+    "hubble",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode sixty-one. Season four: extremes. Next stop... the coldest place in the universe.",
+      "visual": {
+        "type": "title",
+        "query": "Boomerang Nebula Hubble",
+        "commons": "Boomerang Nebula Hubble"
+      }
+    },
+    {
+      "text": "Space is cold. Even empty space, far from any star, has a temperature of about minus two hundred seventy degrees Celsius.",
+      "visual": {
+        "type": "image",
+        "query": "Hubble deep field galaxies",
+        "commons": "Hubble deep field galaxies"
+      },
+      "headline": "Empty space is cold"
+    },
+    {
+      "text": "That warmth, just under three degrees above absolute zero, comes from the faint afterglow of the Big Bang.",
+      "visual": {
+        "type": "card",
+        "big": "2.7 K",
+        "label": "the temperature of empty space"
+      }
+    },
+    {
+      "text": "But about five thousand light-years away, in the constellation Centaurus, there's a place even colder. The Boomerang Nebula.",
+      "visual": {
+        "type": "image",
+        "query": "Boomerang Nebula",
+        "commons": "Boomerang Nebula"
+      },
+      "headline": "The Boomerang Nebula"
+    },
+    {
+      "text": "It's about one degree above absolute zero. Minus two hundred seventy-two degrees Celsius.",
+      "visual": {
+        "type": "card",
+        "big": "1 K",
+        "label": "-272°C"
+      }
+    },
+    {
+      "text": "It's the coldest natural place known in the universe. Colder than empty space itself.",
+      "visual": {
+        "type": "image",
+        "query": "Boomerang Nebula Hubble",
+        "commons": "Boomerang Nebula Hubble"
+      },
+      "headline": "Colder than space"
+    },
+    {
+      "text": "How? A dying star at its center is blowing out gas extremely fast, at more than a hundred and fifty kilometers per second.",
+      "visual": {
+        "type": "image",
+        "query": "planetary nebula Hubble",
+        "commons": "planetary nebula Hubble"
+      },
+      "headline": "A dying star"
+    },
+    {
+      "text": "When gas expands that quickly, it cools down. It's the same reason a spray can gets cold in your hand.",
+      "visual": {
+        "type": "image",
+        "query": "spray can aerosol",
+        "commons": "spray can aerosol"
+      },
+      "headline": "Like a spray can"
+    },
+    {
+      "text": "The only colder places we know are in laboratories on Earth, where scientists cool atoms to within a billionth of a degree of absolute zero.",
+      "visual": {
+        "type": "image",
+        "query": "laser cooling laboratory",
+        "commons": "laser cooling laboratory"
+      },
+      "headline": "Colder only in labs"
+    },
+    {
+      "text": "Tomorrow, the opposite extreme. Temperatures of trillions of degrees. Next stop: the hottest places in the universe. Follow, so you don't miss episode sixty-two.",
+      "visual": {
+        "type": "end",
+        "query": "Sun SDO",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Sun SDO"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "number": 75,
+  "title": "Neutrinos",
+  "subtitle": "Ghost particles",
+  "next_stop": "The Hubble Space Telescope",
+  "yt_title": "Trillions of Ghost Particles Pass Through You 👻 | Ep. 75 #shorts",
+  "description": "Episode 75 of a daily journey through the universe. 👻\nSeason 4 finale. Neutrinos: tiny ghost-like particles made in the Sun and in exploding stars. Trillions pass through your body every second without touching anything. How IceCube, buried in the Antarctic ice, catches them.\n\n➡️ Tomorrow, Episode 76: Season 5 begins: the Hubble Space Telescope, and the mistake that almost ruined it.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #neutrinos #astronomy #shorts #science",
+  "tags": [
+    "neutrinos",
+    "ghost particles",
+    "icecube",
+    "south pole",
+    "particle physics",
+    "sun",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seventy-five. Season four finale. Next stop... neutrinos.",
+      "visual": {
+        "type": "title",
+        "query": "IceCube Neutrino Observatory",
+        "wiki": "IceCube Neutrino Observatory"
+      }
+    },
+    {
+      "text": "Right now, as you watch this, ghost particles are flying straight through your body.",
+      "visual": {
+        "type": "image",
+        "query": "person looking at night sky",
+        "commons": "person looking at night sky"
+      },
+      "headline": "Ghost particles"
+    },
+    {
+      "text": "Trillions of them every second. They're called neutrinos.",
+      "visual": {
+        "type": "card",
+        "big": "trillions",
+        "label": "through you every second"
+      }
+    },
+    {
+      "text": "Most come from the Sun, made in the nuclear reactions in its core.",
+      "visual": {
+        "type": "image",
+        "query": "Sun SDO",
+        "commons": "Sun SDO"
+      },
+      "headline": "Made in the Sun"
+    },
+    {
+      "text": "Neutrinos almost never touch anything. They pass through you, through Earth, as if it weren't there. At night, they come up through the ground.",
+      "visual": {
+        "type": "image",
+        "query": "Earth from space night",
+        "commons": "Earth from space night"
+      },
+      "headline": "They pass through Earth"
+    },
+    {
+      "text": "So how do you catch a ghost? With something enormous.",
+      "visual": {
+        "type": "image",
+        "query": "Antarctica ice landscape",
+        "commons": "Antarctica ice landscape"
+      },
+      "headline": "How to catch a ghost"
+    },
+    {
+      "text": "At the South Pole, scientists buried thousands of light sensors deep in the ice, filling a cubic kilometer. It's called IceCube.",
+      "visual": {
+        "type": "image",
+        "query": "IceCube Neutrino Observatory",
+        "wiki": "IceCube Neutrino Observatory"
+      },
+      "headline": "IceCube, South Pole"
+    },
+    {
+      "text": "Once in a while, a neutrino hits an atom in the ice and makes a tiny flash of blue light. The sensors catch it.",
+      "visual": {
+        "type": "image",
+        "query": "Cherenkov radiation reactor",
+        "commons": "Cherenkov radiation reactor"
+      },
+      "headline": "A tiny blue flash"
+    },
+    {
+      "text": "In twenty seventeen, IceCube traced one high-energy neutrino back to a giant black hole in a galaxy billions of light-years away.",
+      "visual": {
+        "type": "image",
+        "query": "blazar artist impression",
+        "commons": "blazar artist impression"
+      },
+      "headline": "From a distant galaxy"
+    },
+    {
+      "text": "That's the end of season four. Tomorrow, season five begins: the telescope that changed everything, and the mistake that almost ruined it. Next stop: Hubble. Follow, so you don't miss episode seventy-six.",
+      "visual": {
+        "type": "end",
+        "query": "Hubble Space Telescope",
+        "warm": false,
+        "wiki": [
+          "Hubble Space Telescope"
+        ],
+        "commons": [
+          "Hubble Space Telescope"
+        ]
+      }
+    }
+  ]
+}

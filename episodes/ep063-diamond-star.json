@@ -1,0 +1,115 @@
+{
+  "number": 63,
+  "title": "The Diamond Star",
+  "subtitle": "A heart of crystal",
+  "next_stop": "Pulsar Planets",
+  "yt_title": "A Star With a Diamond Heart 💎 | Ep. 63 #shorts",
+  "description": "Episode 63 of a daily journey through the universe. 💎\nBPM 37093, nicknamed 'Lucy', is a white dwarf about 50 light-years away whose carbon core has crystallized, a cosmic diamond thousands of kilometers wide. And one day, our own Sun may do the same.\n\n➡️ Tomorrow, Episode 64: Next stop, pulsar planets. The first planets ever found beyond our solar system, orbiting a dead star.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #diamondstar #astronomy #shorts #science",
+  "tags": [
+    "diamond star",
+    "bpm 37093",
+    "lucy",
+    "white dwarf",
+    "crystallized white dwarf",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode sixty-three. Next stop... the diamond star.",
+      "visual": {
+        "type": "title",
+        "query": "white dwarf artist impression",
+        "commons": "white dwarf artist impression"
+      }
+    },
+    {
+      "text": "About fifty light-years away, in the constellation Centaurus, there's a dead star with a secret.",
+      "visual": {
+        "type": "image",
+        "query": "Centaurus constellation night sky",
+        "commons": "Centaurus constellation night sky"
+      },
+      "headline": "50 light-years away"
+    },
+    {
+      "text": "It's a white dwarf, the hot core left behind when a star like our Sun dies. Its name is B P M thirty-seven oh ninety-three.",
+      "visual": {
+        "type": "image",
+        "query": "Sirius B white dwarf Hubble",
+        "commons": "Sirius B white dwarf Hubble"
+      },
+      "headline": "A white dwarf"
+    },
+    {
+      "text": "As white dwarfs cool, the carbon inside them can freeze into a crystal. And carbon crystal is what we call diamond.",
+      "visual": {
+        "type": "image",
+        "query": "diamond crystal",
+        "commons": "diamond crystal"
+      },
+      "headline": "Carbon becomes crystal"
+    },
+    {
+      "text": "Astronomers studied how this star vibrates, like listening to a bell, and found much of its core has crystallized.",
+      "visual": {
+        "type": "image",
+        "query": "white dwarf star illustration",
+        "commons": "white dwarf star illustration"
+      },
+      "headline": "Listening to a star"
+    },
+    {
+      "text": "The crystal core may be thousands of kilometers wide.",
+      "visual": {
+        "type": "card",
+        "big": "1000s of km",
+        "label": "of crystal carbon"
+      }
+    },
+    {
+      "text": "Astronomers nicknamed it Lucy, after the famous Beatles song about diamonds in the sky.",
+      "visual": {
+        "type": "card",
+        "big": "\"Lucy\"",
+        "label": "the diamond star"
+      }
+    },
+    {
+      "text": "Don't plan a mining trip. Its gravity is so strong that any diamond chunk would weigh tons per teaspoon.",
+      "visual": {
+        "type": "image",
+        "query": "diamond gemstone",
+        "commons": "diamond gemstone"
+      },
+      "headline": "No mining trips"
+    },
+    {
+      "text": "And here's the twist. Remember episode fifty-nine? Our Sun will become a white dwarf. Billions of years later, it may crystallize too.",
+      "visual": {
+        "type": "image",
+        "query": "Sun SDO",
+        "commons": "Sun SDO"
+      },
+      "headline": "Our Sun's future"
+    },
+    {
+      "text": "Tomorrow, the very first planets ever found beyond our solar system, circling a dead star. Next stop: pulsar planets. Follow, so you don't miss episode sixty-four.",
+      "visual": {
+        "type": "end",
+        "query": "pulsar planet artist impression",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "pulsar planet artist impression",
+          "pulsar artist impression"
+        ]
+      }
+    }
+  ]
+}

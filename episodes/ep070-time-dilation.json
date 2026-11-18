@@ -1,0 +1,116 @@
+{
+  "number": 70,
+  "title": "Time Dilation",
+  "subtitle": "Time is not the same for everyone",
+  "next_stop": "Wormholes",
+  "yt_title": "Astronauts Age Slower Than You ⏳ | Ep. 70 #shorts",
+  "description": "Episode 70 of a daily journey through the universe. ⏳\nTime dilation: Einstein showed that time runs slower when you move fast or sit deeper in gravity. GPS satellites must correct their clocks by about 38 microseconds a day, and astronauts on the ISS age a tiny bit slower.\n\n➡️ Tomorrow, Episode 71: Next stop, wormholes. Tunnels through space and time?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #timedilation #astronomy #shorts #science",
+  "tags": [
+    "time dilation",
+    "relativity",
+    "einstein",
+    "gps",
+    "twin paradox",
+    "iss",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode seventy. Next stop... time dilation.",
+      "visual": {
+        "type": "title",
+        "query": "clock long exposure",
+        "commons": "clock long exposure"
+      }
+    },
+    {
+      "text": "Time feels the same for everyone. One second is one second. But Einstein discovered that's not true.",
+      "visual": {
+        "type": "image",
+        "query": "pocket watch",
+        "commons": "pocket watch"
+      },
+      "headline": "Is time the same for all?"
+    },
+    {
+      "text": "The faster you move, the slower your time runs, compared to someone standing still.",
+      "visual": {
+        "type": "image",
+        "query": "ISS over Earth",
+        "commons": "ISS over Earth"
+      },
+      "headline": "Speed slows time"
+    },
+    {
+      "text": "And the closer you are to something massive, the slower time runs too. Gravity bends time.",
+      "visual": {
+        "type": "image",
+        "query": "black hole artist impression",
+        "commons": "black hole artist impression"
+      },
+      "headline": "Gravity slows time"
+    },
+    {
+      "text": "This isn't just theory. It happens to the GPS satellites guiding your phone right now.",
+      "visual": {
+        "type": "image",
+        "query": "GPS satellite",
+        "commons": "GPS satellite"
+      },
+      "headline": "In your pocket"
+    },
+    {
+      "text": "Their clocks run about thirty-eight microseconds a day faster than clocks on the ground.",
+      "visual": {
+        "type": "card",
+        "big": "38 μs",
+        "label": "per day, GPS clocks"
+      }
+    },
+    {
+      "text": "If engineers didn't correct for it, GPS positions would drift by roughly ten kilometers every day.",
+      "visual": {
+        "type": "card",
+        "big": "~10 km",
+        "label": "of error per day"
+      }
+    },
+    {
+      "text": "Astronauts on the space station move so fast that they age a tiny bit slower. After six months, they're a few milliseconds younger.",
+      "visual": {
+        "type": "image",
+        "query": "astronaut ISS window",
+        "commons": "astronaut ISS window"
+      },
+      "headline": "Astronauts age slower"
+    },
+    {
+      "text": "Near a black hole, the effect would be enormous. An hour there could equal years far away.",
+      "visual": {
+        "type": "image",
+        "query": "black hole accretion disk simulation",
+        "commons": "black hole accretion disk simulation"
+      },
+      "headline": "Near a black hole"
+    },
+    {
+      "text": "Tomorrow, could there be shortcuts through space and time? Next stop: wormholes. Follow, so you don't miss episode seventy-one.",
+      "visual": {
+        "type": "end",
+        "query": "wormhole illustration",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "wormhole illustration",
+          "spacetime illustration"
+        ]
+      }
+    }
+  ]
+}

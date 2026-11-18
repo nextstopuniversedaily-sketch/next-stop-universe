@@ -1,0 +1,113 @@
+{
+  "number": 65,
+  "title": "51 Pegasi b",
+  "subtitle": "The planet that changed everything",
+  "next_stop": "TRAPPIST-1",
+  "yt_title": "The Planet That Won a Nobel Prize 🏆 | Ep. 65 #shorts",
+  "description": "Episode 65 of a daily journey through the universe. 🏆\n51 Pegasi b: in 1995 Michel Mayor and Didier Queloz found the first planet orbiting a Sun-like star, a 'hot Jupiter' with a 4-day year. It won the 2019 Nobel Prize, and opened the door to more than 6,000 confirmed exoplanets.\n\n➡️ Tomorrow, Episode 66: Next stop, TRAPPIST-1. Seven Earth-sized planets around one small star.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #51pegasib #astronomy #shorts #science",
+  "tags": [
+    "51 pegasi b",
+    "hot jupiter",
+    "exoplanet",
+    "nobel prize physics 2019",
+    "michel mayor",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode sixty-five. Next stop... fifty-one Pegasi b.",
+      "visual": {
+        "type": "title",
+        "query": "hot Jupiter artist impression",
+        "commons": "hot Jupiter artist impression"
+      }
+    },
+    {
+      "text": "In nineteen ninety-five, two Swiss astronomers, Michel Mayor and Didier Queloz, were watching an ordinary Sun-like star about fifty light-years away.",
+      "visual": {
+        "type": "image",
+        "query": "Sun-like star artist impression",
+        "commons": "Sun-like star artist impression"
+      },
+      "headline": "A Sun-like star"
+    },
+    {
+      "text": "The star was wobbling back and forth, ever so slightly. Something big was pulling on it.",
+      "visual": {
+        "type": "image",
+        "query": "exoplanet orbiting star artist impression",
+        "commons": "exoplanet orbiting star artist impression"
+      },
+      "headline": "A wobbling star"
+    },
+    {
+      "text": "It was a planet about half the mass of Jupiter, circling its star in just four days.",
+      "visual": {
+        "type": "card",
+        "big": "4 days",
+        "label": "one year on this planet"
+      }
+    },
+    {
+      "text": "That was shocking. In our solar system, giant planets are far from the Sun. This one was closer to its star than Mercury is to ours.",
+      "visual": {
+        "type": "image",
+        "query": "Mercury MESSENGER",
+        "commons": "Mercury MESSENGER"
+      },
+      "headline": "Closer than Mercury"
+    },
+    {
+      "text": "Its temperature is about a thousand degrees. Astronomers called this new kind of world a hot Jupiter.",
+      "visual": {
+        "type": "card",
+        "big": "~1,000°C",
+        "label": "a hot Jupiter"
+      }
+    },
+    {
+      "text": "It proved planets around other suns are real, and can be stranger than anything we imagined.",
+      "visual": {
+        "type": "image",
+        "query": "hot Jupiter artist impression",
+        "commons": "hot Jupiter artist impression"
+      },
+      "headline": "Stranger than imagined"
+    },
+    {
+      "text": "In twenty nineteen, Mayor and Queloz won the Nobel Prize in Physics.",
+      "visual": {
+        "type": "image",
+        "query": "Nobel Prize medal",
+        "commons": "Nobel Prize medal"
+      },
+      "headline": "Nobel Prize, 2019"
+    },
+    {
+      "text": "Since then, the count has exploded. In twenty twenty-five, NASA confirmed more than six thousand exoplanets.",
+      "visual": {
+        "type": "card",
+        "big": "6,000+",
+        "label": "planets beyond our solar system"
+      }
+    },
+    {
+      "text": "Tomorrow, a tiny star with seven Earth-sized planets. Next stop: TRAPPIST-1. Follow, so you don't miss episode sixty-six.",
+      "visual": {
+        "type": "end",
+        "query": "TRAPPIST-1 artist impression",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "TRAPPIST-1 artist impression"
+        ]
+      }
+    }
+  ]
+}

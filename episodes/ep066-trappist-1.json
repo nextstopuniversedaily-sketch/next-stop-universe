@@ -1,0 +1,114 @@
+{
+  "number": 66,
+  "title": "TRAPPIST-1",
+  "subtitle": "Seven Earth-sized worlds",
+  "next_stop": "Proxima b",
+  "yt_title": "One Star, Seven Earth-Sized Planets 🪐 | Ep. 66 #shorts",
+  "description": "Episode 66 of a daily journey through the universe. 🪐\nTRAPPIST-1: a small, cool red star about 40 light-years away with seven Earth-sized planets, all closer to their star than Mercury is to the Sun, several in the zone where liquid water could exist. What the James Webb Space Telescope is finding.\n\n➡️ Tomorrow, Episode 67: Next stop, Proxima b. The closest planet to us outside our solar system.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #trappist1 #astronomy #shorts #science",
+  "tags": [
+    "trappist-1",
+    "earth-sized planets",
+    "habitable zone",
+    "james webb",
+    "red dwarf",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode sixty-six. Next stop... TRAPPIST-1.",
+      "visual": {
+        "type": "title",
+        "query": "TRAPPIST-1 artist impression",
+        "commons": "TRAPPIST-1 artist impression"
+      }
+    },
+    {
+      "text": "About forty light-years away is a small, cool red star, barely bigger than Jupiter. It's called TRAPPIST-1.",
+      "visual": {
+        "type": "image",
+        "query": "red dwarf star artist impression",
+        "commons": "red dwarf star artist impression"
+      },
+      "headline": "A tiny red star"
+    },
+    {
+      "text": "In twenty seventeen, astronomers announced it has seven planets, all about the size of Earth.",
+      "visual": {
+        "type": "card",
+        "big": "7",
+        "label": "Earth-sized planets"
+      }
+    },
+    {
+      "text": "All seven are packed closer to their star than Mercury is to our Sun. A year there lasts from one and a half to nineteen days.",
+      "visual": {
+        "type": "image",
+        "query": "TRAPPIST-1 planets",
+        "commons": "TRAPPIST-1 planets"
+      },
+      "headline": "Packed together"
+    },
+    {
+      "text": "Standing on one, you could see the others in the sky, some looking bigger than our Moon.",
+      "visual": {
+        "type": "image",
+        "query": "TRAPPIST-1 artist impression",
+        "commons": "TRAPPIST-1 artist impression"
+      },
+      "headline": "Planets in the sky"
+    },
+    {
+      "text": "Because the star is so dim, several of these planets are at the right distance for liquid water. Maybe.",
+      "visual": {
+        "type": "image",
+        "query": "ocean exoplanet artist impression",
+        "commons": "ocean exoplanet artist impression"
+      },
+      "headline": "Maybe water"
+    },
+    {
+      "text": "The James Webb Space Telescope has been checking for atmospheres. The two closest planets seem to have little or no thick air.",
+      "visual": {
+        "type": "image",
+        "query": "James Webb Space Telescope",
+        "commons": "James Webb Space Telescope"
+      },
+      "headline": "Webb is checking"
+    },
+    {
+      "text": "The outer ones are harder to study, and the answers are still coming in. It's one of the best places to look for a second Earth.",
+      "visual": {
+        "type": "image",
+        "query": "Earth-like exoplanet artist impression",
+        "commons": "Earth-like exoplanet artist impression"
+      },
+      "headline": "Still looking"
+    },
+    {
+      "text": "Red dwarfs like this live for trillions of years. Long after our Sun dies, TRAPPIST-1 will still be shining.",
+      "visual": {
+        "type": "card",
+        "big": "trillions",
+        "label": "of years to shine"
+      }
+    },
+    {
+      "text": "Tomorrow, the closest planet to us outside our solar system. Next stop: Proxima b. Follow, so you don't miss episode sixty-seven.",
+      "visual": {
+        "type": "end",
+        "query": "Proxima Centauri b artist impression",
+        "warm": false,
+        "wiki": [],
+        "commons": [
+          "Proxima Centauri b artist impression"
+        ]
+      }
+    }
+  ]
+}
