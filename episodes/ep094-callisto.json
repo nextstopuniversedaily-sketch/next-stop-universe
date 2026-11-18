@@ -1,0 +1,118 @@
+{
+  "number": 94,
+  "title": "Callisto",
+  "subtitle": "The oldest face",
+  "next_stop": "Europa Clipper",
+  "yt_title": "The Most Cratered World in the Solar System ☄️ | Ep. 94 #shorts",
+  "description": "Episode 94 of a daily journey through the universe. ☄️\nWe visit Callisto, Jupiter's outer giant moon: almost as wide as Mercury, one of the most heavily cratered surfaces known, about 4 billion years old, the giant Valhalla impact basin, and why it could one day be a base for human explorers.\n\n➡️ Tomorrow, Episode 95: Next stop, Europa Clipper. NASA's biggest planetary spacecraft, on its way to an ocean world.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #callisto #astronomy #shorts #science",
+  "tags": [
+    "callisto",
+    "jupiter moons",
+    "craters",
+    "valhalla crater",
+    "jupiter",
+    "moon base",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode ninety-four. Next stop... Callisto.",
+      "visual": {
+        "type": "title",
+        "query": "Callisto",
+        "wiki": "Callisto (moon)"
+      }
+    },
+    {
+      "text": "Meet Callisto. It is Jupiter's second biggest moon. About four thousand eight hundred kilometers wide, almost as big as Mercury.",
+      "visual": {
+        "type": "card",
+        "big": "4,821 km",
+        "label": "wide",
+        "sub": "almost the size of Mercury"
+      }
+    },
+    {
+      "text": "And it's covered in craters. Crater on top of crater. One of the most cratered surfaces in the solar system.",
+      "visual": {
+        "type": "image",
+        "query": "Callisto surface craters Galileo",
+        "commons": "Callisto surface craters Galileo"
+      },
+      "headline": "Craters everywhere"
+    },
+    {
+      "text": "Its surface is about four billion years old. No volcanoes, no plates, nothing has wiped it clean.",
+      "visual": {
+        "type": "card",
+        "big": "4 billion",
+        "label": "years old",
+        "sub": "barely changed"
+      }
+    },
+    {
+      "text": "The biggest scar is Valhalla, a giant bullseye of rings stretching thousands of kilometers.",
+      "visual": {
+        "type": "image",
+        "query": "Valhalla crater Callisto",
+        "commons": "Valhalla crater Callisto"
+      },
+      "headline": "Valhalla"
+    },
+    {
+      "text": "Callisto takes almost seventeen days to orbit Jupiter, and always shows it the same face.",
+      "visual": {
+        "type": "image",
+        "query": "Callisto Jupiter Voyager",
+        "commons": "Callisto Jupiter Voyager"
+      },
+      "headline": "A slow orbit"
+    },
+    {
+      "text": "It orbits far outside Jupiter's deadliest radiation belts. That's why NASA studies once imagined a human base here.",
+      "visual": {
+        "type": "image",
+        "query": "Callisto moon base artist concept",
+        "commons": "Callisto moon base artist concept"
+      },
+      "headline": "A future base?"
+    },
+    {
+      "text": "Even this frozen, battered world may hide a salty ocean deep below its surface.",
+      "visual": {
+        "type": "image",
+        "query": "Callisto Galileo full disk",
+        "commons": "Callisto Galileo full disk"
+      },
+      "headline": "A hidden ocean?"
+    },
+    {
+      "text": "Callisto, Ganymede, Europa and Io. Four worlds, four completely different faces.",
+      "visual": {
+        "type": "image",
+        "query": "Galilean moons Jupiter montage",
+        "commons": "Galilean moons Jupiter montage"
+      },
+      "headline": "Four different worlds"
+    },
+    {
+      "text": "Tomorrow, we ride with a spacecraft bigger than a basketball court, racing to the moon most likely to have life. Follow, so you don't miss episode ninety-five.",
+      "visual": {
+        "type": "end",
+        "query": "Europa Clipper",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Europa Clipper spacecraft",
+          "Europa Clipper"
+        ]
+      }
+    }
+  ]
+}

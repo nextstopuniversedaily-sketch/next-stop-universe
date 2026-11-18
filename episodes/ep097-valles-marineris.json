@@ -1,0 +1,118 @@
+{
+  "number": 97,
+  "title": "Valles Marineris",
+  "subtitle": "The grandest canyon",
+  "next_stop": "Phobos",
+  "yt_title": "The Grand Canyon of Mars 🏜️ | Ep. 97 #shorts",
+  "description": "Episode 97 of a daily journey through the universe. 🏜️\nWe explore Valles Marineris on Mars: about 4,000 km long, up to 7 km deep and 200 km wide, ten times longer than the Grand Canyon, discovered by Mariner 9 in 1971–72, and formed when the crust cracked open, not by a river.\n\n➡️ Tomorrow, Episode 98: Next stop, Phobos. A moon that is falling into Mars.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #vallesmarineris #astronomy #shorts #science",
+  "tags": [
+    "valles marineris",
+    "mars",
+    "grand canyon",
+    "biggest canyon",
+    "mariner 9",
+    "solar system",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode ninety-seven. Next stop... Valles Marineris.",
+      "visual": {
+        "type": "title",
+        "query": "Valles Marineris",
+        "wiki": "Valles Marineris"
+      }
+    },
+    {
+      "text": "Next to the giant volcanoes of Mars lies the biggest canyon system in the solar system.",
+      "visual": {
+        "type": "image",
+        "query": "Valles Marineris Viking mosaic",
+        "commons": "Valles Marineris Viking mosaic"
+      },
+      "headline": "The biggest canyon"
+    },
+    {
+      "text": "Valles Marineris is about four thousand kilometers long. On Earth, it would stretch across the entire United States.",
+      "visual": {
+        "type": "card",
+        "big": "4,000 km",
+        "label": "long",
+        "sub": "coast to coast"
+      }
+    },
+    {
+      "text": "Earth's Grand Canyon is about four hundred and fifty kilometers long. Mars beats it almost ten times over.",
+      "visual": {
+        "type": "image",
+        "query": "Grand Canyon from space",
+        "commons": "Grand Canyon from space"
+      },
+      "headline": "Grand Canyon? Tiny"
+    },
+    {
+      "text": "In places, it's seven kilometers deep, and two hundred kilometers wide.",
+      "visual": {
+        "type": "card",
+        "big": "7 km",
+        "label": "deep",
+        "sub": "4 times the Grand Canyon"
+      }
+    },
+    {
+      "text": "It was discovered by Mariner nine, the first spacecraft to orbit another planet, in nineteen seventy-one. That's where its name comes from.",
+      "visual": {
+        "type": "image",
+        "query": "Mariner 9 spacecraft",
+        "commons": "Mariner 9 spacecraft"
+      },
+      "headline": "Named for Mariner 9"
+    },
+    {
+      "text": "But no river carved it. As the giant Tharsis volcanoes swelled up, the crust of Mars cracked and pulled apart.",
+      "visual": {
+        "type": "image",
+        "query": "Valles Marineris Mars Express perspective",
+        "commons": "Valles Marineris Mars Express perspective"
+      },
+      "headline": "The crust cracked"
+    },
+    {
+      "text": "Then giant landslides collapsed its walls, and water may have flowed through later.",
+      "visual": {
+        "type": "image",
+        "query": "Valles Marineris landslide",
+        "commons": "Valles Marineris landslide"
+      },
+      "headline": "Giant landslides"
+    },
+    {
+      "text": "Standing at the bottom, the far wall could be beyond the horizon. You might not even see it was a canyon.",
+      "visual": {
+        "type": "image",
+        "query": "Valles Marineris HiRISE",
+        "commons": "Valles Marineris HiRISE"
+      },
+      "headline": "Too big to see"
+    },
+    {
+      "text": "Tomorrow, we look up from the canyon at a small moon racing across the Martian sky. A moon that is slowly falling into Mars. Follow, so you don't miss episode ninety-eight.",
+      "visual": {
+        "type": "end",
+        "query": "Phobos",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Phobos Mars Reconnaissance Orbiter",
+          "Phobos HiRISE"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "number": 92,
+  "title": "The Great Red Spot",
+  "subtitle": "A storm bigger than Earth",
+  "next_stop": "Ganymede",
+  "yt_title": "A Storm Bigger Than Earth 🌀 | Ep. 92 #shorts",
+  "description": "Episode 92 of a daily journey through the universe. 🌀\nWe fly into Jupiter's Great Red Spot: a storm wider than Earth, watched since at least 1830 and maybe for more than 350 years, winds over 400 km/h, roots about 300 km deep measured by Juno, and a storm that keeps shrinking.\n\n➡️ Tomorrow, Episode 93: Next stop, Ganymede. The biggest moon in the solar system.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #greatredspot #astronomy #shorts #science",
+  "tags": [
+    "great red spot",
+    "jupiter storm",
+    "jupiter",
+    "juno",
+    "biggest storm",
+    "solar system",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode ninety-two. Next stop... the Great Red Spot.",
+      "visual": {
+        "type": "title",
+        "query": "Great Red Spot",
+        "wiki": "Great Red Spot"
+      }
+    },
+    {
+      "text": "On Jupiter, there's a storm that's wider than our entire planet. And it has been raging for centuries.",
+      "visual": {
+        "type": "image",
+        "query": "Great Red Spot Juno",
+        "commons": "Great Red Spot Juno"
+      },
+      "headline": "Wider than Earth"
+    },
+    {
+      "text": "Astronomers have watched it since at least eighteen thirty. It may be more than three hundred and fifty years old.",
+      "visual": {
+        "type": "card",
+        "big": "350+",
+        "label": "years old?",
+        "sub": "watched since 1830"
+      }
+    },
+    {
+      "text": "It spins counterclockwise, with winds faster than four hundred kilometers per hour. Faster than any hurricane on Earth.",
+      "visual": {
+        "type": "card",
+        "big": "400+ km/h",
+        "label": "winds",
+        "sub": "stronger than any hurricane"
+      }
+    },
+    {
+      "text": "In the eighteen hundreds, it was more than two Earths wide. When Voyager flew past in nineteen seventy-nine, about two Earths.",
+      "visual": {
+        "type": "image",
+        "query": "Great Red Spot Voyager 1 1979",
+        "commons": "Great Red Spot Voyager 1 1979"
+      },
+      "headline": "Voyager, 1979"
+    },
+    {
+      "text": "Today it's about one point three Earths wide, and getting rounder. Nobody knows if it will ever disappear.",
+      "visual": {
+        "type": "image",
+        "query": "Great Red Spot Hubble shrinking",
+        "commons": "Great Red Spot Hubble shrinking"
+      },
+      "headline": "It's shrinking"
+    },
+    {
+      "text": "In twenty seventeen, NASA's Juno spacecraft flew right over it, and measured its roots going about three hundred kilometers deep.",
+      "visual": {
+        "type": "image",
+        "query": "Juno spacecraft Jupiter",
+        "commons": "Juno spacecraft Jupiter"
+      },
+      "headline": "Juno looks inside"
+    },
+    {
+      "text": "Why is it red? We still don't know for sure. Sunlight may be breaking down chemicals lifted from deep below.",
+      "visual": {
+        "type": "image",
+        "query": "Great Red Spot enhanced color Juno",
+        "commons": "Great Red Spot enhanced color Juno"
+      },
+      "headline": "Why red?"
+    },
+    {
+      "text": "And it's not alone. Smaller storms, like Red Spot Junior, swirl nearby.",
+      "visual": {
+        "type": "image",
+        "query": "Oval BA Jupiter Hubble",
+        "commons": "Oval BA Jupiter Hubble"
+      },
+      "headline": "Red Spot Junior"
+    },
+    {
+      "text": "Tomorrow, we leave the storm behind for a moon that's bigger than a planet. And it might be hiding more water than all of Earth's oceans. Follow, so you don't miss episode ninety-three.",
+      "visual": {
+        "type": "end",
+        "query": "Ganymede Juno",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Ganymede Juno",
+          "Ganymede Galileo"
+        ]
+      }
+    }
+  ]
+}

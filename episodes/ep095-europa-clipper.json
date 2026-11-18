@@ -1,0 +1,118 @@
+{
+  "number": 95,
+  "title": "Europa Clipper's Journey",
+  "subtitle": "Racing to an ocean world",
+  "next_stop": "Olympus Mons",
+  "yt_title": "NASA's Biggest Planetary Spacecraft 🚀 | Ep. 95 #shorts",
+  "description": "Episode 95 of a daily journey through the universe. 🚀\nWe ride with Europa Clipper: launched October 14, 2024 on a Falcon Heavy, solar arrays 30.5 m tip to tip, gravity boosts from Mars (March 2025) and Earth (December 2026), arrival at Jupiter in April 2030, and 49 flybys of Europa as close as 25 km.\n\n➡️ Tomorrow, Episode 96: Next stop, Olympus Mons. A volcano almost three times taller than Everest.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #europaclipper #astronomy #shorts #science",
+  "tags": [
+    "europa clipper",
+    "europa",
+    "nasa",
+    "jupiter",
+    "falcon heavy",
+    "ocean world",
+    "life in space",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode ninety-five. Next stop... Europa Clipper.",
+      "visual": {
+        "type": "title",
+        "query": "Europa Clipper",
+        "wiki": "Europa Clipper"
+      }
+    },
+    {
+      "text": "On October fourteenth, twenty twenty-four, a Falcon Heavy rocket launched NASA's biggest planetary spacecraft ever.",
+      "visual": {
+        "type": "image",
+        "query": "Europa Clipper launch Falcon Heavy",
+        "commons": "Europa Clipper launch Falcon Heavy"
+      },
+      "headline": "Launch day"
+    },
+    {
+      "text": "With its solar panels open, Europa Clipper is thirty point five meters wide. Wider than a basketball court.",
+      "visual": {
+        "type": "card",
+        "big": "30.5 m",
+        "label": "wide",
+        "sub": "bigger than a basketball court"
+      }
+    },
+    {
+      "text": "Its target is Europa, a moon of Jupiter with a salty ocean hidden under its ice.",
+      "visual": {
+        "type": "image",
+        "query": "Europa moon Galileo",
+        "commons": "Europa moon Galileo"
+      },
+      "headline": "The target: Europa"
+    },
+    {
+      "text": "Jupiter is so far away that Clipper needs help. In March twenty twenty-five, it swung past Mars to steal some speed.",
+      "visual": {
+        "type": "image",
+        "query": "Mars Hubble",
+        "commons": "Mars Hubble"
+      },
+      "headline": "A boost from Mars"
+    },
+    {
+      "text": "Then in December twenty twenty-six, it flew back past Earth for one last slingshot toward Jupiter.",
+      "visual": {
+        "type": "image",
+        "query": "Earth from space Blue Marble",
+        "commons": "Earth from space Blue Marble"
+      },
+      "headline": "A boost from Earth"
+    },
+    {
+      "text": "It arrives at Jupiter in April twenty thirty, after a journey of nearly three billion kilometers.",
+      "visual": {
+        "type": "card",
+        "big": "April 2030",
+        "label": "arrival at Jupiter"
+      }
+    },
+    {
+      "text": "Then it will fly past Europa forty-nine times, as low as twenty-five kilometers above the ice.",
+      "visual": {
+        "type": "card",
+        "big": "49",
+        "label": "flybys of Europa",
+        "sub": "as low as 25 km"
+      }
+    },
+    {
+      "text": "It carries a vault to shield its electronics from Jupiter's radiation, and a poem engraved for the ocean world.",
+      "visual": {
+        "type": "image",
+        "query": "Europa Clipper vault",
+        "commons": "Europa Clipper vault"
+      },
+      "headline": "Shielded from radiation"
+    },
+    {
+      "text": "Tomorrow, we go back to Mars, to a volcano so big that if you stood on top, its base would disappear over the horizon. Follow, so you don't miss episode ninety-six.",
+      "visual": {
+        "type": "end",
+        "query": "Olympus Mons",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Olympus Mons Viking",
+          "Olympus Mons Mars Express"
+        ]
+      }
+    }
+  ]
+}
