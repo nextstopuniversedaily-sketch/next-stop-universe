@@ -25,8 +25,8 @@
       "text": "Episode fifty-five. Next stop... the runaway Moon.",
       "visual": {
         "type": "title",
-        "query": "Full Moon photograph",
-        "commons": "Full Moon photograph"
+        "query": "FullMoon2010",
+        "commons": "FullMoon2010"
       }
     },
     {
@@ -59,8 +59,8 @@
       "text": "Observatories on Earth fire lasers at those mirrors and time how long the light takes to come back. About two and a half seconds.",
       "visual": {
         "type": "image",
-        "query": "Apache Point Observatory lunar laser",
-        "commons": "Apache Point Observatory lunar laser"
+        "query": "laser guide star observatory night",
+        "commons": "laser guide star observatory night"
       },
       "headline": "Lasers and mirrors"
     },

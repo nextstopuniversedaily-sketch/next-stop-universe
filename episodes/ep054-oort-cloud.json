@@ -110,12 +110,12 @@
       "text": "Tomorrow, the Moon is slowly drifting away from us. Next stop: the runaway Moon. Follow, so you don't miss episode fifty-five.",
       "visual": {
         "type": "end",
-        "query": "Full Moon photograph",
+        "query": "FullMoon2010",
         "warm": false,
         "wiki": [],
         "commons": [
-          "Full Moon photograph",
-          "full moon night sky"
+          "FullMoon2010",
+          "Moon Galileo spacecraft"
         ]
       }
     }
