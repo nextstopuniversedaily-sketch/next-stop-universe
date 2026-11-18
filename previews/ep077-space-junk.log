@@ -1,0 +1,25 @@
+[0;93m2026-11-18 04:32:59.770830762 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 77: Space Junk
+  audio 74.8s
+  - skip File:Space debris and human spaceflight ESA23231458.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Space debris ESA414897.png: license 'CC BY-SA 3.0 igo'
+  WIKI File:Debris-GEO1280.jpg (Public domain)
+  segment 1/10 [title] 4.0s
+  WIKI File:Sputnik 1 satellite replica.png (Public domain)
+  segment 2/10 [image] 7.2s
+  - skip File:Orbex Prime rocket second stage.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Zhuque-2E propellant dump over Wisconsin.jpg (CC BY 4.0)
+  segment 3/10 [image] 7.4s
+  segment 4/10 [card] 7.1s
+  segment 5/10 [card] 9.7s
+  segment 6/10 [card] 7.4s
+  ! no usable NASA image for 'ISS window impact chip'
+  segment 7/10 [image] 6.8s
+  WIKI File:Jupiter Irregular" Satellites" (gemini-jupiter-satallites).jpg (CC BY 4.0)
+  segment 8/10 [image] 8.3s
+  WIKI File:Rocky exoplanet TRAPPIST-1 b (illustration) (weic2309a).jpg (CC BY 4.0)
+  segment 9/10 [image] 7.4s
+  - skip File:Starship SN16.jpeg: license 'CC BY-SA 2.0'
+  WIKI File:SpaceX Starship ignition during IFT-5.jpg (CC BY 2.0)
+  segment 10/10 [end] 9.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep077.mp4 (10.4 MB)
