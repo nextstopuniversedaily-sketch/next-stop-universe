@@ -1,25 +1,24 @@
-[0;93m2026-11-18 04:57:47.758259735 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 88: Mars Is Coming
-  audio 82.0s
+  audio 82.2s
   WIKI File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png (CC BY 2.0)
   segment 1/10 [title] 4.0s
-  WIKI File:Night Sky from Hawai‘i and Chile (iotw2225c).jpg (CC BY 4.0)
-  segment 2/10 [image] 8.4s
+  WIKI File:Spirit Rover-Mars Night Sky.jpg (Public domain)
+  segment 2/10 [image] 8.5s
   segment 3/10 [card] 7.3s
-  WIKI File:Lowell - Mars (1894) - Diagram of the Orbits of Mars and the Earth.jpg (Public domain)
+  WIKI File:NASA Mars Rover.jpg (Public domain)
   segment 4/10 [image] 9.8s
   segment 5/10 [card] 6.1s
   - skip File:Mars.Venus.Jupiter.sigmaLeo.2015-10-27.03.55.jpg: looks like a chart/blank
   - skip File:Звёздное небо в Альпах.jpg: license 'CC BY-SA 3.0'
   WIKI File:2012-03-24 21-15-43-lion-5fov-9f-5s-iso640-72d-27o-ann.jpg (CC BY 3.0)
-  segment 6/10 [image] 6.4s
+  segment 6/10 [image] 6.5s
   WIKI File:NASA Mars Rover.jpg (Public domain)
   segment 7/10 [image] 10.7s
   WIKI File:South Polar Cap of Mars during Martian South summer 2000.jpg (Public domain)
-  segment 8/10 [image] 8.0s
+  segment 8/10 [image] 8.1s
   WIKI File:Perseverance Stuns in New Selfie.png (Public domain)
   segment 9/10 [image] 9.2s
   - skip File:Perseverance's Selfie With 'Cheyava Falls' (PIA26344).jpg: license ''
   WIKI File:E1a-PIA26401-Mastcam-Z-Views-the-Cheyava-Falls-Workspace.jpg (Public domain)
-  segment 10/10 [end] 12.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep088.mp4 (21.9 MB)
+  segment 10/10 [end] 12.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep088.mp4 (21.8 MB)
