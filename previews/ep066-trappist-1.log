@@ -1,0 +1,22 @@
+[0;93m2026-11-18 03:19:25.555013470 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 66: TRAPPIST-1
+  audio 74.4s
+  WIKI File:TRAPPIST-1h artist impression 2018.png (Public domain)
+  segment 1/10 [title] 3.9s
+  WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
+  segment 2/10 [image] 7.7s
+  segment 3/10 [card] 6.5s
+  WIKI File:TRAPPIST-1e Const CMYK Print.png (Public domain)
+  segment 4/10 [image] 8.8s
+  WIKI File:TRAPPIST-1h artist impression 2018.png (Public domain)
+  segment 5/10 [image] 5.5s
+  WIKI File:Exoplanet K2-18 b (Illustration).jpg (Public domain)
+  segment 6/10 [image] 7.1s
+  WIKI File:James Webb Space Telescope Mirror37.jpg (Public domain)
+  segment 7/10 [image] 8.3s
+  WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
+  segment 8/10 [image] 8.3s
+  segment 9/10 [card] 7.8s
+  WIKI File:Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg (CC BY 4.0)
+  segment 10/10 [end] 10.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep066.mp4 (11.4 MB)
