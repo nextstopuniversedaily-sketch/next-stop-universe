@@ -1,27 +1,26 @@
-[0;93m2026-11-17 23:43:04.366484307 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-18 00:56:58.634611315 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 57: The Biggest Stars
-  audio 88.3s
+  audio 88.1s
   WIKI File:Artist’s impression of the red supergiant star Antares.jpg (CC BY 4.0)
   segment 1/12 [title] 5.2s
   WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
   segment 2/12 [image] 7.8s
   NASA 'Betelgeuse' -> PIA16680: Betelgeuse Enigmatic Environment
   segment 3/12 [image] 7.3s
-  - skip File:VY Canis Majoris - Red Hypergiant Star.png: license 'CC BY-SA 4.0'
-  WIKI File:The red hypergiant star VY Canis Majoris (eso1546b).jpg (CC BY 4.0)
-  segment 4/12 [image] 6.0s
+  WIKI File:Artist’s impression of the red supergiant star Antares.jpg (CC BY 4.0)
+  segment 4/12 [image] 5.9s
   segment 5/12 [card] 4.7s
   WIKI File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png (Public domain)
   segment 6/12 [image] 6.1s
-  segment 7/12 [card] 7.9s
+  segment 7/12 [card] 7.7s
   - skip File:UY Scuti.jpg: license 'CC BY-SA 4.0'
   WIKI File:UY Scuti PanSTARRS DR1.png (CC BY 3.0)
   segment 8/12 [image] 10.1s
   WIKI File:Grand star-forming region R136 in NGC 2070 (captured by the Hubble Space Telescope).jpg (Public domain)
-  segment 9/12 [image] 6.7s
+  segment 9/12 [image] 6.6s
   segment 10/12 [card] 5.9s
   WIKI File:Crab Nebula.jpg (Public domain)
-  segment 11/12 [image] 8.1s
+  segment 11/12 [image] 8.0s
   WIKI File:Baffled LIGO Scientists.jpg (CC BY 4.0)
   segment 12/12 [end] 12.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep057.mp4 (18.1 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep057.mp4 (16.9 MB)
