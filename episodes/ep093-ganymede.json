@@ -87,8 +87,11 @@
       "text": "In twenty twenty-three, Europe launched a spacecraft called Juice. It reaches Jupiter in twenty thirty-one.",
       "visual": {
         "type": "image",
-        "query": "JUICE spacecraft ESA",
-        "wiki": "Jupiter Icy Moons Explorer"
+        "query": "Jupiter Icy Moons Explorer",
+        "commons": [
+          "Jupiter Icy Moons Explorer spacecraft",
+          "JUICE spacecraft"
+        ]
       },
       "headline": "Juice is on its way"
     },
