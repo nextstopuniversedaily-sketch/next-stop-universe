@@ -1,20 +1,16 @@
-[0;93m2026-11-19 06:58:34.087762706 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:30:39.116542430 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 107: Haumea
-  audio 69.3s
-  - skip File:Mesoplanet.jpg: license 'CC BY-SA 4.0'
-  - skip File:Dwarfplanet.jpg: license 'CC BY-SA 4.0'
-  ! no usable NASA image for 'Haumea artist concept'
-  segment 1/10 [title] 4.1s
-  - skip File:Mesoplanet.jpg: license 'CC BY-SA 4.0'
-  - skip File:Dwarfplanet.jpg: license 'CC BY-SA 4.0'
-  ! no usable NASA image for 'Haumea artist concept'
+  audio 69.2s
+  WIKI File:Haumea_Hubble.png (Public domain)
+  segment 1/10 [title] 4.0s
+  WIKI File:Haumea_Hubble.png (Public domain)
   segment 2/10 [image] 6.4s
-  segment 3/10 [card] 8.7s
+  segment 3/10 [card] 8.6s
   segment 4/10 [card] 9.2s
   WIKI File:Smallest Kuiper Belt Object detected (artist's impression) (opo0933b).jpg (CC BY 4.0)
   segment 5/10 [image] 7.2s
   WIKI File:Haumea with rings (37641832331).jpg (CC BY 2.0)
-  segment 6/10 [image] 8.9s
+  segment 6/10 [image] 8.8s
   segment 7/10 [card] 3.7s
   WIKI File:Haumea Hubble.png (Public domain)
   segment 8/10 [image] 7.3s
@@ -23,4 +19,4 @@
   - skip File:Kométa C-2020 F3 (NEOWISE).jpg: license 'CC BY-SA 4.0'
   WIKI File:Comet NEOWISE above Strzelce Dolne.jpg (CC BY 4.0)
   segment 10/10 [end] 10.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep107.mp4 (11.4 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep107.mp4 (10.6 MB)
