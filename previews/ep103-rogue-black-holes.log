@@ -1,0 +1,21 @@
+[0;93m2026-11-19 06:51:27.310235943 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 103: Rogue Black Holes
+  audio 71.2s
+  WIKI File:Black hole jet and accompanying erupting nova (artist's concept) (heic2411a).jpg (CC BY 4.0)
+  segment 1/10 [title] 4.7s
+  WIKI File:Black hole jet and accompanying erupting nova (artist's concept) (heic2411a).jpg (CC BY 4.0)
+  segment 2/10 [image] 7.0s
+  segment 3/10 [card] 7.3s
+  WIKI File:Center of the Milky Way Galaxy IV – Composite.jpg (Public domain)
+  segment 4/10 [image] 4.4s
+  WIKI File:Gravitational lensing in the galaxy cluster Abell 370 (captured by the Hubble Space Telescope).jpg (CC BY 4.0)
+  segment 5/10 [image] 8.6s
+  WIKI File:James Webb Space Telescope Mirror37.jpg (Public domain)
+  segment 6/10 [image] 7.6s
+  segment 7/10 [card] 8.3s
+  segment 8/10 [card] 7.4s
+  WIKI File:ESO - Milky Way.jpg (CC BY 4.0)
+  segment 9/10 [image] 4.1s
+  WIKI File:Aurora Australis From ISS.JPG (Public domain)
+  segment 10/10 [end] 11.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep103.mp4 (18.4 MB)
