@@ -1,4 +1,4 @@
-[0;93m2026-11-19 15:38:15.924432447 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:41:26.002755567 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 112: Pieces of Asteroids
   audio 87.3s
   WIKI File:Bennu mosaic OSIRIS-REx (square).png (Public domain)
@@ -16,9 +16,8 @@
   segment 7/10 [image] 8.5s
   WIKI File:Bennu mosaic OSIRIS-REx (square).png (Public domain)
   segment 8/10 [image] 7.5s
-  - skip File:Hayabusa2 spacecraft's orbit.jpg: license 'CC BY-SA 4.0'
-  WIKI File:Hayabusa2 Torifune trajectory inverted.png (CC BY 4.0)
+  WIKI File:Hayabusa2_Ion_thruster.jpg (CC BY 2.0)
   segment 9/10 [image] 7.8s
   WIKI File:Cosmic Microwave Background (CMB).jpeg (CC BY 4.0)
   segment 10/10 [end] 14.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep112.mp4 (28.2 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep112.mp4 (28.6 MB)
