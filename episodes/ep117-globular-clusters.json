@@ -1,0 +1,119 @@
+{
+  "number": 117,
+  "title": "Globular Clusters",
+  "subtitle": "Cities of ancient stars",
+  "next_stop": "Cepheid Stars",
+  "yt_title": "A Million Stars in One Ball ✨ | Ep. 117 #shorts",
+  "description": "Episode 117 of a daily journey through the universe. ✨\nWe fly into a globular cluster: up to a million stars packed into a ball about 100 light-years across, some of the oldest stars in the galaxy at over 12 billion years, about 150 around the Milky Way, Omega Centauri, and the 1974 Arecibo message sent to M13.\n\n➡️ Tomorrow, Episode 118: Next stop, Cepheid stars. The stars that measured the universe.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #globularcluster #astronomy #shorts #science #nasa",
+  "tags": [
+    "globular cluster",
+    "omega centauri",
+    "m13",
+    "hubble",
+    "old stars",
+    "arecibo message",
+    "milky way",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and seventeen. Next stop... globular clusters.",
+      "visual": {
+        "type": "title",
+        "query": "Omega Centauri",
+        "wiki": "Omega Centauri"
+      }
+    },
+    {
+      "text": "Imagine a ball of stars. Hundreds of thousands, even a million of them, packed together.",
+      "visual": {
+        "type": "image",
+        "query": "Messier 80 Hubble",
+        "commons": "Messier 80 Hubble"
+      },
+      "headline": "A ball of stars"
+    },
+    {
+      "text": "That's a globular cluster. Most are about one hundred light-years across.",
+      "visual": {
+        "type": "card",
+        "big": "1,000,000",
+        "label": "stars",
+        "sub": "in one ball"
+      }
+    },
+    {
+      "text": "If you lived on a planet inside one, the night sky would blaze with thousands of bright stars. Night would never be truly dark.",
+      "visual": {
+        "type": "image",
+        "query": "globular cluster core Hubble",
+        "commons": "globular cluster core Hubble"
+      },
+      "headline": "A sky that's never dark"
+    },
+    {
+      "text": "They're among the oldest things in our galaxy. Many of their stars are more than twelve billion years old.",
+      "visual": {
+        "type": "card",
+        "big": "12+ billion",
+        "label": "years old",
+        "sub": "older than the Milky Way's disk"
+      }
+    },
+    {
+      "text": "About one hundred and fifty of them swarm around the Milky Way, like bees around a hive.",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way galaxy",
+        "commons": "Milky Way galaxy"
+      },
+      "headline": "150 around our galaxy"
+    },
+    {
+      "text": "The biggest, Omega Centauri, may be the leftover core of a small galaxy we swallowed. It even hides a black hole.",
+      "visual": {
+        "type": "image",
+        "query": "Omega Centauri",
+        "commons": "Omega Centauri"
+      },
+      "headline": "Omega Centauri"
+    },
+    {
+      "text": "In nineteen seventy-four, astronomers beamed a radio message toward the cluster M13. It will arrive in about twenty-five thousand years.",
+      "visual": {
+        "type": "image",
+        "query": "Messier 13",
+        "commons": "Messier 13"
+      },
+      "headline": "A message to M13"
+    },
+    {
+      "text": "With binoculars, you can find M13 yourself, as a fuzzy ball in the constellation Hercules.",
+      "visual": {
+        "type": "image",
+        "query": "Hercules constellation",
+        "commons": "Hercules constellation"
+      },
+      "headline": "Find it yourself"
+    },
+    {
+      "text": "Tomorrow, the story of a woman who found a cosmic measuring tape, using blinking stars. Follow, so you don't miss episode one hundred and eighteen.",
+      "visual": {
+        "type": "end",
+        "query": "Henrietta Swan Leavitt",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Henrietta Swan Leavitt",
+          "Small Magellanic Cloud"
+        ]
+      }
+    }
+  ]
+}

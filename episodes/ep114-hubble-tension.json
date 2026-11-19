@@ -1,0 +1,119 @@
+{
+  "number": 114,
+  "title": "The Hubble Tension",
+  "subtitle": "A cosmic argument",
+  "next_stop": "Galaxy Collisions",
+  "yt_title": "Scientists Can't Agree How Fast the Universe Grows 🤯 | Ep. 114 #shorts",
+  "description": "Episode 114 of a daily journey through the universe. 🤯\nWe step into the Hubble tension: the early-universe method says space expands at about 67 km/s per megaparsec, measuring nearby stars says about 73, the Webb telescope keeps checking, and the answer could mean new physics.\n\n➡️ Tomorrow, Episode 115: Next stop, galaxy collisions. When galaxies crash.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #hubbletension #astronomy #shorts #science #nasa",
+  "tags": [
+    "hubble tension",
+    "hubble constant",
+    "expanding universe",
+    "jwst",
+    "cosmology",
+    "dark energy",
+    "cepheids",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and fourteen. Next stop... the Hubble tension.",
+      "visual": {
+        "type": "title",
+        "query": "Hubble ultra deep field",
+        "commons": "Hubble ultra deep field"
+      }
+    },
+    {
+      "text": "The universe is expanding. Galaxies are moving away from each other. But how fast?",
+      "visual": {
+        "type": "image",
+        "query": "galaxies deep field Webb",
+        "commons": "galaxies deep field Webb"
+      },
+      "headline": "How fast?"
+    },
+    {
+      "text": "That speed is called the Hubble constant. And there are two main ways to measure it.",
+      "visual": {
+        "type": "image",
+        "query": "Edwin Hubble telescope Mount Wilson",
+        "commons": "Edwin Hubble telescope Mount Wilson"
+      },
+      "headline": "The Hubble constant"
+    },
+    {
+      "text": "Method one: study the oldest light in the universe, and predict how fast space should grow today. Answer: about sixty-seven.",
+      "visual": {
+        "type": "card",
+        "big": "67",
+        "label": "km/s per megaparsec",
+        "sub": "from the early universe"
+      }
+    },
+    {
+      "text": "Method two: measure distances to nearby galaxies using special stars and exploding stars. Answer: about seventy-three.",
+      "visual": {
+        "type": "card",
+        "big": "73",
+        "label": "km/s per megaparsec",
+        "sub": "from nearby stars"
+      }
+    },
+    {
+      "text": "That might sound close. But both are so precise that they shouldn't disagree like this.",
+      "visual": {
+        "type": "image",
+        "query": "supernova galaxy Hubble",
+        "commons": "supernova galaxy Hubble"
+      },
+      "headline": "They shouldn't disagree"
+    },
+    {
+      "text": "The Webb telescope has re-checked the star measurements. Some teams still get seventy-three, others get about seventy.",
+      "visual": {
+        "type": "image",
+        "query": "James Webb Space Telescope",
+        "commons": "James Webb Space Telescope"
+      },
+      "headline": "Webb checks"
+    },
+    {
+      "text": "If the gap is real, our picture of the universe might be missing something. New physics, or a strange early dark energy.",
+      "visual": {
+        "type": "image",
+        "query": "cosmic web simulation",
+        "commons": "cosmic web simulation"
+      },
+      "headline": "New physics?"
+    },
+    {
+      "text": "It's one of the biggest open questions in science right now. Maybe someone watching will solve it.",
+      "visual": {
+        "type": "image",
+        "query": "Milky Way over observatory",
+        "commons": "Milky Way over observatory"
+      },
+      "headline": "Maybe you'll solve it"
+    },
+    {
+      "text": "Tomorrow, cosmic car crashes. When two galaxies collide, the stars almost never hit each other. Follow, so you don't miss episode one hundred and fifteen.",
+      "visual": {
+        "type": "end",
+        "query": "Antennae galaxies",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Antennae galaxies Hubble",
+          "interacting galaxies Hubble"
+        ]
+      }
+    }
+  ]
+}

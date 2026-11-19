@@ -1,0 +1,119 @@
+{
+  "number": 110,
+  "title": "The Tunguska Event",
+  "subtitle": "The sky exploded",
+  "next_stop": "DART",
+  "yt_title": "The Explosion That Flattened 80 Million Trees 💥 | Ep. 110 #shorts",
+  "description": "Episode 110 of a daily journey through the universe. 💥\nWe go to Siberia, June 30, 1908: a space rock exploded in the air over Tunguska, flattening about 2,150 square kilometers of forest and around 80 million trees, with an energy of roughly 3 to 15 megatons, and no crater left behind.\n\n➡️ Tomorrow, Episode 111: Next stop, DART. The day humans moved an asteroid.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #tunguska #astronomy #shorts #science #nasa",
+  "tags": [
+    "tunguska",
+    "tunguska event",
+    "asteroid impact",
+    "siberia",
+    "airburst",
+    "1908",
+    "planetary defense",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and ten. Next stop... the Tunguska event.",
+      "visual": {
+        "type": "title",
+        "query": "Tunguska",
+        "wiki": "Tunguska event"
+      }
+    },
+    {
+      "text": "June thirtieth, nineteen oh eight. Morning in Siberia. A fireball streaks across the sky.",
+      "visual": {
+        "type": "image",
+        "query": "meteor fireball night sky",
+        "commons": "meteor fireball night sky"
+      },
+      "headline": "June 30, 1908"
+    },
+    {
+      "text": "Then, a blast. People sixty kilometers away were knocked off their feet, and felt heat like their shirts were on fire.",
+      "visual": {
+        "type": "image",
+        "query": "Siberia taiga forest",
+        "commons": "Siberia taiga forest"
+      },
+      "headline": "Felt 60 km away"
+    },
+    {
+      "text": "A space rock, maybe fifty to sixty meters wide, exploded several kilometers above the ground.",
+      "visual": {
+        "type": "card",
+        "big": "~50 m",
+        "label": "space rock",
+        "sub": "exploded in the air"
+      }
+    },
+    {
+      "text": "The blast flattened about two thousand one hundred and fifty square kilometers of forest. About eighty million trees.",
+      "visual": {
+        "type": "card",
+        "big": "80 million",
+        "label": "trees knocked down",
+        "sub": "2,150 square km"
+      }
+    },
+    {
+      "text": "Its energy was hundreds of times stronger than the bomb dropped on Hiroshima.",
+      "visual": {
+        "type": "card",
+        "big": "3–15",
+        "label": "megatons",
+        "sub": "estimated energy"
+      }
+    },
+    {
+      "text": "When scientists finally reached the site in nineteen twenty-seven, they found something strange. No crater.",
+      "visual": {
+        "type": "image",
+        "query": "Tunguska event trees",
+        "commons": "Tunguska event trees"
+      },
+      "headline": "No crater"
+    },
+    {
+      "text": "Trees at the center were still standing, stripped bare. The rock blew apart in the air, before it could hit.",
+      "visual": {
+        "type": "image",
+        "query": "Tunguska",
+        "commons": "Tunguska"
+      },
+      "headline": "Trees standing at the center"
+    },
+    {
+      "text": "June thirtieth is now Asteroid Day, to remind us to watch the sky.",
+      "visual": {
+        "type": "image",
+        "query": "asteroid near Earth artist",
+        "commons": "asteroid near Earth artist"
+      },
+      "headline": "Asteroid Day"
+    },
+    {
+      "text": "Tomorrow, the day humans fought back. We crashed a spacecraft into an asteroid, and changed its orbit. Follow, so you don't miss episode one hundred and eleven.",
+      "visual": {
+        "type": "end",
+        "query": "DART Dimorphos",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "DART Dimorphos impact",
+          "Didymos Dimorphos DART"
+        ]
+      }
+    }
+  ]
+}
