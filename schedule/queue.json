@@ -1,800 +1,800 @@
 [
-  {
-    "id": "long-solar-system",
-    "kind": "retry",
-    "publishAt": "2026-11-20T18:00:00-06:00",
-    "title": "Journey Through the Solar System (and Beyond) in 9 Minutes 🪐 | Next Stop: Universe",
-    "intro": "Ride from the Sun past every planet, out to Pluto, Voyager 1 and our nearest star, Proxima Centauri, in one continuous journey. 11 stops from our daily space series, back to back.",
-    "tags": [
-      "solar system",
-      "planets",
-      "the sun",
-      "mercury",
-      "venus",
-      "mars",
-      "jupiter",
-      "saturn",
-      "uranus",
-      "neptune",
-      "pluto",
-      "voyager 1",
-      "proxima centauri",
-      "planets for kids",
-      "solar system documentary",
-      "space",
-      "universe",
-      "astronomy",
-      "space documentary",
-      "nasa",
-      "space facts",
-      "science",
-      "cosmos",
-      "next stop universe",
-      "journey through the universe"
-    ],
-    "hashtags": "#solarsystem #planets #space #astronomy #nasa",
-    "status": "pending",
-    "postId": "e934a4af-2e00-4bca-a381-f347bc91bfd4",
-    "note": "2026-11-19 21:23Z retry refused again: uploadLimitExceeded (limit used by ep029-ep040 retries at 21:13Z); retry next run"
-  },
-  {
-    "id": "long-dead-stars",
-    "kind": "retry",
-    "publishAt": "2026-11-22T18:00:00-06:00",
-    "title": "Black Holes, Neutron Stars & Exploding Stars: 9 Stops ✨🕳️ | Next Stop: Universe",
-    "intro": "The most extreme objects in the universe, back to back: black holes, neutron stars, magnetars, Betelgeuse, supernovas, the black hole at the center of our galaxy, the biggest stars, gamma-ray bursts and how the Sun will die.",
-    "tags": [
-      "black hole",
-      "neutron star",
-      "magnetar",
-      "supernova",
-      "betelgeuse",
-      "sagittarius a*",
-      "gamma ray burst",
-      "biggest star",
-      "how the sun will die",
-      "star death",
-      "space",
-      "universe",
-      "astronomy",
-      "space documentary",
-      "nasa",
-      "space facts",
-      "science",
-      "cosmos",
-      "next stop universe",
-      "journey through the universe"
-    ],
-    "hashtags": "#blackhole #supernova #space #astronomy #nasa",
-    "status": "pending",
-    "postId": "444421f5-1fbc-429e-aa66-2ebc477b91a0",
-    "note": "draft created 2026-11-19, not yet published (upload limit)"
-  },
-  {
-    "id": "long-weird-planets",
-    "kind": "long",
-    "publishAt": "2026-11-24T18:00:00-06:00",
-    "title": "The Weirdest Planets Ever Discovered 🔥🪐 | Next Stop: Universe",
-    "intro": "Iron rain, glass storms, planets with no sun, a diamond star, planets around a dead star, the first exoplanet, TRAPPIST-1 and Proxima b: the strangest worlds we have found beyond our solar system.",
-    "tags": [
-      "weird planets",
-      "exoplanets",
-      "wasp-76b",
-      "hd 189733b",
-      "rogue planets",
-      "diamond planet",
-      "pulsar planets",
-      "51 pegasi b",
-      "trappist-1",
-      "proxima b",
-      "strange planets",
-      "space",
-      "universe",
-      "astronomy",
-      "space documentary",
-      "nasa",
-      "space facts",
-      "science",
-      "cosmos",
-      "next stop universe",
-      "journey through the universe"
-    ],
-    "hashtags": "#exoplanets #planets #space #astronomy #jwst",
-    "status": "pending"
-  },
-  {
-    "id": "long-biggest-mysteries",
-    "kind": "long",
-    "publishAt": "2026-11-26T18:00:00-06:00",
-    "title": "The Biggest Unsolved Mysteries of the Universe 👽 | Next Stop: Universe",
-    "intro": "Dark matter, dark energy, the Wow! signal, fast radio bursts, the Fermi paradox, interstellar visitors, Tabby's star, the Boötes Void and the Great Attractor: 9 mysteries scientists still can't fully explain.",
-    "tags": [
-      "mysteries of the universe",
-      "dark matter",
-      "dark energy",
-      "wow signal",
-      "fast radio bursts",
-      "fermi paradox",
-      "oumuamua",
-      "tabby's star",
-      "bootes void",
-      "great attractor",
-      "unsolved mysteries",
-      "space",
-      "universe",
-      "astronomy",
-      "space documentary",
-      "nasa",
-      "space facts",
-      "science",
-      "cosmos",
-      "next stop universe",
-      "journey through the universe"
-    ],
-    "hashtags": "#mystery #universe #space #aliens #astronomy",
-    "status": "pending"
-  },
-  {
-    "id": "long-edge-of-universe",
-    "kind": "long",
-    "publishAt": "2026-11-28T18:00:00-06:00",
-    "title": "Journey to the Edge of the Universe 🌌 | Next Stop: Universe",
-    "intro": "From our Milky Way to Andromeda, the oldest light, the Big Bang, the most distant galaxies seen by the James Webb telescope, the edge of the observable universe, gravitational waves and how the universe will end.",
-    "tags": [
-      "edge of the universe",
-      "observable universe",
-      "milky way",
-      "andromeda",
-      "big bang",
-      "james webb",
-      "cosmic microwave background",
-      "end of the universe",
-      "gravitational waves",
-      "cosmology",
-      "space",
-      "universe",
-      "astronomy",
-      "space documentary",
-      "nasa",
-      "space facts",
-      "science",
-      "cosmos",
-      "next stop universe",
-      "journey through the universe"
-    ],
-    "hashtags": "#universe #bigbang #jwst #space #astronomy",
-    "status": "pending"
-  },
-  {
-    "id": "ep029",
-    "kind": "retry",
-    "postId": "d4e12d4b-efed-495a-aac2-03ef823ed7d5",
-    "publishAt": "2026-12-09T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=Jp6AaxynRfw"
-  },
-  {
-    "id": "ep030",
-    "kind": "retry",
-    "postId": "cb992efa-6111-474b-92df-897cb63ec4aa",
-    "publishAt": "2026-12-10T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=TQ9OUq3cVAI"
-  },
-  {
-    "id": "ep031",
-    "kind": "retry",
-    "postId": "b0ae6df7-59e1-42a1-9830-8a45da561605",
-    "publishAt": "2026-12-11T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=n6oD6pgVt0k"
-  },
-  {
-    "id": "ep033",
-    "kind": "retry",
-    "postId": "eded1fb1-65ff-4e7c-abdc-9e5fbcdc86c5",
-    "publishAt": "2026-12-13T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=vLXbClUoqU0"
-  },
-  {
-    "id": "ep034",
-    "kind": "retry",
-    "postId": "14d082ae-a2cd-4a15-bf76-1a227f3cc143",
-    "publishAt": "2026-12-14T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=ANz4J6i8KBM"
-  },
-  {
-    "id": "ep036",
-    "kind": "retry",
-    "postId": "c425c618-3f46-49dc-8ced-9ede12700a9a",
-    "publishAt": "2026-12-16T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=bPlyUW1Qxy4"
-  },
-  {
-    "id": "ep037",
-    "kind": "retry",
-    "postId": "eb981455-3f4f-4ace-a841-26df00f24878",
-    "publishAt": "2026-12-17T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=oHohP8jx46s"
-  },
-  {
-    "id": "ep038",
-    "kind": "retry",
-    "postId": "993baef1-d2f1-4e36-837e-af836486a67a",
-    "publishAt": "2026-12-18T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=rAov_pOP9d4"
-  },
-  {
-    "id": "ep039",
-    "kind": "retry",
-    "postId": "a6be3c75-c82d-497b-b0a7-771305c3bee0",
-    "publishAt": "2026-12-19T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=hcvVr2NF7tQ"
-  },
-  {
-    "id": "ep040",
-    "kind": "retry",
-    "postId": "8c9874cb-a0a0-4f9a-8640-98ddfc4c85ac",
-    "publishAt": "2026-12-20T07:00:00-06:00",
-    "status": "scheduled",
-    "postUrl": "https://www.youtube.com/watch?v=x6XLPaTpFdo"
-  },
-  {
-    "id": "ep041",
-    "kind": "episode",
-    "publishAt": "2026-12-21T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep042",
-    "kind": "episode",
-    "publishAt": "2026-12-22T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep043",
-    "kind": "episode",
-    "publishAt": "2026-12-23T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep044",
-    "kind": "episode",
-    "publishAt": "2026-12-24T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep045",
-    "kind": "episode",
-    "publishAt": "2026-12-25T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep046",
-    "kind": "episode",
-    "publishAt": "2026-12-26T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep047",
-    "kind": "episode",
-    "publishAt": "2026-12-27T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep048",
-    "kind": "episode",
-    "publishAt": "2026-12-28T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep049",
-    "kind": "episode",
-    "publishAt": "2026-12-29T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep050",
-    "kind": "episode",
-    "publishAt": "2026-12-30T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep051",
-    "kind": "episode",
-    "publishAt": "2026-12-31T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep052",
-    "kind": "episode",
-    "publishAt": "2027-01-01T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep053",
-    "kind": "episode",
-    "publishAt": "2027-01-02T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep054",
-    "kind": "episode",
-    "publishAt": "2027-01-03T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep055",
-    "kind": "episode",
-    "publishAt": "2027-01-04T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep056",
-    "kind": "episode",
-    "publishAt": "2027-01-05T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep057",
-    "kind": "episode",
-    "publishAt": "2027-01-06T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep058",
-    "kind": "episode",
-    "publishAt": "2027-01-07T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep059",
-    "kind": "episode",
-    "publishAt": "2027-01-08T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep060",
-    "kind": "episode",
-    "publishAt": "2027-01-09T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep091",
-    "kind": "episode",
-    "publishAt": "2027-02-09T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep092",
-    "kind": "episode",
-    "publishAt": "2027-02-10T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep093",
-    "kind": "episode",
-    "publishAt": "2027-02-11T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep094",
-    "kind": "episode",
-    "publishAt": "2027-02-12T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep095",
-    "kind": "episode",
-    "publishAt": "2027-02-13T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep096",
-    "kind": "episode",
-    "publishAt": "2027-02-14T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep097",
-    "kind": "episode",
-    "publishAt": "2027-02-15T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep098",
-    "kind": "episode",
-    "publishAt": "2027-02-16T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep099",
-    "kind": "episode",
-    "publishAt": "2027-02-17T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep100",
-    "kind": "episode",
-    "publishAt": "2027-02-18T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep101",
-    "kind": "episode",
-    "publishAt": "2027-02-19T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep102",
-    "kind": "episode",
-    "publishAt": "2027-02-20T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep103",
-    "kind": "episode",
-    "publishAt": "2027-02-21T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep104",
-    "kind": "episode",
-    "publishAt": "2027-02-22T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep105",
-    "kind": "episode",
-    "publishAt": "2027-02-23T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep106",
-    "kind": "episode",
-    "publishAt": "2027-02-24T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep107",
-    "kind": "episode",
-    "publishAt": "2027-02-25T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep108",
-    "kind": "episode",
-    "publishAt": "2027-02-26T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep109",
-    "kind": "episode",
-    "publishAt": "2027-02-27T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep110",
-    "kind": "episode",
-    "publishAt": "2027-02-28T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep111",
-    "kind": "episode",
-    "publishAt": "2027-03-01T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep112",
-    "kind": "episode",
-    "publishAt": "2027-03-02T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep113",
-    "kind": "episode",
-    "publishAt": "2027-03-03T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep114",
-    "kind": "episode",
-    "publishAt": "2027-03-04T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep115",
-    "kind": "episode",
-    "publishAt": "2027-03-05T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep116",
-    "kind": "episode",
-    "publishAt": "2027-03-06T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep117",
-    "kind": "episode",
-    "publishAt": "2027-03-07T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep118",
-    "kind": "episode",
-    "publishAt": "2027-03-08T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep119",
-    "kind": "episode",
-    "publishAt": "2027-03-09T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep120",
-    "kind": "episode",
-    "publishAt": "2027-03-10T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep121",
-    "kind": "episode",
-    "publishAt": "2027-03-11T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep122",
-    "kind": "episode",
-    "publishAt": "2027-03-12T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep123",
-    "kind": "episode",
-    "publishAt": "2027-03-13T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep124",
-    "kind": "episode",
-    "publishAt": "2027-03-14T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep125",
-    "kind": "episode",
-    "publishAt": "2027-03-15T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep126",
-    "kind": "episode",
-    "publishAt": "2027-03-16T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep127",
-    "kind": "episode",
-    "publishAt": "2027-03-17T07:00:00-06:00",
-    "status": "pending"
-  },
-  {
-    "id": "ep061",
-    "kind": "episode",
-    "publishAt": "2027-01-10T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep062",
-    "kind": "episode",
-    "publishAt": "2027-01-11T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep063",
-    "kind": "episode",
-    "publishAt": "2027-01-12T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep064",
-    "kind": "episode",
-    "publishAt": "2027-01-13T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep065",
-    "kind": "episode",
-    "publishAt": "2027-01-14T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep066",
-    "kind": "episode",
-    "publishAt": "2027-01-15T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep067",
-    "kind": "episode",
-    "publishAt": "2027-01-16T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep068",
-    "kind": "episode",
-    "publishAt": "2027-01-17T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep069",
-    "kind": "episode",
-    "publishAt": "2027-01-18T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep070",
-    "kind": "episode",
-    "publishAt": "2027-01-19T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep071",
-    "kind": "episode",
-    "publishAt": "2027-01-20T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep072",
-    "kind": "episode",
-    "publishAt": "2027-01-21T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep073",
-    "kind": "episode",
-    "publishAt": "2027-01-22T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep074",
-    "kind": "episode",
-    "publishAt": "2027-01-23T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep075",
-    "kind": "episode",
-    "publishAt": "2027-01-24T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep076",
-    "kind": "episode",
-    "publishAt": "2027-01-25T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep077",
-    "kind": "episode",
-    "publishAt": "2027-01-26T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep078",
-    "kind": "episode",
-    "publishAt": "2027-01-27T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep079",
-    "kind": "episode",
-    "publishAt": "2027-01-28T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep080",
-    "kind": "episode",
-    "publishAt": "2027-01-29T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep081",
-    "kind": "episode",
-    "publishAt": "2027-01-30T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep082",
-    "kind": "episode",
-    "publishAt": "2027-01-31T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep083",
-    "kind": "episode",
-    "publishAt": "2027-02-01T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep084",
-    "kind": "episode",
-    "publishAt": "2027-02-02T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep085",
-    "kind": "episode",
-    "publishAt": "2027-02-03T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep086",
-    "kind": "episode",
-    "publishAt": "2027-02-04T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep087",
-    "kind": "episode",
-    "publishAt": "2027-02-05T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep088",
-    "kind": "episode",
-    "publishAt": "2027-02-06T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep089",
-    "kind": "episode",
-    "publishAt": "2027-02-07T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  },
-  {
-    "id": "ep090",
-    "kind": "episode",
-    "publishAt": "2027-02-08T07:00:00-06:00",
-    "status": "pending",
-    "notBefore": "2026-11-27"
-  }
+ {
+  "id": "long-solar-system",
+  "kind": "retry",
+  "publishAt": "2026-11-20T18:00:00-06:00",
+  "title": "Journey Through the Solar System (and Beyond) in 9 Minutes 🪐 | Next Stop: Universe",
+  "intro": "Ride from the Sun past every planet, out to Pluto, Voyager 1 and our nearest star, Proxima Centauri, in one continuous journey. 11 stops from our daily space series, back to back.",
+  "tags": [
+   "solar system",
+   "planets",
+   "the sun",
+   "mercury",
+   "venus",
+   "mars",
+   "jupiter",
+   "saturn",
+   "uranus",
+   "neptune",
+   "pluto",
+   "voyager 1",
+   "proxima centauri",
+   "planets for kids",
+   "solar system documentary",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#solarsystem #planets #space #astronomy #nasa",
+  "status": "pending",
+  "postId": "e934a4af-2e00-4bca-a381-f347bc91bfd4",
+  "note": "2026-11-19 21:23Z retry refused again: uploadLimitExceeded (limit used by ep029-ep040 retries at 21:13Z); retry next run"
+ },
+ {
+  "id": "long-dead-stars",
+  "kind": "retry",
+  "publishAt": "2026-11-22T18:00:00-06:00",
+  "title": "Black Holes, Neutron Stars & Exploding Stars: 9 Stops ✨🕳️ | Next Stop: Universe",
+  "intro": "The most extreme objects in the universe, back to back: black holes, neutron stars, magnetars, Betelgeuse, supernovas, the black hole at the center of our galaxy, the biggest stars, gamma-ray bursts and how the Sun will die.",
+  "tags": [
+   "black hole",
+   "neutron star",
+   "magnetar",
+   "supernova",
+   "betelgeuse",
+   "sagittarius a*",
+   "gamma ray burst",
+   "biggest star",
+   "how the sun will die",
+   "star death",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#blackhole #supernova #space #astronomy #nasa",
+  "status": "pending",
+  "postId": "444421f5-1fbc-429e-aa66-2ebc477b91a0",
+  "note": "draft created 2026-11-19, not yet published (upload limit)"
+ },
+ {
+  "id": "long-weird-planets",
+  "kind": "long",
+  "publishAt": "2026-11-24T18:00:00-06:00",
+  "title": "The Weirdest Planets Ever Discovered 🔥🪐 | Next Stop: Universe",
+  "intro": "Iron rain, glass storms, planets with no sun, a diamond star, planets around a dead star, the first exoplanet, TRAPPIST-1 and Proxima b: the strangest worlds we have found beyond our solar system.",
+  "tags": [
+   "weird planets",
+   "exoplanets",
+   "wasp-76b",
+   "hd 189733b",
+   "rogue planets",
+   "diamond planet",
+   "pulsar planets",
+   "51 pegasi b",
+   "trappist-1",
+   "proxima b",
+   "strange planets",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#exoplanets #planets #space #astronomy #jwst",
+  "status": "pending"
+ },
+ {
+  "id": "long-biggest-mysteries",
+  "kind": "long",
+  "publishAt": "2026-11-26T18:00:00-06:00",
+  "title": "The Biggest Unsolved Mysteries of the Universe 👽 | Next Stop: Universe",
+  "intro": "Dark matter, dark energy, the Wow! signal, fast radio bursts, the Fermi paradox, interstellar visitors, Tabby's star, the Boötes Void and the Great Attractor: 9 mysteries scientists still can't fully explain.",
+  "tags": [
+   "mysteries of the universe",
+   "dark matter",
+   "dark energy",
+   "wow signal",
+   "fast radio bursts",
+   "fermi paradox",
+   "oumuamua",
+   "tabby's star",
+   "bootes void",
+   "great attractor",
+   "unsolved mysteries",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#mystery #universe #space #aliens #astronomy",
+  "status": "pending"
+ },
+ {
+  "id": "long-edge-of-universe",
+  "kind": "long",
+  "publishAt": "2026-11-28T18:00:00-06:00",
+  "title": "Journey to the Edge of the Universe 🌌 | Next Stop: Universe",
+  "intro": "From our Milky Way to Andromeda, the oldest light, the Big Bang, the most distant galaxies seen by the James Webb telescope, the edge of the observable universe, gravitational waves and how the universe will end.",
+  "tags": [
+   "edge of the universe",
+   "observable universe",
+   "milky way",
+   "andromeda",
+   "big bang",
+   "james webb",
+   "cosmic microwave background",
+   "end of the universe",
+   "gravitational waves",
+   "cosmology",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#universe #bigbang #jwst #space #astronomy",
+  "status": "pending"
+ },
+ {
+  "id": "ep029",
+  "kind": "retry",
+  "postId": "d4e12d4b-efed-495a-aac2-03ef823ed7d5",
+  "publishAt": "2026-12-09T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=Jp6AaxynRfw"
+ },
+ {
+  "id": "ep030",
+  "kind": "retry",
+  "postId": "cb992efa-6111-474b-92df-897cb63ec4aa",
+  "publishAt": "2026-12-10T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=TQ9OUq3cVAI"
+ },
+ {
+  "id": "ep031",
+  "kind": "retry",
+  "postId": "b0ae6df7-59e1-42a1-9830-8a45da561605",
+  "publishAt": "2026-12-11T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=n6oD6pgVt0k"
+ },
+ {
+  "id": "ep033",
+  "kind": "retry",
+  "postId": "eded1fb1-65ff-4e7c-abdc-9e5fbcdc86c5",
+  "publishAt": "2026-12-13T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=vLXbClUoqU0"
+ },
+ {
+  "id": "ep034",
+  "kind": "retry",
+  "postId": "14d082ae-a2cd-4a15-bf76-1a227f3cc143",
+  "publishAt": "2026-12-14T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=ANz4J6i8KBM"
+ },
+ {
+  "id": "ep036",
+  "kind": "retry",
+  "postId": "c425c618-3f46-49dc-8ced-9ede12700a9a",
+  "publishAt": "2026-12-16T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=bPlyUW1Qxy4"
+ },
+ {
+  "id": "ep037",
+  "kind": "retry",
+  "postId": "eb981455-3f4f-4ace-a841-26df00f24878",
+  "publishAt": "2026-12-17T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=oHohP8jx46s"
+ },
+ {
+  "id": "ep038",
+  "kind": "retry",
+  "postId": "993baef1-d2f1-4e36-837e-af836486a67a",
+  "publishAt": "2026-12-18T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=rAov_pOP9d4"
+ },
+ {
+  "id": "ep039",
+  "kind": "retry",
+  "postId": "a6be3c75-c82d-497b-b0a7-771305c3bee0",
+  "publishAt": "2026-12-19T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=hcvVr2NF7tQ"
+ },
+ {
+  "id": "ep040",
+  "kind": "retry",
+  "postId": "8c9874cb-a0a0-4f9a-8640-98ddfc4c85ac",
+  "publishAt": "2026-12-20T07:00:00-06:00",
+  "status": "scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=x6XLPaTpFdo"
+ },
+ {
+  "id": "ep041",
+  "kind": "episode",
+  "publishAt": "2026-12-21T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep042",
+  "kind": "episode",
+  "publishAt": "2026-12-22T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep043",
+  "kind": "episode",
+  "publishAt": "2026-12-23T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep044",
+  "kind": "episode",
+  "publishAt": "2026-12-24T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep045",
+  "kind": "episode",
+  "publishAt": "2026-12-25T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep046",
+  "kind": "episode",
+  "publishAt": "2026-12-26T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep047",
+  "kind": "episode",
+  "publishAt": "2026-12-27T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep048",
+  "kind": "episode",
+  "publishAt": "2026-12-28T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep049",
+  "kind": "episode",
+  "publishAt": "2026-12-29T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep050",
+  "kind": "episode",
+  "publishAt": "2026-12-30T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep051",
+  "kind": "episode",
+  "publishAt": "2026-12-31T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep052",
+  "kind": "episode",
+  "publishAt": "2027-01-01T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep053",
+  "kind": "episode",
+  "publishAt": "2027-01-02T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep054",
+  "kind": "episode",
+  "publishAt": "2027-01-03T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep055",
+  "kind": "episode",
+  "publishAt": "2027-01-04T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep056",
+  "kind": "episode",
+  "publishAt": "2027-01-05T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep057",
+  "kind": "episode",
+  "publishAt": "2027-01-06T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep058",
+  "kind": "episode",
+  "publishAt": "2027-01-07T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep059",
+  "kind": "episode",
+  "publishAt": "2027-01-08T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep060",
+  "kind": "episode",
+  "publishAt": "2027-01-09T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep091",
+  "kind": "episode",
+  "publishAt": "2027-02-09T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep092",
+  "kind": "episode",
+  "publishAt": "2027-02-10T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep093",
+  "kind": "episode",
+  "publishAt": "2027-02-11T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep094",
+  "kind": "episode",
+  "publishAt": "2027-02-12T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep095",
+  "kind": "episode",
+  "publishAt": "2027-02-13T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep096",
+  "kind": "episode",
+  "publishAt": "2027-02-14T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep097",
+  "kind": "episode",
+  "publishAt": "2027-02-15T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep098",
+  "kind": "episode",
+  "publishAt": "2027-02-16T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep099",
+  "kind": "episode",
+  "publishAt": "2027-02-17T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep100",
+  "kind": "episode",
+  "publishAt": "2027-02-18T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep101",
+  "kind": "episode",
+  "publishAt": "2027-02-19T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep102",
+  "kind": "episode",
+  "publishAt": "2027-02-20T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep103",
+  "kind": "episode",
+  "publishAt": "2027-02-21T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep104",
+  "kind": "episode",
+  "publishAt": "2027-02-22T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep105",
+  "kind": "episode",
+  "publishAt": "2027-02-23T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep106",
+  "kind": "episode",
+  "publishAt": "2027-02-24T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep107",
+  "kind": "episode",
+  "publishAt": "2027-02-25T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep108",
+  "kind": "episode",
+  "publishAt": "2027-02-26T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep109",
+  "kind": "episode",
+  "publishAt": "2027-02-27T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep110",
+  "kind": "episode",
+  "publishAt": "2027-02-28T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep111",
+  "kind": "episode",
+  "publishAt": "2027-03-01T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep112",
+  "kind": "episode",
+  "publishAt": "2027-03-02T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep113",
+  "kind": "episode",
+  "publishAt": "2027-03-03T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep114",
+  "kind": "episode",
+  "publishAt": "2027-03-04T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep115",
+  "kind": "episode",
+  "publishAt": "2027-03-05T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep116",
+  "kind": "episode",
+  "publishAt": "2027-03-06T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep117",
+  "kind": "episode",
+  "publishAt": "2027-03-07T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep118",
+  "kind": "episode",
+  "publishAt": "2027-03-08T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep119",
+  "kind": "episode",
+  "publishAt": "2027-03-09T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep120",
+  "kind": "episode",
+  "publishAt": "2027-03-10T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep121",
+  "kind": "episode",
+  "publishAt": "2027-03-11T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep122",
+  "kind": "episode",
+  "publishAt": "2027-03-12T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep123",
+  "kind": "episode",
+  "publishAt": "2027-03-13T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep124",
+  "kind": "episode",
+  "publishAt": "2027-03-14T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep125",
+  "kind": "episode",
+  "publishAt": "2027-03-15T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep126",
+  "kind": "episode",
+  "publishAt": "2027-03-16T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep127",
+  "kind": "episode",
+  "publishAt": "2027-03-17T07:00:00-06:00",
+  "status": "pending"
+ },
+ {
+  "id": "ep061",
+  "kind": "episode",
+  "publishAt": "2027-01-10T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep062",
+  "kind": "episode",
+  "publishAt": "2027-01-11T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep063",
+  "kind": "episode",
+  "publishAt": "2027-01-12T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep064",
+  "kind": "episode",
+  "publishAt": "2027-01-13T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep065",
+  "kind": "episode",
+  "publishAt": "2027-01-14T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep066",
+  "kind": "episode",
+  "publishAt": "2027-01-15T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep067",
+  "kind": "episode",
+  "publishAt": "2027-01-16T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep068",
+  "kind": "episode",
+  "publishAt": "2027-01-17T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep069",
+  "kind": "episode",
+  "publishAt": "2027-01-18T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep070",
+  "kind": "episode",
+  "publishAt": "2027-01-19T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep071",
+  "kind": "episode",
+  "publishAt": "2027-01-20T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep072",
+  "kind": "episode",
+  "publishAt": "2027-01-21T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep073",
+  "kind": "episode",
+  "publishAt": "2027-01-22T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep074",
+  "kind": "episode",
+  "publishAt": "2027-01-23T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep075",
+  "kind": "episode",
+  "publishAt": "2027-01-24T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep076",
+  "kind": "episode",
+  "publishAt": "2027-01-25T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep077",
+  "kind": "episode",
+  "publishAt": "2027-01-26T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep078",
+  "kind": "episode",
+  "publishAt": "2027-01-27T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep079",
+  "kind": "episode",
+  "publishAt": "2027-01-28T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep080",
+  "kind": "episode",
+  "publishAt": "2027-01-29T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep081",
+  "kind": "episode",
+  "publishAt": "2027-01-30T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep082",
+  "kind": "episode",
+  "publishAt": "2027-01-31T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep083",
+  "kind": "episode",
+  "publishAt": "2027-02-01T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep084",
+  "kind": "episode",
+  "publishAt": "2027-02-02T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep085",
+  "kind": "episode",
+  "publishAt": "2027-02-03T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep086",
+  "kind": "episode",
+  "publishAt": "2027-02-04T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep087",
+  "kind": "episode",
+  "publishAt": "2027-02-05T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep088",
+  "kind": "episode",
+  "publishAt": "2027-02-06T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep089",
+  "kind": "episode",
+  "publishAt": "2027-02-07T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep090",
+  "kind": "episode",
+  "publishAt": "2027-02-08T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ }
 ]
