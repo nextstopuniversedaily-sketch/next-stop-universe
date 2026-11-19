@@ -1,0 +1,24 @@
+[0;93m2026-11-19 06:56:59.361374294 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 106: Eris
+  audio 69.4s
+  - skip File:Eris_and_moon_Dysnomia_JWST_NIRCam.jpg: license 'CC BY-SA 4.0'
+  NASA 'Eris' -> PIA17307: Eris and Dysnomia Artist Concept
+  segment 1/10 [title] 4.0s
+  WIKI File:Eris and Dysnomia (captured by the Hubble Space Telescope).jpg (Public domain)
+  segment 2/10 [image] 8.6s
+  WIKI File:Hubble Dysnomia orbit overlay.jpg (Public domain)
+  segment 3/10 [image] 5.7s
+  WIKI File:Pluto-01 Stern 03 Pluto Color TXT.jpg (Public domain)
+  segment 4/10 [image] 6.9s
+  segment 5/10 [card] 7.3s
+  segment 6/10 [card] 8.9s
+  segment 7/10 [card] 8.1s
+  WIKI File:Smallest Kuiper Belt Object detected (artist's impression) (opo0933b).jpg (CC BY 4.0)
+  segment 8/10 [image] 5.1s
+  WIKI File:Hubble Dysnomia orbit overlay.jpg (Public domain)
+  segment 9/10 [image] 3.7s
+  - skip File:Mesoplanet.jpg: license 'CC BY-SA 4.0'
+  - skip File:Dwarfplanet.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Haumea Hubble.png (Public domain)
+  segment 10/10 [end] 11.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep106.mp4 (9.5 MB)
