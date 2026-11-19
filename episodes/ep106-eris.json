@@ -44,7 +44,9 @@
       "visual": {
         "type": "image",
         "query": "Eris and Dysnomia",
-        "commons": "Eris and Dysnomia"
+        "commons": [
+          "Kuiper belt object artist"
+        ]
       },
       "headline": "Goddess of discord"
     },
@@ -98,7 +100,7 @@
       "visual": {
         "type": "image",
         "query": "Eris and Dysnomia",
-        "commons": "Eris and Dysnomia"
+        "wiki": "Dysnomia (moon)"
       },
       "headline": "Its moon Dysnomia"
     },

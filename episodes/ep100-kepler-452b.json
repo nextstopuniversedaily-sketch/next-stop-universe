@@ -70,7 +70,7 @@
       "visual": {
         "type": "image",
         "query": "Kepler space telescope",
-        "commons": "Kepler space telescope"
+        "wiki": "Kepler space telescope"
       },
       "headline": "Found by Kepler"
     },
@@ -88,7 +88,10 @@
       "visual": {
         "type": "image",
         "query": "Kepler field of view Milky Way",
-        "commons": "Kepler field of view Milky Way"
+        "commons": [
+          "Cygnus constellation Milky Way",
+          "Milky Way Cygnus"
+        ]
       },
       "headline": "Does it exist?"
     },
@@ -97,7 +100,9 @@
       "visual": {
         "type": "image",
         "query": "Kepler-452 system artist concept",
-        "commons": "Kepler-452 system artist concept"
+        "commons": [
+          "Milky Way over mountains"
+        ]
       },
       "headline": "Still a mystery"
     },

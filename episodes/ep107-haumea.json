@@ -26,7 +26,7 @@
       "visual": {
         "type": "title",
         "query": "Haumea artist concept",
-        "commons": "Haumea artist concept"
+        "wiki": "Haumea"
       }
     },
     {
@@ -34,7 +34,10 @@
       "visual": {
         "type": "image",
         "query": "Haumea artist concept",
-        "commons": "Haumea artist concept"
+        "wiki": "Haumea",
+        "commons": [
+          "Haumea Keck"
+        ]
       },
       "headline": "A spinning world"
     },

@@ -52,7 +52,10 @@
       "visual": {
         "type": "image",
         "query": "Rheasilvia Vesta",
-        "commons": "Rheasilvia Vesta"
+        "commons": [
+          "Vesta Dawn full view",
+          "Vesta Dawn"
+        ]
       },
       "headline": "A giant impact"
     },

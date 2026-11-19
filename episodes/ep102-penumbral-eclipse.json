@@ -27,7 +27,7 @@
       "visual": {
         "type": "title",
         "query": "Full Moon",
-        "wiki": "Full moon"
+        "wiki": "Moon"
       }
     },
     {
@@ -35,7 +35,7 @@
       "visual": {
         "type": "image",
         "query": "Full Moon photograph",
-        "commons": "Full Moon photograph"
+        "wiki": "Lunar eclipse"
       },
       "headline": "Tonight: an eclipse"
     },
