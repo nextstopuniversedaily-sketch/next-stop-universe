@@ -1,0 +1,119 @@
+{
+  "number": 124,
+  "title": "How Astronauts Live",
+  "subtitle": "Sleep, food and toilets",
+  "next_stop": "Spacesuits",
+  "yt_title": "How Do Astronauts Go to the Bathroom? 🚽 | Ep. 124 #shorts",
+  "description": "Episode 124 of a daily journey through the universe. 🚽\nWe move into the space station: sleeping in a sleeping bag tied to the wall, about 16 sunrises a day, food in pouches and tortillas instead of bread, a toilet that uses air instead of gravity, and recycling sweat and urine into drinking water.\n\n➡️ Tomorrow, Episode 125: Next stop, spacesuits. A spacecraft shaped like a person.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #astronaut #astronomy #shorts #science #nasa",
+  "tags": [
+    "astronaut life",
+    "space station",
+    "iss",
+    "astronaut food",
+    "space toilet",
+    "nasa",
+    "life in space",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and twenty-four. Next stop... how astronauts live.",
+      "visual": {
+        "type": "title",
+        "query": "astronauts eating space station",
+        "commons": "astronauts eating space station"
+      }
+    },
+    {
+      "text": "In space, there's no up or down. So astronauts sleep in sleeping bags tied to the wall, so they don't float into things.",
+      "visual": {
+        "type": "image",
+        "query": "astronaut sleeping International Space Station",
+        "commons": "astronaut sleeping International Space Station"
+      },
+      "headline": "Sleeping on the wall"
+    },
+    {
+      "text": "The station circles Earth about sixteen times a day. That's sixteen sunrises, so they use eye masks.",
+      "visual": {
+        "type": "card",
+        "big": "16",
+        "label": "sunrises a day",
+        "sub": "eye masks needed"
+      }
+    },
+    {
+      "text": "Food comes in pouches and cans. Crumbs could float into eyes and equipment, so they eat tortillas instead of bread.",
+      "visual": {
+        "type": "image",
+        "query": "astronauts eating space station",
+        "commons": "astronauts eating space station"
+      },
+      "headline": "Tortillas, not bread"
+    },
+    {
+      "text": "Without gravity, fluid moves up into the head. Food tastes bland, so astronauts love hot sauce.",
+      "visual": {
+        "type": "image",
+        "query": "astronaut food tray",
+        "commons": "astronaut food tray"
+      },
+      "headline": "Bring the hot sauce"
+    },
+    {
+      "text": "And the toilet? It uses air flow instead of gravity, like a gentle vacuum cleaner, pulling waste away.",
+      "visual": {
+        "type": "image",
+        "query": "space station toilet",
+        "commons": "space station toilet"
+      },
+      "headline": "A vacuum toilet"
+    },
+    {
+      "text": "Then the station recycles water from sweat and urine, and turns it back into clean drinking water. About ninety-eight percent of it.",
+      "visual": {
+        "type": "card",
+        "big": "98%",
+        "label": "of water recycled",
+        "sub": "yesterday's coffee is today's coffee"
+      }
+    },
+    {
+      "text": "To keep their bones and muscles strong, astronauts exercise about two hours every day.",
+      "visual": {
+        "type": "image",
+        "query": "astronaut exercise treadmill space station",
+        "commons": "astronaut exercise treadmill space station"
+      },
+      "headline": "2 hours of exercise daily"
+    },
+    {
+      "text": "And when they get home, many find it hard to walk at first. Their bodies forgot gravity.",
+      "visual": {
+        "type": "image",
+        "query": "astronaut returns Earth Soyuz landing",
+        "commons": "astronaut returns Earth Soyuz landing"
+      },
+      "headline": "Relearning gravity"
+    },
+    {
+      "text": "Tomorrow, the suit that keeps an astronaut alive outside. A personal spacecraft, shaped like a person. Follow, so you don't miss episode one hundred and twenty-five.",
+      "visual": {
+        "type": "end",
+        "query": "spacewalk",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "astronaut spacewalk",
+          "spacewalk Earth"
+        ]
+      }
+    }
+  ]
+}

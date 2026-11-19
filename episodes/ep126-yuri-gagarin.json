@@ -1,0 +1,117 @@
+{
+  "number": 126,
+  "title": "Yuri Gagarin",
+  "subtitle": "The first human in space",
+  "next_stop": "Valentina Tereshkova",
+  "yt_title": "The First Human in Space 🚀 | Ep. 126 #shorts",
+  "description": "Episode 126 of a daily journey through the universe. 🚀\nWe fly with Yuri Gagarin: on April 12, 1961, aboard Vostok 1, he became the first human in space, making one orbit of Earth in about 108 minutes, saying 'Poyekhali!' (Let's go!), and landing by parachute after ejecting from his capsule.\n\n➡️ Tomorrow, Episode 127: Next stop, Valentina Tereshkova. The first woman in space.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #gagarin #astronomy #shorts #science #nasa",
+  "tags": [
+    "yuri gagarin",
+    "first human in space",
+    "vostok 1",
+    "space race",
+    "1961",
+    "space history",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and twenty-six. Next stop... Yuri Gagarin.",
+      "visual": {
+        "type": "title",
+        "query": "Yuri Gagarin",
+        "wiki": "Yuri Gagarin"
+      }
+    },
+    {
+      "text": "April twelfth, nineteen sixty-one. A young pilot climbs into a small ball-shaped capsule called Vostok one.",
+      "visual": {
+        "type": "image",
+        "query": "Vostok 1",
+        "commons": "Vostok 1"
+      },
+      "headline": "Vostok 1"
+    },
+    {
+      "text": "His name is Yuri Gagarin. He's twenty-seven years old, and no human has ever been to space.",
+      "visual": {
+        "type": "image",
+        "query": "Yuri Gagarin",
+        "commons": "Yuri Gagarin"
+      },
+      "headline": "Yuri Gagarin, age 27"
+    },
+    {
+      "text": "As the rocket lifts off, he says: Poyekhali! Let's go!",
+      "visual": {
+        "type": "card",
+        "big": "Poyekhali!",
+        "label": "\"Let's go!\""
+      }
+    },
+    {
+      "text": "Minutes later, he's in orbit, the first person to see Earth from space.",
+      "visual": {
+        "type": "image",
+        "query": "Earth from orbit horizon",
+        "commons": "Earth from orbit horizon"
+      },
+      "headline": "The first view"
+    },
+    {
+      "text": "He made one orbit around the planet, in about one hundred and eight minutes.",
+      "visual": {
+        "type": "card",
+        "big": "108 min",
+        "label": "one orbit",
+        "sub": "the whole flight"
+      }
+    },
+    {
+      "text": "The capsule was controlled automatically. Doctors weren't sure a human could even think clearly without gravity.",
+      "visual": {
+        "type": "image",
+        "query": "Vostok spacecraft",
+        "commons": "Vostok spacecraft"
+      },
+      "headline": "Fully automatic"
+    },
+    {
+      "text": "On the way down, he ejected from the capsule, and landed by parachute in a field, surprising a farmer and her granddaughter.",
+      "visual": {
+        "type": "image",
+        "query": "Gagarin landing site",
+        "commons": "Gagarin landing site"
+      },
+      "headline": "A surprise landing"
+    },
+    {
+      "text": "He became a world hero. Today, April twelfth is celebrated as the International Day of Human Space Flight.",
+      "visual": {
+        "type": "image",
+        "query": "Gagarin statue",
+        "commons": "Gagarin statue"
+      },
+      "headline": "A world hero"
+    },
+    {
+      "text": "Two years later, another flight made history. The first woman in space stayed up longer than all American astronauts before her combined. Follow, so you don't miss episode one hundred and twenty-seven.",
+      "visual": {
+        "type": "end",
+        "query": "Valentina Tereshkova",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Valentina Tereshkova",
+          "Vostok 6"
+        ]
+      }
+    }
+  ]
+}

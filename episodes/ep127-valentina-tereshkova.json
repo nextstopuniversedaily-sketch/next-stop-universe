@@ -1,0 +1,118 @@
+{
+  "number": 127,
+  "title": "Valentina Tereshkova",
+  "subtitle": "The first woman in space",
+  "next_stop": "Laika",
+  "yt_title": "The First Woman in Space 👩‍🚀 | Ep. 127 #shorts",
+  "description": "Episode 127 of a daily journey through the universe. 👩‍🚀\nWe fly with Valentina Tereshkova: a textile worker and amateur skydiver who, on June 16, 1963, aged 26, flew Vostok 6, orbiting Earth 48 times in almost three days, more time in space than all American astronauts until then combined.\n\n➡️ Tomorrow, Episode 128: Next stop, Laika. The dog who went first.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #tereshkova #astronomy #shorts #science #nasa",
+  "tags": [
+    "valentina tereshkova",
+    "first woman in space",
+    "vostok 6",
+    "women in space",
+    "space history",
+    "1963",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and twenty-seven. Next stop... Valentina Tereshkova.",
+      "visual": {
+        "type": "title",
+        "query": "Valentina Tereshkova",
+        "wiki": "Valentina Tereshkova"
+      }
+    },
+    {
+      "text": "Valentina Tereshkova worked in a textile factory, and loved skydiving in her free time.",
+      "visual": {
+        "type": "image",
+        "query": "Valentina Tereshkova",
+        "commons": "Valentina Tereshkova"
+      },
+      "headline": "A factory worker and skydiver"
+    },
+    {
+      "text": "Skydiving was important. Vostok pilots had to eject and land by parachute.",
+      "visual": {
+        "type": "image",
+        "query": "parachute skydiving",
+        "commons": "parachute skydiving"
+      },
+      "headline": "Parachute skills"
+    },
+    {
+      "text": "She was chosen from more than four hundred applicants to train as a cosmonaut.",
+      "visual": {
+        "type": "card",
+        "big": "400+",
+        "label": "applicants",
+        "sub": "5 women selected"
+      }
+    },
+    {
+      "text": "On June sixteenth, nineteen sixty-three, she launched aboard Vostok six. She was twenty-six years old.",
+      "visual": {
+        "type": "card",
+        "big": "June 16, 1963",
+        "label": "Vostok 6 launch",
+        "sub": "age 26"
+      }
+    },
+    {
+      "text": "Her radio call sign was Chaika. Seagull.",
+      "visual": {
+        "type": "image",
+        "query": "Vostok 6",
+        "commons": "Vostok 6"
+      },
+      "headline": "Call sign: Seagull"
+    },
+    {
+      "text": "She orbited Earth forty-eight times, spending almost three days in space. She kept a logbook, took photos of the horizon, and even felt sick, but she kept going.",
+      "visual": {
+        "type": "card",
+        "big": "48",
+        "label": "orbits",
+        "sub": "almost 3 days"
+      }
+    },
+    {
+      "text": "That was more time in space than all American astronauts had flown, combined, up to then.",
+      "visual": {
+        "type": "image",
+        "query": "Earth from orbit horizon",
+        "commons": "Earth from orbit horizon"
+      },
+      "headline": "More than all US astronauts"
+    },
+    {
+      "text": "It would be nineteen years before another woman went to space. Today, many women have flown to space, lived on the space station, and walked in space. And she opened the door.",
+      "visual": {
+        "type": "image",
+        "query": "women astronauts International Space Station",
+        "commons": "women astronauts International Space Station"
+      },
+      "headline": "Opening the door"
+    },
+    {
+      "text": "Tomorrow, the first animal to orbit Earth. A little street dog from Moscow. Follow, so you don't miss episode one hundred and twenty-eight.",
+      "visual": {
+        "type": "end",
+        "query": "Laika",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Laika dog",
+          "Sputnik 2"
+        ]
+      }
+    }
+  ]
+}
