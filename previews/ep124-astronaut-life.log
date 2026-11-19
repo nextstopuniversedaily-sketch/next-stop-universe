@@ -1,0 +1,27 @@
+[0;93m2026-11-19 16:04:09.045419110 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 124: How Astronauts Live
+  audio 76.7s
+  WIKI File:Astronaut Jessica Watkins is pictured eating a meal.jpg (Public domain)
+  segment 1/10 [title] 5.6s
+  WIKI File:Temporary Sleep Station.jpg (Public domain)
+  segment 2/10 [image] 8.2s
+  segment 3/10 [card] 7.3s
+  WIKI File:Astronaut Jessica Watkins is pictured eating a meal.jpg (Public domain)
+  segment 4/10 [image] 8.1s
+  - skip File:Astronaut Rhea Seddon in the Orbital Flight Test galley with Shuttle food tray.jpg: looks like a chart/blank
+  WIKI File:STS087-354-019 - STS-087 - Food packages on a meal tray - DPLA - 7ae09e4486dd09834d0ebba9a3ff216a.jpg (Public domain)
+  segment 5/10 [image] 6.9s
+  - skip File:International Space Station (ISS) Toilet System 01.jpg: license 'CC BY-SA 4.0'
+  - skip File:International Space Station (ISS) Toilet System 02.jpg: license 'CC BY-SA 4.0'
+  - skip File:Public toilet outside Finchley Central Station - geograph.org.uk - 6390524.jpg: license 'CC BY-SA 2.0'
+  - skip File:Tsukuba toilet Int Station.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Ninose station waiting space and toilet 20200523.jpg (CC0)
+  segment 6/10 [image] 7.5s
+  segment 7/10 [card] 8.4s
+  WIKI File:ISS-38 Mike Hopkins works on the COLBERT treadmill in the Unity node.jpg (Public domain)
+  segment 8/10 [image] 6.4s
+  WIKI File:NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in (nasa-astronaut-chris-williams-returns-to-earth).jpg (Public domain)
+  segment 9/10 [image] 6.2s
+  WIKI File:STS-116 spacewalk 1.jpg (Public domain)
+  segment 10/10 [end] 12.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep124.mp4 (20.5 MB)
