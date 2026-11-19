@@ -1,0 +1,27 @@
+[0;93m2026-11-19 15:51:36.065762017 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 118: The Stars That Measured the Universe
+  audio 81.1s
+  WIKI File:Henrietta_Swan_Leavitt.jpg (Public domain)
+  segment 1/10 [title] 8.2s
+  WIKI File:Astronomer Edward Charles Pickering's Harvard computers.jpg (Public domain)
+  segment 2/10 [image] 10.6s
+  WIKI File:RS Puppis.jpg (Public domain)
+  segment 3/10 [image] 5.8s
+  WIKI File:SMC - Noirlab2030b.jpg (CC BY 4.0)
+  segment 4/10 [image] 8.1s
+  segment 5/10 [card] 7.3s
+  segment 6/10 [card] 7.6s
+  WIKI File:Hubble’s cepheid in the Andromeda Galaxy (ann1110a).jpg (CC BY 4.0)
+  segment 7/10 [image] 7.1s
+  WIKI File:Andromeda Galaxy (with h-alpha).jpg (CC BY 2.0)
+  segment 8/10 [image] 7.7s
+  WIKI File:James Webb Space Telescope Mirror37.jpg (Public domain)
+  segment 9/10 [image] 8.0s
+  - skip File:Polaris (star).jpg: license 'CC BY-SA 3.0'
+  - skip File:Circumpolar Star Trails With High Flyer.jpg: license 'CC BY-SA 3.0'
+  - skip File:Star trails Polaris.JPG: license 'CC BY-SA 3.0'
+  - skip File:Star Trail above Beccles - geograph.org.uk - 1855505.jpg: license 'CC BY-SA 2.0'
+  - skip File:Circumpolar star trails.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Star Trails Above Gemini North (iotw2506a).jpg (CC BY 4.0)
+  segment 10/10 [end] 10.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep118.mp4 (41.9 MB)
