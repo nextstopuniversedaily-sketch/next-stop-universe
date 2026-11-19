@@ -1,4 +1,4 @@
-[0;93m2026-11-19 15:34:09.433155358 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:37:09.809431601 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 110: The Tunguska Event
   audio 70.1s
   WIKI File:Tunguska_Ereignis-1.jpg (Public domain)
@@ -10,14 +10,13 @@
   segment 4/10 [card] 7.1s
   segment 5/10 [card] 7.7s
   segment 6/10 [card] 5.1s
-  - skip File:Tunguska event center 1.png: license 'CC BY-SA 4.0'
-  WIKI File:Tunguska event effect areas 3.png (Public domain)
+  WIKI File:Tunguska_Ereignis-1.jpg (Public domain)
   segment 7/10 [image] 7.3s
-  WIKI File:Tunguska event effect areas 3.png (Public domain)
+  WIKI File:Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia.jpg (CC BY 4.0)
   segment 8/10 [image] 6.8s
   - skip File:NASA's NEAR Spacecraft's Rendezvous with Asteroid Eros (Artist's Concept) (PIA18177).jpg: license ''
   WIKI File:Artist’s Impression of Asteroid 1999 KW4 (eso1910c).jpg (CC BY 4.0)
   segment 9/10 [image] 5.2s
-  WIKI File:Footprint of DART spacecraft over the spot where it impacted asteroid Dimorphos.jpg (Public domain)
+  WIKI File:Dart-poster3.jpg (Public domain)
   segment 10/10 [end] 11.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep110.mp4 (22.5 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep110.mp4 (22.1 MB)
