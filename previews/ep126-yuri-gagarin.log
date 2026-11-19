@@ -1,4 +1,4 @@
-[0;93m2026-11-19 16:08:33.775523154 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:57:38.483946429 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 126: Yuri Gagarin
   audio 71.3s
   WIKI File:Yuri_Gagarin_with_awards_(cropped)_2.jpg (CC BY 4.0)
@@ -18,10 +18,10 @@
   - skip File:Gagarin field.jpg: license 'CC BY-SA 3.0'
   - skip File:Центральная стела в Парке покорителей космоса.jpg: license 'CC BY-SA 4.0'
   - skip File:Denkmal am Landeplatz bei Engels.jpg: license 'CC BY-SA 4.0'
-  - skip File:Место приземления Гагарина Ю.А.jpg: license 'CC BY-SA 4.0'
-  - skip File:Капсула в мемориале на месте приземления первого в мире космонавта Гагарина Ю. А.JPG: license 'CC BY-SA 4.0'
-  - skip File:Mv6nl-3LaQo.jpg: license 'CC BY-SA 4.0'
   - skip File:Мемориал на месте приземления первого в мире космонавта Гагарина Ю.А.- с-з "Ленинский путь" (бывш.), Энгельсский район, Саратовская область.jpg: license 'CC BY-SA 4.0'
+  - skip File:Mv6nl-3LaQo.jpg: license 'CC BY-SA 4.0'
+  - skip File:Капсула в мемориале на месте приземления первого в мире космонавта Гагарина Ю. А.JPG: license 'CC BY-SA 4.0'
+  - skip File:Место приземления Гагарина Ю.А.jpg: license 'CC BY-SA 4.0'
   WIKI File:Expedition 64 Soyuz Landing (NHQ202104170149).jpg (Public domain)
   segment 8/10 [image] 8.4s
   - skip File:Statue, Juri Gagarin, Nicosia municipal gardens, Nicosia 01.jpg: license 'CC BY-SA 4.0'
