@@ -1,0 +1,24 @@
+[0;93m2026-11-19 15:32:07.020700891 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 109: Meteorites You Can Hold
+  audio 72.2s
+  WIKI File:Willamette meteorite at Dorothy and Lewis B. Cullman Hall of the Universe.jpg (CC BY 4.0)
+  segment 1/10 [title] 5.3s
+  WIKI File:Fireball Flies Above Gemini North (iotw2602a).jpg (CC BY 4.0)
+  segment 2/10 [image] 8.8s
+  segment 3/10 [card] 7.3s
+  - skip File:Iron meteorite. Hammersley Range, Australia-8911.jpg: license 'CC BY-SA 4.0'
+  - skip File:Iron meteorite. Toluca, Mexico-8913.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Iron meteorite (Museum für Natur und Umwelt Lübeck).jpg (CC BY 4.0)
+  segment 4/10 [image] 5.5s
+  segment 5/10 [card] 7.5s
+  WIKI File:ALH84001.jpg (Public domain)
+  segment 6/10 [image] 6.9s
+  segment 7/10 [card] 6.6s
+  WIKI File:Allende meteorite (52803099125).jpg (CC BY 2.0)
+  segment 8/10 [image] 6.4s
+  WIKI File:Braunschweig meteorite of 23 April 2013 - Naturhistorisches Museum, Braunschweig, Germany - DSC05069.JPG (CC0)
+  segment 9/10 [image] 6.5s
+  - skip File:Tunguska event center 1.png: license 'CC BY-SA 4.0'
+  WIKI File:Tunguska event effect areas 3.png (Public domain)
+  segment 10/10 [end] 11.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep109.mp4 (21.5 MB)
