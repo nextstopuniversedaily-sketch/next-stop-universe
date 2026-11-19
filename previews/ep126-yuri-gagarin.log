@@ -1,0 +1,44 @@
+[0;93m2026-11-19 16:08:33.775523154 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 126: Yuri Gagarin
+  audio 71.3s
+  WIKI File:Yuri_Gagarin_with_awards_(cropped)_2.jpg (CC BY 4.0)
+  segment 1/10 [title] 5.1s
+  WIKI File:Vostokpanel.JPG (Public domain)
+  segment 2/10 [image] 8.1s
+  WIKI File:Yuri Gagarin (1961) - Restoration.jpg (Public domain)
+  segment 3/10 [image] 6.8s
+  segment 4/10 [card] 4.1s
+  WIKI File:North America from low orbiting satellite Suomi NPP.jpg (Public domain)
+  segment 5/10 [image] 4.9s
+  segment 6/10 [card] 5.0s
+  - skip File:Vostok spacecraft.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Vostok spacecraft replica2.jpg (CC0)
+  segment 7/10 [image] 7.2s
+  - skip File:Мемориал на месте приземления первого в мире космонавта Гагарина Ю. А.JPG: license 'CC BY-SA 4.0'
+  - skip File:Gagarin field.jpg: license 'CC BY-SA 3.0'
+  - skip File:Центральная стела в Парке покорителей космоса.jpg: license 'CC BY-SA 4.0'
+  - skip File:Denkmal am Landeplatz bei Engels.jpg: license 'CC BY-SA 4.0'
+  - skip File:Место приземления Гагарина Ю.А.jpg: license 'CC BY-SA 4.0'
+  - skip File:Капсула в мемориале на месте приземления первого в мире космонавта Гагарина Ю. А.JPG: license 'CC BY-SA 4.0'
+  - skip File:Mv6nl-3LaQo.jpg: license 'CC BY-SA 4.0'
+  - skip File:Мемориал на месте приземления первого в мире космонавта Гагарина Ю.А.- с-з "Ленинский путь" (бывш.), Энгельсский район, Саратовская область.jpg: license 'CC BY-SA 4.0'
+  WIKI File:Expedition 64 Soyuz Landing (NHQ202104170149).jpg (Public domain)
+  segment 8/10 [image] 8.4s
+  - skip File:Statue, Juri Gagarin, Nicosia municipal gardens, Nicosia 01.jpg: license 'CC BY-SA 4.0'
+  - skip File:Statue of Yuri Gagarin at the Royal Observatory in Greenwich.jpg: license 'CC BY-SA 4.0'
+  - skip File:Statue, Juri Gagarin, Nicosia municipal gardens, Nicosia 02.jpg: license 'CC BY-SA 4.0'
+  - skip File:Yuri Gagarin statue Nicosia Public Gardens Nicosia Republic of Cyprus.jpg: license 'CC BY-SA 3.0'
+  - skip File:Yuri Gagarin statue, The Mall SW1 - geograph.org.uk - 2835628.jpg: license 'CC BY-SA 2.0'
+  - skip File:Detail of Yuri Gagarin statue, The Mall SW1 - geograph.org.uk - 2835632.jpg: license 'CC BY-SA 2.0'
+  - skip File:Gagarin statue london.jpg: license 'CC BY-SA 3.0'
+  - skip File:Statue to Yuri Gagarin on the British Council Plaza - geograph.org.uk - 2822949.jpg: license 'CC BY-SA 2.0'
+  - skip File:Statue to Yuri Gagarin on the British Council Plaza - geograph.org.uk - 2822945.jpg: license 'CC BY-SA 2.0'
+  - skip File:Statue of Yuri Gagarin outside the headquarters of the British Council - geograph.org.uk - 2603969.jpg: license 'CC BY-SA 2.0'
+  NASA 'Gagarin statue' -> jsc2017e136941: jsc2017e136941 - At the Baikonur Museum in Baikonur, Kazakhstan, Exped
+  segment 9/10 [image] 7.8s
+  - skip File:RIAN archive 612748 Valentina Tereshkova.jpg: license 'CC BY-SA 3.0'
+  - skip File:Valentina Tereshkova in Moscow 06-2015 img1.jpg: license 'CC BY-SA 3.0'
+  - skip File:Signature Valentina Tereshkova.jpg: looks like a chart/blank
+  WIKI File:Valentina Tereshkova (2017-03-06).jpg (CC BY 4.0)
+  segment 10/10 [end] 14.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep126.mp4 (17.7 MB)
