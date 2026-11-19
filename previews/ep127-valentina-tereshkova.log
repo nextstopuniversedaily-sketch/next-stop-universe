@@ -1,0 +1,31 @@
+[0;93m2026-11-19 16:10:43.897910658 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 127: Valentina Tereshkova
+  audio 73.4s
+  WIKI File:Valentina_Tereshkova_(2024-02-29)_crop.jpg (CC BY 4.0)
+  segment 1/10 [title] 5.7s
+  - skip File:RIAN archive 612748 Valentina Tereshkova.jpg: license 'CC BY-SA 3.0'
+  - skip File:Valentina Tereshkova in Moscow 06-2015 img1.jpg: license 'CC BY-SA 3.0'
+  - skip File:Signature Valentina Tereshkova.jpg: looks like a chart/blank
+  WIKI File:Valentina Tereshkova (2017-03-06).jpg (CC BY 4.0)
+  segment 2/10 [image] 6.3s
+  - skip File:CH.VD.Bex 2007-09-02 Airshow 396 16x9-R 5120x2880 (cropped).jpg: license 'CC BY-SA 4.0'
+  - skip File:Carmel Fire Skydiving Habonim 021210.jpg: license 'CC BY-SA 2.5'
+  - skip File:Kacper Drobik Skydiving.jpg: license 'CC BY-SA 4.0'
+  - skip File:MC-3 Parachute in Free-Fall.jpg: looks like a chart/blank
+  WIKI File:Formation skydiving with smoke at the Wings Over Miami air show.jpg (Public domain)
+  segment 3/10 [image] 5.9s
+  segment 4/10 [card] 5.0s
+  segment 5/10 [card] 7.8s
+  - skip File:RIAN archive 612748 Valentina Tereshkova.jpg: license 'CC BY-SA 3.0'
+  - skip File:Vostok 6 patch.jpg: looks like a chart/blank
+  WIKI File:Vostok-6 meeting.jpg (CC BY 4.0)
+  segment 6/10 [image] 3.3s
+  segment 7/10 [card] 11.3s
+  WIKI File:North America from low orbiting satellite Suomi NPP.jpg (Public domain)
+  segment 8/10 [image] 6.6s
+  - skip File:Indian origin NASA Astronaut, Ms. Sunita Williams delivering the lecture on ‘Expedition – 33 International Space Station Mission Challenges and Success’ at the Science City, Kolkata on April 02, 2013.jpg: license 'GODL-India'
+  WIKI File:Spaso House Reception for International Space Station Partners (NHQ201603240016).jpg (Public domain)
+  segment 9/10 [image] 11.5s
+  WIKI File:Posta Romana - 1959 - Laika 120 B.jpg (Public domain)
+  segment 10/10 [end] 10.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep127.mp4 (13.4 MB)
