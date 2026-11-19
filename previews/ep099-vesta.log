@@ -1,0 +1,23 @@
+[0;93m2026-11-19 06:44:03.117163423 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 99: Vesta
+  audio 74.2s
+  WIKI File:Vesta_in_natural_color.jpg (Public domain)
+  segment 1/10 [title] 3.5s
+  - skip File:Dawn logo.png: looks like a chart/blank
+  WIKI File:Dawn Flight Configuration 2.jpg (Public domain)
+  segment 2/10 [image] 6.2s
+  segment 3/10 [card] 7.6s
+  WIKI File:Rheasilvia and older basin, Vesta.jpg (Public domain)
+  segment 4/10 [image] 7.5s
+  segment 5/10 [card] 7.6s
+  WIKI File:HED meteorites.jpg (CC BY 3.0)
+  segment 6/10 [image] 9.3s
+  WIKI File:Vesta Full-Frame.jpg (Public domain)
+  segment 7/10 [image] 7.8s
+  WIKI File:Dawn Flight Configuration 2.jpg (Public domain)
+  segment 8/10 [image] 8.3s
+  WIKI File:Fresh crater on the surface of Vesta photographied by NASA’s Dawn spacecraft OTD 63 full.jpg (Public domain)
+  segment 9/10 [image] 6.5s
+  WIKI File:Kepler-452b artist concept.jpg (Public domain)
+  segment 10/10 [end] 9.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep099.mp4 (12.5 MB)
