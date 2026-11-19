@@ -1,4 +1,4 @@
-[0;93m2026-11-19 15:40:37.703443769 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:43:58.886244043 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 113: Cosmic Inflation
   audio 75.6s
   WIKI File:Cosmic Microwave Background (CMB).jpeg (CC BY 4.0)
@@ -6,19 +6,21 @@
   WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 2/10 [image] 7.6s
   segment 3/10 [card] 8.5s
-  WIKI File:The Expanding Universe fountain 2016.jpg (Public domain)
+  WIKI File:Webb's First Deep Field.jpg (Public domain)
   segment 4/10 [image] 6.5s
   segment 5/10 [card] 7.6s
-  - skip File:WMAP 2010.png: looks like a chart/blank
-  WIKI File:WMAP 2008.png (Public domain)
+  WIKI File:WMAP 2010.png (Public domain)
   segment 6/10 [image] 5.9s
   WIKI File:Webb's First Deep Field.jpg (Public domain)
   segment 7/10 [image] 7.6s
   WIKI File:Cosmic Microwave Background (CMB).jpeg (CC BY 4.0)
   segment 8/10 [image] 6.9s
-  ! commons search failed BICEP telescope South Pole 'query'
-  ! no usable NASA image for 'BICEP telescope South Pole'
+  - skip File:Amundsen–Scott South Pole Station 07.jpg: looks like a chart/blank
+  - skip File:Dark Sector Amundsen–Scott South Pole Station.jpg: license 'CC BY-SA 4.0'
+  - skip File:South pole spt dsl.jpg: license 'CC BY-SA 3.0'
+  - skip File:South Pole Station (11235888223).jpg: looks like a chart/blank
+  WIKI File:BICEP Telescope Camera Superconducting Circuit Chip (13586387733).jpg (Public domain)
   segment 9/10 [image] 6.5s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 10/10 [end] 13.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep113.mp4 (28.8 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep113.mp4 (23.3 MB)
