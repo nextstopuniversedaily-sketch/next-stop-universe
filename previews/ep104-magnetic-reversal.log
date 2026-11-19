@@ -1,0 +1,33 @@
+[0;93m2026-11-19 06:53:14.468127069 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 104: When North Becomes South
+  audio 75.1s
+  WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
+  segment 1/10 [title] 5.2s
+  - skip File:Earth cutaway USDE (zh).png: looks like a chart/blank
+  - skip File:Earth-crust-cutaway-icelandic.png: looks like a chart/blank
+  - skip File:Earth cutaway.png: license 'CC BY-SA 3.0'
+  - skip File:Core-mantle differentiation processes.png: license 'CC BY-SA 4.0'
+  - skip File:Jordens inre.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Outer core convection rolls.jpg (Public domain)
+  segment 2/10 [image] 8.9s
+  WIKI File:Aurora Australis From ISS.JPG (Public domain)
+  segment 3/10 [image] 7.9s
+  WIKI File:Aurora Australis From ISS.JPG (Public domain)
+  segment 4/10 [image] 6.2s
+  WIKI File:Basaltic lava (late March 2021 eruption in Geldingadalur Valley, Rekjanes Peninsula, Iceland) 2.jpg (CC BY 2.0)
+  segment 5/10 [image] 7.5s
+  segment 6/10 [card] 4.9s
+  segment 7/10 [card] 7.9s
+  - skip File:Magnetic field intensity at Earth’s surface in 2014 and 2025, as measured by ESA's SWARM satellite constellation.jpg: looks like a chart/blank
+  - skip File:ESA operations managers ESA15675027.jpeg: license 'CC BY-SA 3.0 igo'
+  WIKI File:Swarm of Glittering Stars in the Large Magellanic Cloud (opo9944a).jpg (Public domain)
+  segment 8/10 [image] 7.9s
+  - skip File:Rotring S0214750 with Rapidograph 0.5 mm drawing 1.5–15 mm circles.jpg: license 'CC BY-SA 4.0'
+  - skip File:2016 Busola.JPG: license 'CC BY-SA 4.0'
+  - skip File:Navigational compass.jpg: license 'CC BY-SA 3.0'
+  - skip File:Plastic-compass.jpg: looks like a chart/blank
+  WIKI File:1980s drafting compass HAFF T by Gebruder Haff GmbH Pfronten Germany.jpg (CC BY 4.0)
+  segment 9/10 [image] 7.5s
+  WIKI File:Charon in True Color - High-Res.jpg (Public domain)
+  segment 10/10 [end] 11.3s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep104.mp4 (16.7 MB)
