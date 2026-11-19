@@ -1,0 +1,25 @@
+[0;93m2026-11-19 15:45:03.593882042 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 115: Galaxy Collisions
+  audio 68.0s
+  WIKI File:Antennae galaxies xl.jpg (Public domain)
+  segment 1/10 [title] 5.0s
+  WIKI File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg (Public domain)
+  segment 2/10 [image] 4.5s
+  segment 3/10 [card] 5.4s
+  segment 4/10 [card] 6.6s
+  WIKI File:Antennae galaxies xl.jpg (Public domain)
+  segment 5/10 [image] 6.9s
+  ! commons search failed Mice galaxies Hubble 'query'
+  ! no usable NASA image for 'Mice galaxies Hubble'
+  segment 6/10 [image] 5.0s
+  WIKI File:Artist’s illustration of galaxy with jets from a supermassive black hole.jpg (CC BY 4.0)
+  segment 7/10 [image] 7.7s
+  WIKI File:Milky way in Elbrus.jpg (CC BY 4.0)
+  segment 8/10 [image] 8.7s
+  - skip File:Illustration of the Sagittarius Dwarf Galaxy.png: license 'CC BY-SA 4.0'
+  - skip File:Sagittarius Dwarf Irregular Galaxy.jpg: license 'Attribution'
+  WIKI File:Sagittarius Dwarf Elliptical Galaxy (Sag DEG or Sgr dSph).png (CC0)
+  segment 9/10 [image] 6.2s
+  WIKI File:Large Magellanic Cloud.jpg (Public domain)
+  segment 10/10 [end] 11.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep115.mp4 (18.0 MB)
