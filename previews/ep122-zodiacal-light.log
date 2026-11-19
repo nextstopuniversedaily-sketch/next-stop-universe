@@ -1,0 +1,28 @@
+[0;93m2026-11-19 15:59:53.641360060 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 122: The Zodiacal Light
+  audio 68.6s
+  - no free lead image for 'Zodiacal light'
+  NASA 'Zodiacal light' -> PIA24432: Zodiacal Light
+  segment 1/10 [title] 5.2s
+  WIKI File:Zodiacal Light Seen from Paranal.jpg (CC BY 4.0)
+  segment 2/10 [image] 8.1s
+  WIKI File:Zodiacal Light Seen from Paranal.jpg (CC BY 4.0)
+  segment 3/10 [image] 4.0s
+  WIKI File:Porous chondriteIDP.jpg (CC BY 1.0)
+  segment 4/10 [image] 5.8s
+  - skip File:Comet 67P on 19 September 2014 NavCam mosaic.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Comet 67P Churyumov–Gerasimenko (Rosetta).png: license 'CC BY-SA 3.0 igo'
+  - skip File:Rosetta rendezvous with a comet.jpg: license 'CC BY-SA 3.0 igo'
+  WIKI File:Rosetta view of comet 67P-Churyumov–Gerasimenko (eso2001c).jpg (CC BY 4.0)
+  segment 5/10 [image] 7.7s
+  WIKI File:ALMA and the centre of the Milky Way.jpg (CC BY 4.0)
+  segment 6/10 [image] 7.6s
+  segment 7/10 [card] 8.4s
+  - skip File:Zodiacal light at Araku.jpg: license 'CC BY-SA 4.0'
+  WIKI File:False Dawn.jpg (CC BY 4.0)
+  segment 8/10 [image] 2.7s
+  WIKI File:A Dark Sky Full of Light (horalek-vst-milky-way).jpg (CC BY 4.0)
+  segment 9/10 [image] 7.7s
+  WIKI File:City Lights of the United States 2012.jpg (Public domain)
+  segment 10/10 [end] 11.3s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep122.mp4 (32.4 MB)
