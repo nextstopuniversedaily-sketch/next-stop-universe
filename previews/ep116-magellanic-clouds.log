@@ -1,0 +1,21 @@
+[0;93m2026-11-19 15:47:07.967346671 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 116: The Magellanic Clouds
+  audio 69.5s
+  WIKI File:Eso1021d.jpg (CC BY 4.0)
+  segment 1/10 [title] 5.3s
+  WIKI File:Magellanic Clouds arch over ALMA (magellanic-clouds-cc).jpg (CC BY 4.0)
+  segment 2/10 [image] 8.1s
+  segment 3/10 [card] 6.0s
+  segment 4/10 [card] 4.2s
+  WIKI File:SMC - Noirlab2030b.jpg (CC BY 4.0)
+  segment 5/10 [image] 10.7s
+  WIKI File:A New View of the Tarantula Nebula.jpg (Public domain)
+  segment 6/10 [image] 6.0s
+  WIKI File:Supernova 1987A (opo9017a).jpg (Public domain)
+  segment 7/10 [image] 7.8s
+  WIKI File:Large Magellanic Cloud.jpg (Public domain)
+  segment 8/10 [image] 5.4s
+  segment 9/10 [card] 5.0s
+  WIKI File:Omega Centauri by ESO.jpg (CC BY 4.0)
+  segment 10/10 [end] 11.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep116.mp4 (34.2 MB)
