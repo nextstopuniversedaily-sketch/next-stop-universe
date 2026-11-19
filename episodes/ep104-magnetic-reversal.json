@@ -1,0 +1,119 @@
+{
+  "number": 104,
+  "title": "When North Becomes South",
+  "subtitle": "Earth's flipping shield",
+  "next_stop": "Charon",
+  "yt_title": "Earth's Magnetic Poles Flip?! 🧲 | Ep. 104 #shorts",
+  "description": "Episode 104 of a daily journey through the universe. 🧲\nWe look at Earth's magnetic field: the invisible shield made by our molten iron core, magnetic poles that have swapped hundreds of times, the last full flip about 780,000 years ago, the Laschamp event 41,000 years ago, and the growing South Atlantic Anomaly.\n\n➡️ Tomorrow, Episode 105: Next stop, Charon. Pluto's giant moon, with a red cap.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #magneticfield #astronomy #shorts #science #nasa",
+  "tags": [
+    "magnetic field",
+    "pole reversal",
+    "earth's core",
+    "south atlantic anomaly",
+    "laschamp",
+    "magnetosphere",
+    "earth science",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and four. Next stop... when north becomes south.",
+      "visual": {
+        "type": "title",
+        "query": "Earth from space Blue Marble",
+        "commons": "Earth from space Blue Marble"
+      }
+    },
+    {
+      "text": "Deep inside Earth, molten iron swirls around the core. That motion creates a giant magnetic field around our planet.",
+      "visual": {
+        "type": "image",
+        "query": "Earth core cutaway",
+        "commons": "Earth core cutaway"
+      },
+      "headline": "A magnet made of molten iron"
+    },
+    {
+      "text": "That invisible shield deflects charged particles from the Sun. When some sneak in near the poles, we see auroras.",
+      "visual": {
+        "type": "image",
+        "query": "Aurora from space station",
+        "commons": "Aurora from space station"
+      },
+      "headline": "Our invisible shield"
+    },
+    {
+      "text": "But the field isn't permanent. Every so often, magnetic north and south swap places.",
+      "visual": {
+        "type": "image",
+        "query": "Earth from space aurora",
+        "commons": "Earth from space aurora"
+      },
+      "headline": "North and south swap"
+    },
+    {
+      "text": "We know because volcanic rocks freeze the direction of the field when they cool. The seafloor is striped with flips.",
+      "visual": {
+        "type": "image",
+        "query": "mid-ocean ridge seafloor lava",
+        "commons": "mid-ocean ridge seafloor lava"
+      },
+      "headline": "Recorded in rock"
+    },
+    {
+      "text": "The last full flip happened about seven hundred and eighty thousand years ago.",
+      "visual": {
+        "type": "card",
+        "big": "780,000",
+        "label": "years ago",
+        "sub": "the last full flip"
+      }
+    },
+    {
+      "text": "And about forty-one thousand years ago, the field nearly collapsed for a few centuries. That's called the Laschamp event.",
+      "visual": {
+        "type": "card",
+        "big": "41,000",
+        "label": "years ago",
+        "sub": "a near-flip"
+      }
+    },
+    {
+      "text": "Today, a weak spot over the South Atlantic is growing. Satellites passing over it get more radiation glitches.",
+      "visual": {
+        "type": "image",
+        "query": "Swarm satellites ESA",
+        "commons": "Swarm satellites ESA"
+      },
+      "headline": "A growing weak spot"
+    },
+    {
+      "text": "Is a flip coming? Nobody knows. And a flip takes thousands of years, so no compass emergency tomorrow.",
+      "visual": {
+        "type": "image",
+        "query": "compass",
+        "commons": "compass"
+      },
+      "headline": "Is a flip coming?"
+    },
+    {
+      "text": "Tomorrow, we fly to Pluto's giant moon. A world so big, Pluto and it dance around each other. Follow, so you don't miss episode one hundred and five.",
+      "visual": {
+        "type": "end",
+        "query": "Charon New Horizons",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Charon New Horizons",
+          "Pluto Charon New Horizons"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "number": 101,
+  "title": "Super-Earths",
+  "subtitle": "The missing planet",
+  "next_stop": "Lunar Eclipse",
+  "yt_title": "The Most Common Planet We Don't Have 🪐 | Ep. 101 #shorts",
+  "description": "Episode 101 of a daily journey through the universe. 🪐\nWe explore super-Earths: planets bigger than Earth but smaller than Neptune, the most common kind found around other stars, missing from our own solar system, from lava worlds like 55 Cancri e to possible water worlds.\n\n➡️ Tomorrow, Episode 102: Next stop, tonight's lunar eclipse. A shadow so faint most people miss it.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #superearth #astronomy #shorts #science #nasa",
+  "tags": [
+    "super earth",
+    "exoplanets",
+    "55 cancri e",
+    "lava planet",
+    "water world",
+    "jwst",
+    "planets",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and one. Next stop... super-Earths.",
+      "visual": {
+        "type": "title",
+        "query": "Super-Earth artist impression",
+        "commons": "Super-Earth artist impression"
+      }
+    },
+    {
+      "text": "We've found more than six thousand planets around other stars. And the most common size surprised everyone.",
+      "visual": {
+        "type": "card",
+        "big": "6,000+",
+        "label": "planets found",
+        "sub": "around other stars"
+      }
+    },
+    {
+      "text": "Planets bigger than Earth, but smaller than Neptune. We call the rocky ones super-Earths.",
+      "visual": {
+        "type": "image",
+        "query": "Super-Earth artist impression",
+        "commons": "Super-Earth artist impression"
+      },
+      "headline": "Bigger than Earth"
+    },
+    {
+      "text": "Our solar system doesn't have a single one. Nobody knows exactly why.",
+      "visual": {
+        "type": "image",
+        "query": "solar system planets montage",
+        "commons": "solar system planets montage"
+      },
+      "headline": "We don't have one"
+    },
+    {
+      "text": "Some are lava worlds. Like fifty-five Cancri e, so hot its surface may be melted rock.",
+      "visual": {
+        "type": "image",
+        "query": "55 Cancri e artist",
+        "commons": "55 Cancri e artist"
+      },
+      "headline": "Lava worlds"
+    },
+    {
+      "text": "In twenty twenty-four, the Webb telescope found signs that fifty-five Cancri e has an atmosphere, maybe bubbling out of its magma.",
+      "visual": {
+        "type": "image",
+        "query": "James Webb Space Telescope",
+        "commons": "James Webb Space Telescope"
+      },
+      "headline": "Webb takes a look"
+    },
+    {
+      "text": "Others might be water worlds, covered by a single ocean hundreds of kilometers deep.",
+      "visual": {
+        "type": "image",
+        "query": "ocean planet artist concept",
+        "commons": "ocean planet artist concept"
+      },
+      "headline": "Water worlds"
+    },
+    {
+      "text": "With stronger gravity, a super-Earth could hold a thick atmosphere, and maybe taller waves and flatter mountains.",
+      "visual": {
+        "type": "card",
+        "big": "2x",
+        "label": "stronger gravity?",
+        "sub": "on a big super-Earth"
+      }
+    },
+    {
+      "text": "Some of the best places to look for life beyond Earth might be super-Earths.",
+      "visual": {
+        "type": "image",
+        "query": "exoplanet artist impression habitable",
+        "commons": "exoplanet artist impression habitable"
+      },
+      "headline": "Life on a super-Earth?"
+    },
+    {
+      "text": "Tomorrow is a sky event. A lunar eclipse so faint, most people won't notice it. Can you? Follow, so you don't miss episode one hundred and two.",
+      "visual": {
+        "type": "end",
+        "query": "Moon",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Full Moon photograph",
+          "penumbral lunar eclipse"
+        ]
+      }
+    }
+  ]
+}

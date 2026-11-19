@@ -1,0 +1,118 @@
+{
+  "number": 107,
+  "title": "Haumea",
+  "subtitle": "The spinning egg",
+  "next_stop": "Comets vs Asteroids",
+  "yt_title": "The Egg-Shaped Dwarf Planet With a Ring 🥚 | Ep. 107 #shorts",
+  "description": "Episode 107 of a daily journey through the universe. 🥚\nWe visit Haumea, a dwarf planet beyond Neptune: a day just 3.9 hours long, stretched into an egg shape about 2,300 km long, a ring discovered in 2017, two moons named Hiʻiaka and Namaka, and an icy surface of crystal water ice.\n\n➡️ Tomorrow, Episode 108: Next stop, comets vs asteroids. What's the difference?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #haumea #astronomy #shorts #science #nasa",
+  "tags": [
+    "haumea",
+    "dwarf planet",
+    "kuiper belt",
+    "rings",
+    "solar system",
+    "fast spinning",
+    "space",
+    "universe",
+    "astronomy",
+    "space facts",
+    "science shorts",
+    "journey through the universe",
+    "next stop universe"
+  ],
+  "segments": [
+    {
+      "text": "Episode one hundred and seven. Next stop... Haumea.",
+      "visual": {
+        "type": "title",
+        "query": "Haumea artist concept",
+        "commons": "Haumea artist concept"
+      }
+    },
+    {
+      "text": "Far beyond Neptune, there's a dwarf planet that spins like crazy. Its name is Haumea.",
+      "visual": {
+        "type": "image",
+        "query": "Haumea artist concept",
+        "commons": "Haumea artist concept"
+      },
+      "headline": "A spinning world"
+    },
+    {
+      "text": "One day on Haumea lasts about three point nine hours. One of the fastest spins of any big object in the solar system.",
+      "visual": {
+        "type": "card",
+        "big": "3.9 hours",
+        "label": "one day",
+        "sub": "faster than any planet"
+      }
+    },
+    {
+      "text": "All that spinning stretched it into an egg. About two thousand three hundred kilometers long, but only about one thousand kilometers thick.",
+      "visual": {
+        "type": "card",
+        "big": "2,300 km",
+        "label": "long",
+        "sub": "shaped like an egg"
+      }
+    },
+    {
+      "text": "Scientists think a giant collision long ago set it spinning, and threw off pieces that still follow it today.",
+      "visual": {
+        "type": "image",
+        "query": "Kuiper belt object artist",
+        "commons": "Kuiper belt object artist"
+      },
+      "headline": "A giant crash"
+    },
+    {
+      "text": "In twenty seventeen, Haumea passed in front of a star. The star blinked out before and after the planet. Haumea has a ring!",
+      "visual": {
+        "type": "image",
+        "query": "Haumea ring artist",
+        "commons": "Haumea ring artist"
+      },
+      "headline": "Surprise: a ring"
+    },
+    {
+      "text": "It was the first ring ever found around a dwarf planet.",
+      "visual": {
+        "type": "card",
+        "big": "2017",
+        "label": "ring discovered",
+        "sub": "a first for a dwarf planet"
+      }
+    },
+    {
+      "text": "Haumea also has two moons, named Hi'iaka and Namaka, after daughters of the Hawaiian goddess Haumea.",
+      "visual": {
+        "type": "image",
+        "query": "Haumea moons Hubble",
+        "commons": "Haumea moons Hubble"
+      },
+      "headline": "Two moons"
+    },
+    {
+      "text": "Its surface shines with fresh crystal water ice.",
+      "visual": {
+        "type": "image",
+        "query": "Haumea dwarf planet",
+        "commons": "Haumea dwarf planet"
+      },
+      "headline": "Covered in ice"
+    },
+    {
+      "text": "Tomorrow, a question everyone gets wrong: what's the difference between a comet and an asteroid? Follow, so you don't miss episode one hundred and eight.",
+      "visual": {
+        "type": "end",
+        "query": "comet",
+        "warm": true,
+        "wiki": [],
+        "commons": [
+          "Comet NEOWISE",
+          "Comet Hale-Bopp"
+        ]
+      }
+    }
+  ]
+}
