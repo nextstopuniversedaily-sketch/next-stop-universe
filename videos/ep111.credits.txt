@@ -1,7 +1,6 @@
 DART - DRACO camera (Public domain) https://commons.wikimedia.org/wiki/File:Didymos_dimorphos_2309_092622.png
 NASA (Public domain) https://commons.wikimedia.org/wiki/File:DART_and_MUBLCOM.jpg
 NASA, ESA, Jian-Yang Li (PSI), Joe Depasquale (STScI) (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Twin_Tail_Revealed_in_New_Hubble_Image_of_Didymos-Dimorphos_System_Following_DART_Impact_(opo22056a).jpg
-NASA/Johns Hopkins APL (Public domain) https://commons.wikimedia.org/wiki/File:Footprint_of_DART_spacecraft_over_the_spot_where_it_impacted_asteroid_Dimorphos.jpg
-Andrea Luck (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Deimos_Over_Mars,_Terra_Sabaea_-_ESA_Hera_Mission_(54386120493).jpg
+NASA/Johns Hopkins APL (Public domain) https://commons.wikimedia.org/wiki/File:Dimorphos_North-Up_Image_Composition_reduced_bloom.png
 NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring (Public domain) https://commons.wikimedia.org/wiki/File:North_America_from_low_orbiting_satellite_Suomi_NPP.jpg
 NASA/Goddard/University of Arizona (Public domain) https://commons.wikimedia.org/wiki/File:Bennu_mosaic_OSIRIS-REx_(square).png
