@@ -52,7 +52,10 @@
       "visual": {
         "type": "image",
         "query": "expanding universe artist",
-        "commons": "expanding universe artist"
+        "commons": [
+          "Webb deep field",
+          "galaxies deep field Webb"
+        ]
       },
       "headline": "Atom to grapefruit"
     },

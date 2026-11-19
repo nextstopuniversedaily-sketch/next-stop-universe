@@ -107,10 +107,11 @@
         "type": "end",
         "query": "Tunguska",
         "warm": true,
-        "wiki": [],
+        "wiki": [
+          "Tunguska event"
+        ],
         "commons": [
-          "Tunguska event trees",
-          "Tunguska"
+          "Tunguska event trees"
         ]
       }
     }
