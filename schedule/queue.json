@@ -1,7 +1,7 @@
 [
  {
   "id": "long-solar-system",
-  "kind": "long",
+  "kind": "retry",
   "publishAt": "2026-11-20T18:00:00-06:00",
   "title": "Journey Through the Solar System (and Beyond) in 9 Minutes 🪐 | Next Stop: Universe",
   "intro": "Ride from the Sun past every planet, out to Pluto, Voyager 1 and our nearest star, Proxima Centauri, in one continuous journey. 11 stops from our daily space series, back to back.",
@@ -33,11 +33,13 @@
    "journey through the universe"
   ],
   "hashtags": "#solarsystem #planets #space #astronomy #nasa",
-  "status": "pending"
+  "status": "pending",
+  "postId": "e934a4af-2e00-4bca-a381-f347bc91bfd4",
+  "note": "uploaded 2026-11-19; publish refused uploadLimitExceeded, retry draft"
  },
  {
   "id": "long-dead-stars",
-  "kind": "long",
+  "kind": "retry",
   "publishAt": "2026-11-22T18:00:00-06:00",
   "title": "Black Holes, Neutron Stars & Exploding Stars: 9 Stops ✨🕳️ | Next Stop: Universe",
   "intro": "The most extreme objects in the universe, back to back: black holes, neutron stars, magnetars, Betelgeuse, supernovas, the black hole at the center of our galaxy, the biggest stars, gamma-ray bursts and how the Sun will die.",
@@ -64,7 +66,9 @@
    "journey through the universe"
   ],
   "hashtags": "#blackhole #supernova #space #astronomy #nasa",
-  "status": "pending"
+  "status": "pending",
+  "postId": "444421f5-1fbc-429e-aa66-2ebc477b91a0",
+  "note": "draft created 2026-11-19, not yet published (upload limit)"
  },
  {
   "id": "long-weird-planets",
