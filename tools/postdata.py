@@ -38,9 +38,15 @@ def long(name):
         for c in credits(n):
             if c not in creds:
                 creds.append(c)
-    text = (q["intro"] + "\n\n⏱️ Chapters\n" + chapters + "\n\n" + SUB +
-            "\nShort daily episodes: start from Episode 1 \"Leaving Earth\" on the channel.\n\nImage credits:\n" +
-            "\n".join("• " + c for c in creds) + "\nNarration: AI voice\n\n" + q["hashtags"])
+    head = (q["intro"] + "\n\n⏱️ Chapters\n" + chapters + "\n\n" + SUB +
+            "\nShort daily episodes: start from Episode 1 \"Leaving Earth\" on the channel.\n\n" + q["hashtags"] +
+            "\n\nNarration: AI voice\nImage credits:")
+    text = head
+    for c in creds:
+        if len(text) + len(c) + 3 > 4800:
+            text += "\n• and other NASA, ESA and Wikimedia Commons contributors"
+            break
+        text += "\n• " + c
     path = f"videos/long/{name}.mp4"
     return {"title": q["title"], "text": text[:4900], "tags": q["tags"][:30], "url": f"{REPO}/{sha(path)}/{path}"}
 
