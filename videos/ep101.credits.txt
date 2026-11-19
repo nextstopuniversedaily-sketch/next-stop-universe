@@ -1,8 +1,7 @@
 ESO/M. Kornmesser (CC BY 4.0) https://commons.wikimedia.org/wiki/File:HD_85512_b_(Artists%27s_impression).jpg
 NASA (Public domain) https://commons.wikimedia.org/wiki/File:The_Solar_System_Montage_-_GPN-2000-000454.jpg
-NASA/JPL-CalTech    Artist:Joby Harris (Public domain) https://commons.wikimedia.org/wiki/File:55_Cancri_e_Final_1_30.png
-NASA/MSFC/David Higginbotham/Emmett Given (Public domain) https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg
 Illustration NASA, ESA, CSA, Ralf Crawford (STScI) (Public domain) https://commons.wikimedia.org/wiki/File:Super-Earth_Exoplanet_55_Cancri_e_(Artist%E2%80%99s_Concept)_(2024-102).png
+NASA/MSFC/David Higginbotham/Emmett Given (Public domain) https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg
 Illustration: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
 Science: Nikku Madhusudhan (IoA) (Public domain) https://commons.wikimedia.org/wiki/File:Exoplanet_K2-18_b_(Illustration).jpg

@@ -1,15 +1,15 @@
-[0;93m2026-11-19 06:47:52.102215500 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:19:32.991510703 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 101: Super-Earths
-  audio 67.6s
+  audio 67.7s
   WIKI File:HD 85512 b (Artists's impression).jpg (CC BY 4.0)
   segment 1/10 [title] 4.3s
   segment 2/10 [card] 7.5s
   WIKI File:HD 85512 b (Artists's impression).jpg (CC BY 4.0)
-  segment 3/10 [image] 5.6s
+  segment 3/10 [image] 5.7s
   WIKI File:The Solar System Montage - GPN-2000-000454.jpg (Public domain)
-  segment 4/10 [image] 5.2s
-  WIKI File:55 Cancri e Final 1 30.png (Public domain)
-  segment 5/10 [image] 6.7s
+  segment 4/10 [image] 5.1s
+  WIKI File:Super-Earth_Exoplanet_55_Cancri_e_(Artist’s_Concept)_(2024-102).png (Public domain)
+  segment 5/10 [image] 6.8s
   WIKI File:James Webb Space Telescope Mirror37.jpg (Public domain)
   segment 6/10 [image] 9.2s
   - skip File:Subsurface ocean planet.jpg: license 'CC BY-SA 4.0'
@@ -20,12 +20,19 @@
   - skip File:Superhabitableplanet.jpg: license 'CC BY-SA 4.0'
   - skip File:Cloudyexoplanet.jpg: license 'CC BY-SA 4.0'
   WIKI File:Super-Earth Exoplanet 55 Cancri e (Artist’s Concept) (2024-102).png (Public domain)
-  segment 7/10 [image] 5.9s
-  segment 8/10 [card] 7.4s
+  segment 7/10 [image] 6.0s
+  segment 8/10 [card] 7.5s
   WIKI File:Exoplanet K2-18 b (Illustration).jpg (Public domain)
-  segment 9/10 [image] 4.9s
+  segment 9/10 [image] 4.8s
+  - skip File:FullMoon2020.jpg: license 'CC BY-SA 4.0'
   - skip File:Full Moon Luc Viatour.jpg: license 'CC BY-SA 3.0'
+  - skip File:FullMoon2010.jpg: license 'CC BY-SA 3.0'
   - skip File:Full moon partially obscured by atmosphere.jpg: looks like a chart/blank
+  - skip File:042 Full Moon rising behind Chasseral during sunset Photo by Giles Laurent.jpg: license 'CC BY-SA 4.0'
+  - skip File:Full moon in the evening in the dry paddy fields of Don Det Laos.jpg: license 'CC BY-SA 4.0'
+  - skip File:2026-08-29 Sunrise Windpark Gollenberg (D500-97780M) by Achim Lammerts.jpg: license 'CC BY-SA 4.0'
+  - skip File:Harvest Moon in Kolkata September 2026 by Paramanu Sarkar.jpg: license 'CC BY-SA 4.0'
+  - skip File:Asahi Breweries headquarters building with the Asahi Flame and Skytree at blue hour with full moon, Sumida-ku, Tokyo, Japan.jpg: license 'CC BY-SA 4.0'
   WIKI File:Space Shuttle Discovery under a full moon, 03-11-09.jpg (Public domain)
   segment 10/10 [end] 10.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep101.mp4 (14.9 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep101.mp4 (13.7 MB)
