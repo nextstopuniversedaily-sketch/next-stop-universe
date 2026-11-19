@@ -1,4 +1,4 @@
-[0;93m2026-11-19 15:54:02.482664193 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:48:40.805901124 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 119: Polaris
   audio 73.0s
   - skip File:Polaris (star).jpg: license 'CC BY-SA 3.0'
@@ -31,10 +31,9 @@
   WIKI File:BigDipperGlacierNational.jpg (CC0)
   segment 6/10 [image] 4.3s
   segment 7/10 [card] 7.8s
-  - skip File:Polaris A and Polaris B (2006-02-1844).jpg: looks like a chart/blank
-  WIKI File:Polaris alpha ursae minoris.jpg (Public domain)
+  ! no usable NASA image for 'Polaris Hubble'
   segment 8/10 [image] 7.8s
   segment 9/10 [card] 8.3s
   WIKI File:Sirius A and B artwork.jpg (Public domain)
   segment 10/10 [end] 11.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep119.mp4 (25.8 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep119.mp4 (27.5 MB)
