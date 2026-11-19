@@ -1,0 +1,25 @@
+[0;93m2026-11-19 15:36:06.269431664 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 111: DART: We Moved an Asteroid
+  audio 71.4s
+  WIKI File:Didymos dimorphos 2309 092622.png (Public domain)
+  segment 1/10 [title] 5.7s
+  WIKI File:DART and MUBLCOM.jpg (Public domain)
+  segment 2/10 [image] 6.3s
+  WIKI File:Didymos dimorphos 2309 092622.png (Public domain)
+  segment 3/10 [image] 9.5s
+  segment 4/10 [card] 7.9s
+  segment 5/10 [card] 4.6s
+  WIKI File:Twin Tail Revealed in New Hubble Image of Didymos-Dimorphos System Following DART Impact (opo22056a).jpg (CC BY 4.0)
+  segment 6/10 [image] 4.6s
+  WIKI File:Footprint of DART spacecraft over the spot where it impacted asteroid Dimorphos.jpg (Public domain)
+  segment 7/10 [image] 8.9s
+  - skip File:Hera in orbit.jpg: license 'CC BY-SA 3.0 igo'
+  - skip File:Hera spacecraft design.jpg: looks like a chart/blank
+  - skip File:Hera glides past Didymos.jpg: license 'CC BY-SA 3.0 igo'
+  WIKI File:Deimos Over Mars, Terra Sabaea - ESA Hera Mission (54386120493).jpg (CC BY 2.0)
+  segment 8/10 [image] 6.9s
+  WIKI File:North America from low orbiting satellite Suomi NPP.jpg (Public domain)
+  segment 9/10 [image] 4.3s
+  WIKI File:Bennu mosaic OSIRIS-REx (square).png (Public domain)
+  segment 10/10 [end] 12.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep111.mp4 (15.6 MB)
