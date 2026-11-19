@@ -1,0 +1,25 @@
+[0;93m2026-11-19 15:56:02.484114360 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Episode 120: Sirius
+  audio 64.4s
+  NASA 'Sirius' -> NHQ202203180015: Artemis I First Rollout
+  segment 1/10 [title] 4.2s
+  WIKI File:Sirius A and B artwork.jpg (Public domain)
+  segment 2/10 [image] 5.2s
+  segment 3/10 [card] 3.8s
+  segment 4/10 [card] 6.9s
+  WIKI File:Sirius A and B artwork.jpg (Public domain)
+  segment 5/10 [image] 3.7s
+  - skip File:Sidney Hall - Urania's Mirror - Canis Major, Lepus, Columba Noachi & Cela Sculptoris.jpg: looks like a chart/blank
+  - skip File:CanisMajorCC.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Uranometria Canis Major (1603).jpg (Public domain)
+  segment 6/10 [image] 7.0s
+  - skip File:The children's book of stars (1908) (14763116885).jpg: license 'No restrictions'
+  ! no usable NASA image for 'Sirius twinkling'
+  segment 7/10 [image] 6.8s
+  WIKI File:Sirius A and B artwork.jpg (Public domain)
+  segment 8/10 [image] 6.6s
+  segment 9/10 [card] 7.0s
+  - skip File:Orion Head to Toe.jpg: license 'CC BY-SA 3.0'
+  WIKI File:Orion Belt.jpg (Public domain)
+  segment 10/10 [end] 13.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep120.mp4 (21.5 MB)
