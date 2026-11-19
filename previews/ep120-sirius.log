@@ -1,4 +1,4 @@
-[0;93m2026-11-19 15:56:02.484114360 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-19 16:50:49.502931010 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 120: Sirius
   audio 64.4s
   NASA 'Sirius' -> NHQ202203180015: Artemis I First Rollout
@@ -13,7 +13,6 @@
   - skip File:CanisMajorCC.jpg: license 'CC BY-SA 3.0'
   WIKI File:Uranometria Canis Major (1603).jpg (Public domain)
   segment 6/10 [image] 7.0s
-  - skip File:The children's book of stars (1908) (14763116885).jpg: license 'No restrictions'
   ! no usable NASA image for 'Sirius twinkling'
   segment 7/10 [image] 6.8s
   WIKI File:Sirius A and B artwork.jpg (Public domain)
