@@ -1,5 +1,14 @@
 [
  {
+  "id": "long-moon-disappeared",
+  "kind": "retry",
+  "publishAt": "2026-11-21T18:00:00-06:00",
+  "status": "pending",
+  "postId": "6aba3d3a-fb64-4193-855e-c71279898e44",
+  "publicationId": "a268ee2e-e6cf-4088-9a89-fab306fb3d23",
+  "note": "original 16:9 long-form (longform/moon-disappeared.json); uploaded 2026-11-20, publish refused uploadLimitExceeded; meant to go public immediately, retry first"
+ },
+ {
   "id": "long-solar-system",
   "kind": "retry",
   "publishAt": "2026-11-20T18:00:00-06:00",
