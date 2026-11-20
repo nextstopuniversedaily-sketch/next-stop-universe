@@ -1,15 +1,15 @@
-[0;93m2026-11-20 17:57:59.541074735 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-20 18:16:22.697002727 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: What If the Moon Disappeared Tonight?
-  audio 299.1s (4.98 min)
+  audio 298.5s (4.98 min)
   WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
   segment 1/23 [title] 17.3s
   WIKI File:Sweden - Stockholm 36 - full moon over the city (6943506838).jpg (CC BY 2.0)
   segment 2/23 [image] 9.4s
-  WIKI File:Earth-Moon-edit3.png (CC BY 2.5)
-  segment 3/23 [image] 12.3s
-  segment 4/23 [card] 9.1s
+  WIKI File:Waxing half moon over Brofjorden 1.jpg (CC0)
+  segment 3/23 [image] 12.4s
+  segment 4/23 [card] 9.3s
   WIKI File:Artist's_concept_of_collision_at_HD_172555.jpg (Public domain)
-  segment 5/23 [image] 14.4s
+  segment 5/23 [image] 14.3s
   segment 6/23 [question] 11.5s
   WIKI File:Night Sky from Hawai‘i and Chile (iotw2225c).jpg (CC BY 4.0)
   segment 7/23 [image] 12.3s
@@ -18,32 +18,32 @@
   WIKI File:ISS-45_StoryOfWater,_Great_Barrier_Reef,_Australia.jpg (Public domain)
   segment 9/23 [image] 15.0s
   WIKI File:Indian Ocean Tide.jpg (CC BY 4.0)
-  segment 10/23 [image] 13.9s
+  segment 10/23 [image] 13.8s
   segment 11/23 [card] 9.7s
   - skip File:Porto_Covo_February_2009-2.jpg: license 'CC BY-SA 3.0'
   WIKI File:Tide Pool (2622155259).jpg (CC BY 2.0)
   segment 12/23 [image] 12.2s
   WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
-  segment 13/23 [image] 10.8s
+  segment 13/23 [image] 10.9s
   segment 14/23 [card] 8.3s
   WIKI File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png (CC BY 2.0)
   segment 15/23 [image] 17.0s
   segment 16/23 [card] 11.6s
   WIKI File:Apollo 11 Lunar Laser Ranging Experiment.jpg (Public domain)
-  segment 17/23 [image] 16.0s
-  segment 18/23 [question] 16.5s
+  segment 17/23 [image] 15.8s
+  segment 18/23 [question] 16.6s
   - skip File:Total_Solar_Eclipse_8-21-17.jpg: license 'CC BY-SA 4.0'
   - skip File:Total Solar Eclipse 8-21-17.jpg: license 'CC BY-SA 4.0'
   - skip File:Solar eclipse 1999 4.jpg: license 'CC BY-SA 3.0'
   - skip File:Eclipse-totale-2026-couronne-Luc-Viatour.jpg: license 'CC BY-SA 4.0'
   WIKI File:Total solar eclipse of March 20, 2015 by Damien Deltenre (licensed for free use). (32844461616).jpg (CC BY 2.0)
-  segment 19/23 [image] 20.2s
+  segment 19/23 [image] 20.0s
   WIKI File:Lunar eclipse March 2007.jpg (Public domain)
-  segment 20/23 [image] 7.5s
+  segment 20/23 [image] 7.4s
   WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
-  segment 21/23 [image] 12.9s
+  segment 21/23 [image] 12.8s
   WIKI File:Crescent Moon (2558144570).jpg (CC BY 2.0)
-  segment 22/23 [image] 12.4s
+  segment 22/23 [image] 12.3s
   WIKI File:Earth, Moon and Lunar Module, AS11-44-6643.jpg (Public domain)
-  segment 23/23 [end] 19.2s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/moon-disappeared.mp4 (33.2 MB, 4.98 min)
+  segment 23/23 [end] 19.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/moon-disappeared.mp4 (33.7 MB, 4.98 min)
