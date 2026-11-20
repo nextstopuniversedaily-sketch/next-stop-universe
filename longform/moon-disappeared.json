@@ -73,10 +73,11 @@
    "headline": "Our old companion",
    "visual": {
     "type": "image",
-    "wiki": [
-     "Moon"
-    ],
-    "query": "full Moon Galileo"
+    "files": [
+     "Earth-Moon-edit3.png",
+     "Waxing half moon over Brofjorden 1.jpg",
+     "Crescent Moon (2558144570).jpg"
+    ]
    }
   },
   {
@@ -215,7 +216,7 @@
   },
   {
    "chapter": "Longer days, a drifting Moon",
-   "text": "Here's a strange one. The Moon is also slowing Earth's spin, like a gentle brake. About one point four billion years ago, a day on Earth lasted less than nineteen hours.",
+   "text": "The Moon is also slowing Earth's spin, like a gentle brake. About one point four billion years ago, a day on Earth lasted less than nineteen hours.",
    "visual": {
     "type": "card",
     "big": "Under 19 hours",
