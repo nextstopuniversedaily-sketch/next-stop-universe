@@ -1,15 +1,14 @@
-[0;93m2026-11-19 16:02:00.984223042 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-20 17:41:44.389785683 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 123: Losing the Night
   audio 75.8s
   WIKI File:City Lights of the United States 2012.jpg (Public domain)
   segment 1/10 [title] 4.9s
   segment 2/10 [card] 7.3s
-  - skip File:Earth at Night Pavilion at Expo 2025.jpg: license 'CC BY-SA 4.0'
-  WIKI File:Environmental League of Massachusetts 2025 Earth Night celebration at Fenway Park (54501064542).jpg (Public domain)
+  - skip File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg: license 'CC BY-SA 4.0'
+  NASA 'Earth at night' -> s36-39-014: STS-36 night Earth observation of New York City, New York
   segment 3/10 [image] 6.9s
   segment 4/10 [card] 7.4s
   segment 5/10 [card] 7.5s
-  ! commons search failed satellite streaks telescope image 'query'
   ! no usable NASA image for 'satellite streaks telescope image'
   segment 6/10 [image] 8.2s
   WIKI File:Leatherback sea turtle hatchling on beach.jpg (Public domain)
@@ -20,4 +19,4 @@
   segment 9/10 [image] 6.0s
   WIKI File:Temporary Sleep Station.jpg (Public domain)
   segment 10/10 [end] 11.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep123.mp4 (19.3 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep123.mp4 (23.4 MB)
