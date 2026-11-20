@@ -53,12 +53,12 @@ def compose(img, seed):
     if img is None:
         return R.starfield(seed, bw, bh)
     iw, ih = img.size
-    if iw / ih >= 1.45:  # wide photo: cover-crop
+    if 1.45 <= iw / ih <= 2.4:  # wide photo: cover-crop
         s = max(bw / iw, bh / ih)
         im = img.resize((int(iw * s) + 1, int(ih * s) + 1), Image.LANCZOS)
         x, y = (im.width - bw) // 2, (im.height - bh) // 2
         return im.crop((x, y, x + bw, y + bh))
-    # square or portrait: whole image over a blurred, darkened fill
+    # square, portrait or very wide panorama: whole image over a blurred, darkened fill
     s = max(bw / iw, bh / ih)
     bg = img.resize((int(iw * s) + 1, int(ih * s) + 1), Image.BILINEAR)
     x, y = (bg.width - bw) // 2, (bg.height - bh) // 2
