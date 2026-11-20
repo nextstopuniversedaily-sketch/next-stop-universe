@@ -1,0 +1,305 @@
+{
+ "slug": "moon-disappeared",
+ "title": "What If the Moon Disappeared Tonight?",
+ "screen_title": "What If the Moon Disappeared?",
+ "subtitle": "What would really happen to Earth",
+ "yt_title": "What If the Moon Disappeared Tonight? What Would Happen to Earth 🌕",
+ "intro": "Imagine stepping outside tonight and finding the Moon simply gone. What would happen to our nights, our tides, our seasons and the animals that live by moonlight? A calm, easy-to-follow journey into the science of the Moon, for every age.",
+ "questions": [
+  "What did people where you grew up say about the Moon? A legend, a saying, a song?",
+  "Do you remember the Moon landing in July 1969? Where were you, and who were you with?",
+  "Where should our next stop in the universe be?"
+ ],
+ "hashtags": "#moon #space #astronomy #science #whatif",
+ "tags": [
+  "what if the moon disappeared",
+  "what if the moon disappeared tonight",
+  "what if there was no moon",
+  "earth without the moon",
+  "moon",
+  "the moon",
+  "moon facts",
+  "how the moon affects earth",
+  "tides",
+  "earth axial tilt",
+  "seasons",
+  "solar eclipse",
+  "lunar eclipse",
+  "apollo 11",
+  "moon landing 1969",
+  "moon drifting away",
+  "giant impact theia",
+  "space documentary",
+  "astronomy for beginners",
+  "space for kids and adults",
+  "science explained",
+  "space physics",
+  "night sky",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "chapter": "If the Moon vanished tonight",
+   "text": "Tonight, step outside and look up. Now imagine the Moon is simply gone. No crash. No explosion. It just vanished. What would happen to our planet? The answer may surprise you, because the Moon does far more for us than light up the night.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ],
+    "query": "Moon over Earth horizon ISS"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe, and let's begin.",
+   "subscribe": true,
+   "visual": {
+    "type": "image",
+    "files": [
+     "Sweden - Stockholm 36 - full moon over the city (6943506838).jpg"
+    ],
+    "wiki": [
+     "Full moon"
+    ],
+    "query": "full moon rising"
+   }
+  },
+  {
+   "chapter": "Meet our Moon",
+   "text": "First, let's meet our old companion. The Moon is about one quarter as wide as Earth, and on average it sits about three hundred eighty-four thousand kilometers away.",
+   "headline": "Our old companion",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Moon"
+    ],
+    "query": "full Moon Galileo"
+   }
+  },
+  {
+   "text": "That's so far that, when the Moon is at its farthest, you could line up every other planet in our solar system in the gap between us.",
+   "visual": {
+    "type": "card",
+    "big": "384,400 km",
+    "label": "between Earth and the Moon",
+    "sub": "about 239,000 miles"
+   }
+  },
+  {
+   "text": "Scientists think the Moon was born in a giant collision, about four and a half billion years ago. A world the size of Mars slammed into the young Earth, and the debris came together to form the Moon.",
+   "headline": "Born from a collision",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Giant-impact hypothesis"
+    ],
+    "commons": [
+     "Theia impact artist concept"
+    ],
+    "query": "planetary collision artist concept"
+   }
+  },
+  {
+   "text": "A quick question before we go on. When you were young, what did people where you grew up say about the Moon? A legend, a saying, maybe a song? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What did people where you grew up say about the Moon?",
+    "sub": "A legend, a saying, a song? Tell us below."
+   }
+  },
+  {
+   "chapter": "The first dark night",
+   "text": "Now, let's make it disappear. The first thing you would notice is the darkness. A full Moon is bright enough to walk by. Without it, every night would be as dark as a new Moon.",
+   "headline": "Darker nights",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Night Sky from Hawai‘i and Chile (iotw2225c).jpg"
+    ],
+    "query": "night sky stars observatory"
+   }
+  },
+  {
+   "text": "But that darkness hides a gift. Stargazers would see the Milky Way far more often, stretching across the sky like a river of light.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg",
+     "Guisard - Milky Way.jpg"
+    ],
+    "query": "Milky Way night sky"
+   }
+  },
+  {
+   "text": "Many animals would be confused. On the Great Barrier Reef, corals release their eggs together, a few nights after a full Moon. Many night creatures use moonlight to hunt, to hide, or to find their way.",
+   "headline": "Life that follows the Moon",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Great Barrier Reef"
+    ],
+    "commons": [
+     "coral reef underwater"
+    ],
+    "query": "coral reef"
+   }
+  },
+  {
+   "chapter": "Smaller tides",
+   "text": "Next, the oceans. The Moon's gravity pulls on Earth's water, and that creates the tides. Without the Moon, the tides would not stop completely, because the Sun pulls on the oceans too.",
+   "headline": "The tides",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Indian Ocean Tide.jpg"
+    ],
+    "query": "ocean tide coast"
+   }
+  },
+  {
+   "text": "But the Sun's pull on the tides is less than half as strong as the Moon's. So the tides would shrink, to less than half of what we see today.",
+   "visual": {
+    "type": "card",
+    "big": "Less than half",
+    "label": "the tides we have today",
+    "sub": "only the Sun would pull on the oceans"
+   }
+  },
+  {
+   "text": "The shore between high and low tide is home to crabs, snails, starfish and countless little creatures. Coastlines would change, and so would the life along them.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Tide pool"
+    ],
+    "commons": [
+     "tide pool starfish"
+    ],
+    "query": "tide pool"
+   }
+  },
+  {
+   "chapter": "A wobbling Earth",
+   "text": "Now for the biggest change, and it's a slow one. Earth spins on a tilted axis, about twenty-three and a half degrees. That tilt gives us our seasons.",
+   "headline": "Our tilted planet",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Earth Blue Marble"
+   }
+  },
+  {
+   "text": "The Moon acts like a steady hand. Its pull keeps that tilt nearly the same, for millions and millions of years.",
+   "visual": {
+    "type": "card",
+    "big": "23.5°",
+    "label": "Earth's tilt, held steady by the Moon",
+    "sub": "the reason we have seasons"
+   }
+  },
+  {
+   "text": "Look at Mars. It has no big moon, and over millions of years its tilt has swung back and forth a great deal. Without our Moon, Earth's tilt could drift much more too. Our seasons and climate could change a lot over long stretches of time.",
+   "headline": "Look at Mars",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"
+    ],
+    "query": "Mars globe"
+   }
+  },
+  {
+   "chapter": "Longer days, a drifting Moon",
+   "text": "Here's a strange one. The Moon is also slowing Earth's spin, like a gentle brake. About one point four billion years ago, a day on Earth lasted less than nineteen hours.",
+   "visual": {
+    "type": "card",
+    "big": "Under 19 hours",
+    "label": "one day, 1.4 billion years ago",
+    "sub": "the Moon has been slowing Earth's spin"
+   }
+  },
+  {
+   "text": "And the Moon is drifting away, about three point eight centimeters every year. We know because Apollo astronauts left mirrors on the Moon in 1969, and scientists still bounce lasers off them today.",
+   "headline": "Mirrors on the Moon",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 11 Lunar Laser Ranging Experiment.jpg"
+    ],
+    "query": "Apollo 11 laser ranging retroreflector"
+   }
+  },
+  {
+   "text": "Which brings us to our second question. Do you remember watching the Moon landing in July 1969? Where were you, and who were you with? Share your memory in the comments. And if you weren't born yet, ask someone who was.",
+   "visual": {
+    "type": "question",
+    "q": "Do you remember the Moon landing in July 1969?",
+    "sub": "Where were you, and who were you with?"
+   }
+  },
+  {
+   "chapter": "No more eclipses",
+   "text": "We would also lose one of nature's greatest shows: total solar eclipses. By a beautiful coincidence, the Sun is about four hundred times wider than the Moon, but also about four hundred times farther away. So in our sky, they look almost exactly the same size.",
+   "headline": "Goodbye, eclipses",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Solar eclipse of August 21, 2017"
+    ],
+    "commons": [
+     "total solar eclipse corona"
+    ],
+    "query": "total solar eclipse corona"
+   }
+  },
+  {
+   "text": "No more red lunar eclipses either. No harvest Moon, and no thin crescent hanging low at dusk.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Lunar eclipse March 2007.jpg",
+     "Night sky Crescent Moon.jpg"
+    ],
+    "query": "lunar eclipse"
+   }
+  },
+  {
+   "chapter": "Could it really happen?",
+   "text": "So, could the Moon really disappear? No. It drifts away so slowly that over a whole lifetime of eighty years, it moves only about three meters. That's about ten feet.",
+   "headline": "Could it happen? No",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA-Apollo8-Dec24-Earthrise.jpg"
+    ],
+    "query": "Earthrise Apollo 8"
+   }
+  },
+  {
+   "text": "So tonight, if the sky is clear, step outside and look up. That quiet light has shaped our tides, our seasons, our calendars and our stories, for billions of years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Crescent Moon (2558144570).jpg"
+    ],
+    "query": "Moon rising over horizon"
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves the night sky, maybe a grandchild, or an old friend. Subscribe for a new stop in the universe. And tell us in the comments: where should we go next? See you there.",
+   "visual": {
+    "type": "end",
+    "big": "THANKS FOR WATCHING",
+    "files": [
+     "Earth, Moon and Lunar Module, AS11-44-6643.jpg"
+    ],
+    "query": "Earth and Moon from space"
+   }
+  }
+ ]
+}
