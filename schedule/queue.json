@@ -3,10 +3,11 @@
   "id": "long-moon-disappeared",
   "kind": "retry",
   "publishAt": "2026-11-21T18:00:00-06:00",
-  "status": "pending",
+  "status": "scheduled",
   "postId": "6aba3d3a-fb64-4193-855e-c71279898e44",
-  "publicationId": "a268ee2e-e6cf-4088-9a89-fab306fb3d23",
-  "note": "original 16:9 long-form (longform/moon-disappeared.json); uploaded 2026-11-20, publish refused uploadLimitExceeded; meant to go public immediately, retry first"
+  "publicationId": "1add8001-3e07-4fbf-aab8-2faf4c57ebfc",
+  "note": "original 16:9 long-form (longform/moon-disappeared.json); uploaded 2026-11-20, publish refused uploadLimitExceeded; meant to go public immediately, retry first; 2026-11-20 21:3xZ retry scheduled",
+  "postUrl": "https://www.youtube.com/watch?v=7e5xNIuE8W8"
  },
  {
   "id": "long-solar-system",
@@ -42,9 +43,11 @@
    "journey through the universe"
   ],
   "hashtags": "#solarsystem #planets #space #astronomy #nasa",
-  "status": "pending",
+  "status": "scheduled",
   "postId": "e934a4af-2e00-4bca-a381-f347bc91bfd4",
-  "note": "2026-11-19 21:23Z retry refused again: uploadLimitExceeded (limit used by ep029-ep040 retries at 21:13Z); retry next run"
+  "note": "2026-11-20 retry scheduled",
+  "publicationId": "1dbff38b-e34a-42d4-860a-63d56a497f70",
+  "postUrl": "https://www.youtube.com/watch?v=5tMxlOmip0I"
  },
  {
   "id": "long-dead-stars",
@@ -77,7 +80,7 @@
   "hashtags": "#blackhole #supernova #space #astronomy #nasa",
   "status": "pending",
   "postId": "444421f5-1fbc-429e-aa66-2ebc477b91a0",
-  "note": "draft created 2026-11-19, not yet published (upload limit)"
+  "note": "2026-11-20 publish refused: vidIQ allows only 3 YouTube uploads/day on the free plan (resets midnight PT); publicationId 57ad6bf0-2421-4680-8561-9d23278f046c; retry next run"
  },
  {
   "id": "long-weird-planets",
