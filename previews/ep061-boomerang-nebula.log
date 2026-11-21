@@ -1,8 +1,8 @@
-[0;93m2026-11-18 04:00:39.714730224 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:25:28.671928152 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 61: The Coldest Place
-  audio 82.8s
+  audio 76.3s
   WIKI File:Hubble catches scattered light from the Boomerang Nebula (opo0525a).jpg (Public domain)
-  segment 1/10 [title] 7.1s
+  segment 1/10 [title] 4.8s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 2/10 [image] 9.1s
   segment 3/10 [card] 7.2s
@@ -10,23 +10,23 @@
   segment 4/10 [image] 8.4s
   segment 5/10 [card] 6.4s
   WIKI File:Hubble catches scattered light from the Boomerang Nebula (opo0525a).jpg (Public domain)
-  segment 6/10 [image] 6.1s
+  segment 6/10 [image] 6.0s
   WIKI File:Crab Nebula.jpg (Public domain)
-  segment 7/10 [image] 8.7s
+  segment 7/10 [image] 8.8s
   - skip File:Hoar frost ice crystals in Tuntorp 20.jpg: license 'CC BY-SA 4.0'
   - skip File:Hoar frost ice crystals in Tuntorp 2.jpg: license 'CC BY-SA 4.0'
   - skip File:Hoar frost ice crystals in Tuntorp 11.jpg: license 'CC BY-SA 4.0'
   - skip File:Hoar frost ice crystals in Tuntorp 9.jpg: license 'CC BY-SA 4.0'
-  - skip File:Hoar frost ice crystals in Tuntorp 13.jpg: license 'CC BY-SA 4.0'
-  - skip File:Hoar frost ice crystals in Tuntorp 19.jpg: license 'CC BY-SA 4.0'
-  - skip File:Hoar frost ice crystals in Tuntorp 14.jpg: license 'CC BY-SA 4.0'
   - skip File:Hoar frost ice crystals in Tuntorp 3.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hoar frost ice crystals in Tuntorp 14.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hoar frost ice crystals in Tuntorp 19.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hoar frost ice crystals in Tuntorp 13.jpg: license 'CC BY-SA 4.0'
+  - skip File:Hoar frost ice crystals in Tuntorp 7.jpg: license 'CC BY-SA 4.0'
   - skip File:Hoar frost ice crystals in Tuntorp 10.jpg: license 'CC BY-SA 4.0'
-  - skip File:Hoar frost ice crystals in Tuntorp 12.jpg: license 'CC BY-SA 4.0'
   ! no usable NASA image for 'frost ice crystals macro'
-  segment 8/10 [image] 7.5s
+  segment 8/10 [image] 7.4s
   WIKI File:Laser Optics - Idaho National Laboratory.jpg (CC BY 2.0)
-  segment 9/10 [image] 10.1s
+  segment 9/10 [image] 9.9s
   WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
-  segment 10/10 [end] 12.2s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep061.mp4 (16.4 MB)
+  segment 10/10 [end] 8.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep061.mp4 (15.7 MB)
