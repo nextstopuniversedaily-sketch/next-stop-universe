@@ -1,8 +1,9 @@
+[0;93m2026-11-21 21:41:26.196474538 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 70: Time Dilation
-  audio 66.6s
+  audio 65.9s
   - skip File:Wooden hourglass 3.jpg: license 'CC BY-SA 3.0'
   WIKI File:Hourglass with sand.jpg (CC BY 2.0)
-  segment 1/10 [title] 3.8s
+  segment 1/10 [title] 4.9s
   - skip File:MontreGousset001.jpg: license 'CC BY-SA 3.0'
   - skip File:Longines 4 Grand Prix pocket watch - clockwork visible - enhanced resolution DSF3402-PSMS.jpg: license 'CC BY-SA 4.0'
   - skip File:Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, "What if" -- 2023 -- 6686 (kreativ 2).jpg: license 'CC BY-SA 4.0'
@@ -22,5 +23,5 @@
   WIKI File:Binary Black Hole.jpg (CC BY 4.0)
   segment 9/10 [image] 6.1s
   WIKI File:Green Wormhole.png (CC0)
-  segment 10/10 [end] 9.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep070.mp4 (12.9 MB)
+  segment 10/10 [end] 7.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep070.mp4 (12.4 MB)
