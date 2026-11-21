@@ -1,8 +1,8 @@
-[0;93m2026-11-19 06:42:19.198836114 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:32:05.341611656 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 98: Phobos
-  audio 72.0s
+  audio 69.0s
   WIKI File:Phobos_colour_2008.jpg (Public domain)
-  segment 1/10 [title] 3.5s
+  segment 1/10 [title] 4.8s
   segment 2/10 [card] 8.3s
   WIKI File:Phobos colour 2008.jpg (Public domain)
   segment 3/10 [image] 7.3s
@@ -18,5 +18,5 @@
   segment 9/10 [image] 6.0s
   - skip File:Dawn logo.png: looks like a chart/blank
   WIKI File:Dawn Flight Configuration 2.jpg (Public domain)
-  segment 10/10 [end] 12.0s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep098.mp4 (9.8 MB)
+  segment 10/10 [end] 7.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep098.mp4 (9.1 MB)
