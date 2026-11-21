@@ -1,23 +1,23 @@
-[0;93m2026-11-17 23:48:05.077449995 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:21:29.552187387 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 59: How the Sun Will Die
-  audio 74.6s
+  audio 72.9s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
-  segment 1/11 [title] 4.4s
+  segment 1/11 [title] 4.8s
   WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
-  segment 2/11 [image] 5.8s
+  segment 2/11 [image] 5.9s
   WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
   segment 3/11 [image] 7.1s
-  segment 4/11 [card] 2.9s
+  segment 4/11 [card] 3.0s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
   segment 5/11 [image] 5.7s
   WIKI File:Artist's concept of exoplanet with comet-like tail (opo1021a).jpg (CC BY 4.0)
-  segment 6/11 [image] 8.6s
+  segment 6/11 [image] 8.7s
   segment 7/11 [card] 6.6s
   WIKI File:Hubble reveals the Ring Nebula’s true shape.jpg (Public domain)
-  segment 8/11 [image] 9.4s
+  segment 8/11 [image] 9.5s
   WIKI File:Sirius A and B artwork.jpg (Public domain)
-  segment 9/11 [image] 6.8s
-  segment 10/11 [card] 6.5s
+  segment 9/11 [image] 6.7s
+  segment 10/11 [card] 6.4s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 11/11 [end] 10.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep059.mp4 (14.2 MB)
+  segment 11/11 [end] 8.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep059.mp4 (14.1 MB)
