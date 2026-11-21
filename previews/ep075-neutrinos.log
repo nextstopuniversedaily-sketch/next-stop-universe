@@ -1,8 +1,8 @@
-[0;93m2026-11-18 06:04:03.949076060 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:50:27.166428053 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 75: Neutrinos
-  audio 72.8s
+  audio 68.0s
   WIKI File:Amundsen-Scott marsstation ray h edit.jpg (Public domain)
-  segment 1/10 [title] 5.7s
+  segment 1/10 [title] 4.8s
   WIKI File:Snowfall at night over Brofjorden and Preemraff oil refinery.jpg (CC0)
   segment 2/10 [image] 5.3s
   segment 3/10 [card] 3.8s
@@ -20,5 +20,5 @@
   WIKI File:Black Hole Outflows From Centaurus A.jpg (CC BY 4.0)
   segment 9/10 [image] 9.4s
   WIKI File:Hubble_2009_close-up_2.jpg (Public domain)
-  segment 10/10 [end] 14.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep075.mp4 (19.7 MB)
+  segment 10/10 [end] 11.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep075.mp4 (18.9 MB)
