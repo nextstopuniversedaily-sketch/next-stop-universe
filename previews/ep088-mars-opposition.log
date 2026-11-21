@@ -1,7 +1,8 @@
+[0;93m2026-11-21 22:13:49.465224531 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 88: Mars Is Coming
-  audio 82.2s
+  audio 79.6s
   WIKI File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png (CC BY 2.0)
-  segment 1/10 [title] 4.0s
+  segment 1/10 [title] 4.8s
   WIKI File:Spirit Rover-Mars Night Sky.jpg (Public domain)
   segment 2/10 [image] 8.5s
   segment 3/10 [card] 7.3s
@@ -20,5 +21,5 @@
   segment 9/10 [image] 9.2s
   - skip File:Perseverance's Selfie With 'Cheyava Falls' (PIA26344).jpg: license ''
   WIKI File:E1a-PIA26401-Mastcam-Z-Views-the-Cheyava-Falls-Workspace.jpg (Public domain)
-  segment 10/10 [end] 12.0s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep088.mp4 (21.8 MB)
+  segment 10/10 [end] 8.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep088.mp4 (20.9 MB)
