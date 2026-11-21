@@ -1,0 +1,104 @@
+[0;93m2026-11-21 03:14:35.329414568 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Want to Get Close to a Black Hole
+  audio 754.7s (12.58 min)
+  WIKI File:Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg (CC BY 4.0)
+  segment 1/52 [title] 17.3s
+  WIKI File:A Dark Sky Full of Light (horalek-vst-milky-way).jpg (CC BY 4.0)
+  segment 2/52 [image] 13.6s
+  NASA 'giant star artist concept' -> PIA09117: Gas Giants Form Quickly  Artist Concept
+  segment 3/52 [image] 12.3s
+  WIKI File:Crab Nebula.jpg (Public domain)
+  segment 4/52 [image] 12.2s
+  NASA 'white dwarf Sirius B Hubble' -> GSFC_20171208_Archive_e001783: Preview of a Forthcoming Supernova
+  segment 5/52 [image] 19.6s
+  WIKI File:Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg (CC BY 4.0)
+  segment 6/52 [image] 14.8s
+  segment 7/52 [card] 9.7s
+  segment 8/52 [card] 9.4s
+  ! no usable NASA image for 'black hole event horizon illustration'
+  segment 9/52 [image] 17.9s
+  NASA 'night sky stars telescope observatory' -> PIA21423: Surface of TRAPPIST-1f
+  segment 10/52 [image] 21.9s
+  - skip File:Gaia_spacecraft.jpeg: license 'CC BY-SA 3.0 igo'
+  ! no usable NASA image for 'Gaia spacecraft'
+  segment 11/52 [image] 14.4s
+  segment 12/52 [card] 11.4s
+  WIKI File:Galactic Cntr full cropped.jpg (Public domain)
+  segment 13/52 [image] 14.6s
+  WIKI File:Milky Way IR Spitzer.jpg (Public domain)
+  segment 14/52 [image] 13.6s
+  NASA 'Hubble gravitational microlensing' -> GSFC_20171208_Archive_e000211: Hubble Finds Planet Orbiting Pair of Stars
+  segment 15/52 [image] 16.9s
+  ! no usable NASA image for 'black hole binary star illustration ESO'
+  segment 16/52 [image] 17.1s
+  ! no usable NASA image for 'gravitational lensing black hole simulation'
+  segment 17/52 [image] 15.6s
+  WIKI File:Artist's concept of Tidal Disruption Event (PIA22355).jpg (Public domain)
+  segment 18/52 [image] 11.9s
+  WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
+  segment 19/52 [image] 12.7s
+  ! no usable NASA image for 'Cygnus X-1 illustration'
+  segment 20/52 [image] 13.4s
+  NASA 'Chandra X-ray black hole binary' -> 0002272: History of Chandra X-Ray Observatory
+  segment 21/52 [image] 17.1s
+  segment 22/52 [question] 15.1s
+  ! no usable NASA image for 'spacetime curvature illustration'
+  segment 23/52 [image] 15.3s
+  WIKI File:GPS_Block_IIIA.jpg (Public domain)
+  segment 24/52 [image] 16.8s
+  WIKI File:A Dark Sky Full of Light (horalek-vst-milky-way).jpg (CC BY 4.0)
+  segment 25/52 [image] 12.6s
+  ! no usable NASA image for 'black hole accretion disk simulation NASA'
+  segment 26/52 [image] 16.0s
+  ! no usable NASA image for 'photon ring black hole simulation'
+  segment 27/52 [image] 14.0s
+  WIKI File:Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg (CC BY 4.0)
+  segment 28/52 [image] 11.8s
+  ! no usable NASA image for 'black hole tidal forces illustration'
+  segment 29/52 [image] 9.3s
+  ! no usable NASA image for 'tidal disruption star black hole'
+  segment 30/52 [image] 12.8s
+  segment 31/52 [card] 11.1s
+  WIKI File:Artist's concept of Tidal Disruption Event (PIA22355).jpg (Public domain)
+  segment 32/52 [image] 14.5s
+  WIKI File:Milky Way IR Spitzer.jpg (Public domain)
+  segment 33/52 [image] 13.7s
+  NASA 'supermassive black hole illustration' -> PIA16695: Black Holes: Monsters in Space Artist Concept
+  segment 34/52 [image] 15.1s
+  WIKI File:A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg (CC BY 4.0)
+  segment 35/52 [image] 9.1s
+  segment 36/52 [card] 10.5s
+  WIKI File:Stars around Sgr A* in May 2021 (eso2119c).jpg (CC BY 4.0)
+  segment 37/52 [image] 11.5s
+  WIKI File:Black hole - Messier 87 crop max res.jpg (CC BY 4.0)
+  segment 38/52 [image] 17.4s
+  segment 39/52 [card] 15.1s
+  WIKI File:Messier_87_Hubble_WikiSky.jpg (Public domain)
+  segment 40/52 [image] 19.4s
+  ! no usable NASA image for 'black hole accretion disk visualization NASA'
+  segment 41/52 [image] 18.3s
+  WIKI File:A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg (CC BY 4.0)
+  segment 42/52 [image] 15.4s
+  segment 43/52 [question] 13.9s
+  NASA 'black hole artist concept dark' -> PIA09562: Depth Perception in Space Artist Concept
+  segment 44/52 [image] 15.3s
+  NASA 'black hole jet illustration' -> PIA14730: Flaring Black Hole Artist Concept
+  segment 45/52 [image] 15.7s
+  ! no usable NASA image for 'stars tunnel light space'
+  segment 46/52 [image] 13.0s
+  - skip File:LLO_Control_Room.jpg: license 'CC BY-SA 4.0'
+  NASA 'LIGO gravitational waves black hole merger' -> PIA24129: Gravity Wave Detectors
+  segment 47/52 [image] 14.4s
+  ! no usable NASA image for 'black hole merger simulation'
+  segment 48/52 [image] 15.5s
+  ! no usable NASA image for 'black hole Hawking radiation illustration'
+  segment 49/52 [image] 18.1s
+  WIKI File:Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg (CC BY 4.0)
+  segment 50/52 [image] 14.9s
+  WIKI File:Hiding in the night sky.jpg (CC BY 4.0)
+  segment 51/52 [image] 12.4s
+  WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
+  segment 52/52 [end] 19.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-get-close-black-hole.mp4 (64.9 MB, 12.58 min)
+  WIKI File:Black hole - Messier 87 crop max res.jpg (CC BY 4.0)
+thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-get-close-black-hole.jpg
