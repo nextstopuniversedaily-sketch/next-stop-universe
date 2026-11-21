@@ -1,16 +1,16 @@
-[0;93m2026-11-18 00:46:50.310872337 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:15:28.299880082 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 56: Gamma-Ray Bursts
-  audio 85.4s
+  audio 83.6s
   WIKI File:Gamma Ray Burst Illustration (labels) (2003-grb020813-more-2).jpg (Public domain)
-  segment 1/11 [title] 4.0s
+  segment 1/11 [title] 4.3s
   WIKI File:Vela Supernova Remnant - Noirlab2406a.jpg (CC BY 4.0)
   segment 2/11 [image] 7.0s
   WIKI File:Fermi Gamma-ray Space Telescope spacecraft model.png (Public domain)
   segment 3/11 [image] 8.1s
   segment 4/11 [card] 7.8s
   - skip File:AG Car - White Hypergiant Star.png: license 'CC BY-SA 4.0'
-  - skip File:RW Cephei - Orange Hypergiant Star.png: license 'CC BY-SA 4.0'
   - skip File:Rho Cassiopeiae - Yellow Hypergiant Star.png: license 'CC BY-SA 4.0'
+  - skip File:RW Cephei - Orange Hypergiant Star.png: license 'CC BY-SA 4.0'
   - skip File:VY Canis Majoris - Red Hypergiant Star.png: license 'CC BY-SA 4.0'
   WIKI File:Red hypergiant.jpg (CC BY 4.0)
   segment 5/11 [image] 8.7s
@@ -27,5 +27,5 @@
   NASA 'Earth' -> PIA00342: The Earth & Moon
   segment 10/11 [image] 5.3s
   WIKI File:Artist’s impression of the red supergiant star Antares.jpg (CC BY 4.0)
-  segment 11/11 [end] 10.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep056.mp4 (16.1 MB)
+  segment 11/11 [end] 8.3s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep056.mp4 (15.9 MB)
