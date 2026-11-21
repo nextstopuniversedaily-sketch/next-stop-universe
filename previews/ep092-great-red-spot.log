@@ -1,7 +1,8 @@
+[0;93m2026-11-21 22:21:30.018558110 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 92: The Great Red Spot
-  audio 77.0s
+  audio 71.0s
   WIKI File:Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_(49803032983).png (CC BY 2.0)
-  segment 1/10 [title] 4.3s
+  segment 1/10 [title] 3.4s
   - skip File:PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212.jpg: license ''
   WIKI File:Great red spot juno 20170712.jpg (Public domain)
   segment 2/10 [image] 7.0s
@@ -18,8 +19,6 @@
   segment 8/10 [image] 7.3s
   WIKI File:Portrait_of_Jupiter_from_Cassini.jpg (Public domain)
   segment 9/10 [image] 5.4s
-  ! commons search failed Ganymede Juno 'query'
-  ! commons search failed Ganymede Galileo 'query'
-  NASA 'Ganymede Juno' -> PIA24681: Juno's Ganymede Close-up
-  segment 10/10 [end] 12.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep092.mp4 (18.8 MB)
+  WIKI File:Ganymede - Perijove 34 Composite.jpg (CC BY 2.0)
+  segment 10/10 [end] 7.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep092.mp4 (12.2 MB)
