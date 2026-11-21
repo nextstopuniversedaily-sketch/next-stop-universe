@@ -1,6 +1,6 @@
-[0;93m2026-11-21 20:39:46.408902721 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:02:43.569051919 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 49: Titan
-  audio 71.6s
+  audio 67.4s
   WIKI File:Titan_in_true_color_by_Kevin_M._Gill.jpg (CC BY 2.0)
   segment 1/11 [title] 5.0s
   WIKI File:Titan_in_true_color_by_Kevin_M._Gill.jpg (CC BY 2.0)
@@ -20,5 +20,5 @@
   segment 9/11 [image] 7.7s
   segment 10/11 [card] 5.0s
   WIKI File:Io_highest_resolution_natural_color.png (Public domain)
-  segment 11/11 [end] 11.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep049.mp4 (14.3 MB)
+  segment 11/11 [end] 7.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep049.mp4 (13.7 MB)
