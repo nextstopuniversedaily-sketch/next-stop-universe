@@ -1,7 +1,8 @@
+[0;93m2026-11-21 22:03:03.519754254 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 82: Saturn's Vanishing Rings
-  audio 71.9s
+  audio 70.1s
   WIKI File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png (Public domain)
-  segment 1/10 [title] 4.4s
+  segment 1/10 [title] 4.6s
   WIKI File:Top view of the rings of Saturn by Cassini - October 10, 2013.jpg (Public domain)
   segment 2/10 [image] 4.6s
   segment 3/10 [card] 7.3s
@@ -17,5 +18,5 @@
   WIKI File:Saturn's rings edge-on (opo9531a).jpg (Public domain)
   segment 9/10 [image] 9.5s
   WIKI File:Triton-usgs23-with-frame.jpg (CC BY 4.0)
-  segment 10/10 [end] 9.6s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep082.mp4 (6.9 MB)
+  segment 10/10 [end] 7.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep082.mp4 (6.7 MB)
