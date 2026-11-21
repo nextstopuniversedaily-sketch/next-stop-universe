@@ -16,7 +16,7 @@ concurrency:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
 
@@ -64,6 +64,7 @@ jobs:
           for f in $(python pipeline/render_long.py --all --list); do
             slug=$(python -c "import json,sys;print(json.load(open(sys.argv[1]))['slug'])" "$f")
             python pipeline/render_long.py "$f" 2>&1 | tee "previews/long-$slug.log"
+            python pipeline/thumbnail.py "$f" 2>&1 | tee -a "previews/long-$slug.log" || true
             git add videos/long previews
             git commit -q -m "Render long-form $slug" || true
             git pull -q --rebase origin main && git push -q || echo "push failed, will retry"

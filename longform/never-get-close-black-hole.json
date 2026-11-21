@@ -1,0 +1,572 @@
+{
+ "slug": "never-get-close-black-hole",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Want to Get Close to a Black Hole",
+ "screen_title": "Why You'd Never Get Close to a Black Hole",
+ "subtitle": "What would really happen to you",
+ "yt_title": "Why You'd Never Want to Get Close to a Black Hole",
+ "intro": "What would actually happen if you traveled to a black hole? We fly to the nearest one we know, watch time slow down, see why a small black hole would stretch you like spaghetti while a giant one would let you drift inside, and look at the first real pictures humanity has ever taken of one.",
+ "questions": [
+  "Did you ever think you'd see a real photo of a black hole in your lifetime?",
+  "Would you cross into a giant black hole to see what's inside, knowing you could never come back?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#blackhole #space #astronomy #physics #science",
+ "tags": [
+  "black hole",
+  "what happens if you fall into a black hole",
+  "why you'd never",
+  "black hole explained",
+  "falling into a black hole",
+  "spaghettification",
+  "event horizon",
+  "time dilation",
+  "sagittarius a*",
+  "m87 black hole",
+  "first black hole photo",
+  "event horizon telescope",
+  "gaia bh1",
+  "nearest black hole",
+  "cygnus x-1",
+  "hawking radiation",
+  "gravitational waves",
+  "space documentary",
+  "space physics",
+  "astronomy for beginners",
+  "science explained",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Black hole - Messier 87 crop max res.jpg"
+  ],
+  "wiki": [
+   "Black hole"
+  ],
+  "query": "black hole M87",
+  "white": "IT PULLS",
+  "accent": "YOU IN..",
+  "astronaut": [
+   0.78,
+   0.7
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0
+ },
+ "segments": [
+  {
+   "chapter": "The darkest place in the universe",
+   "text": "Somewhere out there, there are places where gravity is so strong that nothing can escape. Not a rocket, not a radio signal, not even light. Today, we fly toward one of them. And we'll find out exactly why you would never want to get too close.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ],
+    "query": "black hole artist concept"
+   }
+  },
+  {
+   "text": "Welcome back to Next Stop: Universe. If you enjoy calm, easy-to-follow trips through space, tap subscribe. Now, buckle up. This is the strangest journey we've ever taken.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Dark Sky Full of Light (horalek-vst-milky-way).jpg"
+    ],
+    "query": "Milky Way galaxy night sky"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "First, what is a black hole? Imagine a star much bigger than our Sun. For millions of years it shines by fusing atoms in its core. But one day, the fuel runs out.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Betelgeuse"
+    ],
+    "query": "giant star artist concept"
+   },
+   "headline": "A giant star",
+   "chapter": "How a black hole is born"
+  },
+  {
+   "text": "With nothing left to hold it up, the core collapses in less than a second. The outer layers blast away in a supernova, one of the brightest explosions in the universe.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Crab Nebula.jpg"
+    ],
+    "wiki": [
+     "Supernova"
+    ],
+    "query": "supernova remnant"
+   },
+   "headline": "Collapse"
+  },
+  {
+   "text": "Not every star can do this. Our own Sun is far too small. When it runs out of fuel, billions of years from now, it will gently shrink into a white dwarf, about the size of the Earth. To make a black hole, you usually need a star at least twenty times heavier than the Sun.",
+   "visual": {
+    "type": "image",
+    "query": "white dwarf Sirius B Hubble"
+   },
+   "headline": "Not our Sun"
+  },
+  {
+   "text": "If the leftover core is heavy enough, nothing can stop the collapse. All that matter is squeezed into a tiny region, and its gravity becomes so strong that it bends space itself. A black hole is born.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ],
+    "query": "black hole illustration"
+   }
+  },
+  {
+   "text": "To make a black hole out of our Sun, you'd have to crush it into a ball only about six kilometers wide. That's smaller than many cities.",
+   "visual": {
+    "type": "card",
+    "big": "6 km",
+    "label": "our Sun, squeezed into a black hole",
+    "sub": "about 4 miles across"
+   }
+  },
+  {
+   "text": "And to turn the whole Earth into a black hole? You would have to squeeze it down to the size of a marble, about two centimeters across.",
+   "visual": {
+    "type": "card",
+    "big": "2 cm",
+    "label": "Earth as a black hole",
+    "sub": "about the size of a marble"
+   }
+  },
+  {
+   "text": "The edge of a black hole is called the event horizon. It isn't a solid surface. It's a point of no return. Outside it, you could still escape with a powerful enough rocket. Inside it, escaping would mean going faster than light. And nothing can.",
+   "visual": {
+    "type": "image",
+    "query": "black hole event horizon illustration"
+   },
+   "headline": "The point of no return"
+  },
+  {
+   "text": "The idea is older than you might think. In 1783, an English clergyman named John Michell imagined dark stars whose gravity was too strong for light to escape. The name black hole only became popular in the late 1960s, thanks to the physicist John Wheeler.",
+   "visual": {
+    "type": "image",
+    "query": "night sky stars telescope observatory"
+   },
+   "headline": "An idea from 1783"
+  },
+  {
+   "text": "So where is the nearest black hole? For a long time we didn't know. Then in 2022, the European Gaia space telescope found one by watching a star wobble around something invisible.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Gaia (spacecraft)"
+    ],
+    "query": "Gaia spacecraft"
+   },
+   "headline": "Gaia BH1",
+   "chapter": "The nearest black hole"
+  },
+  {
+   "text": "That black hole, called Gaia BH one, is about one thousand five hundred sixty light years away. Close, by space standards. Very far, by ours.",
+   "visual": {
+    "type": "card",
+    "big": "1,560",
+    "label": "light years to the nearest known black hole",
+    "sub": "Gaia BH1, found in 2022"
+   }
+  },
+  {
+   "text": "Even at the speed of light, the trip would take more than fifteen centuries. With today's fastest spacecraft, it would take tens of millions of years. So this is a journey of the imagination. Let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Galactic Cntr full cropped.jpg"
+    ],
+    "query": "Milky Way center stars"
+   }
+  },
+  {
+   "text": "Scientists believe our galaxy may hold around one hundred million black holes, drifting quietly in the dark. Most of them are completely invisible, unless something wanders too close.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way IR Spitzer.jpg"
+    ],
+    "query": "Milky Way infrared Spitzer"
+   },
+   "headline": "100 million, hidden"
+  },
+  {
+   "text": "In 2022, astronomers found the first black hole drifting completely alone, about five thousand light years away. They spotted it because its gravity bent and brightened the light of a star behind it, like a lens.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble gravitational microlensing"
+   },
+   "headline": "A lonely wanderer"
+  },
+  {
+   "text": "And in 2024, Gaia found an even bigger one nearby, called Gaia BH three. It weighs about thirty-three times as much as our Sun, the heaviest black hole made from a single star that we know of in our galaxy.",
+   "visual": {
+    "type": "image",
+    "query": "black hole binary star illustration ESO"
+   },
+   "headline": "Gaia BH3"
+  },
+  {
+   "text": "As we approach, the first thing you'd notice is... nothing. A black hole gives off no light. You'd see only a perfect black circle, with the stars behind it bent and smeared into rings, as gravity bends their light.",
+   "visual": {
+    "type": "image",
+    "query": "gravitational lensing black hole simulation"
+   },
+   "headline": "Light bends",
+   "chapter": "Getting closer"
+  },
+  {
+   "text": "And here's something many people get wrong. A black hole doesn't suck things in like a vacuum cleaner. Far away, its gravity is just like any star of the same weight.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's concept of Tidal Disruption Event (PIA22355).jpg"
+    ],
+    "query": "tidal disruption event"
+   },
+   "headline": "Not a vacuum cleaner"
+  },
+  {
+   "text": "If our Sun turned into a black hole of the same mass tonight, the Earth would keep orbiting exactly as before. We'd be in the dark and the cold. But we would not be pulled in.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Earth Blue Marble"
+   }
+  },
+  {
+   "text": "The real danger comes when a black hole has company. Gas from a nearby star spirals around it in a disk, rubbing and heating up to millions of degrees, and blasting out X-rays.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Cygnus X-1"
+    ],
+    "query": "Cygnus X-1 illustration"
+   },
+   "headline": "A disk of fire"
+  },
+  {
+   "text": "That's how we found the first black hole, Cygnus X one, in the early 1970s, by its X-rays. Stephen Hawking even made a friendly bet that it was not a black hole. In 1990, he admitted he'd lost.",
+   "visual": {
+    "type": "image",
+    "query": "Chandra X-ray black hole binary"
+   },
+   "headline": "Cygnus X-1"
+  },
+  {
+   "text": "Now, my first question for you. In 2019, scientists showed the world the first real picture of a black hole. Did you ever think you'd see a photo of one in your lifetime? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you ever think you'd see a real photo of a black hole?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "Let's get closer, and something very strange begins to happen. Time itself starts to slow down. Albert Einstein predicted it more than a hundred years ago: the stronger the gravity, the slower time runs.",
+   "visual": {
+    "type": "image",
+    "query": "spacetime curvature illustration"
+   },
+   "headline": "Time slows down",
+   "chapter": "Where time slows down"
+  },
+  {
+   "text": "This isn't just theory. It even happens on Earth, in a tiny way. The clocks on GPS satellites run slightly faster than clocks on the ground, and engineers must correct for it every day, or your map would drift off by kilometers.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Global Positioning System"
+    ],
+    "query": "GPS satellite"
+   },
+   "headline": "Even your GPS knows"
+  },
+  {
+   "text": "Near a black hole, the effect becomes enormous. If you hovered just outside the event horizon for an hour, and then flew home, you might find that years had passed on Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Dark Sky Full of Light (horalek-vst-milky-way).jpg"
+    ],
+    "query": "stars night sky"
+   },
+   "headline": "An hour here, years at home"
+  },
+  {
+   "text": "Now imagine your friend watching you from far away as you fall toward the edge. To them, you'd seem to slow down, turn redder and dimmer, and freeze, fading away just above the horizon. They would never see you cross.",
+   "visual": {
+    "type": "image",
+    "query": "black hole accretion disk simulation NASA"
+   },
+   "headline": "Frozen at the edge"
+  },
+  {
+   "text": "Get a little closer, and light itself can orbit the black hole in a circle. At that distance, if you looked straight ahead, sideways around the black hole, you could in theory see the back of your own head.",
+   "visual": {
+    "type": "image",
+    "query": "photon ring black hole simulation"
+   },
+   "headline": "See the back of your head"
+  },
+  {
+   "text": "But for you, nothing would seem strange at all. Your watch would tick normally. You'd just keep falling. Two people, two completely different stories, and both are true.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ],
+    "query": "black hole"
+   }
+  },
+  {
+   "text": "And now the danger that gives black holes their scariest reputation. Physicists have a real name for it: spaghettification.",
+   "visual": {
+    "type": "image",
+    "query": "black hole tidal forces illustration"
+   },
+   "headline": "Spaghettification",
+   "chapter": "Stretched like spaghetti"
+  },
+  {
+   "text": "If you fall feet first, your feet are closer to the black hole than your head. So gravity pulls on your feet harder. The difference stretches you longer, and squeezes you thinner, like a noodle.",
+   "visual": {
+    "type": "image",
+    "query": "tidal disruption star black hole"
+   }
+  },
+  {
+   "text": "With a small black hole, about ten times the mass of our Sun, that stretching would become deadly when you were still more than a thousand kilometers from the edge.",
+   "visual": {
+    "type": "card",
+    "big": "1,000+ km",
+    "label": "where a small black hole would stretch you apart",
+    "sub": "long before the event horizon"
+   }
+  },
+  {
+   "text": "Astronomers have actually watched this happen, not to people, but to stars. When a star wanders too close to a big black hole, it's torn into a long stream of gas, and flares brightly for months.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's concept of Tidal Disruption Event (PIA22355).jpg"
+    ],
+    "query": "tidal disruption event"
+   },
+   "headline": "Stars torn apart"
+  },
+  {
+   "text": "If you're enjoying this journey so far, please tap the like button. It's free, and it helps other curious people find these videos. Now, let's head for the biggest black hole in our neighborhood.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way IR Spitzer.jpg"
+    ],
+    "query": "Milky Way center"
+   }
+  },
+  {
+   "text": "But here's the twist. With a giant black hole, it's the opposite. The bigger the black hole, the gentler the stretching at its edge. With a big enough one, you could drift right across the event horizon, and feel nothing at all.",
+   "visual": {
+    "type": "image",
+    "query": "supermassive black hole illustration"
+   },
+   "headline": "Bigger is gentler",
+   "chapter": "The giant at the center"
+  },
+  {
+   "text": "And there's one at the center of our own galaxy. It's called Sagittarius A star, about twenty-six thousand light years away.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg"
+    ],
+    "wiki": [
+     "Sagittarius A*"
+    ],
+    "query": "Sagittarius A star"
+   },
+   "headline": "Sagittarius A*"
+  },
+  {
+   "text": "It holds about four million times the mass of our Sun. Our whole solar system, and every star in the Milky Way, slowly circles around it.",
+   "visual": {
+    "type": "card",
+    "big": "4 million",
+    "label": "Suns in our galaxy's black hole",
+    "sub": "Sagittarius A*"
+   }
+  },
+  {
+   "text": "We know it's there because astronomers watched stars whip around an invisible point for decades. That work won the Nobel Prize in Physics in 2020.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Stars around Sgr A* in May 2021 (eso2119c).jpg"
+    ],
+    "query": "stars orbiting Sagittarius A star"
+   },
+   "headline": "Stars around nothing"
+  },
+  {
+   "text": "Then came the pictures. In 2019, a team linking radio telescopes across the whole planet, the Event Horizon Telescope, showed the world this: the shadow of the giant black hole in the galaxy M87.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Black hole - Messier 87 crop max res.jpg"
+    ],
+    "wiki": [
+     "Messier 87"
+    ],
+    "query": "M87 black hole Event Horizon Telescope"
+   },
+   "headline": "The first photo",
+   "chapter": "The first pictures"
+  },
+  {
+   "text": "That black hole is about six and a half billion times the mass of our Sun, and about fifty-five million light years away. The light in that photo left it about ten million years after the dinosaurs vanished.",
+   "visual": {
+    "type": "card",
+    "big": "6.5 billion",
+    "label": "Suns in the M87 black hole",
+    "sub": "55 million light years away"
+   }
+  },
+  {
+   "text": "That black hole is also feeding. It shoots a jet of particles out into space at nearly the speed of light, a jet about five thousand light years long. The most active giant black holes, called quasars, can outshine all the stars in their galaxy put together.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Messier 87"
+    ],
+    "query": "M87 jet Hubble"
+   },
+   "headline": "A cosmic jet"
+  },
+  {
+   "text": "Long before the real photo, the film Interstellar showed a black hole on screen. Its look was calculated with the help of physicist Kip Thorne, who later shared the Nobel Prize for detecting gravitational waves. The real thing turned out remarkably similar.",
+   "visual": {
+    "type": "image",
+    "query": "black hole accretion disk visualization NASA"
+   },
+   "headline": "From the movies to reality"
+  },
+  {
+   "text": "In 2022 came the picture of our own, Sagittarius A star. To take it, scientists used telescopes from Hawaii to the South Pole, working together like one telescope as big as the Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A view of the Milky Way supermassive black hole Sagittarius A* in polarised light (eso2406a).jpg"
+    ],
+    "query": "Event Horizon Telescope"
+   },
+   "headline": "Our own black hole"
+  },
+  {
+   "text": "And here's my second question. If you could cross into a giant black hole, and finally see what's inside, but you could never come back to tell anyone, would you go? Tell us your answer in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you cross into a black hole, knowing you could never come back?",
+    "sub": "Yes or no? Tell us why."
+   }
+  },
+  {
+   "text": "So, what is inside? The honest answer is: nobody knows. Once you cross the event horizon, every possible path leads inward. The center isn't a place you can avoid. It's in your future, like tomorrow.",
+   "visual": {
+    "type": "image",
+    "query": "black hole artist concept dark"
+   },
+   "headline": "Nobody knows",
+   "chapter": "What's inside?"
+  },
+  {
+   "text": "Einstein's equations say everything is crushed into a point of infinite density, called a singularity. But most physicists think that just means our theories break down there, and that we still need new physics to understand it.",
+   "visual": {
+    "type": "image",
+    "query": "black hole jet illustration"
+   },
+   "headline": "Where physics breaks"
+  },
+  {
+   "text": "And what would you see as you fell in? Looking back up, all the light of the universe would crowd into a shrinking, brightening circle above you, a final glimpse of everything you left behind.",
+   "visual": {
+    "type": "image",
+    "query": "stars tunnel light space"
+   },
+   "headline": "The last view"
+  },
+  {
+   "text": "Black holes even make waves. In 2015, the LIGO detectors in the United States felt a tiny ripple in space itself, from two black holes that collided over a billion years ago.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "LIGO"
+    ],
+    "query": "LIGO gravitational waves black hole merger"
+   },
+   "headline": "Ripples in space",
+   "chapter": "Ripples and the far future"
+  },
+  {
+   "text": "In that crash, an amount of energy equal to about three Suns was released in a fraction of a second, as ripples in space. By the time they reached Earth, they stretched our detectors by less than the width of a proton.",
+   "visual": {
+    "type": "image",
+    "query": "black hole merger simulation"
+   }
+  },
+  {
+   "text": "And black holes may not last forever. Stephen Hawking showed they should slowly leak away energy, now called Hawking radiation. But a black hole like Gaia BH one would take far, far longer than the current age of the universe to fade away.",
+   "visual": {
+    "type": "image",
+    "query": "black hole Hawking radiation illustration"
+   },
+   "headline": "Even black holes fade"
+  },
+  {
+   "text": "So, why would you never want to get close to a black hole? A small one would stretch you apart. The disk around it would burn you. And even a gentle giant would keep you forever, while time on Earth raced ahead without you.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ],
+    "query": "black hole"
+   }
+  },
+  {
+   "text": "But from a safe distance, they're one of the most wonderful things in the universe. They shape galaxies, bend light, slow time, and remind us how much there is still to discover.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hiding in the night sky.jpg"
+    ],
+    "query": "galaxy Hubble"
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves a good mystery, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

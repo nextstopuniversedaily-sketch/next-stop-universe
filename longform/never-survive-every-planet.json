@@ -1,0 +1,658 @@
+{
+ "slug": "never-survive-every-planet",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Day on Every Planet",
+ "screen_title": "Why You'd Never Survive a Day on Every Planet",
+ "subtitle": "A journey from Mercury to Pluto",
+ "yt_title": "Why You'd Never Survive a Day on Every Planet",
+ "intro": "What would actually happen to you on Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto? We land on every world in our solar system, one by one, and find out what would get you first, how long you would last, and the one place out there where you could almost take a walk.",
+ "questions": [
+  "Which planet do you think is the most dangerous? Did you guess right?",
+  "If you had a perfect spacesuit, which world would you visit first?",
+  "Which world should get its own 'Why You'd Never' video next?"
+ ],
+ "hashtags": "#space #planets #solarsystem #astronomy #science",
+ "tags": [
+  "why you'd never survive",
+  "survive on every planet",
+  "what if you landed on every planet",
+  "could you survive on other planets",
+  "planets",
+  "solar system",
+  "mercury",
+  "venus",
+  "mars",
+  "jupiter",
+  "saturn",
+  "uranus",
+  "neptune",
+  "pluto",
+  "titan",
+  "space documentary",
+  "planets explained",
+  "astronomy for beginners",
+  "space facts",
+  "solar system tour",
+  "space for kids and adults",
+  "science explained",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Venus"
+  ],
+  "files": [
+   "Venus-real color.jpg"
+  ],
+  "query": "Venus Mariner 10",
+  "white": "IT CRUSHES",
+  "accent": "YOU..",
+  "astronaut": [
+   0.8,
+   0.7
+  ],
+  "focus": [
+   0.45,
+   0.5
+  ],
+  "zoom": 1.15
+ },
+ "segments": [
+  {
+   "chapter": "Your trip begins",
+   "text": "Imagine you could step out onto any planet in our solar system. No rocket problems, no long trip. You just arrive, and open the door. How long would you last? On some worlds, a few seconds. On others, you would never even reach the ground.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Solar System true color.jpg"
+    ],
+    "wiki": [
+     "Solar System"
+    ],
+    "query": "solar system planets"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. Today we visit every planet, one by one, and find out what would get you first. If you enjoy calm journeys through space, tap subscribe, and let's open the door.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA-Apollo8-Dec24-Earthrise.jpg"
+    ],
+    "query": "Earthrise Apollo 8"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "One rule for our trip. On each world you start with no spacesuit, just ordinary clothes. Then we'll see what a spacesuit could, and could not, save you from.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Earth Blue Marble"
+   },
+   "headline": "No spacesuit"
+  },
+  {
+   "text": "Our first stop is Mercury, the planet closest to the Sun. From here the Sun can look up to three times wider than it does from Earth, and it is blinding.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Mercury (planet)"
+    ],
+    "query": "Mercury MESSENGER global"
+   },
+   "headline": "Mercury",
+   "chapter": "Mercury: fire and ice"
+  },
+  {
+   "text": "Mercury has almost no air at all. Step outside without a suit, and the air in your lungs rushes out. In about fifteen seconds you'd lose consciousness.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "MESSENGER"
+    ],
+    "query": "Mercury surface craters MESSENGER"
+   }
+  },
+  {
+   "text": "And then there's the temperature. In daylight the ground reaches about four hundred thirty degrees Celsius. That's around eight hundred degrees Fahrenheit, hot enough to melt lead.",
+   "visual": {
+    "type": "card",
+    "big": "430 °C",
+    "label": "Mercury in daylight",
+    "sub": "about 800 °F, hot enough to melt lead"
+   }
+  },
+  {
+   "text": "But at night it drops to around minus one hundred eighty degrees Celsius. Without air to hold the heat, Mercury swings from oven to deep freezer.",
+   "visual": {
+    "type": "card",
+    "big": "−180 °C",
+    "label": "Mercury at night",
+    "sub": "about −290 °F"
+   }
+  },
+  {
+   "text": "And a single day lasts a very long time. From one sunrise to the next takes about one hundred seventy-six Earth days. Even so, there is a surprise here: ice. Deep inside craters at the poles, where sunlight never reaches, NASA's MESSENGER spacecraft found frozen water.",
+   "visual": {
+    "type": "image",
+    "query": "Mercury north pole ice craters MESSENGER"
+   },
+   "headline": "Ice on Mercury"
+  },
+  {
+   "text": "Now put on a spacesuit, and Mercury has a gentle secret. It turns so slowly that at the equator, the line between day and night moves at about three and a half kilometers an hour. That's walking speed. You could stroll along with the sunset, and stay in the mild twilight forever.",
+   "visual": {
+    "type": "image",
+    "query": "Mercury limb MESSENGER"
+   },
+   "headline": "Walk with the sunset"
+  },
+  {
+   "text": "Next stop: Venus. From Earth it's the brilliant evening star. Up close, it's the most hostile planet in the solar system, and nearly the same size as Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus-real color.jpg"
+    ],
+    "wiki": [
+     "Venus"
+    ],
+    "query": "Venus Mariner 10"
+   },
+   "headline": "Venus",
+   "chapter": "Venus: the pressure cooker"
+  },
+  {
+   "text": "Your first problem is that you'd never see the ground on the way down. Venus is wrapped in thick clouds made of sulfuric acid.",
+   "visual": {
+    "type": "image",
+    "query": "Venus clouds ultraviolet Akatsuki"
+   }
+  },
+  {
+   "text": "Below the clouds, the air is crushing. The pressure on the surface is about ninety-two times what you feel on Earth. That's like being nine hundred meters deep in the ocean.",
+   "visual": {
+    "type": "card",
+    "big": "92×",
+    "label": "Earth's air pressure",
+    "sub": "like 900 m (3,000 ft) under the sea"
+   }
+  },
+  {
+   "text": "And it's hotter than Mercury, even though it's twice as far from the Sun. Carbon dioxide traps the heat, and the surface sits at about four hundred sixty-five degrees Celsius. Day and night.",
+   "visual": {
+    "type": "card",
+    "big": "465 °C",
+    "label": "on Venus, day and night",
+    "sub": "about 870 °F"
+   }
+  },
+  {
+   "text": "Soviet engineers built landers like armored diving bells. In 1982, Venera thirteen survived on the surface for two hours and seven minutes, and sent back the first color pictures, before the heat and pressure destroyed it.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Venera 13"
+    ],
+    "query": "Venera 13 lander"
+   },
+   "headline": "127 minutes"
+  },
+  {
+   "text": "Here's a strange one. A day on Venus is longer than its year. It spins so slowly, and backwards, that the Sun rises in the west and sets in the east.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Venus"
+    ],
+    "query": "Venus radar Magellan global"
+   }
+  },
+  {
+   "text": "But there's a twist. About fifty kilometers above the surface, the air pressure and temperature are almost like Earth's. Some NASA scientists have even imagined airships floating there one day.",
+   "visual": {
+    "type": "image",
+    "query": "Venus cloud city airship concept"
+   },
+   "headline": "Floating cities?"
+  },
+  {
+   "text": "Could a spacesuit help you on the surface of Venus? Not for long. No suit ever built could survive it. Even the toughest Soviet landers lasted only a couple of hours.",
+   "visual": {
+    "type": "image",
+    "query": "Venus surface Venera panorama"
+   }
+  },
+  {
+   "text": "So here's my first question for you. Of all the planets, which one do you think is the most dangerous? Write your guess in the comments now, before we get to the end, and see if you were right.",
+   "visual": {
+    "type": "question",
+    "q": "Which planet do you think is the most dangerous?",
+    "sub": "Write your guess now. The answer is coming!"
+   }
+  },
+  {
+   "text": "Now we skip past home, and land on Mars, the red planet. It looks a little like a desert on Earth. That makes it the most deceiving planet of all.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"
+    ],
+    "query": "Mars globe"
+   },
+   "headline": "Mars",
+   "chapter": "Mars: the deceiving desert"
+  },
+  {
+   "text": "The air on Mars is so thin that the pressure is less than one percent of Earth's. And almost all of it is carbon dioxide.",
+   "visual": {
+    "type": "card",
+    "big": "Less than 1%",
+    "label": "of Earth's air pressure",
+    "sub": "and 95% carbon dioxide"
+   }
+  },
+  {
+   "text": "At pressure that low, water boils at body temperature. The saliva on your tongue and the tears in your eyes would start to bubble. You'd lose consciousness in about fifteen seconds, and you'd likely not survive more than a couple of minutes.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Gale (crater)"
+    ],
+    "query": "Curiosity rover Mars landscape"
+   },
+   "headline": "Your saliva would boil"
+  },
+  {
+   "text": "It's also cold. The average temperature on Mars is about minus sixty degrees Celsius. And with no global magnetic field and thin air, the radiation from space reaches the ground.",
+   "visual": {
+    "type": "image",
+    "query": "Mars surface Perseverance panorama"
+   }
+  },
+  {
+   "text": "Mars has the biggest volcano in the solar system, Olympus Mons, about two and a half times taller than Mount Everest. And sometimes dust storms grow until they cover the entire planet. One in 2018 ended NASA's Opportunity rover.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Olympus Mons"
+    ],
+    "query": "Olympus Mons Viking"
+   },
+   "headline": "Olympus Mons"
+  },
+  {
+   "text": "There's some fun on Mars, too. Gravity is only about thirty-eight percent of Earth's. In a light suit, you could jump almost three times higher than at home, and carry a heavy load with ease.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Perseverance (rover)"
+    ],
+    "query": "Perseverance rover Mars selfie"
+   },
+   "headline": "Jump three times higher"
+  },
+  {
+   "text": "And yet, with a good spacesuit and a shelter, Mars is the planet where people may actually live one day. And at sunset, the sky around the Sun turns blue.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "MarsSunset.jpg"
+    ],
+    "query": "Mars sunset Curiosity blue"
+   },
+   "headline": "A blue sunset"
+  },
+  {
+   "text": "Next, we leave the rocky planets behind. This is Jupiter, the king of the planets. More than thirteen hundred Earths could fit inside it. And here's the first problem: there's nowhere to land.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Jupiter"
+    ],
+    "query": "Jupiter Juno full disk"
+   },
+   "headline": "Jupiter",
+   "chapter": "Jupiter: no place to stand"
+  },
+  {
+   "text": "Jupiter is a giant ball of gas. There's no solid surface. If you arrived here, you would simply start to fall, through bands of clouds, with winds of hundreds of kilometers an hour.",
+   "visual": {
+    "type": "image",
+    "query": "Jupiter clouds Juno close up"
+   }
+  },
+  {
+   "text": "And you'd be falling hard, because Jupiter's gravity is about two and a half times Earth's. If you weigh seventy kilograms at home, you'd feel like you weigh about one hundred seventy-five.",
+   "visual": {
+    "type": "card",
+    "big": "2.5×",
+    "label": "Earth's gravity",
+    "sub": "70 kg at home feels like 175 kg"
+   }
+  },
+  {
+   "text": "In 1995, NASA dropped a probe from the Galileo spacecraft into Jupiter. It fell for almost an hour, before the heat and pressure silenced it, still far above whatever lies deep inside.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Galileo Probe"
+    ],
+    "query": "Galileo probe Jupiter atmosphere"
+   },
+   "headline": "The Galileo probe"
+  },
+  {
+   "text": "This is the Great Red Spot, a storm wider than our whole Earth. It has been raging for at least one hundred fifty years, and possibly far longer.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Great Red Spot"
+    ],
+    "query": "Great Red Spot Juno"
+   },
+   "headline": "A storm bigger than Earth"
+  },
+  {
+   "text": "Even staying in orbit is dangerous. Jupiter is surrounded by belts of intense radiation. Near its moon Europa, an unprotected person would get a deadly dose in about a day.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Europa (moon)"
+    ],
+    "query": "Europa moon Galileo"
+   },
+   "headline": "Invisible danger"
+  },
+  {
+   "text": "And if you could keep falling, deep, deep inside, the pressure becomes so enormous that hydrogen turns into a kind of liquid metal. That spinning ocean of metal powers Jupiter's giant magnetic field, the biggest of any planet.",
+   "visual": {
+    "type": "image",
+    "query": "Jupiter aurora Hubble"
+   },
+   "headline": "An ocean of liquid metal"
+  },
+  {
+   "text": "If you're enjoying the trip so far, please tap the like button. It's free, and it helps other space lovers find these journeys. Now, let's keep going, out to the most beautiful planet of all.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter Family of Moons by Juno.png"
+    ],
+    "query": "Jupiter moons"
+   }
+  },
+  {
+   "text": "Now, the jewel of the solar system: Saturn. Like Jupiter, it's a giant ball of gas, with no ground to stand on. But it's so light for its size that it would float in water, if you could find a bathtub big enough.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Saturn"
+    ],
+    "query": "Saturn Cassini rings full"
+   },
+   "headline": "Saturn",
+   "chapter": "Saturn: beautiful and deadly"
+  },
+  {
+   "text": "Saturn's winds are even faster than Jupiter's, reaching around eighteen hundred kilometers an hour near the equator. And at its north pole there's a giant six-sided storm. Each side is wider than the Earth.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Saturn's hexagon"
+    ],
+    "query": "Saturn hexagon north pole Cassini"
+   },
+   "headline": "A hexagon storm"
+  },
+  {
+   "text": "The rings are made mostly of water ice, from tiny grains to chunks as big as a house. They stretch about two hundred eighty thousand kilometers across, yet in many places they're only about ten meters thick.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Rings of Saturn"
+    ],
+    "query": "Saturn rings Cassini close"
+   },
+   "headline": "Rings of ice"
+  },
+  {
+   "text": "In 2017, after thirteen years exploring Saturn, NASA's Cassini spacecraft was sent on a final dive into the planet. It sent back data until the very last moment, and burned up like a meteor in Saturn's sky.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Cassini–Huygens"
+    ],
+    "query": "Cassini spacecraft Saturn"
+   },
+   "headline": "Cassini's last dive"
+  },
+  {
+   "text": "But here's the surprise of our whole trip. Saturn's largest moon, Titan, may be the one place where you could step outside without a pressure suit.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Titan (moon)"
+    ],
+    "query": "Titan moon Cassini"
+   },
+   "headline": "Titan",
+   "chapter": "Titan: the surprise"
+  },
+  {
+   "text": "Titan's air is thicker than Earth's, so you wouldn't need a pressure suit. Just an oxygen mask, and very, very warm clothes, because it's about minus one hundred seventy-nine degrees Celsius.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Huygens (spacecraft)"
+    ],
+    "query": "Titan surface Huygens"
+   }
+  },
+  {
+   "text": "And because the air is thick and the gravity is weak, if you strapped on wings and flapped your arms, you could actually fly. It has lakes and rain too, but they're made of liquid methane.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Kraken Mare"
+    ],
+    "query": "Titan lakes methane radar Cassini"
+   },
+   "headline": "You could fly"
+  },
+  {
+   "text": "Next, the ice giants. This is Uranus. It's the planet that rolls around the Sun on its side, tipped over by about ninety-eight degrees.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Uranus"
+    ],
+    "query": "Uranus Voyager 2"
+   },
+   "headline": "Uranus",
+   "chapter": "Uranus: the sideways world"
+  },
+  {
+   "text": "Because of that tilt, each pole gets about forty-two years of constant sunlight, followed by forty-two years of darkness. Imagine a single night that lasts half a lifetime.",
+   "visual": {
+    "type": "image",
+    "query": "Uranus rings Webb"
+   },
+   "headline": "A 42-year night"
+  },
+  {
+   "text": "Uranus has the coldest atmosphere of any planet ever measured, about minus two hundred twenty-four degrees Celsius.",
+   "visual": {
+    "type": "card",
+    "big": "−224 °C",
+    "label": "Uranus: the coldest air",
+    "sub": "about −371 °F"
+   }
+  },
+  {
+   "text": "And if you could smell it, you wouldn't like it. In 2018, scientists found that its clouds contain hydrogen sulfide, the gas that makes rotten eggs smell. Only one spacecraft has ever visited: Voyager two, in 1986.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Voyager 2"
+    ],
+    "query": "Voyager spacecraft"
+   },
+   "headline": "It smells like rotten eggs"
+  },
+  {
+   "text": "Uranus was the first planet ever discovered with a telescope. William Herschel spotted it from his garden in England in 1781. Before that, nobody knew there was anything beyond Saturn.",
+   "visual": {
+    "type": "image",
+    "query": "Uranus Keck infrared"
+   },
+   "headline": "Found from a garden"
+  },
+  {
+   "text": "Our last planet is Neptune, about four and a half billion kilometers from the Sun. Sunlight here is about nine hundred times dimmer than on Earth.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Neptune"
+    ],
+    "query": "Neptune Voyager 2"
+   },
+   "headline": "Neptune",
+   "chapter": "Neptune: the windiest world"
+  },
+  {
+   "text": "Neptune has the fastest winds in the solar system, up to about two thousand kilometers an hour. That's faster than the speed of sound on Earth.",
+   "visual": {
+    "type": "card",
+    "big": "2,000 km/h",
+    "label": "winds on Neptune",
+    "sub": "about 1,200 miles per hour"
+   }
+  },
+  {
+   "text": "One year on Neptune lasts one hundred sixty-five Earth years. It was discovered in 1846, and only finished its first full orbit since then in 2011.",
+   "visual": {
+    "type": "image",
+    "query": "Neptune Great Dark Spot Voyager"
+   },
+   "headline": "A 165-year year"
+  },
+  {
+   "text": "Neptune was found with mathematics before anyone saw it. Astronomers noticed Uranus wasn't moving quite right, calculated where an unseen planet must be pulling on it, and in 1846 the telescope found Neptune right there.",
+   "visual": {
+    "type": "image",
+    "query": "Neptune Webb rings"
+   },
+   "headline": "Found with mathematics"
+  },
+  {
+   "text": "Its moon Triton orbits backwards, and shoots geysers of nitrogen into the sky. At about minus two hundred thirty-five degrees Celsius, it's one of the coldest places we have ever measured.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Triton (moon)"
+    ],
+    "query": "Triton Voyager 2"
+   },
+   "headline": "Triton"
+  },
+  {
+   "text": "And a bonus stop: Pluto, the little world at the edge. When New Horizons flew past in 2015, it found mountains of water ice, and a giant heart-shaped plain of frozen nitrogen.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Pluto"
+    ],
+    "query": "Pluto New Horizons heart"
+   },
+   "headline": "Pluto",
+   "chapter": "Pluto and the final verdict"
+  },
+  {
+   "text": "At noon on Pluto, the Sun is so faint that daylight looks like dusk on Earth. And the temperature is around minus two hundred thirty degrees Celsius.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Charon (moon)"
+    ],
+    "query": "Pluto New Horizons haze"
+   }
+  },
+  {
+   "text": "Pluto was discovered in 1930 by Clyde Tombaugh, a twenty-four-year-old farm boy from Kansas. When New Horizons flew past Pluto, it carried a small portion of his ashes. He finally got to visit the world he found.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "New Horizons"
+    ],
+    "query": "New Horizons spacecraft"
+   },
+   "headline": "A journey home"
+  },
+  {
+   "text": "So, which world would get you fastest? Venus. Its heat, crushing air and acid would overwhelm you almost at once. If you guessed Venus, give yourself a point in the comments.",
+   "visual": {
+    "type": "card",
+    "big": "Venus",
+    "label": "the deadliest planet to land on",
+    "sub": "heat, crushing air and acid"
+   }
+  },
+  {
+   "text": "And where would you last the longest? Titan, a moon. With an oxygen mask and warm clothes, you could walk there, and even fly.",
+   "visual": {
+    "type": "card",
+    "big": "Titan",
+    "label": "the gentlest world to visit",
+    "sub": "oxygen mask and warm clothes"
+   }
+  },
+  {
+   "text": "Now my second question. If you had a perfect spacesuit, and a free ticket, which world would you visit first? Tell us in the comments, and tell us why.",
+   "visual": {
+    "type": "question",
+    "q": "With a perfect spacesuit, which world would you visit first?",
+    "sub": "Tell us in the comments, and why."
+   }
+  },
+  {
+   "text": "After this whole journey, one thing stands out. Of all the worlds we know, there is only one place where you can step outside, take a deep breath, and feel the sun on your face.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth, Moon and Lunar Module, AS11-44-6643.jpg"
+    ],
+    "query": "Earth from space"
+   }
+  },
+  {
+   "text": "That pale blue dot under your feet. Our home is the rarest place in the solar system. And the best one to watch the rest of it from.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Earth Blue Marble"
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments which place we should never visit next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

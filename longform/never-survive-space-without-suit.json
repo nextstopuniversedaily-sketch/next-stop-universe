@@ -1,0 +1,542 @@
+{
+ "slug": "never-survive-space-without-suit",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive in Space Without a Spacesuit",
+ "screen_title": "Why You'd Never Survive Space Without a Spacesuit",
+ "subtitle": "What really happens to your body",
+ "yt_title": "Why You'd Never Survive in Space Without a Spacesuit",
+ "intro": "What would really happen to your body in space without a spacesuit? Would you explode, freeze or boil? We go through it second by second, from the real 1966 NASA accident where a man's suit lost its air, to the first spacewalk that almost went wrong, and what months in orbit do to astronauts' bodies.",
+ "questions": [
+  "Did you expect you'd explode or freeze in space? Which myth surprised you most?",
+  "Do you remember watching a launch, a Moon landing or a spacewalk on TV? Which one?",
+  "If you were offered a seat to space tomorrow, would you go?"
+ ],
+ "hashtags": "#space #astronaut #spacesuit #science #nasa",
+ "tags": [
+  "why you'd never survive",
+  "space without a spacesuit",
+  "what happens to your body in space",
+  "human body in space",
+  "can you survive in space",
+  "vacuum exposure",
+  "spacesuit",
+  "spacewalk",
+  "astronaut",
+  "first spacewalk",
+  "alexei leonov",
+  "space myths",
+  "do you explode in space",
+  "kármán line",
+  "international space station",
+  "life in space",
+  "space documentary",
+  "space physics",
+  "astronomy for beginners",
+  "science explained",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "wiki": [
+   "Extravehicular activity"
+  ],
+  "files": [
+   "Bruce McCandless II during EVA in 1984.jpg"
+  ],
+  "query": "astronaut spacewalk Earth",
+  "white": "IT BOILS",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.45
+  ],
+  "zoom": 1.0
+ },
+ "segments": [
+  {
+   "chapter": "Space is just above us",
+   "text": "Space is closer than you think. Drive straight up for about an hour, and you'd be there. But step outside up there without a spacesuit, and you'd have only seconds. What exactly would happen to your body? Most of what the movies show you is wrong.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ],
+    "query": "Earth limb from ISS"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you like calm, easy-to-follow journeys through space and science, tap subscribe. Today, we go second by second through the most dangerous few minutes a person could ever have.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth's City Lights by DMSP, 1994-1995 (large).jpg"
+    ],
+    "query": "Earth at night from space"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "Most scientists draw the edge of space at one hundred kilometers up. It's called the Kármán line, and it's closer to you than many cities are to each other.",
+   "visual": {
+    "type": "card",
+    "big": "100 km",
+    "label": "where space begins",
+    "sub": "about 62 miles straight up"
+   },
+   "chapter": "Where space begins"
+  },
+  {
+   "text": "Long before that, your body would be in trouble. Above about eight thousand meters, the height of the tallest mountains, the air is too thin to keep most people alive for long. Climbers call it the death zone.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Mount Everest"
+    ],
+    "query": "Mount Everest from space"
+   },
+   "headline": "The death zone"
+  },
+  {
+   "text": "And around nineteen kilometers up, the air pressure falls so low that water boils at the temperature of the human body. This is called the Armstrong limit. Above it, a pressure suit isn't optional.",
+   "visual": {
+    "type": "card",
+    "big": "19 km",
+    "label": "the Armstrong limit",
+    "sub": "where water boils at body temperature"
+   }
+  },
+  {
+   "text": "So let's go up, and open the door. First, let's clear up the biggest myths. Would you explode, like in the movies? No. Your skin is surprisingly strong, and it holds you together.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth, Moon and Lunar Module, AS11-44-6643.jpg"
+    ],
+    "query": "astronaut spacewalk"
+   },
+   "headline": "Would you explode? No",
+   "chapter": "Explode, freeze or boil?"
+  },
+  {
+   "text": "Would you freeze solid in an instant? Also no. Space is very cold, but it's also empty. There's no air to carry your heat away, so you'd cool down surprisingly slowly, a little like coffee in a vacuum flask.",
+   "visual": {
+    "type": "image",
+    "query": "space station shadow Earth night"
+   },
+   "headline": "Would you freeze? Not quickly"
+  },
+  {
+   "text": "And would your blood boil? Not quite. Your heart and blood vessels keep your blood under pressure. What boils first is the moisture on the outside: in your mouth, on your eyes, and in your lungs.",
+   "visual": {
+    "type": "image",
+    "query": "astronaut Earth orbit space station"
+   },
+   "headline": "Would your blood boil? Not quite"
+  },
+  {
+   "text": "One old movie got this surprisingly right. In 2001: A Space Odyssey, from 1968, an astronaut crosses a few seconds of empty space to get back into his ship, and survives. Short exposure can be survived, if help comes fast.",
+   "visual": {
+    "type": "image",
+    "query": "spacecraft airlock docking"
+   },
+   "headline": "The movie that got it right"
+  },
+  {
+   "text": "Instead, the real dangers are quieter, and much faster. And the very first one comes down to a simple, instinctive mistake: holding your breath.",
+   "visual": {
+    "type": "image",
+    "query": "Earth horizon sunrise ISS"
+   },
+   "headline": "The real dangers"
+  },
+  {
+   "text": "In the very first second, if you held your breath, the air in your lungs would expand with nothing outside to push back. It could tear your lungs. Divers face the same danger when they come up too fast. So the first rule is: breathe out.",
+   "visual": {
+    "type": "image",
+    "query": "astronaut helmet visor Earth reflection"
+   },
+   "headline": "Breathe out",
+   "chapter": "Second by second"
+  },
+  {
+   "text": "Seconds one to ten. Without air in your lungs, oxygen starts to flow the wrong way, out of your blood. Your skin and eyes feel the moisture on them begin to boil away. Your saliva starts to bubble.",
+   "visual": {
+    "type": "image",
+    "query": "International Space Station Earth"
+   },
+   "headline": "Your saliva bubbles"
+  },
+  {
+   "text": "Around ten to fifteen seconds. The blood reaching your brain no longer carries enough oxygen, and you'd pass out. That is all the time you'd have to do anything at all.",
+   "visual": {
+    "type": "card",
+    "big": "15 seconds",
+    "label": "until you'd lose consciousness",
+    "sub": "about the time to read this sentence twice"
+   }
+  },
+  {
+   "text": "Then your body begins to swell, as water in your tissues turns to vapor, perhaps to almost twice its normal size, though your skin keeps it from bursting. In sunlight you'd get a terrible sunburn. In shadow, you'd slowly chill.",
+   "visual": {
+    "type": "image",
+    "query": "sunrise from space station"
+   },
+   "headline": "Swelling, not bursting"
+  },
+  {
+   "text": "Animal experiments in the 1960s suggested that the chances of recovery drop sharply after about ninety seconds. If you were brought back to air pressure in time, you might fully recover. After a couple of minutes, almost certainly not.",
+   "visual": {
+    "type": "card",
+    "big": "90 seconds",
+    "label": "the window to be rescued",
+    "sub": "after that, chances fade fast"
+   }
+  },
+  {
+   "text": "Sadly, there is one real case. In 1971, the three cosmonauts of Soyuz eleven were coming home from the first space station when a valve opened by mistake, and the air escaped from their capsule. They are the only people ever to die above the edge of space.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Soyuz (spacecraft)"
+    ],
+    "query": "Soyuz spacecraft orbit"
+   },
+   "headline": "Soyuz 11, 1971"
+  },
+  {
+   "text": "After that, every Soviet and Russian crew began wearing pressure suits during launch and landing. Their loss made every flight since then safer.",
+   "visual": {
+    "type": "image",
+    "query": "Soyuz rocket launch Baikonur"
+   },
+   "headline": "A lesson that saves lives"
+  },
+  {
+   "text": "Here's my first question for you. Before today, did you think you'd explode, or freeze solid, in space? Which myth surprised you the most? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you think you'd explode or freeze in space?",
+    "sub": "Which myth surprised you most?"
+   }
+  },
+  {
+   "text": "How do we know all this? Partly from a real accident. In December 1966, at NASA's center in Houston, an engineer named Jim LeBlanc was testing a spacesuit inside a vacuum chamber.",
+   "visual": {
+    "type": "image",
+    "query": "NASA vacuum chamber Johnson Space Center"
+   },
+   "headline": "Houston, 1966",
+   "chapter": "The man who touched space"
+  },
+  {
+   "text": "A hose came loose, and the air rushed out of his suit. He stayed conscious for about fourteen seconds. His last memory was feeling the saliva on his tongue begin to bubble.",
+   "visual": {
+    "type": "image",
+    "query": "spacesuit test chamber 1960s"
+   },
+   "headline": "14 seconds"
+  },
+  {
+   "text": "The team rushed to bring the air back. He had been exposed for less than half a minute. He woke up, recovered completely, and went back to work testing the spacesuits for the Apollo Moon missions.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg"
+    ],
+    "query": "Apollo spacesuit Moon"
+   },
+   "headline": "He survived"
+  },
+  {
+   "text": "And there are dangers you can't feel at all. On Earth, our thick air and the planet's magnetic field shield us from most of the radiation in space. Up there, there's no such protection.",
+   "visual": {
+    "type": "image",
+    "query": "aurora from space station"
+   },
+   "headline": "Radiation",
+   "chapter": "Invisible dangers"
+  },
+  {
+   "text": "Astronauts on the Space Station have reported seeing little flashes of light, even with their eyes closed. They're caused by tiny particles from space shooting through their eyes.",
+   "visual": {
+    "type": "image",
+    "query": "astronaut ISS cupola window Earth"
+   },
+   "headline": "Flashes in the dark"
+  },
+  {
+   "text": "Then there's space junk. The Space Station flies at about twenty-eight thousand kilometers an hour. At that speed, even a fleck of paint hits like a bullet. One tiny piece once chipped a crack into the station's big window.",
+   "visual": {
+    "type": "image",
+    "query": "ISS cupola window"
+   },
+   "headline": "Faster than a bullet"
+  },
+  {
+   "text": "Temperature is extreme, too. In direct sunlight, the outside of the Space Station can reach about one hundred twenty degrees Celsius. In shadow, it can drop to around minus one hundred fifty-seven.",
+   "visual": {
+    "type": "card",
+    "big": "+120 / −157 °C",
+    "label": "outside the Space Station",
+    "sub": "sun on one side, shadow on the other"
+   }
+  },
+  {
+   "text": "And then there's the smell. Astronauts coming back inside from a spacewalk often describe a strange smell on their suits: like seared steak, hot metal or welding fumes. The smell of space.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth's City Lights by DMSP, 1994-1995 (large).jpg"
+    ],
+    "query": "space station spacewalk"
+   },
+   "headline": "The smell of space"
+  },
+  {
+   "text": "So what does a spacesuit actually do? It's really a small, personal spaceship. It holds air pressure around you, gives you oxygen, removes the carbon dioxide you breathe out, and keeps you warm or cool.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Extravehicular Mobility Unit"
+    ],
+    "query": "Extravehicular Mobility Unit spacesuit"
+   },
+   "headline": "A personal spaceship",
+   "chapter": "A spaceship you can wear"
+  },
+  {
+   "text": "A modern spacewalking suit has more than a dozen layers, to stop heat, cold, radiation and tiny meteoroids flying faster than a bullet. Underneath, astronauts wear a suit full of thin tubes of cooling water.",
+   "visual": {
+    "type": "image",
+    "query": "spacesuit layers EMU"
+   },
+   "headline": "More than a dozen layers"
+  },
+  {
+   "text": "Here's a lovely piece of history. The suits worn on the Moon were sewn largely by hand, by skilled seamstresses at a company that was part of Playtex, famous for making bras and girdles. Their stitches had to be perfect. One mistake could cost a life.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg"
+    ],
+    "query": "Apollo spacesuit"
+   },
+   "headline": "Sewn by hand"
+  },
+  {
+   "text": "Before a spacewalk, astronauts breathe pure oxygen for hours, to flush nitrogen out of their blood. Otherwise, they could get the bends, just like a diver rising too fast.",
+   "visual": {
+    "type": "image",
+    "query": "astronaut airlock preparation spacewalk"
+   },
+   "headline": "Breathing pure oxygen"
+  },
+  {
+   "text": "The longest spacewalk ever lasted eight hours and fifty-six minutes, in 2001. Imagine working a full day of hard physical labor, inside a suit, with no break for lunch.",
+   "visual": {
+    "type": "card",
+    "big": "8 h 56 min",
+    "label": "the longest spacewalk",
+    "sub": "in 2001, outside the Space Station"
+   }
+  },
+  {
+   "text": "The very first spacewalk almost ended in disaster. In March 1965, Soviet cosmonaut Alexei Leonov floated out of his Voskhod two spacecraft for about twelve minutes.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Voskhod 2"
+    ],
+    "query": "Voskhod spacecraft"
+   },
+   "headline": "March 1965",
+   "chapter": "The first spacewalk"
+  },
+  {
+   "text": "But in the vacuum, his suit swelled up like a balloon. His hands slipped out of his gloves, and he could no longer fit back through the airlock.",
+   "visual": {
+    "type": "image",
+    "query": "spacewalk Earth orbit astronaut tether"
+   },
+   "headline": "Too big for the door"
+  },
+  {
+   "text": "Alone, and without telling ground control first, he opened a valve and let some of the air out of his own suit, to make it smaller. Dangerous, but it worked. He squeezed back inside, head first, and survived to tell the story.",
+   "visual": {
+    "type": "image",
+    "query": "Earth orbit sunrise spacecraft"
+   },
+   "headline": "He let the air out"
+  },
+  {
+   "text": "Just three months later, in June 1965, Ed White made the first American spacewalk, from Gemini four. He enjoyed it so much that he didn't want to go back inside. When ordered back in, he said it was the saddest moment of his life.",
+   "visual": {
+    "type": "image",
+    "wiki": [
+     "Gemini 4"
+    ],
+    "query": "Gemini 4 spacewalk"
+   },
+   "headline": "The saddest moment"
+  },
+  {
+   "text": "Almost fifty years later, in 2013, Italian astronaut Luca Parmitano was on a spacewalk when water began to leak into his helmet. It covered his eyes, nose and ears. Guided by memory and his safety line, he made it back inside.",
+   "visual": {
+    "type": "image",
+    "query": "ISS spacewalk astronaut"
+   },
+   "headline": "Water in the helmet"
+  },
+  {
+   "text": "If you're enjoying this journey, please tap the like button. It's free, and it helps more people find these videos. Now, let's see what months in space do to the human body.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth's City Lights by DMSP, 1994-1995 (large).jpg"
+    ],
+    "query": "Earth at night"
+   }
+  },
+  {
+   "text": "Now my second question. Do you remember watching a launch, a Moon landing or a spacewalk on television? Which one, and who were you with? Your memories are part of this history.",
+   "visual": {
+    "type": "question",
+    "q": "Do you remember watching a launch or spacewalk on TV?",
+    "sub": "Which one, and who were you with?"
+   }
+  },
+  {
+   "text": "Even inside a perfectly safe spacecraft, space changes your body. Without gravity, the fluids in your body float upward. Astronauts get puffy faces and thin legs. They call it puffy face, bird legs.",
+   "visual": {
+    "type": "image",
+    "query": "astronauts inside International Space Station"
+   },
+   "headline": "Puffy face, bird legs",
+   "chapter": "What months in space do to you"
+  },
+  {
+   "text": "Your spine stretches out, too. Astronauts can grow up to about five centimeters taller in orbit, and shrink back when they come home. Some even need their spacesuits adjusted.",
+   "visual": {
+    "type": "image",
+    "query": "ISS interior module"
+   },
+   "headline": "You grow taller"
+  },
+  {
+   "text": "In the first few days, about half of all astronauts feel space sickness: nausea and dizziness, while the inner ear gets used to having no up or down. And because their noses feel stuffy, food tastes bland. Many crews love hot sauce.",
+   "visual": {
+    "type": "image",
+    "query": "astronaut food ISS"
+   },
+   "headline": "Space sickness"
+  },
+  {
+   "text": "Sleep is strange, too. Astronauts sleep in bags tied to the wall, so they don't drift around. And the Station circles the Earth about every ninety minutes, so the crew sees around sixteen sunrises every day.",
+   "visual": {
+    "type": "image",
+    "query": "sunrise from International Space Station"
+   },
+   "headline": "16 sunrises a day"
+  },
+  {
+   "text": "Bones weaken. In weightlessness, astronauts can lose around one percent of the bone in their hips and spine every month, unless they exercise hard, about two hours every day.",
+   "visual": {
+    "type": "card",
+    "big": "~1% a month",
+    "label": "bone lost in weightlessness",
+    "sub": "so astronauts exercise 2 hours a day"
+   }
+  },
+  {
+   "text": "Even eyes can change. Some astronauts come back needing stronger glasses, because the fluid shift presses gently on the back of the eye. Scientists are still studying how to prevent it on long trips, like a journey to Mars.",
+   "visual": {
+    "type": "image",
+    "query": "astronaut eye exam ISS"
+   },
+   "headline": "Even your eyes change"
+  },
+  {
+   "text": "NASA even studied twins to learn more. Astronaut Scott Kelly spent almost a year on the Space Station, while his identical twin brother Mark stayed on Earth. Most of the changes in Scott's body returned to normal after he came home.",
+   "visual": {
+    "type": "image",
+    "query": "International Space Station orbit Earth"
+   },
+   "headline": "The twin study"
+  },
+  {
+   "text": "And after months in space, coming home is hard. Astronauts often need help to walk at first. Their sense of balance has to relearn which way is down.",
+   "visual": {
+    "type": "image",
+    "query": "Soyuz landing capsule"
+   },
+   "headline": "Learning to walk again"
+  },
+  {
+   "text": "So, why would you never survive in space without a spacesuit? Not because you'd explode or freeze, but because, in about fifteen seconds, the emptiness would quietly take the oxygen from your blood.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Earth from space"
+   },
+   "chapter": "Why we still go"
+  },
+  {
+   "text": "And yet, people keep going. Hundreds of men and women have flown to space, and twelve have walked on the Moon, wrapped in suits that are really tiny worlds of their own.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg"
+    ],
+    "query": "Apollo astronaut Moon"
+   }
+  },
+  {
+   "text": "And the suits keep improving. New, more flexible suits are being built for the astronauts who will return to the Moon in the coming years, designed to let them kneel, bend and work far longer than the Apollo crews could.",
+   "visual": {
+    "type": "image",
+    "query": "Artemis spacesuit"
+   },
+   "headline": "Suits for the next Moon landing"
+  },
+  {
+   "text": "Next time you take a deep breath of fresh air, remember: that thin blue layer around our planet is the best spacesuit ever made. And we're all wearing it.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ],
+    "query": "Earth atmosphere limb"
+   },
+   "headline": "The best spacesuit of all"
+  },
+  {
+   "text": "And one last question: if someone offered you a seat to space tomorrow, knowing everything you heard today, would you go? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "If you were offered a seat to space tomorrow, would you go?",
+    "sub": "Yes, no, or only with a very good suit?"
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who dreams about space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never survive next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

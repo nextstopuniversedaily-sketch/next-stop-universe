@@ -137,7 +137,7 @@ def render_long(path, offline=False):
         "ffmpeg", "-y", "-loglevel", "error",
         "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
         "-i", wav, "-map", "0:v", "-map", "1:a",
-        "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-maxrate", "2200k", "-bufsize", "4400k",
+        "-c:v", "libx264", "-preset", "veryfast", "-crf", os.environ.get("LONG_CRF", "26"), "-maxrate", "1800k", "-bufsize", "3600k",
         "-pix_fmt", "yuv420p", "-af", "loudnorm=I=-15:TP=-1.5:LRA=11",
         "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-shortest", "-movflags", "+faststart", tmp,
     ], stdin=subprocess.PIPE)
@@ -183,7 +183,7 @@ def render_long(path, offline=False):
             frame = base.crop(box).resize((W, H), Image.BILINEAR).convert("RGBA")
 
             if vt == "title":
-                R.paste_center(frame, T("NEXT STOP: UNIVERSE", R.FONT_BOLD, 40, color=(10, 20, 40), stroke=0,
+                R.paste_center(frame, T(ep.get("kicker", "NEXT STOP: UNIVERSE"), R.FONT_BOLD, 40, color=(10, 20, 40), stroke=0,
                                         box=R.ACCENT + (255,)), 300, alpha=R.ease(t / 0.5))
                 R.paste_center(frame, T(ep["screen_title"].upper(), R.FONT_BLACK,
                                         R.fit(ep["screen_title"].upper(), R.FONT_BLACK, 120, 1700, 80), max_w=1750),
@@ -278,7 +278,10 @@ def file_hash(path):
 
 
 def needs_render(path):
-    slug = json.load(open(path))["slug"]
+    ep = json.load(open(path))
+    if ep.get("frozen"):  # already published; never re-render
+        return False
+    slug = ep["slug"]
     meta = os.path.join(ROOT, "videos", "long", slug + ".meta.json")
     return not os.path.exists(meta) or json.load(open(meta)).get("hash") != file_hash(path)
 
