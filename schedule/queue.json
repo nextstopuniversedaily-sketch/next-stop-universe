@@ -50,161 +50,6 @@
   "postUrl": "https://www.youtube.com/watch?v=5tMxlOmip0I"
  },
  {
-  "id": "long-never-survive-every-planet",
-  "kind": "long",
-  "publishAt": "2026-11-23T18:00:00-06:00",
-  "status": "pending",
-  "series": "Why You'd Never",
-  "thumbnail": "previews/thumb-never-survive-every-planet.jpg",
-  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
- },
- {
-  "id": "long-never-get-close-black-hole",
-  "kind": "long",
-  "publishAt": "2026-11-25T18:00:00-06:00",
-  "status": "pending",
-  "series": "Why You'd Never",
-  "thumbnail": "previews/thumb-never-get-close-black-hole.jpg",
-  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
- },
- {
-  "id": "long-never-survive-space-without-suit",
-  "kind": "long",
-  "publishAt": "2026-11-27T18:00:00-06:00",
-  "status": "pending",
-  "series": "Why You'd Never",
-  "thumbnail": "previews/thumb-never-survive-space-without-suit.jpg",
-  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
- },
- {
-  "id": "long-dead-stars",
-  "kind": "retry",
-  "publishAt": "2026-11-22T18:00:00-06:00",
-  "title": "Black Holes, Neutron Stars & Exploding Stars: 9 Stops ✨🕳️ | Next Stop: Universe",
-  "intro": "The most extreme objects in the universe, back to back: black holes, neutron stars, magnetars, Betelgeuse, supernovas, the black hole at the center of our galaxy, the biggest stars, gamma-ray bursts and how the Sun will die.",
-  "tags": [
-   "black hole",
-   "neutron star",
-   "magnetar",
-   "supernova",
-   "betelgeuse",
-   "sagittarius a*",
-   "gamma ray burst",
-   "biggest star",
-   "how the sun will die",
-   "star death",
-   "space",
-   "universe",
-   "astronomy",
-   "space documentary",
-   "nasa",
-   "space facts",
-   "science",
-   "cosmos",
-   "next stop universe",
-   "journey through the universe"
-  ],
-  "hashtags": "#blackhole #supernova #space #astronomy #nasa",
-  "status": "pending",
-  "postId": "444421f5-1fbc-429e-aa66-2ebc477b91a0",
-  "note": "2026-11-20 publish refused: vidIQ allows only 3 YouTube uploads/day on the free plan (resets midnight PT); publicationId 57ad6bf0-2421-4680-8561-9d23278f046c; retry next run"
- },
- {
-  "id": "long-weird-planets",
-  "kind": "long",
-  "publishAt": "2026-11-24T18:00:00-06:00",
-  "title": "The Weirdest Planets Ever Discovered 🔥🪐 | Next Stop: Universe",
-  "intro": "Iron rain, glass storms, planets with no sun, a diamond star, planets around a dead star, the first exoplanet, TRAPPIST-1 and Proxima b: the strangest worlds we have found beyond our solar system.",
-  "tags": [
-   "weird planets",
-   "exoplanets",
-   "wasp-76b",
-   "hd 189733b",
-   "rogue planets",
-   "diamond planet",
-   "pulsar planets",
-   "51 pegasi b",
-   "trappist-1",
-   "proxima b",
-   "strange planets",
-   "space",
-   "universe",
-   "astronomy",
-   "space documentary",
-   "nasa",
-   "space facts",
-   "science",
-   "cosmos",
-   "next stop universe",
-   "journey through the universe"
-  ],
-  "hashtags": "#exoplanets #planets #space #astronomy #jwst",
-  "status": "pending"
- },
- {
-  "id": "long-biggest-mysteries",
-  "kind": "long",
-  "publishAt": "2026-11-26T18:00:00-06:00",
-  "title": "The Biggest Unsolved Mysteries of the Universe 👽 | Next Stop: Universe",
-  "intro": "Dark matter, dark energy, the Wow! signal, fast radio bursts, the Fermi paradox, interstellar visitors, Tabby's star, the Boötes Void and the Great Attractor: 9 mysteries scientists still can't fully explain.",
-  "tags": [
-   "mysteries of the universe",
-   "dark matter",
-   "dark energy",
-   "wow signal",
-   "fast radio bursts",
-   "fermi paradox",
-   "oumuamua",
-   "tabby's star",
-   "bootes void",
-   "great attractor",
-   "unsolved mysteries",
-   "space",
-   "universe",
-   "astronomy",
-   "space documentary",
-   "nasa",
-   "space facts",
-   "science",
-   "cosmos",
-   "next stop universe",
-   "journey through the universe"
-  ],
-  "hashtags": "#mystery #universe #space #aliens #astronomy",
-  "status": "pending"
- },
- {
-  "id": "long-edge-of-universe",
-  "kind": "long",
-  "publishAt": "2026-11-28T18:00:00-06:00",
-  "title": "Journey to the Edge of the Universe 🌌 | Next Stop: Universe",
-  "intro": "From our Milky Way to Andromeda, the oldest light, the Big Bang, the most distant galaxies seen by the James Webb telescope, the edge of the observable universe, gravitational waves and how the universe will end.",
-  "tags": [
-   "edge of the universe",
-   "observable universe",
-   "milky way",
-   "andromeda",
-   "big bang",
-   "james webb",
-   "cosmic microwave background",
-   "end of the universe",
-   "gravitational waves",
-   "cosmology",
-   "space",
-   "universe",
-   "astronomy",
-   "space documentary",
-   "nasa",
-   "space facts",
-   "science",
-   "cosmos",
-   "next stop universe",
-   "journey through the universe"
-  ],
-  "hashtags": "#universe #bigbang #jwst #space #astronomy",
-  "status": "pending"
- },
- {
   "id": "ep029",
   "kind": "retry",
   "postId": "d4e12d4b-efed-495a-aac2-03ef823ed7d5",
@@ -283,6 +128,161 @@
   "publishAt": "2026-12-20T07:00:00-06:00",
   "status": "scheduled",
   "postUrl": "https://www.youtube.com/watch?v=x6XLPaTpFdo"
+ },
+ {
+  "id": "long-dead-stars",
+  "kind": "retry",
+  "publishAt": "2026-11-22T18:00:00-06:00",
+  "title": "Black Holes, Neutron Stars & Exploding Stars: 9 Stops ✨🕳️ | Next Stop: Universe",
+  "intro": "The most extreme objects in the universe, back to back: black holes, neutron stars, magnetars, Betelgeuse, supernovas, the black hole at the center of our galaxy, the biggest stars, gamma-ray bursts and how the Sun will die.",
+  "tags": [
+   "black hole",
+   "neutron star",
+   "magnetar",
+   "supernova",
+   "betelgeuse",
+   "sagittarius a*",
+   "gamma ray burst",
+   "biggest star",
+   "how the sun will die",
+   "star death",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#blackhole #supernova #space #astronomy #nasa",
+  "status": "pending",
+  "postId": "444421f5-1fbc-429e-aa66-2ebc477b91a0",
+  "note": "2026-11-20 publish refused: vidIQ allows only 3 YouTube uploads/day on the free plan (resets midnight PT); publicationId 57ad6bf0-2421-4680-8561-9d23278f046c; retry next run"
+ },
+ {
+  "id": "long-never-survive-every-planet",
+  "kind": "long",
+  "publishAt": "2026-11-23T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-every-planet.jpg",
+  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
+  "id": "long-weird-planets",
+  "kind": "long",
+  "publishAt": "2026-11-24T18:00:00-06:00",
+  "title": "The Weirdest Planets Ever Discovered 🔥🪐 | Next Stop: Universe",
+  "intro": "Iron rain, glass storms, planets with no sun, a diamond star, planets around a dead star, the first exoplanet, TRAPPIST-1 and Proxima b: the strangest worlds we have found beyond our solar system.",
+  "tags": [
+   "weird planets",
+   "exoplanets",
+   "wasp-76b",
+   "hd 189733b",
+   "rogue planets",
+   "diamond planet",
+   "pulsar planets",
+   "51 pegasi b",
+   "trappist-1",
+   "proxima b",
+   "strange planets",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#exoplanets #planets #space #astronomy #jwst",
+  "status": "pending"
+ },
+ {
+  "id": "long-never-get-close-black-hole",
+  "kind": "long",
+  "publishAt": "2026-11-25T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-get-close-black-hole.jpg",
+  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
+  "id": "long-biggest-mysteries",
+  "kind": "long",
+  "publishAt": "2026-11-26T18:00:00-06:00",
+  "title": "The Biggest Unsolved Mysteries of the Universe 👽 | Next Stop: Universe",
+  "intro": "Dark matter, dark energy, the Wow! signal, fast radio bursts, the Fermi paradox, interstellar visitors, Tabby's star, the Boötes Void and the Great Attractor: 9 mysteries scientists still can't fully explain.",
+  "tags": [
+   "mysteries of the universe",
+   "dark matter",
+   "dark energy",
+   "wow signal",
+   "fast radio bursts",
+   "fermi paradox",
+   "oumuamua",
+   "tabby's star",
+   "bootes void",
+   "great attractor",
+   "unsolved mysteries",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#mystery #universe #space #aliens #astronomy",
+  "status": "pending"
+ },
+ {
+  "id": "long-never-survive-space-without-suit",
+  "kind": "long",
+  "publishAt": "2026-11-27T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-space-without-suit.jpg",
+  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
+  "id": "long-edge-of-universe",
+  "kind": "long",
+  "publishAt": "2026-11-28T18:00:00-06:00",
+  "title": "Journey to the Edge of the Universe 🌌 | Next Stop: Universe",
+  "intro": "From our Milky Way to Andromeda, the oldest light, the Big Bang, the most distant galaxies seen by the James Webb telescope, the edge of the observable universe, gravitational waves and how the universe will end.",
+  "tags": [
+   "edge of the universe",
+   "observable universe",
+   "milky way",
+   "andromeda",
+   "big bang",
+   "james webb",
+   "cosmic microwave background",
+   "end of the universe",
+   "gravitational waves",
+   "cosmology",
+   "space",
+   "universe",
+   "astronomy",
+   "space documentary",
+   "nasa",
+   "space facts",
+   "science",
+   "cosmos",
+   "next stop universe",
+   "journey through the universe"
+  ],
+  "hashtags": "#universe #bigbang #jwst #space #astronomy",
+  "status": "pending"
  },
  {
   "id": "ep041",
@@ -403,6 +403,216 @@
   "kind": "episode",
   "publishAt": "2027-01-09T07:00:00-06:00",
   "status": "pending"
+ },
+ {
+  "id": "ep061",
+  "kind": "episode",
+  "publishAt": "2027-01-10T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep062",
+  "kind": "episode",
+  "publishAt": "2027-01-11T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep063",
+  "kind": "episode",
+  "publishAt": "2027-01-12T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep064",
+  "kind": "episode",
+  "publishAt": "2027-01-13T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep065",
+  "kind": "episode",
+  "publishAt": "2027-01-14T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep066",
+  "kind": "episode",
+  "publishAt": "2027-01-15T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep067",
+  "kind": "episode",
+  "publishAt": "2027-01-16T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep068",
+  "kind": "episode",
+  "publishAt": "2027-01-17T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep069",
+  "kind": "episode",
+  "publishAt": "2027-01-18T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep070",
+  "kind": "episode",
+  "publishAt": "2027-01-19T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep071",
+  "kind": "episode",
+  "publishAt": "2027-01-20T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep072",
+  "kind": "episode",
+  "publishAt": "2027-01-21T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep073",
+  "kind": "episode",
+  "publishAt": "2027-01-22T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep074",
+  "kind": "episode",
+  "publishAt": "2027-01-23T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep075",
+  "kind": "episode",
+  "publishAt": "2027-01-24T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep076",
+  "kind": "episode",
+  "publishAt": "2027-01-25T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep077",
+  "kind": "episode",
+  "publishAt": "2027-01-26T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep078",
+  "kind": "episode",
+  "publishAt": "2027-01-27T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep079",
+  "kind": "episode",
+  "publishAt": "2027-01-28T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep080",
+  "kind": "episode",
+  "publishAt": "2027-01-29T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep081",
+  "kind": "episode",
+  "publishAt": "2027-01-30T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep082",
+  "kind": "episode",
+  "publishAt": "2027-01-31T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep083",
+  "kind": "episode",
+  "publishAt": "2027-02-01T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep084",
+  "kind": "episode",
+  "publishAt": "2027-02-02T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep085",
+  "kind": "episode",
+  "publishAt": "2027-02-03T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep086",
+  "kind": "episode",
+  "publishAt": "2027-02-04T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep087",
+  "kind": "episode",
+  "publishAt": "2027-02-05T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep088",
+  "kind": "episode",
+  "publishAt": "2027-02-06T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep089",
+  "kind": "episode",
+  "publishAt": "2027-02-07T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
+ },
+ {
+  "id": "ep090",
+  "kind": "episode",
+  "publishAt": "2027-02-08T07:00:00-06:00",
+  "status": "pending",
+  "notBefore": "2026-11-27"
  },
  {
   "id": "ep091",
@@ -625,215 +835,5 @@
   "kind": "episode",
   "publishAt": "2027-03-17T07:00:00-06:00",
   "status": "pending"
- },
- {
-  "id": "ep061",
-  "kind": "episode",
-  "publishAt": "2027-01-10T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep062",
-  "kind": "episode",
-  "publishAt": "2027-01-11T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep063",
-  "kind": "episode",
-  "publishAt": "2027-01-12T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep064",
-  "kind": "episode",
-  "publishAt": "2027-01-13T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep065",
-  "kind": "episode",
-  "publishAt": "2027-01-14T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep066",
-  "kind": "episode",
-  "publishAt": "2027-01-15T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep067",
-  "kind": "episode",
-  "publishAt": "2027-01-16T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep068",
-  "kind": "episode",
-  "publishAt": "2027-01-17T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep069",
-  "kind": "episode",
-  "publishAt": "2027-01-18T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep070",
-  "kind": "episode",
-  "publishAt": "2027-01-19T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep071",
-  "kind": "episode",
-  "publishAt": "2027-01-20T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep072",
-  "kind": "episode",
-  "publishAt": "2027-01-21T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep073",
-  "kind": "episode",
-  "publishAt": "2027-01-22T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep074",
-  "kind": "episode",
-  "publishAt": "2027-01-23T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep075",
-  "kind": "episode",
-  "publishAt": "2027-01-24T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep076",
-  "kind": "episode",
-  "publishAt": "2027-01-25T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep077",
-  "kind": "episode",
-  "publishAt": "2027-01-26T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep078",
-  "kind": "episode",
-  "publishAt": "2027-01-27T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep079",
-  "kind": "episode",
-  "publishAt": "2027-01-28T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep080",
-  "kind": "episode",
-  "publishAt": "2027-01-29T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep081",
-  "kind": "episode",
-  "publishAt": "2027-01-30T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep082",
-  "kind": "episode",
-  "publishAt": "2027-01-31T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep083",
-  "kind": "episode",
-  "publishAt": "2027-02-01T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep084",
-  "kind": "episode",
-  "publishAt": "2027-02-02T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep085",
-  "kind": "episode",
-  "publishAt": "2027-02-03T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep086",
-  "kind": "episode",
-  "publishAt": "2027-02-04T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep087",
-  "kind": "episode",
-  "publishAt": "2027-02-05T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep088",
-  "kind": "episode",
-  "publishAt": "2027-02-06T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep089",
-  "kind": "episode",
-  "publishAt": "2027-02-07T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
- },
- {
-  "id": "ep090",
-  "kind": "episode",
-  "publishAt": "2027-02-08T07:00:00-06:00",
-  "status": "pending",
-  "notBefore": "2026-11-27"
  }
 ]
