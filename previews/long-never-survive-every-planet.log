@@ -1,0 +1,117 @@
+[0;93m2026-11-21 03:28:21.583653498 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive a Day on Every Planet
+  audio 801.0s (13.35 min)
+  - skip File:Solar System true color.jpg: license 'CC BY-SA 4.0'
+  - skip File:Solar_System_True_Color_EN.png: license 'CC BY-SA 4.0'
+  NASA 'solar system planets' -> PIA12365: A Color View of the Solar System Innermost Planet
+  segment 1/59 [title] 17.5s
+  WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
+  segment 2/59 [image] 14.3s
+  WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
+  segment 3/59 [image] 11.3s
+  WIKI File:Mercury_in_true_color.jpg (Public domain)
+  segment 4/59 [image] 10.9s
+  WIKI File:MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg (Public domain)
+  segment 5/59 [image] 11.3s
+  segment 6/59 [card] 12.3s
+  segment 7/59 [card] 10.5s
+  NASA 'Mercury north pole ice craters MESSENGER' -> PIA19247: Hot and Cold
+  segment 8/59 [image] 20.5s
+  NASA 'Mercury limb MESSENGER' -> PIA12842: Spectacular Color . . . with Better Yet to Come
+  segment 9/59 [image] 20.1s
+  WIKI File:Venus-real color.jpg (Public domain)
+  segment 10/59 [image] 11.9s
+  ! no usable NASA image for 'Venus clouds ultraviolet Akatsuki'
+  segment 11/59 [image] 9.6s
+  segment 12/59 [card] 12.5s
+  segment 13/59 [card] 13.8s
+  - skip File:1982_CPA_5278.jpg: looks like a chart/blank
+  ! no usable NASA image for 'Venera 13 lander'
+  segment 14/59 [image] 17.1s
+  WIKI File:Venus_from_Mariner_10.jpg (Public domain)
+  segment 15/59 [image] 11.2s
+  ! no usable NASA image for 'Venus cloud city airship concept'
+  segment 16/59 [image] 13.5s
+  ! no usable NASA image for 'Venus surface Venera panorama'
+  segment 17/59 [image] 12.4s
+  segment 18/59 [question] 12.7s
+  WIKI File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png (CC BY 2.0)
+  segment 19/59 [image] 11.0s
+  segment 20/59 [card] 9.3s
+  - skip File:Curiosity_Cradled_by_Gale_Crater.jpg: license ''
+  NASA 'Curiosity rover Mars landscape' -> PIA17947: Martian Landscape with Rock Rows and Mount Sharp
+  segment 21/59 [image] 16.4s
+  NASA 'Mars surface Perseverance panorama' -> PIA24921: Detailed Panorama of Mars' Jezero Crater Delta
+  segment 22/59 [image] 14.0s
+  WIKI File:Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png (CC BY 2.0)
+  segment 23/59 [image] 18.8s
+  NASA 'Perseverance rover Mars selfie' -> PIA26344: Perseverance's Selfie With 'Cheyava Falls'
+  segment 24/59 [image] 13.9s
+  WIKI File:MarsSunset.jpg (Public domain)
+  segment 25/59 [image] 11.6s
+  WIKI File:Jupiter_OPAL_2024.png (Public domain)
+  segment 26/59 [image] 13.3s
+  NASA 'Jupiter clouds Juno close up' -> PIA22687: Jupiter's Swirling Cloudscape
+  segment 27/59 [image] 13.8s
+  segment 28/59 [card] 13.3s
+  WIKI File:Artwork_Galileo-Io-Jupiter.JPG (Public domain)
+  segment 29/59 [image] 15.5s
+  WIKI File:Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_(49803032983).png (CC BY 2.0)
+  segment 30/59 [image] 11.1s
+  WIKI File:Europa_-_Perijove_45_(cropped).png (CC BY 2.0)
+  segment 31/59 [image] 13.9s
+  NASA 'Jupiter aurora Hubble' -> hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o: Hubble Captures Vivid Auroras in Jupiter’s Atmosphere
+  segment 32/59 [image] 16.9s
+  WIKI File:Jupiter Family of Moons by Juno.png (Public domain)
+  segment 33/59 [image] 14.1s
+  WIKI File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png (Public domain)
+  segment 34/59 [image] 15.3s
+  WIKI File:Saturn_-_July_24_2013_(48594309686).jpg (CC BY 2.0)
+  segment 35/59 [image] 15.6s
+  WIKI File:PIA17172_Saturn_eclipse_mosaic_bright_crop.jpg (Public domain)
+  segment 36/59 [image] 15.2s
+  WIKI File:Cassini_Saturn_Orbit_Insertion.jpg (Public domain)
+  segment 37/59 [image] 17.3s
+  WIKI File:Titan_in_true_color_by_Kevin_M._Gill.jpg (CC BY 2.0)
+  segment 38/59 [image] 9.8s
+  - skip File:Huygens_probe_model.jpg: license 'CC BY-SA 3.0'
+  NASA 'Titan surface Huygens' -> KSC-11415f03: KSC-11415f03
+  segment 39/59 [image] 13.9s
+  WIKI File:PIA17655_Kraken_Mare_crop_no_labels.jpg (Public domain)
+  segment 40/59 [image] 12.9s
+  WIKI File:Uranus_Voyager2_color_calibrated.png (CC0)
+  segment 41/59 [image] 10.6s
+  ! no usable NASA image for 'Uranus rings Webb'
+  segment 42/59 [image] 12.8s
+  segment 43/59 [card] 8.6s
+  WIKI File:Voyager_spacecraft_model.png (Public domain)
+  segment 44/59 [image] 18.4s
+  NASA 'Uranus Keck infrared' -> PIA17306: Keck Telescope views of Uranus
+  segment 45/59 [image] 15.9s
+  WIKI File:Neptune_Voyager2_color_calibrated.png (CC0)
+  segment 46/59 [image] 10.9s
+  segment 47/59 [card] 10.4s
+  NASA 'Neptune Great Dark Spot Voyager' -> PIA01492: PIA01492
+  segment 48/59 [image] 14.1s
+  ! no usable NASA image for 'Neptune Webb rings'
+  segment 49/59 [image] 18.3s
+  WIKI File:Triton-usgs23-with-frame.jpg (CC BY 4.0)
+  segment 50/59 [image] 14.0s
+  WIKI File:Pluto_in_True_Color_-_High-Res.png (Public domain)
+  segment 51/59 [image] 14.7s
+  WIKI File:Charon_in_True_Color_-_High-Res.png (Public domain)
+  segment 52/59 [image] 11.0s
+  WIKI File:New_Horizons_spacecraft_model_1.png (Public domain)
+  segment 53/59 [image] 17.6s
+  segment 54/59 [card] 12.5s
+  segment 55/59 [card] 9.4s
+  segment 56/59 [question] 10.3s
+  WIKI File:Earth, Moon and Lunar Module, AS11-44-6643.jpg (Public domain)
+  segment 57/59 [image] 12.6s
+  WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
+  segment 58/59 [image] 9.4s
+  WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
+  segment 59/59 [end] 19.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-every-planet.mp4 (53.7 MB, 13.35 min)
+  WIKI File:Venus-real color.jpg (Public domain)
+thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-survive-every-planet.jpg
