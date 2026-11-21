@@ -28,3 +28,8 @@ first 10 seconds, and the whole Short is about 60 seconds.
 - First line repeats the title question (it shows in search and under the video).
 
 Note: episodes/ep041–ep127 JSON files were edited directly to follow this guide; the old generator scripts are not the source of truth anymore.
+
+## Thumbnails
+- Long videos: full colour, saturated, one clear glowing subject on a dark background, 2–3 huge words on two lines (white line + yellow line), tiny astronaut with an arrow. Never charts, maps, grey or busy images. (`"style": "etched"` in the thumbnail spec brings back the old black-and-white look.)
+- Shorts can't have uploaded thumbnails: the opening frame (best image + the question) is the thumbnail, so segment 1 gets the most beautiful image.
+- Custom thumbnails only show on YouTube once the channel is verified (youtube.com/verify).

@@ -17,13 +17,14 @@ writes previews/thumb-<slug>.jpg
 import json, math, os, sys
 
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter, ImageOps
+from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageOps
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R  # noqa: E402
 
 TW, TH = 1280, 720
 ACCENT = (255, 92, 51)
+YELLOW = (255, 214, 0)
 
 
 def get_image(spec, offline):
@@ -103,26 +104,44 @@ def arrow(d, start, end, color, width=9):
         d.line((x1, y1, x1 + L * math.cos(ang + da), y1 + L * math.sin(ang + da)), fill=color, width=width)
 
 
-def make(path, offline=False):
+def vivid(img):
+    """Full-colour, punchy look: more saturation and contrast, a slight glow and a dark vignette."""
+    im = img.convert("RGB")
+    im = ImageOps.autocontrast(im, cutoff=1)
+    im = ImageEnhance.Color(im).enhance(1.45)
+    im = ImageEnhance.Contrast(im).enhance(1.18)
+    im = im.filter(ImageFilter.UnsharpMask(radius=3, percent=140, threshold=2))
+    glow = im.filter(ImageFilter.GaussianBlur(18))
+    im = Image.blend(im, ImageChops.screen(im, glow), 0.35)
+    a = np.asarray(im, np.float32) / 255.0
+    yy, xx = np.mgrid[0:TH, 0:TW]
+    v = 1 - 0.6 * (((xx - TW / 2) / (TW / 2)) ** 2 + ((yy - TH / 2) / (TH / 2)) ** 2) / 2
+    top = np.clip(1 - 0.55 * np.clip(1 - yy / (TH * 0.42), 0, 1), 0, 1)   # darker top band so the text pops
+    a = a * np.clip(v, 0.3, 1)[..., None] * top[..., None]
+    return Image.fromarray((np.clip(a, 0, 1) * 255).astype(np.uint8))
+
+
+def make(path, offline=False, source=None):
     ep = json.load(open(path))
     spec = ep["thumbnail"]
-    img = get_image(spec, offline)
+    img = source if source is not None else get_image(spec, offline)
     if img is None:
         img = R.starfield(5, TW * 2, TH * 2).resize((TW, TH))
-    canvas = etched(cover(img, tuple(spec.get("focus", (0.5, 0.5))), spec.get("zoom", 1.0))).convert("RGBA")
+    look = etched if spec.get("style") == "etched" else vivid
+    canvas = look(cover(img, tuple(spec.get("focus", (0.5, 0.5))), spec.get("zoom", 1.0))).convert("RGBA")
     d = ImageDraw.Draw(canvas)
 
     # hook text, top-left, Inter Black with heavy outline
     white, accent = spec["white"], spec["accent"]
-    size = 104
+    size = 150
     fnt = R.font(R.FONT_BLACK, size)
-    while fnt.getlength(white + " " + accent) > TW - 90 and size > 60:
-        size -= 4
+    while max(fnt.getlength(white), fnt.getlength(accent)) > TW * 0.62 and size > 80:
+        size -= 6
         fnt = R.font(R.FONT_BLACK, size)
-    x, y = 46, 34
-    for txt, col in ((white + " ", (255, 255, 255)), (accent, ACCENT)):
-        d.text((x, y), txt, font=fnt, fill=col, stroke_width=8, stroke_fill=(0, 0, 0))
-        x += fnt.getlength(txt)
+    x, y = 50, 28
+    for txt, col in ((white, (255, 255, 255)), (accent, YELLOW)):
+        d.text((x, y), txt, font=fnt, fill=col, stroke_width=12, stroke_fill=(0, 0, 0))
+        y += int(size * 1.02)
 
     # tiny astronaut + arrow pointing at it
     ax, ay = spec.get("astronaut", (0.3, 0.68))
