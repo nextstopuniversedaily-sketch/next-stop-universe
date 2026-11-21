@@ -1,7 +1,8 @@
+[0;93m2026-11-21 21:48:29.357109067 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 74: Cosmic Rays
-  audio 77.7s
+  audio 76.3s
   WIKI File:Aurora Australis From ISS.JPG (Public domain)
-  segment 1/10 [title] 4.0s
+  segment 1/10 [title] 6.2s
   - skip File:Hess & co 1912.jpg: license 'FAL'
   WIKI File:Captain H.C. Gray Balloon Basket - DPLA - bab59faf69932dc71a2a98720256a9ed (page 2).jpg (CC0)
   segment 2/10 [image] 9.3s
@@ -33,5 +34,5 @@
   - skip File:The IceCube Neutrino Observatory.jpg: looks like a chart/blank
   - skip File:Top-view-of-the-IceCube-Neutrino-Observatory-The-IceCube-InIce-strings-and-IceTop.png: looks like a chart/blank
   WIKI File:The ICL at Dawn.jpg (CC BY 4.0)
-  segment 10/10 [end] 11.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep074.mp4 (27.0 MB)
+  segment 10/10 [end] 7.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep074.mp4 (25.6 MB)
