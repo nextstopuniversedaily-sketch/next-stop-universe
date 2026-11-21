@@ -1,7 +1,8 @@
+[0;93m2026-11-21 22:09:53.028040266 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 86: Dark Matter
-  audio 71.1s
+  audio 70.2s
   WIKI File:Abell 1689.jpg (CC BY 3.0)
-  segment 1/10 [title] 3.7s
+  segment 1/10 [title] 3.6s
   WIKI File:Coma Cluster (noirlab2420a).jpg (CC BY 4.0)
   segment 2/10 [image] 8.3s
   WIKI File:UGC 1810 and UGC 1813 in Arp 273 (captured by the Hubble Space Telescope).jpg (Public domain)
@@ -21,5 +22,5 @@
   WIKI File:Vera C Rubin Observatory in the Snow (IMG 0315-CC).jpg (CC BY 4.0)
   segment 9/10 [image] 7.1s
   WIKI File:2023-10-14 eclipse around annularity.jpg (CC BY 4.0)
-  segment 10/10 [end] 9.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep086.mp4 (18.8 MB)
+  segment 10/10 [end] 8.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep086.mp4 (18.7 MB)
