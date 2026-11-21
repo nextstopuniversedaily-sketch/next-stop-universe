@@ -1,28 +1,28 @@
-[0;93m2026-11-19 16:32:35.872385717 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:48:35.845883813 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 108: Comets vs Asteroids
-  audio 74.2s
+  audio 70.9s
   - skip File:Kométa C-2020 F3 (NEOWISE).jpg: license 'CC BY-SA 4.0'
   WIKI File:Comet NEOWISE above Strzelce Dolne.jpg (CC BY 4.0)
-  segment 1/10 [title] 5.5s
+  segment 1/10 [title] 5.6s
   WIKI File:Bennu mosaic OSIRIS-REx (square).png (Public domain)
-  segment 2/10 [image] 7.0s
+  segment 2/10 [image] 7.1s
   WIKI File:PIA02475 Eros' Bland Butterscotch Colors.jpg (Public domain)
-  segment 3/10 [image] 7.0s
+  segment 3/10 [image] 7.1s
   - skip File:Comet 67P on 19 September 2014 NavCam mosaic.jpg: license 'CC BY-SA 3.0 igo'
   - skip File:Comet 67P Churyumov–Gerasimenko (Rosetta).png: license 'CC BY-SA 3.0 igo'
   - skip File:Rosetta rendezvous with a comet.jpg: license 'CC BY-SA 3.0 igo'
   WIKI File:Rosetta view of comet 67P-Churyumov–Gerasimenko (eso2001c).jpg (CC BY 4.0)
-  segment 4/10 [image] 6.6s
+  segment 4/10 [image] 6.5s
   segment 5/10 [card] 8.9s
   - skip File:Comet_Hale-Bopp_1995O1.jpg: license 'CC BY-SA 3.0'
   ! no usable NASA image for 'Comet Hale-Bopp tails'
-  segment 6/10 [image] 7.0s
+  segment 6/10 [image] 7.1s
   - skip File:Kométa C-2020 F3 (NEOWISE).jpg: license 'CC BY-SA 4.0'
   WIKI File:Comet NEOWISE above Strzelce Dolne.jpg (CC BY 4.0)
   segment 7/10 [image] 4.8s
   WIKI File:Hubble sees boulders escaping from asteroid Dimorphos (heic2307a).jpg (CC BY 4.0)
-  segment 8/10 [image] 9.1s
+  segment 8/10 [image] 9.0s
   segment 9/10 [card] 5.9s
   WIKI File:Willamette meteorite at Dorothy and Lewis B. Cullman Hall of the Universe.jpg (CC BY 4.0)
-  segment 10/10 [end] 12.2s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep108.mp4 (19.7 MB)
+  segment 10/10 [end] 8.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep108.mp4 (18.5 MB)
