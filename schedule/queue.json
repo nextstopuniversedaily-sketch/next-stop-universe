@@ -50,6 +50,33 @@
   "postUrl": "https://www.youtube.com/watch?v=5tMxlOmip0I"
  },
  {
+  "id": "long-never-survive-every-planet",
+  "kind": "long",
+  "publishAt": "2026-11-23T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-every-planet.jpg",
+  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
+  "id": "long-never-get-close-black-hole",
+  "kind": "long",
+  "publishAt": "2026-11-25T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-get-close-black-hole.jpg",
+  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
+  "id": "long-never-survive-space-without-suit",
+  "kind": "long",
+  "publishAt": "2026-11-27T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-space-without-suit.jpg",
+  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
   "id": "long-dead-stars",
   "kind": "retry",
   "publishAt": "2026-11-22T18:00:00-06:00",
