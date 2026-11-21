@@ -43,17 +43,15 @@
  ],
  "thumbnail": {
   "files": [
-   "Black hole - Messier 87 crop max res.jpg"
+   "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
   ],
-  "wiki": [
-   "Black hole"
-  ],
+  "wiki": [],
   "query": "black hole M87",
   "white": "IT PULLS",
   "accent": "YOU IN..",
   "astronaut": [
-   0.78,
-   0.7
+   0.8,
+   0.72
   ],
   "focus": [
    0.5,
@@ -88,10 +86,10 @@
    "text": "First, what is a black hole? Imagine a star much bigger than our Sun. For millions of years it shines by fusing atoms in its core. But one day, the fuel runs out.",
    "visual": {
     "type": "image",
-    "wiki": [
-     "Betelgeuse"
-    ],
-    "query": "giant star artist concept"
+    "files": [
+     "Betelgeuse and wake of its companion star (artist's concept) (opo2602).jpg",
+     "Betelgeuse’s Great Dimming Event in high resolution (potw2343a).jpg"
+    ]
    },
    "headline": "A giant star",
    "chapter": "How a black hole is born"
@@ -158,7 +156,10 @@
    "text": "The idea is older than you might think. In 1783, an English clergyman named John Michell imagined dark stars whose gravity was too strong for light to escape. The name black hole only became popular in the late 1960s, thanks to the physicist John Wheeler.",
    "visual": {
     "type": "image",
-    "query": "night sky stars telescope observatory"
+    "files": [
+     "Orion Constellation (2006-01-1836).jpg",
+     "Night Sky from Hawai‘i and Chile (iotw2225c).jpg"
+    ]
    },
    "headline": "An idea from 1783"
   },
@@ -166,10 +167,10 @@
    "text": "So where is the nearest black hole? For a long time we didn't know. Then in 2022, the European Gaia space telescope found one by watching a star wobble around something invisible.",
    "visual": {
     "type": "image",
-    "wiki": [
-     "Gaia (spacecraft)"
-    ],
-    "query": "Gaia spacecraft"
+    "files": [
+     "Laser Towards Milky Ways Centre.jpg",
+     "Galactic Cntr full cropped.jpg"
+    ]
    },
    "headline": "Gaia BH1",
    "chapter": "The nearest black hole"
@@ -208,7 +209,9 @@
    "text": "In 2022, astronomers found the first black hole drifting completely alone, about five thousand light years away. They spotted it because its gravity bent and brightened the light of a star behind it, like a lens.",
    "visual": {
     "type": "image",
-    "query": "Hubble gravitational microlensing"
+    "files": [
+     "Galactic Cntr full cropped.jpg"
+    ]
    },
    "headline": "A lonely wanderer"
   },
@@ -216,7 +219,9 @@
    "text": "And in 2024, Gaia found an even bigger one nearby, called Gaia BH three. It weighs about thirty-three times as much as our Sun, the heaviest black hole made from a single star that we know of in our galaxy.",
    "visual": {
     "type": "image",
-    "query": "black hole binary star illustration ESO"
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ]
    },
    "headline": "Gaia BH3"
   },
@@ -224,7 +229,9 @@
    "text": "As we approach, the first thing you'd notice is... nothing. A black hole gives off no light. You'd see only a perfect black circle, with the stars behind it bent and smeared into rings, as gravity bends their light.",
    "visual": {
     "type": "image",
-    "query": "gravitational lensing black hole simulation"
+    "files": [
+     "Black hole - Messier 87 crop max res.jpg"
+    ]
    },
    "headline": "Light bends",
    "chapter": "Getting closer"
@@ -254,10 +261,9 @@
    "text": "The real danger comes when a black hole has company. Gas from a nearby star spirals around it in a disk, rubbing and heating up to millions of degrees, and blasting out X-rays.",
    "visual": {
     "type": "image",
-    "wiki": [
-     "Cygnus X-1"
-    ],
-    "query": "Cygnus X-1 illustration"
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ]
    },
    "headline": "A disk of fire"
   },
@@ -265,7 +271,10 @@
    "text": "That's how we found the first black hole, Cygnus X one, in the early 1970s, by its X-rays. Stephen Hawking even made a friendly bet that it was not a black hole. In 1990, he admitted he'd lost.",
    "visual": {
     "type": "image",
-    "query": "Chandra X-ray black hole binary"
+    "files": [
+     "NASA's Chandra Releases 'Red, White, and Blue' Universe for US 250th (Cassiopeia A composite).jpg",
+     "Crab Nebula.jpg"
+    ]
    },
    "headline": "Cygnus X-1"
   },
@@ -281,7 +290,9 @@
    "text": "Let's get closer, and something very strange begins to happen. Time itself starts to slow down. Albert Einstein predicted it more than a hundred years ago: the stronger the gravity, the slower time runs.",
    "visual": {
     "type": "image",
-    "query": "spacetime curvature illustration"
+    "files": [
+     "Galactic Cntr full cropped.jpg"
+    ]
    },
    "headline": "Time slows down",
    "chapter": "Where time slows down"
@@ -312,7 +323,9 @@
    "text": "Now imagine your friend watching you from far away as you fall toward the edge. To them, you'd seem to slow down, turn redder and dimmer, and freeze, fading away just above the horizon. They would never see you cross.",
    "visual": {
     "type": "image",
-    "query": "black hole accretion disk simulation NASA"
+    "files": [
+     "Black hole - Messier 87 crop max res.jpg"
+    ]
    },
    "headline": "Frozen at the edge"
   },
@@ -320,7 +333,9 @@
    "text": "Get a little closer, and light itself can orbit the black hole in a circle. At that distance, if you looked straight ahead, sideways around the black hole, you could in theory see the back of your own head.",
    "visual": {
     "type": "image",
-    "query": "photon ring black hole simulation"
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ]
    },
    "headline": "See the back of your head"
   },
@@ -489,7 +504,9 @@
    "text": "So, what is inside? The honest answer is: nobody knows. Once you cross the event horizon, every possible path leads inward. The center isn't a place you can avoid. It's in your future, like tomorrow.",
    "visual": {
     "type": "image",
-    "query": "black hole artist concept dark"
+    "files": [
+     "Black hole - Messier 87 crop max res.jpg"
+    ]
    },
    "headline": "Nobody knows",
    "chapter": "What's inside?"
@@ -498,7 +515,9 @@
    "text": "Einstein's equations say everything is crushed into a point of infinite density, called a singularity. But most physicists think that just means our theories break down there, and that we still need new physics to understand it.",
    "visual": {
     "type": "image",
-    "query": "black hole jet illustration"
+    "files": [
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ]
    },
    "headline": "Where physics breaks"
   },
@@ -506,7 +525,9 @@
    "text": "And what would you see as you fell in? Looking back up, all the light of the universe would crowd into a shrinking, brightening circle above you, a final glimpse of everything you left behind.",
    "visual": {
     "type": "image",
-    "query": "stars tunnel light space"
+    "files": [
+     "Milky Way IR Spitzer.jpg"
+    ]
    },
    "headline": "The last view"
   },
@@ -526,14 +547,19 @@
    "text": "In that crash, an amount of energy equal to about three Suns was released in a fraction of a second, as ripples in space. By the time they reached Earth, they stretched our detectors by less than the width of a proton.",
    "visual": {
     "type": "image",
-    "query": "black hole merger simulation"
+    "files": [
+     "Eso1733s Artist's impression of merging neutron stars.jpg",
+     "Artist's impression of a black hole and accretion disk (Black-Hole-5K).jpg"
+    ]
    }
   },
   {
    "text": "And black holes may not last forever. Stephen Hawking showed they should slowly leak away energy, now called Hawking radiation. But a black hole like Gaia BH one would take far, far longer than the current age of the universe to fade away.",
    "visual": {
     "type": "image",
-    "query": "black hole Hawking radiation illustration"
+    "files": [
+     "Hiding in the night sky.jpg"
+    ]
    },
    "headline": "Even black holes fade"
   },
