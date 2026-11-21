@@ -1,26 +1,26 @@
-[0;93m2026-11-19 15:49:18.186883506 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 23:04:07.183639173 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 117: Globular Clusters
-  audio 74.8s
+  audio 70.6s
   WIKI File:Omega_Centauri_Stars.png (CC0)
-  segment 1/10 [title] 5.3s
+  segment 1/10 [title] 4.3s
   WIKI File:Messier 60 - Hubble (2013-9-24).jpg (Public domain)
   segment 2/10 [image] 6.0s
   segment 3/10 [card] 5.1s
   WIKI File:Heart of M13 Hercules Globular Cluster.jpg (Public domain)
   segment 4/10 [image] 8.8s
-  segment 5/10 [card] 6.9s
+  segment 5/10 [card] 6.8s
   WIKI File:Milky way in Elbrus.jpg (CC BY 4.0)
-  segment 6/10 [image] 5.9s
+  segment 6/10 [image] 6.0s
   WIKI File:Omega Centauri by ESO.jpg (CC BY 4.0)
-  segment 7/10 [image] 8.1s
+  segment 7/10 [image] 8.0s
   - skip File:M13-Hamois-26-04-2025-Luc-Viatour.jpg: license 'CC BY-SA 4.0'
   WIKI File:Heart of M13 Hercules Globular Cluster.jpg (Public domain)
-  segment 8/10 [image] 10.6s
+  segment 8/10 [image] 10.5s
   - skip File:Sidney Hall - Urania's Mirror - Hercules and Corona Borealis.jpg: looks like a chart/blank
   - skip File:HerculesCC.jpg: license 'CC BY-SA 3.0'
   - skip File:Hercules constellation map-fr.png: license 'CC BY-SA 3.0'
   WIKI File:1776 - John Flamsteed - Hercules, La Couronne (Hercules and The Crown).jpg (Public domain)
   segment 9/10 [image] 7.3s
   WIKI File:Henrietta Swan Leavitt.jpg (Public domain)
-  segment 10/10 [end] 10.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep117.mp4 (46.5 MB)
+  segment 10/10 [end] 7.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep117.mp4 (44.1 MB)
