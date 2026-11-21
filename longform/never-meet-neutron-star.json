@@ -1,0 +1,598 @@
+{
+ "slug": "never-meet-neutron-star",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Want to Meet a Neutron Star",
+ "screen_title": "Why You'd Never Want to Meet a Neutron Star",
+ "subtitle": "The strangest objects in the universe",
+ "yt_title": "Why You'd Never Want to Meet a Neutron Star",
+ "intro": "A neutron star is the crushed heart of a dead star: heavier than the Sun, smaller than a city, spinning hundreds of times a second. We fly to one and find out what its gravity, its radiation and its magnetic field would do to you, visit the pulsars and magnetars, and see how colliding neutron stars made the gold in your jewelry.",
+ "questions": [
+  "Did you know a teaspoon of a neutron star would weigh about a billion tons?",
+  "Would you rather visit a pulsar or a magnetar, from a very safe distance?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#neutronstar #space #astronomy #physics #science",
+ "tags": [
+  "why you'd never",
+  "neutron star",
+  "what if you went to a neutron star",
+  "pulsar",
+  "magnetar",
+  "neutron star collision",
+  "kilonova",
+  "where does gold come from",
+  "supernova",
+  "crab nebula",
+  "dead stars",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+  ],
+  "query": "neutron star illustration",
+  "white": "IT FLATTENS",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "The strangest star",
+   "text": "Somewhere in our galaxy, there's an object heavier than the Sun, squeezed into a ball smaller than a city. It spins hundreds of times a second. And if you got close, it would flatten you thinner than a sheet of paper.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "neutron star illustration"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we visit a neutron star, and find out why you'd never want to meet one.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Dark Sky Full of Light (horalek-vst-milky-way).jpg"
+    ],
+    "query": "A Dark Sky Full of Light (horalek-vst-milky-way)"
+   },
+   "subscribe": true
+  },
+  {
+   "chapter": "How a neutron star is born",
+   "text": "To understand a neutron star, we have to watch a giant star die. Stars much heavier than our Sun burn their fuel fast, in just a few million years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Grand star-forming region R136 in NGC 2070 (captured by the Hubble Space Telescope).jpg"
+    ],
+    "query": "Grand star-forming region R136 in NGC 2070 (captured by the Hubble Space Telescope)"
+   },
+   "headline": "A giant star"
+  },
+  {
+   "text": "When the fuel runs out, the core can no longer hold itself up against its own weight. In less than a second, it collapses.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "New Hubble Observations of Supernova 1987A Trace Shock Wave (4954621859).jpg"
+    ],
+    "query": "New Hubble Observations of Supernova 1987A Trace Shock Wave (4954621859)"
+   },
+   "headline": "Collapse"
+  },
+  {
+   "text": "The outer layers blast away in a supernova, one of the brightest explosions in the universe. For a few weeks, a single dying star can outshine its whole galaxy.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Keplers supernova.jpg"
+    ],
+    "query": "Keplers supernova"
+   },
+   "headline": "Supernova"
+  },
+  {
+   "text": "In the year ten fifty-four, astronomers in China recorded a new star so bright it was visible in daylight for weeks. Today we can still see the wreckage: the Crab Nebula.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Crab Nebula.jpg"
+    ],
+    "query": "Crab Nebula"
+   },
+   "headline": "The Crab Nebula"
+  },
+  {
+   "text": "And right in its center, there's what was left behind: a neutron star, still spinning, still glowing.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moving heart of the Crab Nebula.jpg"
+    ],
+    "query": "Moving heart of the Crab Nebula"
+   }
+  },
+  {
+   "chapter": "Small but impossibly heavy",
+   "text": "So what is a neutron star? Imagine squeezing a star so hard that its atoms are crushed. Electrons are pushed into protons, and they turn into neutrons.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron)"
+   },
+   "headline": "Crushed atoms"
+  },
+  {
+   "text": "The result is a ball only about twenty kilometers wide. About the size of a city.",
+   "visual": {
+    "type": "card",
+    "big": "~20 km",
+    "label": "wide",
+    "sub": "about the size of a city"
+   }
+  },
+  {
+   "text": "But it weighs more than our Sun. Usually about one and a half times as much.",
+   "visual": {
+    "type": "card",
+    "big": "1.4 Suns",
+    "label": "of mass",
+    "sub": "squeezed into a city-sized ball"
+   }
+  },
+  {
+   "text": "A single teaspoon of neutron star material would weigh about a billion tons. More than every car on Earth put together.",
+   "visual": {
+    "type": "card",
+    "big": "1 billion tons",
+    "label": "per teaspoon"
+   }
+  },
+  {
+   "text": "Here's my first question. Did you know a single teaspoon of a neutron star would weigh about a billion tons? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know a teaspoon of a neutron star weighs about a billion tons?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Getting closer",
+   "text": "Now let's fly closer. The nearest known neutron stars are hundreds of light-years away. That's a good thing.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Guisard - Milky Way.jpg"
+    ],
+    "query": "Guisard - Milky Way"
+   },
+   "headline": "Hundreds of light-years away"
+  },
+  {
+   "text": "From a distance, you'd see a tiny, brilliant point, glowing in X-rays. Its surface can be around a million degrees Celsius.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chandra X-ray Observations of the Crab Nebula (2011-crab-more-2 - 154).jpg"
+    ],
+    "query": "Chandra X-ray Observations of the Crab Nebula (2011-crab-more-2 - 154)"
+   },
+   "headline": "Glowing in X-rays"
+  },
+  {
+   "text": "As you approach, the first danger is radiation. Many neutron stars blast out X-rays and gamma rays, enough to kill an unprotected astronaut long before arrival.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA21085 - Pulsar Artist's Concept.jpg"
+    ],
+    "query": "PIA21085 - Pulsar Artist's Concept"
+   },
+   "headline": "Radiation"
+  },
+  {
+   "text": "Then there's the gravity. The pull is so strong that it bends light around the star. From close by, you could see part of its back side.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron)"
+   },
+   "headline": "Light bends"
+  },
+  {
+   "text": "At the surface, gravity is about two hundred billion times stronger than on Earth.",
+   "visual": {
+    "type": "card",
+    "big": "200 billion×",
+    "label": "Earth's gravity"
+   }
+  },
+  {
+   "text": "Drop something from just one meter high, and it would hit the ground at about two thousand kilometers per second. More than seven million kilometers an hour.",
+   "visual": {
+    "type": "card",
+    "big": "2,000 km/s",
+    "label": "falling just 1 meter"
+   }
+  },
+  {
+   "text": "And long before you reached the surface, the difference in pull between your feet and your head would stretch you apart. Then you'd be flattened into a layer thinner than a sheet of paper.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron)"
+   },
+   "headline": "Flattened"
+  },
+  {
+   "text": "Its surface is the smoothest thing we know. The tallest mountains are thought to be less than a millimeter high. Gravity pulls everything flat.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron)"
+   },
+   "headline": "The smoothest ball"
+  },
+  {
+   "chapter": "Inside a neutron star",
+   "text": "So what's inside? Nobody has ever seen. But physicists have some amazing ideas.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron)"
+   },
+   "headline": "What's inside?"
+  },
+  {
+   "text": "The outer crust is thought to be a solid shell of iron nuclei, under a thin, hot atmosphere just centimeters thick.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chandra X-ray Observations of the Crab Nebula (2011-crab-more-2 - 154).jpg"
+    ],
+    "query": "Chandra X-ray Observations of the Crab Nebula (2011-crab-more-2 - 154)"
+   },
+   "headline": "An iron crust"
+  },
+  {
+   "text": "Deeper down, the nuclei may be squeezed into strange shapes, like spaghetti and lasagna sheets. Physicists really call it nuclear pasta.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Vela Supernova Remnant - Noirlab2406a.jpg"
+    ],
+    "query": "Vela Supernova Remnant - Noirlab2406a"
+   },
+   "headline": "Nuclear pasta"
+  },
+  {
+   "text": "Computer models suggest nuclear pasta could be the strongest material in the universe, about ten billion times stronger than steel.",
+   "visual": {
+    "type": "card",
+    "big": "10 billion×",
+    "label": "stronger than steel",
+    "sub": "according to computer models"
+   }
+  },
+  {
+   "text": "And at the very center? Maybe a soup of neutrons. Maybe something even stranger, made of quarks, the building blocks inside protons and neutrons. It's one of the great open questions in physics.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA21085 - Pulsar Artist's Concept.jpg"
+    ],
+    "query": "PIA21085 - Pulsar Artist's Concept"
+   },
+   "headline": "The deepest mystery"
+  },
+  {
+   "text": "To find out, an instrument on the International Space Station called NICER watches neutron stars in X-rays, measuring their size and weight very precisely.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "headline": "NICER on the ISS"
+  },
+  {
+   "text": "Sometimes the crust cracks under the strain. These starquakes can make a pulsar suddenly change its spin, a little glitch in its cosmic clock.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moving heart of the Crab Nebula.jpg"
+    ],
+    "query": "Moving heart of the Crab Nebula"
+   },
+   "headline": "Starquakes"
+  },
+  {
+   "text": "And there's a limit. If a neutron star gains too much mass, around two to three times our Sun, nothing can hold it up anymore. It collapses into a black hole.",
+   "visual": {
+    "type": "card",
+    "big": "2–3 Suns",
+    "label": "the limit before a black hole"
+   }
+  },
+  {
+   "chapter": "Cosmic lighthouses",
+   "text": "Many neutron stars spin incredibly fast. When a star collapses, it spins faster, like an ice skater pulling in her arms.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA21085 - Pulsar Artist's Concept.jpg"
+    ],
+    "query": "PIA21085 - Pulsar Artist's Concept"
+   },
+   "headline": "Spinning faster"
+  },
+  {
+   "text": "Some sweep beams of radio waves across space, like a lighthouse. Each time the beam passes Earth, we see a pulse. We call them pulsars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA21085 - Pulsar Artist's Concept.jpg"
+    ],
+    "query": "PIA21085 - Pulsar Artist's Concept"
+   },
+   "headline": "Pulsars"
+  },
+  {
+   "text": "In nineteen sixty-seven, a young astronomer named Jocelyn Bell Burnell noticed a strange, perfectly regular signal. It was so regular that her team jokingly labeled it L G M one: little green men.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Dark Sky Full of Light (horalek-vst-milky-way).jpg"
+    ],
+    "query": "A Dark Sky Full of Light (horalek-vst-milky-way)"
+   },
+   "headline": "Little green men?"
+  },
+  {
+   "text": "It wasn't aliens. It was the first pulsar ever found. A spinning dead star.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moving heart of the Crab Nebula.jpg"
+    ],
+    "query": "Moving heart of the Crab Nebula"
+   }
+  },
+  {
+   "text": "The fastest pulsar known spins seven hundred sixteen times every second. Its surface moves at about a quarter of the speed of light.",
+   "visual": {
+    "type": "card",
+    "big": "716",
+    "label": "spins per second"
+   }
+  },
+  {
+   "text": "Pulsars keep time almost as well as atomic clocks. Scientists use them to search for ripples in space itself. And some even have planets, worlds bathed in deadly radiation.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of pulsar planet B1620-26c.jpg"
+    ],
+    "query": "Artist's impression of pulsar planet B1620-26c"
+   },
+   "headline": "Pulsar planets"
+  },
+  {
+   "chapter": "Magnetars",
+   "text": "But the most terrifying neutron stars are called magnetars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Magnetar (artist’s impression) (heic2504a).jpg"
+    ],
+    "query": "Magnetar (artist’s impression) (heic2504a)"
+   },
+   "headline": "Magnetars"
+  },
+  {
+   "text": "Their magnetic fields can be about a thousand trillion times stronger than Earth's. The strongest magnets in the universe.",
+   "visual": {
+    "type": "card",
+    "big": "1,000 trillion×",
+    "label": "Earth's magnetic field"
+   }
+  },
+  {
+   "text": "From halfway to the Moon, a magnetar would wipe every credit card on Earth. And from about a thousand kilometers away, its field would pull apart the atoms in your body.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of the magnetar in the star cluster Westerlund 1.jpg"
+    ],
+    "query": "Artist’s impression of the magnetar in the star cluster Westerlund 1"
+   },
+   "headline": "It pulls atoms apart"
+  },
+  {
+   "text": "In two thousand four, a magnetar about fifty thousand light-years away released a giant flare. It was so powerful that it disturbed Earth's upper atmosphere, from the other side of the galaxy.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Magnetar (artist’s impression) (heic2504a).jpg"
+    ],
+    "query": "Magnetar (artist’s impression) (heic2504a)"
+   },
+   "headline": "A flare felt on Earth"
+  },
+  {
+   "text": "Here's my second question. If you had to visit one, from a very safe distance: a pulsar, or a magnetar? Tell us which one, and why.",
+   "visual": {
+    "type": "question",
+    "q": "Pulsar or magnetar: which would you visit, from a safe distance?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "When neutron stars collide",
+   "text": "And sometimes, two neutron stars orbit each other. Slowly, over millions of years, they spiral closer.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Eso1733s Artist's impression of merging neutron stars.jpg"
+    ],
+    "query": "Eso1733s Artist's impression of merging neutron stars"
+   },
+   "headline": "A deadly dance"
+  },
+  {
+   "text": "In the final seconds, they whirl around each other hundreds of times a second, and crash.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Eso1733s Artist's impression of merging neutron stars.jpg"
+    ],
+    "query": "Eso1733s Artist's impression of merging neutron stars"
+   }
+  },
+  {
+   "text": "On August seventeenth, twenty seventeen, detectors on Earth felt the ripples in space from one of these crashes, a hundred thirty million light-years away. Then telescopes around the world saw the flash.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a kilonova explosion.jpg"
+    ],
+    "query": "Artist's impression of a kilonova explosion"
+   },
+   "headline": "August 17, 2017"
+  },
+  {
+   "text": "The explosion, called a kilonova, forged heavy elements: gold, platinum, and more. Enough to outweigh Earth many times over.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a kilonova explosion.jpg"
+    ],
+    "query": "Artist's impression of a kilonova explosion"
+   },
+   "headline": "A gold factory"
+  },
+  {
+   "text": "Much of the gold on Earth was probably made this way, long before our solar system was born. The gold in a ring or a necklace may have come from neutron stars colliding.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth's City Lights by DMSP, 1994-1995 (large).jpg"
+    ],
+    "query": "Earth's City Lights by DMSP, 1994-1995 (large)"
+   },
+   "headline": "The gold in your jewelry"
+  },
+  {
+   "chapter": "How many are out there?",
+   "text": "How many neutron stars are out there? Astronomers think our galaxy may hold around a hundred million of them. Most are old, cold and dark, and we'll never see them.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Center of the Milky Way Galaxy IV – Composite.jpg"
+    ],
+    "query": "Center of the Milky Way Galaxy IV – Composite"
+   },
+   "headline": "About 100 million"
+  },
+  {
+   "text": "So far, we've found more than three thousand pulsars, mostly with radio telescopes.",
+   "visual": {
+    "type": "card",
+    "big": "3,000+",
+    "label": "pulsars discovered"
+   }
+  },
+  {
+   "text": "What if one wandered into our solar system? Even passing far beyond Neptune, its gravity could scramble the orbits of the planets. Thankfully, no known neutron star is headed our way.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Solar System Montage - GPN-2000-000454.jpg"
+    ],
+    "query": "The Solar System Montage - GPN-2000-000454"
+   },
+   "headline": "A wandering dead star?"
+  },
+  {
+   "chapter": "The verdict",
+   "text": "So, would you ever want to meet a neutron star? Not up close. The radiation, the gravity, and the magnetism would each destroy you long before you reached it.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron)"
+   },
+   "headline": "The verdict"
+  },
+  {
+   "text": "But from far away, they are some of the most useful objects in the universe. They test Einstein's theories, keep cosmic time, and they made some of the atoms around you.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Vela Supernova Remnant - Noirlab2406a.jpg"
+    ],
+    "query": "Vela Supernova Remnant - Noirlab2406a"
+   }
+  },
+  {
+   "text": "Every time you see something golden, remember. It might be a souvenir from two dead stars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Tycho-supernova-xray.jpg"
+    ],
+    "query": "Tycho-supernova-xray"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

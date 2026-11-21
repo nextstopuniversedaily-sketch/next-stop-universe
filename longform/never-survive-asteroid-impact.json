@@ -1,0 +1,622 @@
+{
+ "slug": "never-survive-asteroid-impact",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Giant Asteroid Impact",
+ "screen_title": "Why You'd Never Survive an Asteroid Impact",
+ "subtitle": "And how we're learning to stop one",
+ "yt_title": "Why You'd Never Survive a Giant Asteroid Impact",
+ "intro": "What would actually happen if a giant asteroid hit Earth? We look at the rocks that hit us every day, the Tunguska blast that flattened 80 million trees, the asteroid that ended the dinosaurs near Mexico, and the moment humans first pushed an asteroid off course. Could we stop the next one?",
+ "questions": [
+  "Did you know dozens of tons of space dust fall on Earth every day?",
+  "Do you think we would spot a dangerous asteroid in time?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#asteroid #space #astronomy #planetarydefense #science",
+ "tags": [
+  "why you'd never survive",
+  "asteroid impact",
+  "what if an asteroid hit earth",
+  "chicxulub",
+  "tunguska event",
+  "dart mission",
+  "planetary defense",
+  "asteroid",
+  "meteor",
+  "dinosaurs extinction",
+  "apophis",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Chicxulub impact - artist impression.jpg"
+  ],
+  "query": "asteroid impact Earth",
+  "white": "IT'S",
+  "accent": "COMING..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "Rocks from the sky",
+   "text": "Sixty-six million years ago, a mountain-sized rock fell out of the sky. In a single day, the world changed forever. Could it happen again? And what would it be like to be there?",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Chicxulub impact - artist impression.jpg"
+    ],
+    "query": "asteroid impact Earth"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we find out why you'd never survive a giant asteroid impact, and how humans are learning to stop one.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way over Big Prairie (16631110890)"
+   },
+   "subscribe": true
+  },
+  {
+   "chapter": "Rubble from the beginning",
+   "text": "Our solar system is full of leftover rubble from when the planets formed: asteroids, mostly orbiting between Mars and Jupiter.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Vesta Full-Frame.jpg"
+    ],
+    "query": "Vesta Full-Frame"
+   },
+   "headline": "Leftover rubble"
+  },
+  {
+   "text": "Some are huge. Vesta, one of the biggest, is over five hundred kilometers wide.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Vesta Full-Frame.jpg"
+    ],
+    "query": "Vesta Full-Frame"
+   },
+   "headline": "Vesta"
+  },
+  {
+   "text": "Some are piles of loose rubble, barely holding together, like the asteroid Bennu, visited by NASA's OSIRIS-REx spacecraft.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bennu mosaic OSIRIS-REx (square).png"
+    ],
+    "query": "Bennu mosaic OSIRIS-REx (square)"
+   },
+   "headline": "Bennu"
+  },
+  {
+   "text": "Others come in pairs, two rocks orbiting each other, like this one.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s Impression of Asteroid 1999 KW4 (eso1910c).jpg"
+    ],
+    "query": "Artist’s Impression of Asteroid 1999 KW4 (eso1910c)"
+   },
+   "headline": "Double asteroids"
+  },
+  {
+   "text": "And some cross Earth's orbit. These are called near-Earth asteroids.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA02475 Eros' Bland Butterscotch Colors.jpg"
+    ],
+    "query": "PIA02475 Eros' Bland Butterscotch Colors"
+   },
+   "headline": "Near-Earth asteroids"
+  },
+  {
+   "chapter": "Earth gets hit every day",
+   "text": "In fact, Earth gets hit every single day. Not by big rocks, but by dust and pebbles.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Meteor Shower (NHQ202508030001).jpg"
+    ],
+    "query": "Meteor Shower (NHQ202508030001)"
+   },
+   "headline": "Every day"
+  },
+  {
+   "text": "Scientists estimate that dozens of tons of space material fall on Earth every day. Most of it as tiny dust.",
+   "visual": {
+    "type": "card",
+    "big": "dozens of tons",
+    "label": "of space dust every day"
+   }
+  },
+  {
+   "text": "When a small grain burns up in our atmosphere, we see a shooting star.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Orionid Meteor Shower Composite (50521737888).jpg"
+    ],
+    "query": "Orionid Meteor Shower Composite (50521737888)"
+   },
+   "headline": "Shooting stars"
+  },
+  {
+   "text": "Bigger pieces sometimes survive and land as meteorites. This one, the Willamette meteorite, weighs over fifteen tons.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Willamette meteorite at Dorothy and Lewis B. Cullman Hall of the Universe.jpg"
+    ],
+    "query": "Willamette meteorite at Dorothy and Lewis B. Cullman Hall of the Universe"
+   },
+   "headline": "Meteorites"
+  },
+  {
+   "text": "Some meteorites are older than the Earth itself. Holding one is like holding a piece of the birth of the solar system.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Allende meteorite (52803099125).jpg"
+    ],
+    "query": "Allende meteorite (52803099125)"
+   }
+  },
+  {
+   "text": "So here's my first question. Did you know that dozens of tons of space dust land on Earth every day? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know dozens of tons of space dust fall on Earth every day?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Chelyabinsk, 2013",
+   "text": "Sometimes, a bigger rock arrives. On the morning of February fifteenth, twenty thirteen, a space rock about twenty meters wide streaked over the city of Chelyabinsk, in Russia.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Meteor showers, First Place (ann21047j).jpg"
+    ],
+    "query": "Meteor showers, First Place (ann21047j)"
+   },
+   "headline": "Chelyabinsk"
+  },
+  {
+   "text": "For a moment, it shone brighter than the Sun. Then it exploded high in the air, about thirty kilometers up.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Meteor Shower (NHQ202508030001).jpg"
+    ],
+    "query": "Meteor Shower (NHQ202508030001)"
+   },
+   "headline": "Brighter than the Sun"
+  },
+  {
+   "text": "The shock wave arrived over a minute later. It shattered windows across the city, and around fifteen hundred people were injured, mostly by flying glass.",
+   "visual": {
+    "type": "card",
+    "big": "~1,500",
+    "label": "people injured",
+    "sub": "mostly by broken windows"
+   }
+  },
+  {
+   "text": "Many people had walked to their windows to look at the bright flash. That's why scientists now say: if you ever see a huge fireball, stay away from windows for a couple of minutes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth's City Lights by DMSP, 1994-1995 (large).jpg"
+    ],
+    "query": "Earth's City Lights by DMSP, 1994-1995 (large)"
+   },
+   "headline": "A life-saving tip"
+  },
+  {
+   "chapter": "Tunguska, 1908",
+   "text": "But every century or so, something much bigger arrives. On June thirtieth, nineteen oh eight, a space rock exploded over Siberia, near the Tunguska river.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Tunguska Ereignis-1.jpg"
+    ],
+    "query": "Tunguska Ereignis-1"
+   },
+   "headline": "Tunguska"
+  },
+  {
+   "text": "It was probably only about fifty or sixty meters wide. It exploded in the air, several kilometers up.",
+   "visual": {
+    "type": "card",
+    "big": "~50 m",
+    "label": "rock",
+    "sub": "exploded in the air"
+   }
+  },
+  {
+   "text": "The blast flattened around eighty million trees over more than two thousand square kilometers.",
+   "visual": {
+    "type": "card",
+    "big": "80 million",
+    "label": "trees flattened"
+   }
+  },
+  {
+   "text": "It was so remote that, as far as we know, no one was killed. If it had exploded over a city, it could have destroyed it.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Tunguska Ereignis-1.jpg"
+    ],
+    "query": "Tunguska Ereignis-1"
+   },
+   "headline": "If it hit a city"
+  },
+  {
+   "chapter": "The day the dinosaurs ended",
+   "text": "Now let's imagine the real monster. Sixty-six million years ago, an asteroid about ten kilometers wide headed straight for Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chicxulub impact - artist impression.jpg"
+    ],
+    "query": "Chicxulub impact - artist impression"
+   },
+   "headline": "10 km wide"
+  },
+  {
+   "text": "It was traveling at about twenty kilometers per second. It crossed our whole atmosphere in just a few seconds.",
+   "visual": {
+    "type": "card",
+    "big": "20 km/s",
+    "label": "impact speed",
+    "sub": "through the atmosphere in a few seconds"
+   }
+  },
+  {
+   "text": "It hit near what is now the Yucatán Peninsula, in Mexico, and left a crater about one hundred eighty kilometers wide, now buried underground.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chicxulub impact - artist impression.jpg"
+    ],
+    "query": "Chicxulub impact - artist impression"
+   },
+   "headline": "Yucatán, Mexico"
+  },
+  {
+   "text": "The energy released was billions of times greater than the bomb dropped on Hiroshima.",
+   "visual": {
+    "type": "card",
+    "big": "billions ×",
+    "label": "the Hiroshima bomb"
+   }
+  },
+  {
+   "text": "What would it have been like to be there? If you stood within hundreds of kilometers, the fireball would reach you first. Then the blast wave, then a rain of molten rock falling from the sky.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chicxulub impact - artist impression.jpg"
+    ],
+    "query": "Chicxulub impact - artist impression"
+   },
+   "headline": "The first minutes"
+  },
+  {
+   "text": "Along the coasts, giant tsunamis swept inland. Earthquakes shook the whole planet.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Indian Ocean Tide.jpg"
+    ],
+    "query": "Indian Ocean Tide"
+   },
+   "headline": "Tsunamis"
+  },
+  {
+   "text": "And then, darkness. Dust and soot filled the sky. For months, maybe years, the Sun was dimmed, plants struggled, and the planet cooled.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "ISS-20 Thunderstorms on the Brazilian Horizon.jpg"
+    ],
+    "query": "ISS-20 Thunderstorms on the Brazilian Horizon"
+   },
+   "headline": "Darkness"
+  },
+  {
+   "text": "About three out of every four species on Earth disappeared, including all the big dinosaurs.",
+   "visual": {
+    "type": "card",
+    "big": "~75%",
+    "label": "of species lost"
+   }
+  },
+  {
+   "text": "But small creatures survived. Among them were tiny mammals, our distant ancestors. And some dinosaurs survived too. We call them birds.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "The survivors"
+  },
+  {
+   "text": "Here's my second question. Do you think we would spot a dangerous asteroid in time to stop it? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Do you think we'd spot a dangerous asteroid in time?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Are we in danger?",
+   "text": "So, are we in danger today? Astronomers watch the sky every night, searching for near-Earth asteroids.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "2018 Night Sky Festival- Stargazing in the Meadow (44025262174).jpg"
+    ],
+    "query": "2018 Night Sky Festival- Stargazing in the Meadow (44025262174)"
+   },
+   "headline": "Watching the sky"
+  },
+  {
+   "text": "More than thirty-five thousand near-Earth asteroids have been found so far.",
+   "visual": {
+    "type": "card",
+    "big": "35,000+",
+    "label": "near-Earth asteroids found"
+   }
+  },
+  {
+   "text": "The good news: astronomers believe they've found more than nine out of ten of the giant ones, a kilometer or bigger. None of them is on course to hit us in the next hundred years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA02475 Eros' Bland Butterscotch Colors.jpg"
+    ],
+    "query": "PIA02475 Eros' Bland Butterscotch Colors"
+   },
+   "headline": "The giants are tracked"
+  },
+  {
+   "text": "The harder part is the smaller ones, the size of a stadium or a city block. Many of those are still out there, unseen.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The binary asteroid 288P (artist’s impression).jpg"
+    ],
+    "query": "The binary asteroid 288P (artist’s impression)"
+   }
+  },
+  {
+   "text": "Why do we miss them? Many approach from the direction of the Sun, where its glare hides them, just like Chelyabinsk did.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "Hidden in the glare"
+  },
+  {
+   "text": "That's why NASA is building a new space telescope called NEO Surveyor. It will hunt for asteroids in infrared light, where even dark rocks glow with warmth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA02475 Eros' Bland Butterscotch Colors.jpg"
+    ],
+    "query": "PIA02475 Eros' Bland Butterscotch Colors"
+   },
+   "headline": "NEO Surveyor"
+  },
+  {
+   "text": "Look at our Moon to see what we're dealing with. With no air and no weather to erase them, its craters record billions of years of impacts.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth, Moon and Lunar Module, AS11-44-6643.jpg"
+    ],
+    "query": "Earth, Moon and Lunar Module, AS11-44-6643"
+   },
+   "headline": "The Moon remembers"
+  },
+  {
+   "text": "In early twenty twenty-five, a newly found asteroid, twenty twenty-four Y R four, briefly had about a three percent chance of hitting Earth in twenty thirty-two. More observations ruled that out.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s Impression of Asteroid 1999 KW4 (eso1910c).jpg"
+    ],
+    "query": "Artist’s Impression of Asteroid 1999 KW4 (eso1910c)"
+   },
+   "headline": "A close call on paper"
+  },
+  {
+   "text": "And on April thirteenth, twenty twenty-nine, the asteroid Apophis will pass closer to Earth than some of our satellites. Millions of people will see it with their own eyes. But it will miss.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA02475 Eros' Bland Butterscotch Colors.jpg"
+    ],
+    "query": "PIA02475 Eros' Bland Butterscotch Colors"
+   },
+   "headline": "Apophis, 2029"
+  },
+  {
+   "chapter": "Pushing an asteroid",
+   "text": "But what if one was coming? In twenty twenty-two, humans tried something for the very first time.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "DART and MUBLCOM.jpg"
+    ],
+    "query": "DART and MUBLCOM"
+   },
+   "headline": "The DART mission"
+  },
+  {
+   "text": "NASA's DART spacecraft flew straight into a small asteroid called Dimorphos, which orbits a bigger one, Didymos.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Didymos dimorphos 2309 092622.png"
+    ],
+    "query": "Didymos dimorphos 2309 092622"
+   },
+   "headline": "Target: Dimorphos"
+  },
+  {
+   "text": "On September twenty-sixth, twenty twenty-two, it hit at about twenty-two thousand kilometers per hour.",
+   "visual": {
+    "type": "card",
+    "big": "Sept 26, 2022",
+    "label": "DART hits Dimorphos"
+   }
+  },
+  {
+   "text": "The impact blasted out a huge trail of debris, like a comet's tail. Hubble even spotted boulders drifting away.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Twin Tail Revealed in New Hubble Image of Didymos-Dimorphos System Following DART Impact (opo22056a).jpg"
+    ],
+    "query": "Twin Tail Revealed in New Hubble Image of Didymos-Dimorphos System Following DART Impact (opo22056a)"
+   },
+   "headline": "A tail of debris"
+  },
+  {
+   "text": "And it worked. Dimorphos's orbit got shorter by about thirty-two minutes. Humans had changed the path of a celestial body for the first time.",
+   "visual": {
+    "type": "card",
+    "big": "32 min",
+    "label": "shorter orbit after DART"
+   }
+  },
+  {
+   "text": "Europe's Hera spacecraft is on its way to inspect the crater up close, to learn exactly how hard we pushed.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hubble sees boulders escaping from asteroid Dimorphos (heic2307a).jpg"
+    ],
+    "query": "Hubble sees boulders escaping from asteroid Dimorphos (heic2307a)"
+   },
+   "headline": "Hera: the follow-up"
+  },
+  {
+   "chapter": "Messengers from the past",
+   "text": "Asteroids aren't only dangerous. They may also have helped make life possible.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bennu mosaic OSIRIS-REx (square).png"
+    ],
+    "query": "Bennu mosaic OSIRIS-REx (square)"
+   },
+   "headline": "Not only dangerous"
+  },
+  {
+   "text": "Japan's Hayabusa two brought pieces of the asteroid Ryugu back to Earth in twenty twenty. NASA's OSIRIS-REx returned samples of Bennu in twenty twenty-three.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hayabusa2 approaching asteroid.jpg"
+    ],
+    "query": "Hayabusa2 approaching asteroid"
+   },
+   "headline": "Samples brought home"
+  },
+  {
+   "text": "Inside the Bennu samples, scientists found amino acids, the building blocks of proteins, and all five of the bases used in DNA and RNA.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bennu mosaic OSIRIS-REx (square).png"
+    ],
+    "query": "Bennu mosaic OSIRIS-REx (square)"
+   },
+   "headline": "Building blocks of life"
+  },
+  {
+   "text": "So long ago, rocks from space may have delivered some of the ingredients of life to the young Earth. The same kind of rocks that, much later, ended the age of dinosaurs.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth, Moon and Lunar Module, AS11-44-6643.jpg"
+    ],
+    "query": "Earth, Moon and Lunar Module, AS11-44-6643"
+   },
+   "headline": "Givers and takers"
+  },
+  {
+   "chapter": "The verdict",
+   "text": "So, would you survive a giant asteroid impact? Not if you were anywhere near it. But the most important lesson is this: for the first time in Earth's history, a species can see them coming.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "The verdict"
+  },
+  {
+   "text": "The dinosaurs had no telescopes and no space program. We do. If we find a dangerous asteroid years in advance, a small push may be all it takes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "2018 Night Sky Festival- Stargazing in the Meadow (44025262174).jpg"
+    ],
+    "query": "2018 Night Sky Festival- Stargazing in the Meadow (44025262174)"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

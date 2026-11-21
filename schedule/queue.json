@@ -285,6 +285,33 @@
   "status": "pending"
  },
  {
+  "id": "long-never-survive-trip-to-sun",
+  "kind": "long",
+  "publishAt": "2026-11-30T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-trip-to-sun.jpg",
+  "note": "new series episode; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
+  "id": "long-never-meet-neutron-star",
+  "kind": "long",
+  "publishAt": "2026-12-02T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-meet-neutron-star.jpg",
+  "note": "new series episode; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
+  "id": "long-never-survive-asteroid-impact",
+  "kind": "long",
+  "publishAt": "2026-12-04T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-asteroid-impact.jpg",
+  "note": "new series episode; set thumbnailImageId from the thumbnail file if possible"
+ },
+ {
   "id": "ep041",
   "kind": "episode",
   "publishAt": "2026-12-21T07:00:00-06:00",

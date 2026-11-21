@@ -1,0 +1,678 @@
+{
+ "slug": "never-survive-trip-to-sun",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Trip to the Sun",
+ "screen_title": "Why You'd Never Survive a Trip to the Sun",
+ "subtitle": "From Earth to the core of our star",
+ "yt_title": "Why You'd Never Survive a Trip to the Sun",
+ "intro": "What would actually happen if you flew straight toward the Sun? We leave Earth and travel 150 million kilometers, past Venus and Mercury, through the solar wind and the impossibly hot corona, down to the boiling surface and all the way into the core, and find out what would get you first, and how one spacecraft is surviving the trip right now.",
+ "questions": [
+  "Did you know the Sun's atmosphere is hundreds of times hotter than its surface?",
+  "If you could send one thing to touch the Sun, what would it be?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#sun #space #astronomy #solarsystem #science",
+ "tags": [
+  "why you'd never survive",
+  "trip to the sun",
+  "what if you went to the sun",
+  "how hot is the sun",
+  "parker solar probe",
+  "solar corona",
+  "solar flares",
+  "inside the sun",
+  "the sun",
+  "our star",
+  "solar system",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+  ],
+  "query": "Sun SDO",
+  "white": "IT MELTS",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "Pointing at the Sun",
+   "text": "Imagine pointing a spaceship straight at the Sun, and flying. No stops, no turning back. How close could you get before something got you? A million kilometers? Ten million? The answer is stranger than you think.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "Sun SDO"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we fly from Earth all the way to the heart of our star. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "Here's our starting point. Earth, about one hundred fifty million kilometers from the Sun. At this distance, sunlight is just right. It warms the oceans, grows our food, and lets us live.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "Starting at home"
+  },
+  {
+   "text": "How far is that? Driving a car nonstop at one hundred kilometers an hour, you'd need about one hundred seventy years to get there.",
+   "visual": {
+    "type": "card",
+    "big": "171 years",
+    "label": "to drive to the Sun",
+    "sub": "at 100 km/h, without stopping"
+   }
+  },
+  {
+   "text": "Even light, the fastest thing in the universe, needs about eight minutes and twenty seconds to make the trip.",
+   "visual": {
+    "type": "card",
+    "big": "8 min 20 s",
+    "label": "for sunlight to reach Earth"
+   }
+  },
+  {
+   "text": "And here's something surprising. Even here, near Earth, space is a dangerous place to sit in the Sun. With no air to spread the heat around, the sunny side of a spacecraft can climb above one hundred twenty degrees Celsius, while its shady side freezes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ed White First American Spacewalker - GPN-2000-001180.jpg"
+    ],
+    "query": "Ed White First American Spacewalker - GPN-2000-001180"
+   },
+   "headline": "Hot and cold at once"
+  },
+  {
+   "text": "That's why astronauts wear white suits with golden visors. Without them, they'd cook on one side and freeze on the other.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ed White First American Spacewalker - GPN-2000-001180.jpg"
+    ],
+    "query": "Ed White First American Spacewalker - GPN-2000-001180"
+   }
+  },
+  {
+   "chapter": "Harder than it looks",
+   "text": "Here's the first surprise. Flying to the Sun is incredibly hard. Much harder than leaving the solar system.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Solar system scale edit.jpg"
+    ],
+    "query": "Solar system scale edit"
+   },
+   "headline": "Harder than it looks"
+  },
+  {
+   "text": "Earth races around the Sun at about thirty kilometers every second. And so does everything we launch.",
+   "visual": {
+    "type": "card",
+    "big": "30 km/s",
+    "label": "Earth's speed around the Sun",
+    "sub": "and every rocket starts with it"
+   }
+  },
+  {
+   "text": "To fall into the Sun, you'd have to cancel almost all of that sideways speed. Otherwise you just keep missing it, swinging around and around, like a ball on a string.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Solar System Montage - GPN-2000-000454.jpg"
+    ],
+    "query": "The Solar System Montage - GPN-2000-000454"
+   },
+   "headline": "You keep missing"
+  },
+  {
+   "text": "If Earth suddenly stopped in its orbit, it would take about sixty-five days to fall into the Sun.",
+   "visual": {
+    "type": "card",
+    "big": "65 days",
+    "label": "for a stopped Earth to fall into the Sun"
+   }
+  },
+  {
+   "text": "That's why the Parker Solar Probe used Venus seven times, like a brake, to slowly shrink its orbit. It took years to get close.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Parker Solar Probe.jpg"
+    ],
+    "query": "Parker Solar Probe"
+   },
+   "headline": "Using Venus as a brake"
+  },
+  {
+   "chapter": "Past Venus and Mercury",
+   "text": "Let's start the engines. The first world we pass is Venus, the hottest planet, about forty million kilometers closer to the Sun.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Solar System Montage - GPN-2000-000454.jpg"
+    ],
+    "query": "The Solar System Montage - GPN-2000-000454"
+   },
+   "headline": "Passing Venus"
+  },
+  {
+   "text": "Here the sunlight is already twice as strong as at home. We keep going, toward the little planet Mercury.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Solar system scale edit.jpg"
+    ],
+    "query": "Solar system scale edit"
+   }
+  },
+  {
+   "text": "At Mercury's distance, the Sun looks up to three times wider than it does from Earth, and its light is about seven times stronger. The ground below reaches four hundred thirty degrees Celsius. Hot enough to melt lead.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "Mercury's sky"
+  },
+  {
+   "text": "Without heavy shielding, your spacecraft would already be in trouble here.",
+   "visual": {
+    "type": "card",
+    "big": "7×",
+    "label": "stronger sunlight at Mercury"
+   }
+  },
+  {
+   "chapter": "Into the solar wind",
+   "text": "Beyond Mercury, there are no more planets. Just us, and a wind blowing from the Sun.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "05 Coronal Mass Ejection (2819895025).jpg"
+    ],
+    "query": "05 Coronal Mass Ejection (2819895025)"
+   },
+   "headline": "The solar wind"
+  },
+  {
+   "text": "The Sun constantly blows out a stream of charged particles called the solar wind. It rushes past at around four hundred kilometers every second.",
+   "visual": {
+    "type": "card",
+    "big": "400 km/s",
+    "label": "speed of the solar wind",
+    "sub": "about 1.4 million km/h"
+   }
+  },
+  {
+   "text": "On Earth, our magnetic field shields us from it. Where the particles leak in near the poles, they make the northern and southern lights.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora Australis From ISS.JPG"
+    ],
+    "query": "Aurora Australis From ISS"
+   },
+   "headline": "Our invisible shield"
+  },
+  {
+   "text": "But out here, you have no shield. The particles would slam through your body, damaging your cells and your DNA. And every so often, things get much worse.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "X Class Solar Flare Sends ‘Shockwaves’ on The Sun (6819094556).jpg"
+    ],
+    "query": "X Class Solar Flare Sends ‘Shockwaves’ on The Sun (6819094556)"
+   }
+  },
+  {
+   "text": "A solar flare can release more energy in minutes than all of humanity uses in many thousands of years. And a coronal mass ejection can throw billions of tons of glowing gas into space at millions of kilometers an hour.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "05 Coronal Mass Ejection (2819895025).jpg"
+    ],
+    "query": "05 Coronal Mass Ejection (2819895025)"
+   },
+   "headline": "Storms on the Sun"
+  },
+  {
+   "text": "Caught in one of those this close to the Sun, an unprotected astronaut could get a deadly dose of radiation in a very short time.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "X3.2 Solar flare on 2013-05-14 at four wavelengths.jpg"
+    ],
+    "query": "X3.2 Solar flare on 2013-05-14 at four wavelengths"
+   }
+  },
+  {
+   "text": "So here's my first question for you. Did you know that the Sun has weather, and storms that can reach all the way to Earth? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know the Sun has storms that can reach Earth?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The corona mystery",
+   "text": "Now we reach the corona, the Sun's outer atmosphere. You can only see it from Earth during a total solar eclipse, as a pale glowing crown around the dark Moon.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Total solar eclipse of March 20, 2015 by Damien Deltenre (licensed for free use). (32844461616).jpg"
+    ],
+    "query": "Total solar eclipse of March 20, 2015 by Damien Deltenre (licensed for free use). (32844461616)"
+   },
+   "headline": "The corona"
+  },
+  {
+   "text": "And here's one of the biggest mysteries in science. The corona is over a million degrees Celsius. That's hundreds of times hotter than the Sun's surface below it.",
+   "visual": {
+    "type": "card",
+    "big": "1,000,000 °C",
+    "label": "in the Sun's outer atmosphere",
+    "sub": "hundreds of times hotter than the surface"
+   }
+  },
+  {
+   "text": "How can the air get hotter the farther you go from the fire? Scientists still aren't completely sure. Magnetic fields twisting and snapping are probably part of the answer.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   }
+  },
+  {
+   "text": "So, would that million-degree heat cook you instantly? Surprisingly, no. The corona is so thin that it barely touches you. It's the sunlight that would destroy you.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Highest resolution photo of Sun (NSF) as of January 20, 2020.jpg"
+    ],
+    "query": "Highest resolution photo of Sun (NSF) as of January 20, 2020"
+   }
+  },
+  {
+   "text": "And we know this because one spacecraft is flying through the corona right now. It's NASA's Parker Solar Probe.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Parker Solar Probe.jpg"
+    ],
+    "query": "Parker Solar Probe"
+   },
+   "headline": "Parker Solar Probe"
+  },
+  {
+   "text": "On December twenty-fourth, twenty twenty-four, it passed just six point one million kilometers above the Sun's surface. The closest any human-made object has ever been.",
+   "visual": {
+    "type": "card",
+    "big": "6.1 million km",
+    "label": "Parker's closest pass",
+    "sub": "December 24, 2024"
+   }
+  },
+  {
+   "text": "It was also moving at about six hundred ninety thousand kilometers an hour. The fastest object humans have ever built.",
+   "visual": {
+    "type": "card",
+    "big": "692,000 km/h",
+    "label": "the fastest human-made object"
+   }
+  },
+  {
+   "text": "The probe is named after Eugene Parker, the scientist who predicted the solar wind in the nineteen fifties. Many experts doubted him at first. He lived to watch his spacecraft launch, in twenty eighteen.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Parker Solar Probe.jpg"
+    ],
+    "query": "Parker Solar Probe"
+   },
+   "headline": "Named for Eugene Parker"
+  },
+  {
+   "text": "Its secret is a shield of carbon foam, just about eleven centimeters thick. The front faces about fourteen hundred degrees Celsius. Behind it, the instruments stay close to room temperature.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Parker Solar Probe.jpg"
+    ],
+    "query": "Parker Solar Probe"
+   },
+   "headline": "A shield of foam"
+  },
+  {
+   "text": "At that distance, sunlight is about five hundred times stronger than at Earth. Without its shield, Parker would be destroyed. And so would you, in seconds.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Comet ISON Approaching the Sun (still) (11088251783).jpg"
+    ],
+    "query": "Comet ISON Approaching the Sun (still) (11088251783)"
+   },
+   "headline": "Like this comet"
+  },
+  {
+   "text": "Comets that dive this close to the Sun often don't survive. Comet ISON, in twenty thirteen, fell apart as it swung past.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Comet ISON Approaching the Sun (still) (11088251783).jpg"
+    ],
+    "query": "Comet ISON Approaching the Sun (still) (11088251783)"
+   }
+  },
+  {
+   "chapter": "The boiling surface",
+   "text": "Let's say you had a magic shield and kept going. Below the corona is the part of the Sun we can see: its surface, called the photosphere.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Highest resolution photo of Sun (NSF) as of January 20, 2020.jpg"
+    ],
+    "query": "Highest resolution photo of Sun (NSF) as of January 20, 2020"
+   },
+   "headline": "The surface"
+  },
+  {
+   "text": "It's about five thousand five hundred degrees Celsius. Every metal on Earth would melt and boil away here.",
+   "visual": {
+    "type": "card",
+    "big": "5,500 °C",
+    "label": "the Sun's surface",
+    "sub": "iron melts at about 1,500 °C"
+   }
+  },
+  {
+   "text": "Up close, the surface isn't smooth. It looks like a pot of boiling rice. Each of those cells is a bubble of hot gas, rising and sinking, and many are about the size of Texas.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Highest resolution photo of Sun (NSF) as of January 20, 2020.jpg"
+    ],
+    "query": "Highest resolution photo of Sun (NSF) as of January 20, 2020"
+   },
+   "headline": "Bubbles the size of Texas"
+  },
+  {
+   "text": "Here and there are dark sunspots, cooler patches held down by tangled magnetic fields. A single sunspot can be bigger than the whole Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "Sunspots"
+  },
+  {
+   "text": "And there's no ground to land on. The Sun is a ball of hot gas, called plasma. You would just keep sinking.",
+   "visual": {
+    "type": "card",
+    "big": "0",
+    "label": "solid ground on the Sun"
+   }
+  },
+  {
+   "text": "Its gravity is also about twenty-eight times stronger than Earth's. A person who weighs seventy kilograms at home would feel almost two tons heavy.",
+   "visual": {
+    "type": "card",
+    "big": "28×",
+    "label": "Earth's gravity",
+    "sub": "70 kg would feel like 2 tons"
+   }
+  },
+  {
+   "text": "So here's my second question. If you could send one thing to touch the surface of the Sun, what would you send, and why?",
+   "visual": {
+    "type": "question",
+    "q": "If you could send one thing to touch the Sun, what would it be?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Inside the Sun",
+   "text": "Now let's dive inside. Below the surface, hot gas boils up and sinks down in giant loops. This layer is called the convection zone.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   },
+   "headline": "The boiling layer"
+  },
+  {
+   "text": "Deeper still, the gas is so crowded that light can't travel freely. A ray of light bounces from atom to atom, in random directions.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "A maze for light"
+  },
+  {
+   "text": "Light made in the core may take tens of thousands of years, maybe even more than a hundred thousand years, to find its way out. Then just eight minutes to reach you.",
+   "visual": {
+    "type": "card",
+    "big": "100,000+ years",
+    "label": "for light to escape the Sun",
+    "sub": "then 8 minutes to Earth"
+   }
+  },
+  {
+   "text": "So the sunlight warming your face today started its journey long before the first cities were built.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028.jpg"
+    ],
+    "query": "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028"
+   }
+  },
+  {
+   "chapter": "The core",
+   "text": "Finally, the core. The heart of the Sun.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   },
+   "headline": "The core"
+  },
+  {
+   "text": "It's about fifteen million degrees Celsius, and the gas is packed so tightly that it's about one hundred fifty times denser than water.",
+   "visual": {
+    "type": "card",
+    "big": "15 million °C",
+    "label": "the Sun's core",
+    "sub": "about 150× denser than water"
+   }
+  },
+  {
+   "text": "Here, hydrogen atoms smash together and fuse into helium. That's nuclear fusion, and it's what makes the Sun shine.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "X3.2 Solar flare on 2013-05-14 at four wavelengths.jpg"
+    ],
+    "query": "X3.2 Solar flare on 2013-05-14 at four wavelengths"
+   },
+   "headline": "Nuclear fusion"
+  },
+  {
+   "text": "Every second, the Sun turns about four million tons of itself into pure energy.",
+   "visual": {
+    "type": "card",
+    "big": "4 million tons",
+    "label": "turned into energy every second"
+   }
+  },
+  {
+   "text": "It has been doing this for about four and a half billion years. And it has enough fuel to keep going for about five billion more.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   }
+  },
+  {
+   "text": "So, how far would you really get? Without protection, a few million kilometers from home. With the best shield humans have ever built, a few million kilometers from the Sun. Nothing can go further. Not yet.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Parker Solar Probe.jpg"
+    ],
+    "query": "Parker Solar Probe"
+   },
+   "headline": "The verdict"
+  },
+  {
+   "chapter": "The perfect distance",
+   "text": "And here's the beautiful part. Earth sits at just the right distance. A little closer, and our oceans would boil away, like on Venus. A little farther, and they'd freeze.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "Just right"
+  },
+  {
+   "text": "Our atmosphere and magnetic field catch the dangerous particles and turn them into the northern lights.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora Australis From ISS.JPG"
+    ],
+    "query": "Aurora Australis From ISS"
+   }
+  },
+  {
+   "chapter": "The Sun's future",
+   "text": "But the Sun won't stay the same forever. Very slowly, over hundreds of millions of years, it's getting brighter.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "Slowly brightening"
+  },
+  {
+   "text": "In about a billion years, it may be bright enough to start boiling Earth's oceans away.",
+   "visual": {
+    "type": "card",
+    "big": "~1 billion years",
+    "label": "until Earth gets too hot"
+   }
+  },
+  {
+   "text": "In about five billion years, the Sun will run low on fuel in its core and swell into a red giant, hundreds of times wider than today. Mercury and Venus will be swallowed.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "MarsSunset.jpg"
+    ],
+    "query": "MarsSunset"
+   },
+   "headline": "A red giant"
+  },
+  {
+   "text": "Finally, it will puff its outer layers into space as a glowing cloud, like this one, and leave behind a small, hot core called a white dwarf, about the size of Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hubble reveals the Ring Nebula’s true shape.jpg"
+    ],
+    "query": "Hubble reveals the Ring Nebula’s true shape"
+   },
+   "headline": "A glowing farewell"
+  },
+  {
+   "text": "But that's an unimaginably long time away. For now, and for longer than humans can imagine, our star will keep shining just as it does today.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "LADEE Above Lunar Sunset Artist's Concept (9674483648).jpg"
+    ],
+    "query": "LADEE Above Lunar Sunset Artist's Concept (9674483648)"
+   }
+  },
+  {
+   "text": "So the star that would destroy you in seconds up close is the same star that gives you every sunrise.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028.jpg"
+    ],
+    "query": "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? A neutron star? A supernova? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}
