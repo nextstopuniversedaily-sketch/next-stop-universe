@@ -1,22 +1,22 @@
-[0;93m2026-11-18 04:48:36.573006145 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:06:29.733970387 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 84: Arrokoth
-  audio 70.5s
+  audio 68.2s
   WIKI File:Reworked_composite_image_of_Arrokoth.png (Public domain)
-  segment 1/10 [title] 3.6s
+  segment 1/10 [title] 4.5s
   WIKI File:Pluto-01 Stern 03 Pluto Color TXT.jpg (Public domain)
   segment 2/10 [image] 7.0s
   WIKI File:Rubin Oort Cloud and Kuiper Belt Illustration (rubin-Oort-Cloud-and-Kuiper-Belt).jpg (CC BY 4.0)
-  segment 3/10 [image] 7.4s
+  segment 3/10 [image] 7.3s
   segment 4/10 [card] 8.3s
   WIKI File:Reworked_composite_image_of_Arrokoth.png (Public domain)
-  segment 5/10 [image] 6.3s
+  segment 5/10 [image] 6.5s
   WIKI File:Reworked composite image of Arrokoth rotated.png (Public domain)
   segment 6/10 [image] 5.8s
   WIKI File:New Horizons encapsulation.jpg (Public domain)
-  segment 7/10 [image] 7.4s
+  segment 7/10 [image] 7.3s
   segment 8/10 [card] 5.7s
   WIKI File:New Horizons spacecraft model 1.png (Public domain)
-  segment 9/10 [image] 7.5s
+  segment 9/10 [image] 7.4s
   WIKI File:The_Sounds_of_Earth_-_GPN-2000-001976.jpg (Public domain)
-  segment 10/10 [end] 11.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep084.mp4 (13.1 MB)
+  segment 10/10 [end] 8.3s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep084.mp4 (12.6 MB)
