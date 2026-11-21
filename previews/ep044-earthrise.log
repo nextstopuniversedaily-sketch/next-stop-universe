@@ -1,6 +1,6 @@
-[0;93m2026-11-21 20:29:06.921441770 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 20:52:47.482955863 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 44: Earthrise
-  audio 81.9s
+  audio 76.2s
   WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
   segment 1/10 [title] 5.9s
   WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
@@ -17,5 +17,5 @@
   segment 8/10 [image] 8.4s
   segment 9/10 [card] 5.3s
   WIKI File:A2017U1_5gsmoothWHT_enhanced.jpg (Public domain)
-  segment 10/10 [end] 14.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep044.mp4 (12.6 MB)
+  segment 10/10 [end] 8.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep044.mp4 (12.2 MB)
