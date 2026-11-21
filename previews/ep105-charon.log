@@ -1,8 +1,8 @@
-[0;93m2026-11-19 06:55:14.264630184 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:43:57.763887870 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 105: Charon
-  audio 69.1s
+  audio 65.6s
   WIKI File:Charon_in_True_Color_-_High-Res.png (Public domain)
-  segment 1/10 [title] 4.2s
+  segment 1/10 [title] 4.1s
   WIKI File:Charon Discovery.jpg (Public domain)
   segment 2/10 [image] 8.2s
   segment 3/10 [card] 5.9s
@@ -18,5 +18,5 @@
   WIKI File:Charon in True Color - High-Res.jpg (Public domain)
   segment 9/10 [image] 2.5s
   WIKI File:Eris and Dysnomia (captured by the Hubble Space Telescope).jpg (Public domain)
-  segment 10/10 [end] 11.0s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep105.mp4 (11.2 MB)
+  segment 10/10 [end] 7.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep105.mp4 (10.8 MB)
