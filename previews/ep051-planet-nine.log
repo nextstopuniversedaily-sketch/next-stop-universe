@@ -1,6 +1,6 @@
-[0;93m2026-11-21 20:43:22.443769598 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:06:02.784163353 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 51: Planet Nine
-  audio 88.0s
+  audio 79.5s
   - skip File:Planet nine artistic plain.png: license 'CC BY-SA 4.0'
   WIKI File:Hypothetical Planet Nine (24420842591).png (CC BY 2.0)
   segment 1/11 [title] 5.0s
@@ -22,5 +22,5 @@
   WIKI File:Neptune_Voyager2_color_calibrated.png (CC0)
   segment 10/11 [image] 8.3s
   WIKI File:North America from low orbiting satellite Suomi NPP.jpg (Public domain)
-  segment 11/11 [end] 16.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep051.mp4 (21.6 MB)
+  segment 11/11 [end] 8.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep051.mp4 (19.3 MB)
