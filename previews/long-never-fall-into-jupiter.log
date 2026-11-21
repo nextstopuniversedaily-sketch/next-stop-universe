@@ -1,32 +1,33 @@
+[0;93m2026-11-21 06:42:08.186700160 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Want to Fall Into Jupiter
-  audio 470.1s (7.84 min)
+  audio 469.8s (7.83 min)
   WIKI File:Jupiter OPAL 2024.png (Public domain)
-  segment 1/50 [title] 11.0s
+  segment 1/50 [title] 11.1s
   WIKI File:A Dark Sky Full of Light (horalek-vst-milky-way).jpg (CC BY 4.0)
   segment 2/50 [image] 11.5s
   segment 3/50 [card] 7.2s
   WIKI File:Portrait of Jupiter from Cassini.jpg (Public domain)
-  segment 4/50 [image] 8.3s
+  segment 4/50 [image] 8.1s
   segment 5/50 [card] 7.7s
   WIKI File:Hubble Takes Close-up Portrait of Jupiter.png (CC BY 2.0)
-  segment 6/50 [image] 7.9s
+  segment 6/50 [image] 7.8s
   WIKI File:Jupiter Family of Moons by Juno.png (Public domain)
-  segment 7/50 [image] 13.9s
+  segment 7/50 [image] 13.8s
   WIKI File:Jupiter and Callisto from Voyager 1.png (Public domain)
-  segment 8/50 [image] 8.3s
+  segment 8/50 [image] 8.2s
   WIKI File:Portrait of Jupiter from Cassini.jpg (Public domain)
-  segment 9/50 [image] 14.2s
-  segment 10/50 [card] 5.3s
-  WIKI File:Aurora Australis From ISS.JPG (Public domain)
+  segment 9/50 [image] 14.1s
+  segment 10/50 [card] 5.4s
+  WIKI File:Hubble Takes Close-up Portrait of Jupiter.png (CC BY 2.0)
   segment 11/50 [image] 9.9s
   WIKI File:Jupiter and Io - NASA's Cassini in 2001 (51758670356).png (CC BY 2.0)
   segment 12/50 [image] 7.3s
-  segment 13/50 [card] 7.6s
+  segment 13/50 [card] 7.7s
   WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
-  segment 14/50 [image] 10.6s
+  segment 14/50 [image] 10.5s
   WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
   segment 15/50 [image] 5.2s
-  segment 16/50 [card] 11.0s
+  segment 16/50 [card] 10.9s
   WIKI File:Full disk of the Sun (eso1703e-comparisona).jpg (CC BY 4.0)
   segment 17/50 [image] 7.0s
   WIKI File:Jupiter and Callisto from Voyager 1.png (Public domain)
@@ -35,43 +36,43 @@
   WIKI File:Chaotic Clouds of Jupiter.jpg (Public domain)
   segment 20/50 [image] 6.1s
   WIKI File:PIA21972 Jupiter Blues.jpg (Public domain)
-  segment 21/50 [image] 9.3s
+  segment 21/50 [image] 9.4s
   WIKI File:Chaotic Clouds of Jupiter.jpg (Public domain)
   segment 22/50 [image] 9.9s
   WIKI File:PIA21972 Jupiter Blues.jpg (Public domain)
   segment 23/50 [image] 10.0s
   WIKI File:Great red spot juno 20170712.jpg (Public domain)
-  segment 24/50 [image] 5.3s
+  segment 24/50 [image] 5.2s
   segment 25/50 [card] 7.0s
   WIKI File:NASA's Hubble Shows Jupiter's Great Red Spot is Smaller than Ever (14005564929).jpg (Public domain)
   segment 26/50 [image] 9.7s
   WIKI File:PIA21972 Jupiter Blues.jpg (Public domain)
-  segment 27/50 [image] 14.5s
-  WIKI File:Aurora Australis From ISS.JPG (Public domain)
+  segment 27/50 [image] 14.6s
+  WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
   segment 28/50 [image] 8.8s
-  segment 29/50 [question] 7.9s
+  segment 29/50 [question] 7.8s
   WIKI File:Portrait of Jupiter from Cassini.jpg (Public domain)
-  segment 30/50 [image] 9.9s
+  segment 30/50 [image] 9.8s
   segment 31/50 [card] 6.2s
   WIKI File:Hubble Takes Close-up Portrait of Jupiter.png (CC BY 2.0)
-  segment 32/50 [image] 10.3s
+  segment 32/50 [image] 10.4s
   WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
   segment 33/50 [image] 8.3s
-  segment 34/50 [card] 8.1s
+  segment 34/50 [card] 8.0s
   WIKI File:Jupiter OPAL 2024.png (Public domain)
   segment 35/50 [image] 11.9s
   WIKI File:Great Red Spot From Voyager 1.jpg (Public domain)
-  segment 36/50 [image] 8.0s
+  segment 36/50 [image] 7.9s
   WIKI File:Jupiter Family of Moons by Juno.png (Public domain)
-  segment 37/50 [image] 7.1s
+  segment 37/50 [image] 7.2s
   WIKI File:Io imaged by Juno.png (Public domain)
-  segment 38/50 [image] 7.9s
+  segment 38/50 [image] 7.8s
   WIKI File:Ganymede - Perijove 34 Composite.png (CC BY 2.0)
   segment 39/50 [image] 5.7s
   WIKI File:PIA19048 realistic color Europa mosaic edited.jpg (Public domain)
-  segment 40/50 [image] 8.2s
+  segment 40/50 [image] 8.1s
   WIKI File:NASA's SpaceX Europa Clipper Launch (KSC-20241014-PH-SPX01 0003).jpg (CC0)
-  segment 41/50 [image] 11.4s
+  segment 41/50 [image] 11.5s
   segment 42/50 [question] 9.8s
   WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
   segment 43/50 [image] 9.6s
@@ -79,15 +80,15 @@
   segment 44/50 [image] 16.7s
   WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
   segment 45/50 [image] 13.8s
-  WIKI File:2018 Night Sky Festival- Stargazing in the Meadow (44025262174).jpg (Public domain)
-  segment 46/50 [image] 12.7s
+  WIKI File:A Dark Sky Full of Light (horalek-vst-milky-way).jpg (CC BY 4.0)
+  segment 46/50 [image] 12.8s
   WIKI File:Hubble Takes Close-up Portrait of Jupiter.png (CC BY 2.0)
   segment 47/50 [image] 12.5s
   WIKI File:Jupiter OPAL 2024.png (Public domain)
-  segment 48/50 [image] 8.8s
+  segment 48/50 [image] 8.7s
   segment 49/50 [question] 6.2s
   WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
-  segment 50/50 [end] 18.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-fall-into-jupiter.mp4 (31.8 MB, 7.84 min)
+  segment 50/50 [end] 18.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-fall-into-jupiter.mp4 (31.8 MB, 7.83 min)
   WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
 thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-fall-into-jupiter.jpg

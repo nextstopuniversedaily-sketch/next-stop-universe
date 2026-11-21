@@ -4,7 +4,6 @@ NASA/JPL/Space Science Institute (Public domain) https://commons.wikimedia.org/w
 NASA Hubble (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Hubble_Takes_Close-up_Portrait_of_Jupiter.png
 NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill (Public domain) https://commons.wikimedia.org/wiki/File:Jupiter_Family_of_Moons_by_Juno.png
 NASA / JPL / Ian Regan (Public domain) https://commons.wikimedia.org/wiki/File:Jupiter_and_Callisto_from_Voyager_1.png
-ISS Expedition 23 crew (Public domain) https://commons.wikimedia.org/wiki/File:Aurora_Australis_From_ISS.JPG
 Andrea Luck (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Jupiter_and_Io_-_NASA%27s_Cassini_in_2001_(51758670356).png
 NASA/JPL-Caltech/MSSS/SwRI/Kevin M. Gill (Public domain) https://commons.wikimedia.org/wiki/File:Jupiter_and_the_Great_Red_Spot_-_Juno_Perijove_7.png
 NASA/SDO, ALMA (ESO/NAOJ/NRAO) (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Full_disk_of_the_Sun_(eso1703e-comparisona).jpg
@@ -17,5 +16,4 @@ NASA / SWRI / MSSS / Jason Perry (Public domain) https://commons.wikimedia.org/w
 NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Ganymede_-_Perijove_34_Composite.png
 NASA / Jet Propulsion Lab-Caltech / SETI Institute (Public domain) https://commons.wikimedia.org/wiki/File:PIA19048_realistic_color_Europa_mosaic_edited.jpg
 SpaceX (CC0) https://commons.wikimedia.org/wiki/File:NASA%27s_SpaceX_Europa_Clipper_Launch_(KSC-20241014-PH-SPX01_0003).jpg
-ShenandoahNPS (Public domain) https://commons.wikimedia.org/wiki/File:2018_Night_Sky_Festival-_Stargazing_in_the_Meadow_(44025262174).jpg
 GlacierNPS (Public domain) https://commons.wikimedia.org/wiki/File:Milky_Way_over_Big_Prairie_(16631110890).jpg
