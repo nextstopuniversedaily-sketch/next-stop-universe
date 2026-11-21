@@ -1,0 +1,606 @@
+{
+ "slug": "never-survive-on-mars",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive on Mars",
+ "screen_title": "Why You'd Never Survive on Mars",
+ "subtitle": "The planet that looks like home, and isn't",
+ "yt_title": "Why You'd Never Survive on Mars (Without a Lot of Help)",
+ "intro": "Mars looks almost friendly: deserts, mountains, sunrises, a day just a little longer than ours. So why would it kill you so quickly? We land on the Red Planet and face its thin air, deadly cold, poisonous dust, radiation and planet-wide dust storms, climb the tallest volcano in the solar system, and ask whether humans could ever live there.",
+ "questions": [
+  "Would you take a one-way ticket to Mars?",
+  "What would you miss most about Earth?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#mars #space #astronomy #nasa #science",
+ "tags": [
+  "why you'd never survive",
+  "survive on mars",
+  "what if you went to mars",
+  "living on mars",
+  "mars",
+  "red planet",
+  "olympus mons",
+  "perseverance rover",
+  "mars colony",
+  "mars dust storm",
+  "life on mars",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+  ],
+  "query": "Mars full disk",
+  "white": "IT SUFFOCATES",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "The planet that looks like home",
+   "text": "Of all the planets, Mars looks the most like home. Deserts, mountains, canyons, even sunsets. A day there lasts just a little longer than ours. So why would it kill you in less than a minute?",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+    ],
+    "query": "Mars full disk"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we land on Mars, and find out what would get you first.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Dark Sky Full of Light (horalek-vst-milky-way).jpg"
+    ],
+    "query": "A Dark Sky Full of Light (horalek-vst-milky-way)"
+   },
+   "subscribe": true
+  },
+  {
+   "chapter": "The long trip",
+   "text": "First, getting there. Mars and Earth line up for a good launch only about once every twenty-six months.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Solar system scale edit.jpg"
+    ],
+    "query": "Solar system scale edit"
+   },
+   "headline": "Once every 26 months"
+  },
+  {
+   "text": "Even then, the trip takes around seven months. The Apollo astronauts reached the Moon in three days. This is seven months, with no way to turn back.",
+   "visual": {
+    "type": "card",
+    "big": "~7 months",
+    "label": "from Earth to Mars",
+    "sub": "Apollo reached the Moon in 3 days"
+   }
+  },
+  {
+   "text": "And the whole way, you're outside Earth's protective magnetic field, bathed in radiation from the Sun and from deep space.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "Radiation on the way"
+  },
+  {
+   "text": "NASA's Curiosity rover measured the radiation during its trip. The flights there and back alone could add up to more than NASA's whole career limit for an astronaut.",
+   "visual": {
+    "type": "card",
+    "big": "~660 mSv",
+    "label": "radiation on a round trip",
+    "sub": "NASA's career limit: 600 mSv"
+   }
+  },
+  {
+   "chapter": "Stepping outside",
+   "text": "Now imagine you've landed. You open the hatch and step outside, in normal clothes. What happens?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA Mars Rover.jpg"
+    ],
+    "query": "NASA Mars Rover"
+   },
+   "headline": "Opening the door"
+  },
+  {
+   "text": "Mars's air is less than one percent as thick as Earth's. And almost all of it is carbon dioxide.",
+   "visual": {
+    "type": "card",
+    "big": "<1%",
+    "label": "of Earth's air pressure",
+    "sub": "and mostly carbon dioxide"
+   }
+  },
+  {
+   "text": "With so little pressure, the air rushes out of your lungs. The water in your tongue and eyes starts to boil, even though it's freezing cold. In about fifteen seconds, you'd pass out.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+    ],
+    "query": "Mars - August 30 2021 - Flickr - Kevin M. Gill"
+   },
+   "headline": "15 seconds"
+  },
+  {
+   "text": "The average temperature is about minus sixty degrees Celsius. At night it can drop below minus one hundred.",
+   "visual": {
+    "type": "card",
+    "big": "-60 °C",
+    "label": "average temperature on Mars",
+    "sub": "below -100 °C on some nights"
+   }
+  },
+  {
+   "text": "On a summer afternoon near the equator, the ground can reach around twenty degrees Celsius. But just above it, the thin air stays freezing. Your feet would feel spring while your head felt deep winter.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg"
+    ],
+    "query": "Spanning the Delta of Jezero Crater on Mars (PIA25022)"
+   },
+   "headline": "Warm feet, frozen head"
+  },
+  {
+   "text": "So here's my first question. If you were offered a one-way ticket to Mars, would you take it? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you take a one-way ticket to Mars?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The poisonous dust",
+   "text": "Let's say you have a spacesuit. You're safe from the air and the cold. Now look down.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Perseverance Stuns in New Selfie.png"
+    ],
+    "query": "Perseverance Stuns in New Selfie"
+   },
+   "headline": "Look down"
+  },
+  {
+   "text": "Mars is red because its dust is full of iron oxide. Rust. And the dust is everywhere.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+    ],
+    "query": "Mars - August 30 2021 - Flickr - Kevin M. Gill"
+   },
+   "headline": "A rusty planet"
+  },
+  {
+   "text": "In twenty oh eight, NASA's Phoenix lander found chemicals called perchlorates in the soil. They're toxic to humans, and can harm the thyroid gland.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "South Polar Cap of Mars during Martian South summer 2000.jpg"
+    ],
+    "query": "South Polar Cap of Mars during Martian South summer 2000"
+   },
+   "headline": "Toxic soil"
+  },
+  {
+   "text": "The dust is also very fine and sharp. It would cling to your suit, get inside your base, and into your lungs.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA Mars Rover.jpg"
+    ],
+    "query": "NASA Mars Rover"
+   }
+  },
+  {
+   "chapter": "Planet-wide dust storms",
+   "text": "And sometimes, the dust takes over the whole planet.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+    ],
+    "query": "Mars - August 30 2021 - Flickr - Kevin M. Gill"
+   },
+   "headline": "Dust storms"
+  },
+  {
+   "text": "In twenty eighteen, a dust storm grew until it covered nearly all of Mars. It blocked the sunlight for months, and the solar-powered Opportunity rover went silent forever, after almost fifteen years of exploring.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA Mars Rover.jpg"
+    ],
+    "query": "NASA Mars Rover"
+   },
+   "headline": "Opportunity's last storm"
+  },
+  {
+   "text": "But here's a surprise. In movies, Martian storms knock people over. In reality, the air is so thin that even a hundred kilometer an hour wind would feel like a gentle breeze. The real danger is the darkness and the dust.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "MarsSunset.jpg"
+    ],
+    "query": "MarsSunset"
+   },
+   "headline": "A gentle wind"
+  },
+  {
+   "chapter": "Invisible danger",
+   "text": "And then there's the radiation, every single day. Mars lost its global magnetic field billions of years ago.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "No magnetic shield"
+  },
+  {
+   "text": "Without that shield, the solar wind slowly stripped away most of its air. And today, radiation from space hits the surface directly.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+    ],
+    "query": "Mars - August 30 2021 - Flickr - Kevin M. Gill"
+   },
+   "headline": "Stripped by the Sun"
+  },
+  {
+   "text": "On the surface, you'd absorb radiation many times faster than on Earth. Long stays would raise the risk of cancer and other illness.",
+   "visual": {
+    "type": "card",
+    "big": "many ×",
+    "label": "Earth's radiation dose"
+   }
+  },
+  {
+   "text": "Future explorers might have to live underground, or under thick walls of Martian soil, just to stay safe.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars Sample Return Concept Illustration.jpg"
+    ],
+    "query": "Mars Sample Return Concept Illustration"
+   },
+   "headline": "Living underground"
+  },
+  {
+   "chapter": "The tallest volcano",
+   "text": "But Mars is also a place of record-breaking wonders.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Olympus Mons - ESA Mars Express.png"
+    ],
+    "query": "Olympus Mons - ESA Mars Express"
+   },
+   "headline": "Olympus Mons"
+  },
+  {
+   "text": "Olympus Mons is the tallest volcano in the solar system, about twenty-two kilometers high. Around two and a half times taller than Mount Everest.",
+   "visual": {
+    "type": "card",
+    "big": "~22 km",
+    "label": "Olympus Mons",
+    "sub": "about 2.5× Mount Everest"
+   }
+  },
+  {
+   "text": "It's so wide, about six hundred kilometers, that if you stood on its slopes, the peak would be hidden beyond the horizon. You might not even know you were on a mountain.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Olympus Mons - NASA Mars Global Surveyor (54542130265).png"
+    ],
+    "query": "Olympus Mons - NASA Mars Global Surveyor (54542130265)"
+   },
+   "headline": "Too big to see"
+  },
+  {
+   "text": "At the top is a giant crater, a caldera, deep enough to swallow entire cities.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Olympus Mons Caldera - ESA Mars Express (54041132578).png"
+    ],
+    "query": "Olympus Mons Caldera - ESA Mars Express (54041132578)"
+   }
+  },
+  {
+   "text": "And then there's Valles Marineris, a canyon system about four thousand kilometers long. On Earth, it would stretch almost all the way across the United States.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA00005 Oblique View of Valles Marineris.jpg"
+    ],
+    "query": "PIA00005 Oblique View of Valles Marineris"
+   },
+   "headline": "Valles Marineris"
+  },
+  {
+   "text": "In places, it's about seven kilometers deep. Four times deeper than the Grand Canyon.",
+   "visual": {
+    "type": "card",
+    "big": "~7 km",
+    "label": "deep",
+    "sub": "about 4× the Grand Canyon"
+   }
+  },
+  {
+   "text": "Gravity on Mars is only about thirty-eight percent of Earth's. You could jump almost three times higher.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg"
+    ],
+    "query": "PlanetMars-VallesMarineris-VikingOrbiter-1980"
+   },
+   "headline": "38% gravity"
+  },
+  {
+   "text": "And at sunset, the sky turns blue around the Sun, the opposite of Earth. Fine dust scatters blue light forward, toward your eyes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "MarsSunset.jpg"
+    ],
+    "query": "MarsSunset"
+   },
+   "headline": "Blue sunsets"
+  },
+  {
+   "chapter": "Was there life?",
+   "text": "Billions of years ago, Mars was a very different place. Rivers flowed, and lakes filled its craters.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg"
+    ],
+    "query": "Spanning the Delta of Jezero Crater on Mars (PIA25022)"
+   },
+   "headline": "Rivers and lakes"
+  },
+  {
+   "text": "NASA's Perseverance rover landed in Jezero crater, an ancient lake, to look for signs of past life.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Perseverance Stuns in New Selfie.png"
+    ],
+    "query": "Perseverance Stuns in New Selfie"
+   },
+   "headline": "Perseverance"
+  },
+  {
+   "text": "In twenty twenty-four, it found a rock with tiny leopard spots. In twenty twenty-five, scientists called it a potential sign of ancient life. Potential means maybe, not proof.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "1-PIA26368-Perseverance Finds a Rock with Leopard Spots-annotated.png"
+    ],
+    "query": "1-PIA26368-Perseverance Finds a Rock with Leopard Spots-annotated"
+   },
+   "headline": "Leopard spots"
+  },
+  {
+   "text": "Perseverance even carried a little helicopter, Ingenuity, the first aircraft to fly on another planet. It made seventy-two flights.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA25962-MarsPerseveranceRover-OtisPeak-RockSample-20230612.jpg"
+    ],
+    "query": "PIA25962-MarsPerseveranceRover-OtisPeak-RockSample-20230612"
+   },
+   "headline": "The first flight on Mars"
+  },
+  {
+   "chapter": "Strange everyday life",
+   "text": "Life there would feel strange in other ways too. A Martian day, called a sol, lasts twenty-four hours and thirty-seven minutes. Almost like home.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg"
+    ],
+    "query": "Spanning the Delta of Jezero Crater on Mars (PIA25022)"
+   },
+   "headline": "A sol"
+  },
+  {
+   "text": "But a Martian year lasts six hundred eighty-seven Earth days. Each season lasts about twice as long as ours.",
+   "visual": {
+    "type": "card",
+    "big": "687 days",
+    "label": "one year on Mars"
+   }
+  },
+  {
+   "text": "Perseverance carried microphones. They revealed that on Mars, sound is quieter, and high-pitched sounds travel a little faster than low ones. A conversation would sound oddly muffled.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Perseverance Stuns in New Selfie.png"
+    ],
+    "query": "Perseverance Stuns in New Selfie"
+   },
+   "headline": "Sound on Mars"
+  },
+  {
+   "text": "Whirling dust devils, several kilometers tall, sweep across the plains. Some of them even cleaned the dusty solar panels of NASA's rovers.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+    ],
+    "query": "Mars - August 30 2021 - Flickr - Kevin M. Gill"
+   },
+   "headline": "Dust devils"
+  },
+  {
+   "text": "And calling home would be slow. A radio message takes between about three and twenty-two minutes to reach Earth, depending on where the planets are.",
+   "visual": {
+    "type": "card",
+    "big": "3–22 min",
+    "label": "for a message to reach Earth",
+    "sub": "no live phone calls"
+   }
+  },
+  {
+   "text": "Mars also has two small moons. The bigger one, Phobos, is slowly spiraling inward. In tens of millions of years, it will break apart, and may form a ring around Mars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Phobos colour 2008.jpg"
+    ],
+    "query": "Phobos colour 2008"
+   },
+   "headline": "A doomed moon"
+  },
+  {
+   "text": "Here's my second question. If you lived on Mars, what would you miss most about Earth? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "If you lived on Mars, what would you miss most about Earth?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Could we ever live there?",
+   "text": "So, could humans ever live on Mars? Maybe, but not on the surface as it is. You'd need a pressurized home, radiation shielding, and your own air, water and food.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars Sample Return Concept Illustration.jpg"
+    ],
+    "query": "Mars Sample Return Concept Illustration"
+   },
+   "headline": "A home on Mars?"
+  },
+  {
+   "text": "There's water, frozen in the polar ice caps and under the ground. It could give drinking water, oxygen, and even rocket fuel.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "South Polar Cap of Mars during Martian South summer 2000.jpg"
+    ],
+    "query": "South Polar Cap of Mars during Martian South summer 2000"
+   },
+   "headline": "Frozen water"
+  },
+  {
+   "text": "Could you make air there? Perseverance carried an experiment called MOXIE that turned Martian carbon dioxide into oxygen. Over two years it made about one hundred twenty grams. A tiny amount, but proof it can be done.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA25962-MarsPerseveranceRover-OtisPeak-RockSample-20230612.jpg"
+    ],
+    "query": "PIA25962-MarsPerseveranceRover-OtisPeak-RockSample-20230612"
+   },
+   "headline": "Making oxygen on Mars"
+  },
+  {
+   "text": "Food is harder. Martian soil has almost no nutrients and is laced with those toxic perchlorates. Crops would need sealed greenhouses, cleaned soil, and artificial light during dust storms.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg"
+    ],
+    "query": "Spanning the Delta of Jezero Crater on Mars (PIA25022)"
+   },
+   "headline": "Growing food"
+  },
+  {
+   "text": "Every breath, every meal, every drop would depend on machines. A single broken part could be deadly, with help seven months away.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA Mars Rover.jpg"
+    ],
+    "query": "NASA Mars Rover"
+   }
+  },
+  {
+   "text": "So you'd never survive on Mars as you are. But with enough help, maybe one day, people will call it home.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Mars - August 30 2021 - Flickr - Kevin M. Gill.png"
+    ],
+    "query": "Mars - August 30 2021 - Flickr - Kevin M. Gill"
+   },
+   "headline": "The verdict"
+  },
+  {
+   "text": "Want to see Mars yourself? On February nineteenth, twenty twenty-seven, Mars will be at opposition, rising at sunset and shining all night as a bright orange point. No telescope needed.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "2018 Night Sky Festival- Stargazing in the Meadow (44025262174).jpg"
+    ],
+    "query": "2018 Night Sky Festival- Stargazing in the Meadow (44025262174)"
+   },
+   "headline": "See it yourself"
+  },
+  {
+   "text": "And after all that, Earth, with its thick air, its liquid oceans and its magnetic shield, looks like the most precious place we know.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

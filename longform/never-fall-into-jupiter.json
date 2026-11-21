@@ -1,0 +1,581 @@
+{
+ "slug": "never-fall-into-jupiter",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Want to Fall Into Jupiter",
+ "screen_title": "Why You'd Never Want to Fall Into Jupiter",
+ "subtitle": "A planet with no ground at all",
+ "yt_title": "Why You'd Never Want to Fall Into Jupiter",
+ "intro": "Jupiter is the giant of our solar system, with no surface to stand on. What would happen if you fell in? We dive through its radiation belts, its colorful clouds, the Great Red Spot, the ammonia hail and the crushing ocean of metallic hydrogen, follow the one probe that tried, and visit the moons that might hide life.",
+ "questions": [
+  "Did you know Jupiter has no surface at all?",
+  "Which of Jupiter's moons would you visit first?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#jupiter #space #astronomy #nasa #science",
+ "tags": [
+  "why you'd never",
+  "fall into jupiter",
+  "what if you fell into jupiter",
+  "jupiter",
+  "great red spot",
+  "juno",
+  "galileo probe",
+  "gas giant",
+  "metallic hydrogen",
+  "europa",
+  "io",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Jupiter and the Great Red Spot - Juno Perijove 7.png"
+  ],
+  "query": "Jupiter Juno",
+  "white": "IT SWALLOWS",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "A planet with no ground",
+   "text": "Jupiter is the biggest planet in our solar system. And it has no ground. If you fell in, you would never land. So what would happen to you on the way down?",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Jupiter OPAL 2024.png"
+    ],
+    "query": "Jupiter"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we fall into Jupiter. Hold on tight.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Dark Sky Full of Light (horalek-vst-milky-way).jpg"
+    ],
+    "query": "A Dark Sky Full of Light (horalek-vst-milky-way)"
+   },
+   "subscribe": true
+  },
+  {
+   "chapter": "The giant",
+   "text": "Jupiter is about eleven times wider than Earth. More than thirteen hundred Earths could fit inside it.",
+   "visual": {
+    "type": "card",
+    "big": "1,300",
+    "label": "Earths would fit inside"
+   }
+  },
+  {
+   "text": "It's mostly hydrogen and helium, like a star. If it had been around eighty times heavier, it might have become one.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Portrait of Jupiter from Cassini.jpg"
+    ],
+    "query": "Portrait of Jupiter from Cassini"
+   },
+   "headline": "Almost a star"
+  },
+  {
+   "text": "And it spins fast. A day on Jupiter lasts less than ten hours. The fastest spin of any planet.",
+   "visual": {
+    "type": "card",
+    "big": "<10 hours",
+    "label": "one day on Jupiter"
+   }
+  },
+  {
+   "text": "That spin stretches its clouds into colorful bands, the light zones and dark belts you can see in any picture.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hubble Takes Close-up Portrait of Jupiter.png"
+    ],
+    "query": "Hubble Takes Close-up Portrait of Jupiter"
+   },
+   "headline": "Belts and zones"
+  },
+  {
+   "text": "In sixteen ten, Galileo Galilei pointed one of the first telescopes at Jupiter and saw four tiny moons circling it. It proved that not everything in the sky goes around the Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter Family of Moons by Juno.png"
+    ],
+    "query": "Jupiter Family of Moons by Juno"
+   },
+   "headline": "Galileo, 1610"
+  },
+  {
+   "text": "Jupiter even has faint rings, made of fine dust, discovered by Voyager one in nineteen seventy-nine.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and Callisto from Voyager 1.png"
+    ],
+    "query": "Jupiter and Callisto from Voyager 1"
+   },
+   "headline": "Hidden rings"
+  },
+  {
+   "text": "And its gravity is so strong that it pulls in comets. In nineteen ninety-four, comet Shoemaker-Levy nine broke into pieces and crashed into Jupiter, one after another, for almost a week.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Portrait of Jupiter from Cassini.jpg"
+    ],
+    "query": "Portrait of Jupiter from Cassini"
+   },
+   "headline": "A comet crashes, 1994"
+  },
+  {
+   "text": "Some of the dark scars left by the impacts were bigger than the whole Earth.",
+   "visual": {
+    "type": "card",
+    "big": "Earth-sized",
+    "label": "impact scars"
+   }
+  },
+  {
+   "chapter": "The radiation belts",
+   "text": "But before you even reach the clouds, there's a problem. Jupiter's magnetic field is about twenty thousand times stronger than Earth's.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora Australis From ISS.JPG"
+    ],
+    "query": "Aurora Australis From ISS"
+   },
+   "headline": "A giant magnet"
+  },
+  {
+   "text": "It traps charged particles in enormous radiation belts, the most intense in the solar system.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and Io - NASA's Cassini in 2001 (51758670356).png"
+    ],
+    "query": "Jupiter and Io - NASA's Cassini in 2001 (51758670356)"
+   },
+   "headline": "Deadly radiation"
+  },
+  {
+   "text": "Near the moon Europa, an unprotected person would get a deadly dose of radiation in about a day.",
+   "visual": {
+    "type": "card",
+    "big": "~1 day",
+    "label": "to a deadly dose near Europa"
+   }
+  },
+  {
+   "text": "NASA's Juno spacecraft, which arrived in twenty sixteen, protects its electronics inside a vault of titanium. You would need one too.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and the Great Red Spot - Juno Perijove 7.png"
+    ],
+    "query": "Jupiter and the Great Red Spot - Juno Perijove 7"
+   },
+   "headline": "A titanium vault"
+  },
+  {
+   "chapter": "Falling in",
+   "text": "Now let's fall. Jupiter's gravity pulls you in faster and faster.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and the Great Red Spot - Juno Perijove 7.png"
+    ],
+    "query": "Jupiter and the Great Red Spot - Juno Perijove 7"
+   },
+   "headline": "Falling"
+  },
+  {
+   "text": "By the time you hit the top of the atmosphere, you'd be moving at about sixty kilometers per second. Faster than any spacecraft has ever entered Earth's air.",
+   "visual": {
+    "type": "card",
+    "big": "60 km/s",
+    "label": "entry speed"
+   }
+  },
+  {
+   "text": "The friction would turn you into a blazing fireball in seconds. Only a heat shield could survive it.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "A fireball"
+  },
+  {
+   "text": "And one spacecraft did. In nineteen ninety-five, NASA's Galileo mission dropped a small probe into Jupiter.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and Callisto from Voyager 1.png"
+    ],
+    "query": "Jupiter and Callisto from Voyager 1"
+   },
+   "headline": "The Galileo probe"
+  },
+  {
+   "text": "It survived about fifty-eight minutes, sending data back as it fell, until the heat and pressure destroyed it.",
+   "visual": {
+    "type": "card",
+    "big": "58 min",
+    "label": "the Galileo probe survived"
+   }
+  },
+  {
+   "chapter": "Through the clouds",
+   "text": "Let's say you survive the entry. You're drifting down through the clouds, under a parachute.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chaotic Clouds of Jupiter.jpg"
+    ],
+    "query": "Chaotic Clouds of Jupiter"
+   },
+   "headline": "The clouds"
+  },
+  {
+   "text": "The top clouds are made of frozen ammonia crystals, white and cold, around minus one hundred forty degrees Celsius.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA21972 Jupiter Blues.jpg"
+    ],
+    "query": "PIA21972 Jupiter Blues"
+   },
+   "headline": "Ammonia clouds"
+  },
+  {
+   "text": "Below are clouds of ammonia mixed with sulfur, and deeper still, water clouds, with lightning bolts more powerful than any on Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chaotic Clouds of Jupiter.jpg"
+    ],
+    "query": "Chaotic Clouds of Jupiter"
+   },
+   "headline": "Giant lightning"
+  },
+  {
+   "text": "Juno found that some lightning makes a strange kind of hail: slushy balls of water and ammonia that scientists nicknamed mushballs.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA21972 Jupiter Blues.jpg"
+    ],
+    "query": "PIA21972 Jupiter Blues"
+   },
+   "headline": "Mushballs"
+  },
+  {
+   "chapter": "The Great Red Spot",
+   "text": "And then there are the storms. The most famous is the Great Red Spot.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Great red spot juno 20170712.jpg"
+    ],
+    "query": "Great red spot juno 20170712"
+   },
+   "headline": "The Great Red Spot"
+  },
+  {
+   "text": "It's a storm wider than the whole Earth, with winds of more than four hundred kilometers an hour.",
+   "visual": {
+    "type": "card",
+    "big": "400+ km/h",
+    "label": "winds in the Great Red Spot",
+    "sub": "a storm wider than Earth"
+   }
+  },
+  {
+   "text": "People have watched it for at least a hundred and fifty years, maybe more. But it's been shrinking. Nobody knows exactly how long it will last.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA's Hubble Shows Jupiter's Great Red Spot is Smaller than Ever (14005564929).jpg"
+    ],
+    "query": "NASA's Hubble Shows Jupiter's Great Red Spot is Smaller than Ever (14005564929)"
+   },
+   "headline": "Shrinking"
+  },
+  {
+   "text": "Juno also flew over Jupiter's poles, where no spacecraft had looked closely before. It found giant cyclones, each wider than a continent, packed together in neat geometric patterns.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA21972 Jupiter Blues.jpg"
+    ],
+    "query": "PIA21972 Jupiter Blues"
+   },
+   "headline": "Cyclones at the poles"
+  },
+  {
+   "text": "And Jupiter's auroras, its northern and southern lights, are bigger than the whole Earth, and hundreds of times more powerful.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora Australis From ISS.JPG"
+    ],
+    "query": "Aurora Australis From ISS"
+   },
+   "headline": "Giant auroras"
+  },
+  {
+   "text": "Here's my first question. Did you know Jupiter has no surface, and you could fall forever? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know Jupiter has no surface at all?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The crushing deep",
+   "text": "As you sink deeper, the pressure grows and grows. The air gets thicker, then thicker still, until it's more like a hot ocean than air.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Portrait of Jupiter from Cassini.jpg"
+    ],
+    "query": "Portrait of Jupiter from Cassini"
+   },
+   "headline": "An ocean of gas"
+  },
+  {
+   "text": "Gravity here is about two and a half times Earth's. You'd feel crushed just standing still.",
+   "visual": {
+    "type": "card",
+    "big": "2.5×",
+    "label": "Earth's gravity"
+   }
+  },
+  {
+   "text": "Thousands of kilometers down, the pressure turns hydrogen into a liquid. Deeper still, it becomes something strange: metallic hydrogen.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hubble Takes Close-up Portrait of Jupiter.png"
+    ],
+    "query": "Hubble Takes Close-up Portrait of Jupiter"
+   },
+   "headline": "Metallic hydrogen"
+  },
+  {
+   "text": "It flows like a liquid metal and carries electric currents. That's what makes Jupiter's huge magnetic field.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and the Great Red Spot - Juno Perijove 7.png"
+    ],
+    "query": "Jupiter and the Great Red Spot - Juno Perijove 7"
+   },
+   "headline": "Making a magnet"
+  },
+  {
+   "text": "Near the center, the temperature may reach about twenty thousand degrees Celsius. Hotter than the surface of the Sun.",
+   "visual": {
+    "type": "card",
+    "big": "~20,000 °C",
+    "label": "near Jupiter's center",
+    "sub": "hotter than the Sun's surface"
+   }
+  },
+  {
+   "text": "And the core? Juno found it isn't a small solid ball, but a fuzzy, diluted core, mixed into the layers around it. Maybe from a giant collision long ago.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter OPAL 2024.png"
+    ],
+    "query": "Jupiter OPAL 2024"
+   },
+   "headline": "A fuzzy core"
+  },
+  {
+   "text": "Long before that, of course, you'd have been crushed, cooked, and dissolved into the planet. You'd become part of Jupiter.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Great Red Spot From Voyager 1.jpg"
+    ],
+    "query": "Great Red Spot From Voyager 1"
+   },
+   "headline": "Part of Jupiter"
+  },
+  {
+   "chapter": "A family of moons",
+   "text": "Jupiter isn't alone. It has nearly a hundred known moons, a little solar system of its own.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter Family of Moons by Juno.png"
+    ],
+    "query": "Jupiter Family of Moons by Juno"
+   },
+   "headline": "Nearly 100 moons"
+  },
+  {
+   "text": "Io is the most volcanic place we know, squeezed by Jupiter's gravity until its insides melt.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Io imaged by Juno.png"
+    ],
+    "query": "Io imaged by Juno"
+   },
+   "headline": "Io"
+  },
+  {
+   "text": "Ganymede is the biggest moon in the solar system, bigger than the planet Mercury.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ganymede - Perijove 34 Composite.png"
+    ],
+    "query": "Ganymede - Perijove 34 Composite"
+   },
+   "headline": "Ganymede"
+  },
+  {
+   "text": "And Europa hides a salty ocean under its ice, with maybe twice as much water as all of Earth's oceans.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA19048 realistic color Europa mosaic edited.jpg"
+    ],
+    "query": "PIA19048 realistic color Europa mosaic edited"
+   },
+   "headline": "Europa"
+  },
+  {
+   "text": "In October twenty twenty-four, NASA launched Europa Clipper to study it. It's due to arrive in twenty thirty, to find out if that ocean could support life.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA's SpaceX Europa Clipper Launch (KSC-20241014-PH-SPX01 0003).jpg"
+    ],
+    "query": "NASA's SpaceX Europa Clipper Launch (KSC-20241014-PH-SPX01 0003)"
+   },
+   "headline": "Europa Clipper"
+  },
+  {
+   "text": "Here's my second question. Which of Jupiter's moons would you visit first: volcanic Io, giant Ganymede, or icy Europa?",
+   "visual": {
+    "type": "question",
+    "q": "Which of Jupiter's moons would you visit first?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The verdict",
+   "text": "So, would you ever want to fall into Jupiter? Radiation, fire, storms, crushing pressure. There's no part of the trip you'd survive.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and the Great Red Spot - Juno Perijove 7.png"
+    ],
+    "query": "Jupiter and the Great Red Spot - Juno Perijove 7"
+   },
+   "headline": "The verdict"
+  },
+  {
+   "text": "And Jupiter isn't only a danger. With its huge gravity, it has flung many comets and asteroids out of the inner solar system, though it has sent some toward us too. Scientists still debate whether, overall, it protects Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Portrait of Jupiter from Cassini.jpg"
+    ],
+    "query": "Portrait of Jupiter from Cassini"
+   },
+   "headline": "Protector or troublemaker?"
+  },
+  {
+   "text": "Here's something lovely. Many of the colorful Juno images you've seen in this video were processed by volunteers, ordinary people around the world, from raw pictures NASA shared with everyone.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and the Great Red Spot - Juno Perijove 7.png"
+    ],
+    "query": "Jupiter and the Great Red Spot - Juno Perijove 7"
+   },
+   "headline": "Made by volunteers"
+  },
+  {
+   "text": "But from a distance, it's one of the most beautiful sights in the sky. On a clear night, it shines brighter than any star. Even with binoculars, you can see its four biggest moons.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "2018 Night Sky Festival- Stargazing in the Meadow (44025262174).jpg"
+    ],
+    "query": "2018 Night Sky Festival- Stargazing in the Meadow (44025262174)"
+   },
+   "headline": "Look up"
+  },
+  {
+   "text": "The best time is coming soon. On February tenth and eleventh, twenty twenty-seven, Jupiter reaches opposition, its closest and brightest for the year, up all night long.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hubble Takes Close-up Portrait of Jupiter.png"
+    ],
+    "query": "Hubble Takes Close-up Portrait of Jupiter"
+   },
+   "headline": "Jupiter's big night"
+  },
+  {
+   "text": "And next time you see it, remember: you're looking at a world with no ground, where it rains slush and the deep is made of metal.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter OPAL 2024.png"
+    ],
+    "query": "Jupiter OPAL 2024"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

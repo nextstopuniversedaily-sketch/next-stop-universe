@@ -1,0 +1,555 @@
+{
+ "slug": "never-survive-night-on-moon",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Night on the Moon",
+ "screen_title": "Why You'd Never Survive a Night on the Moon",
+ "subtitle": "Two weeks of darkness, 384,000 km from home",
+ "yt_title": "Why You'd Never Survive a Night on the Moon",
+ "intro": "The Moon is the only other world humans have walked on. But a single lunar night lasts about two weeks, at around minus 130 degrees Celsius. We land on the Moon and face its airless sky, burning days, freezing nights, sharp dust, radiation and moonquakes, and find out how the next astronauts plan to survive there.",
+ "questions": [
+  "Would you volunteer to spend a night on the Moon?",
+  "Did you know a lunar night lasts about two weeks?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#moon #space #astronomy #apollo #science",
+ "tags": [
+  "why you'd never survive",
+  "night on the moon",
+  "what if you lived on the moon",
+  "moon",
+  "apollo",
+  "artemis",
+  "lunar night",
+  "moon dust",
+  "moonquakes",
+  "living on the moon",
+  "apollo 11",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "A Man on the Moon, AS11-40-5903 (cropped).jpg"
+  ],
+  "query": "Apollo astronaut Moon",
+  "white": "IT FREEZES",
+  "accent": "YOU..",
+  "astronaut": [
+   0.84,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.45
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "The world next door",
+   "text": "Twelve people have walked on the Moon. Not one of them ever spent a night there. Because a night on the Moon lasts about two weeks, and it's colder than anywhere on Earth. Could you survive it?",
+   "visual": {
+    "type": "title",
+    "files": [
+     "A Man on the Moon, AS11-40-5903 (cropped).jpg"
+    ],
+    "query": "Apollo astronaut Moon"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we land on the Moon, and stay for the night.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ],
+    "query": "Moon over Horizon - ISS - August 30 2026 (55502157806)"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "The Moon is about three hundred eighty-four thousand kilometers away. The Apollo astronauts got there in about three days.",
+   "visual": {
+    "type": "card",
+    "big": "384,000 km",
+    "label": "to the Moon",
+    "sub": "about 3 days by Apollo"
+   }
+  },
+  {
+   "text": "Between nineteen sixty-nine and nineteen seventy-two, twelve astronauts walked on its surface. The longest stay lasted about three days, during the lunar daytime.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aldrin Apollo 11.jpg"
+    ],
+    "query": "Aldrin Apollo 11"
+   },
+   "headline": "Only in daylight"
+  },
+  {
+   "chapter": "A two-week day",
+   "text": "The Moon turns very slowly. One full day and night, from sunrise to sunrise, takes about twenty-nine and a half Earth days.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "LADEE Above Lunar Sunset Artist's Concept (9674483648).jpg"
+    ],
+    "query": "LADEE Above Lunar Sunset Artist's Concept (9674483648)"
+   },
+   "headline": "A month-long day"
+  },
+  {
+   "text": "That means about two weeks of sunlight, followed by about two weeks of darkness.",
+   "visual": {
+    "type": "card",
+    "big": "~2 weeks",
+    "label": "of night",
+    "sub": "after ~2 weeks of day"
+   }
+  },
+  {
+   "chapter": "Born from a collision",
+   "text": "Where did the Moon come from? Most scientists think that about four and a half billion years ago, a planet about the size of Mars smashed into the young Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Earth, Moon and Lunar Module, AS11-44-6643.jpg"
+    ],
+    "query": "Earth, Moon and Lunar Module, AS11-44-6643"
+   },
+   "headline": "A giant impact"
+  },
+  {
+   "text": "The debris from that collision gathered into a ball in orbit. That ball became our Moon.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ],
+    "query": "Moon over Horizon - ISS - August 30 2026 (55502157806)"
+   },
+   "headline": "Our Moon is born"
+  },
+  {
+   "text": "And it's still moving away from us, about three point eight centimeters every year. We measure it with mirrors the Apollo astronauts left behind.",
+   "visual": {
+    "type": "card",
+    "big": "3.8 cm",
+    "label": "farther every year"
+   }
+  },
+  {
+   "chapter": "Daytime on the Moon",
+   "text": "Let's land in the morning. You step out, and the first thing you notice is the silence. With no air, there's no sound at all.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 14 Lunar Module (LM) on the moon.jpg"
+    ],
+    "query": "Apollo 14 Lunar Module (LM) on the moon"
+   },
+   "headline": "Silence"
+  },
+  {
+   "text": "And the sky is black, even with the Sun shining. With no air to scatter sunlight, you'd see the Sun and the stars at the same time, if your eyes could adjust.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Man on the Moon, AS11-40-5903 (cropped).jpg"
+    ],
+    "query": "A Man on the Moon, AS11-40-5903 (cropped)"
+   },
+   "headline": "A black sky at noon"
+  },
+  {
+   "text": "Without a spacesuit, you'd lose consciousness in about fifteen seconds. There's simply nothing to breathe.",
+   "visual": {
+    "type": "card",
+    "big": "15 seconds",
+    "label": "without a spacesuit"
+   }
+  },
+  {
+   "text": "By midday, the ground near the equator heats up to around one hundred twenty degrees Celsius. Hotter than boiling water.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025.jpg"
+    ],
+    "query": "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025"
+   },
+   "headline": "Burning days"
+  },
+  {
+   "text": "With no air to carry the heat away, your suit must cool you with water and radiators, or you'd overheat.",
+   "visual": {
+    "type": "card",
+    "big": "120 °C",
+    "label": "midday on the Moon"
+   }
+  },
+  {
+   "text": "Gravity on the Moon is about one sixth of Earth's. A person who weighs sixty kilograms at home would feel like ten.",
+   "visual": {
+    "type": "card",
+    "big": "1/6",
+    "label": "of Earth's gravity",
+    "sub": "60 kg would feel like 10"
+   }
+  },
+  {
+   "text": "That's why the Apollo astronauts hopped like kangaroos. Walking normally was harder than bouncing. Some fell over, and laughed, and got back up.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aldrin Apollo 11.jpg"
+    ],
+    "query": "Aldrin Apollo 11"
+   },
+   "headline": "Hopping like kangaroos"
+  },
+  {
+   "text": "And there's radiation. With no thick air and no magnetic field, the Moon is exposed to the solar wind, cosmic rays, and the full blast of solar storms.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   },
+   "headline": "No shield"
+  },
+  {
+   "text": "Here's my first question. Would you volunteer to spend a whole night on the Moon? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you volunteer to spend a night on the Moon?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The sharp dust",
+   "text": "Then comes the dust. Moon dust isn't like dust on Earth. With no wind or water to wear it down, every grain is sharp, like tiny shards of glass.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025.jpg"
+    ],
+    "query": "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025"
+   },
+   "headline": "Shards of glass"
+  },
+  {
+   "text": "It clung to everything on the Apollo missions. It scratched visors, jammed zippers, and wore through boots.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aldrin Apollo 11.jpg"
+    ],
+    "query": "Aldrin Apollo 11"
+   },
+   "headline": "It sticks to everything"
+  },
+  {
+   "text": "When astronauts took off their helmets inside the lunar module, the dust smelled like spent gunpowder. Harrison Schmitt of Apollo seventeen even got a kind of hay fever from it.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025.jpg"
+    ],
+    "query": "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025"
+   },
+   "headline": "Lunar hay fever"
+  },
+  {
+   "text": "Breathing it in for months could damage your lungs. Keeping it outside will be one of the hardest jobs for future Moon bases.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "LUNAR RECEIVING LABORATORY (LRL) - CLARK, ROBERT, DR - JSC (S73-36161).jpg"
+    ],
+    "query": "LUNAR RECEIVING LABORATORY (LRL) - CLARK, ROBERT, DR - JSC (S73-36161)"
+   }
+  },
+  {
+   "chapter": "The long night",
+   "text": "Now the Sun sets. And for the next two weeks, there's only darkness.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "LADEE Above Lunar Sunset Artist's Concept (9674483648).jpg"
+    ],
+    "query": "LADEE Above Lunar Sunset Artist's Concept (9674483648)"
+   },
+   "headline": "Sunset"
+  },
+  {
+   "text": "Near the equator, the temperature drops to around minus one hundred thirty degrees Celsius.",
+   "visual": {
+    "type": "card",
+    "big": "-130 °C",
+    "label": "a lunar night"
+   }
+  },
+  {
+   "text": "In some craters near the poles, which never see sunlight at all, it gets even colder, below minus two hundred thirty. Among the coldest places in the whole solar system.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536.jpg"
+    ],
+    "query": "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536"
+   },
+   "headline": "Even colder craters"
+  },
+  {
+   "text": "For a machine, the night is the real killer. Batteries freeze, electronics crack, and there's no sunlight for solar panels for two whole weeks.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chang'e 4 Lander- A Closer Look (02 m1147290066lr m130C5A1B).jpg"
+    ],
+    "query": "Chang'e 4 Lander- A Closer Look (02 m1147290066lr m130C5A1B)"
+   },
+   "headline": "Machines freeze"
+  },
+  {
+   "text": "Many robotic landers simply never wake up after their first night. China's Chang'e landers survive because they carry a small nuclear heat source.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chang'e 4 Lander- A Closer Look (02 m1147290066lr m130C5A1B).jpg"
+    ],
+    "query": "Chang'e 4 Lander- A Closer Look (02 m1147290066lr m130C5A1B)"
+   },
+   "headline": "Surviving with nuclear heat"
+  },
+  {
+   "text": "For a human, you'd need constant heat, constant power, and enough air, water and food for weeks, with no help nearby.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artemis Lunar Spacesuit Testing (jsc2026e391022).jpg"
+    ],
+    "query": "Artemis Lunar Spacesuit Testing (jsc2026e391022)"
+   },
+   "headline": "What you'd need"
+  },
+  {
+   "text": "But the lunar night has one gift. Earth hangs in the black sky, glowing blue and white, lighting up the gray ground with earthshine.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA-Apollo8-Dec24-Earthrise.jpg"
+    ],
+    "query": "NASA-Apollo8-Dec24-Earthrise"
+   },
+   "headline": "Earth in the sky"
+  },
+  {
+   "text": "And from the near side of the Moon, Earth never rises or sets. It stays almost in the same spot in the sky, slowly changing phase, like a giant blue Moon.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Earth seen from Apollo 17.jpg"
+    ],
+    "query": "The Earth seen from Apollo 17"
+   },
+   "headline": "Earth stays still"
+  },
+  {
+   "text": "And during a lunar eclipse, seen from the Moon, Earth blocks the Sun. You'd see a glowing red ring around the dark Earth: the light of every sunrise and sunset on our planet, all at once.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "VLT Cerro Paranal Total Lunar Eclipse 21 December 2010.jpg"
+    ],
+    "query": "VLT Cerro Paranal Total Lunar Eclipse 21 December 2010"
+   },
+   "headline": "Every sunset at once"
+  },
+  {
+   "chapter": "Moonquakes and meteorites",
+   "text": "The Moon isn't completely quiet, either. Apollo astronauts left seismometers behind, and they recorded moonquakes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 11 Lunar Laser Ranging Experiment.jpg"
+    ],
+    "query": "Apollo 11 Lunar Laser Ranging Experiment"
+   },
+   "headline": "Moonquakes"
+  },
+  {
+   "text": "Some shallow moonquakes were strong enough to shake a building on Earth, and lasted for many minutes, because the Moon rings like a bell.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 14 Lunar Module (LM) on the moon.jpg"
+    ],
+    "query": "Apollo 14 Lunar Module (LM) on the moon"
+   },
+   "headline": "The Moon rings like a bell"
+  },
+  {
+   "text": "And with no air to burn them up, tiny meteorites hit the surface constantly, at tens of kilometers per second. Even a grain of sand could punch a hole in a spacesuit.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536.jpg"
+    ],
+    "query": "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536"
+   },
+   "headline": "Tiny bullets"
+  },
+  {
+   "text": "That's also why the Apollo footprints will probably last for millions of years. No wind, no rain. Only the slow rain of micrometeorites will one day erase them.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Man on the Moon, AS11-40-5903 (cropped).jpg"
+    ],
+    "query": "A Man on the Moon, AS11-40-5903 (cropped)"
+   },
+   "headline": "Footprints for millions of years"
+  },
+  {
+   "text": "Here's my second question. Did you know a single night on the Moon lasts about two weeks? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know a lunar night lasts about two weeks?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "New discoveries",
+   "text": "We're still learning new things about the Moon. In June twenty twenty-four, China's Chang'e six mission brought back the first rocks ever collected from the far side, the side we never see from Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536.jpg"
+    ],
+    "query": "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536"
+   },
+   "headline": "Rocks from the far side"
+  },
+  {
+   "text": "The far side looks very different, covered in craters, with almost none of the dark lava plains of the near side. Scientists are still figuring out why.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536.jpg"
+    ],
+    "query": "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536"
+   },
+   "headline": "The hidden face"
+  },
+  {
+   "chapter": "How we'll survive next time",
+   "text": "So how will the next explorers survive? NASA's Artemis program plans to land astronauts near the Moon's south pole, targeted for twenty twenty-eight.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artemis Lunar Spacesuit Testing (jsc2026e391022).jpg"
+    ],
+    "query": "Artemis Lunar Spacesuit Testing (jsc2026e391022)"
+   },
+   "headline": "Artemis"
+  },
+  {
+   "text": "Near the pole, some mountain peaks get sunlight almost all the time. And nearby shadowed craters hold water ice: drinking water, oxygen and rocket fuel.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536.jpg"
+    ],
+    "query": "AS08-12-2048 - Apollo 8 - Apollo 8 Mission image, Farside of Moon - NARA - 16668536"
+   },
+   "headline": "Ice and sunlight"
+  },
+  {
+   "text": "There may even be water in sunlit places. In twenty twenty, a flying telescope called SOFIA detected water molecules in a large sunlit crater, about as much as a small bottle of water spread through a cubic meter of soil.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025.jpg"
+    ],
+    "query": "Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025"
+   },
+   "headline": "Water in the soil"
+  },
+  {
+   "text": "And the soil itself is almost half oxygen by weight, locked in rock. With enough energy, astronauts could squeeze breathable air out of the ground.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "LUNAR RECEIVING LABORATORY (LRL) - CLARK, ROBERT, DR - JSC (S73-36161).jpg"
+    ],
+    "query": "LUNAR RECEIVING LABORATORY (LRL) - CLARK, ROBERT, DR - JSC (S73-36161)"
+   },
+   "headline": "Air from rocks"
+  },
+  {
+   "text": "Scientists have also found caves on the Moon, old lava tubes. Living inside one could protect astronauts from radiation, meteorites, and the huge temperature swings.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Apollo 14 Lunar Module (LM) on the moon.jpg"
+    ],
+    "query": "Apollo 14 Lunar Module (LM) on the moon"
+   },
+   "headline": "Living in caves"
+  },
+  {
+   "chapter": "The verdict",
+   "text": "So, would you survive a night on the Moon? Not without a lot of help. But with the right home, humans may soon stay through their first lunar night.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ],
+    "query": "Moon over Horizon - ISS - August 30 2026 (55502157806)"
+   },
+   "headline": "The verdict"
+  },
+  {
+   "text": "Next time you look at the Moon, remember: someone might be living there in your lifetime.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Sweden - Stockholm 36 - full moon over the city (6943506838).jpg"
+    ],
+    "query": "Sweden - Stockholm 36 - full moon over the city (6943506838)"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}
