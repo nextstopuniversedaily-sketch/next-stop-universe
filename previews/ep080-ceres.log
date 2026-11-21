@@ -1,7 +1,8 @@
+[0;93m2026-11-21 21:59:32.170584308 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 80: Ceres
-  audio 71.0s
+  audio 70.1s
   WIKI File:Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg (Public domain)
-  segment 1/10 [title] 3.1s
+  segment 1/10 [title] 5.4s
   WIKI File:Giuseppe Piazzi vescovo.jpg (Public domain)
   segment 2/10 [image] 10.0s
   WIKI File:Ceres - RC3 - Haulani Crater (22381131691) (cropped).jpg (Public domain)
@@ -17,5 +18,5 @@
   WIKI File:Dawn spacecraft model 2.png (Public domain)
   segment 9/10 [image] 5.3s
   WIKI File:Psyche asteroid (Artist's Concept) (2).png (Public domain)
-  segment 10/10 [end] 10.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep080.mp4 (11.1 MB)
+  segment 10/10 [end] 7.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep080.mp4 (10.8 MB)
