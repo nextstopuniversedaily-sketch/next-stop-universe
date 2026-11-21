@@ -158,18 +158,21 @@
    "journey through the universe"
   ],
   "hashtags": "#blackhole #supernova #space #astronomy #nasa",
-  "status": "pending",
+  "status": "scheduled",
   "postId": "444421f5-1fbc-429e-aa66-2ebc477b91a0",
-  "note": "2026-11-20 publish refused: vidIQ allows only 3 YouTube uploads/day on the free plan (resets midnight PT); publicationId 57ad6bf0-2421-4680-8561-9d23278f046c; retry next run"
+  "note": "2026-11-20 publish refused: vidIQ allows only 3 YouTube uploads/day on the free plan (resets midnight PT); publicationId 57ad6bf0-2421-4680-8561-9d23278f046c; retry next run",
+  "postUrl": "https://www.youtube.com/watch?v=wwqJxBwhmrk"
  },
  {
   "id": "long-never-survive-every-planet",
   "kind": "long",
   "publishAt": "2026-11-23T18:00:00-06:00",
-  "status": "pending",
+  "status": "scheduled",
   "series": "Why You'd Never",
   "thumbnail": "previews/thumb-never-survive-every-planet.jpg",
-  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+  "note": "scheduled 2026-11-21 with custom thumbnail (thumbnailImageId a2f0bdc7-b6fc-4f0b-9bc1-e558697d3ee8)",
+  "postId": "a7c534e5-bcfa-4e0f-94a0-cbb6e76bc5c1",
+  "postUrl": "https://www.youtube.com/watch?v=J9xpWP3W-os"
  },
  {
   "id": "long-weird-planets",
@@ -201,7 +204,9 @@
    "journey through the universe"
   ],
   "hashtags": "#exoplanets #planets #space #astronomy #jwst",
-  "status": "pending"
+  "status": "scheduled",
+  "postId": "b9cb9e02-691e-43bd-be5b-7c1d1f4694d9",
+  "postUrl": "https://www.youtube.com/watch?v=lachGdnN2IM"
  },
  {
   "id": "long-never-get-close-black-hole",
