@@ -1,7 +1,8 @@
+[0;93m2026-11-21 22:11:47.245756620 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 87: Ring of Fire
-  audio 78.8s
+  audio 76.8s
   WIKI File:2023-10-14 eclipse around annularity.jpg (CC BY 4.0)
-  segment 1/10 [title] 4.0s
+  segment 1/10 [title] 4.1s
   - skip File:Solar annular eclipse of January 15, 2010 in Jinan, China.jpg: license 'CC BY-SA 3.0'
   - skip File:Solar eclipse 1999 4.jpg: license 'CC BY-SA 3.0'
   - skip File:Solar Eclipse May 20,2012.jpg: license 'CC BY-SA 3.0'
@@ -35,5 +36,5 @@
   WIKI File:Partial solar eclipse with some clouds in Tuntorp 43.jpg (CC BY 4.0)
   segment 9/10 [image] 4.7s
   WIKI File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png (CC BY 2.0)
-  segment 10/10 [end] 10.2s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep087.mp4 (10.3 MB)
+  segment 10/10 [end] 8.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep087.mp4 (10.0 MB)
