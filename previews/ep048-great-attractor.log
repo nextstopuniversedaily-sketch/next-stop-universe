@@ -1,6 +1,6 @@
-[0;93m2026-11-21 20:37:32.709576684 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:00:37.418890237 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 48: The Great Attractor
-  audio 90.2s
+  audio 85.1s
   - skip File:Laniakea with Galaktika.jpg: license 'CC BY-SA 4.0'
   - skip File:07-Laniakea (LofE07240).png: license 'CC BY-SA 4.0'
   WIKI File:Laniakea Supercluster (Cropped).png (CC BY 4.0)
@@ -23,5 +23,5 @@
   WIKI File:More Galaxies of the Shapley Supercluster (28330672719).png (CC BY 2.0)
   segment 9/10 [image] 6.2s
   WIKI File:Titan_in_true_color_by_Kevin_M._Gill.jpg (CC BY 2.0)
-  segment 10/10 [end] 12.6s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep048.mp4 (36.4 MB)
+  segment 10/10 [end] 7.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep048.mp4 (36.0 MB)
