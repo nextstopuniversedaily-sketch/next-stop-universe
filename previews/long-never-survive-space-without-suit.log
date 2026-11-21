@@ -1,102 +1,96 @@
-[0;93m2026-11-21 03:42:52.189960010 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 04:41:11.324046077 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive in Space Without a Spacesuit
-  audio 755.8s (12.60 min)
+  audio 755.5s (12.59 min)
   WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
   segment 1/52 [title] 16.3s
   WIKI File:Earth's City Lights by DMSP, 1994-1995 (large).jpg (Public domain)
-  segment 2/52 [image] 15.7s
-  segment 3/52 [card] 10.8s
+  segment 2/52 [image] 15.6s
+  segment 3/52 [card] 10.9s
   - skip File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg: license 'CC BY-SA 3.0'
   ! no usable NASA image for 'Mount Everest from space'
-  segment 4/52 [image] 14.8s
+  segment 4/52 [image] 14.9s
   segment 5/52 [card] 14.4s
   WIKI File:Earth, Moon and Lunar Module, AS11-44-6643.jpg (Public domain)
-  segment 6/52 [image] 13.0s
+  segment 6/52 [image] 12.9s
   ! no usable NASA image for 'space station shadow Earth night'
-  segment 7/52 [image] 15.9s
-  NASA 'astronaut Earth orbit space station' -> 11 14 24 fuel depot: Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon fo
-  segment 8/52 [image] 13.7s
+  segment 7/52 [image] 15.8s
+  WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
+  segment 8/52 [image] 13.9s
   NASA 'spacecraft airlock docking' -> iss003e5614: View of the Pirs Docking Compartment approaching the ISS during Expedi
-  segment 9/52 [image] 19.5s
+  segment 9/52 [image] 19.3s
   NASA 'Earth horizon sunrise ISS' -> iss040e033340: Earth Observation
-  segment 10/52 [image] 10.5s
-  NASA 'astronaut helmet visor Earth reflection' -> 8441775: Space Shuttle Projects
-  segment 11/52 [image] 16.5s
+  segment 10/52 [image] 10.4s
+  WIKI File:ISS-52 Africa and Indian Ocean.jpg (Public domain)
+  segment 11/52 [image] 16.6s
   NASA 'International Space Station Earth' -> iss045e013851: Earth Observation from the International Space Station
   segment 12/52 [image] 14.5s
   segment 13/52 [card] 12.2s
   NASA 'sunrise from space station' -> iss043e193779: Night galaxy sequence
-  segment 14/52 [image] 16.5s
-  segment 15/52 [card] 17.8s
+  segment 14/52 [image] 16.4s
+  segment 15/52 [card] 17.7s
   WIKI File:Soyuz_MS.jpg (CC0)
-  segment 16/52 [image] 19.8s
+  segment 16/52 [image] 19.7s
   NASA 'Soyuz rocket launch Baikonur' -> NHQ202309150006: Expedition 70 Launch
   segment 17/52 [image] 10.1s
-  segment 18/52 [question] 11.3s
-  ! no usable NASA image for 'NASA vacuum chamber Johnson Space Center'
-  segment 19/52 [image] 15.1s
-  ! no usable NASA image for 'spacesuit test chamber 1960s'
-  segment 20/52 [image] 12.4s
+  segment 18/52 [question] 11.4s
+  WIKI File:Earth, Moon and Lunar Module, AS11-44-6643.jpg (Public domain)
+  segment 19/52 [image] 15.0s
+  segment 20/52 [card] 12.3s
   WIKI File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg (Public domain)
   segment 21/52 [image] 13.4s
   NASA 'aurora from space station' -> iss066e146457: iss066e146457
-  segment 22/52 [image] 13.6s
+  segment 22/52 [image] 13.5s
   NASA 'astronaut ISS cupola window Earth' -> iss039e005387: Earth Observations taken by the Expedition 39 Crew
-  segment 23/52 [image] 12.5s
+  segment 23/52 [image] 12.4s
   NASA 'ISS cupola window' -> iss039e005387: Earth Observations taken by the Expedition 39 Crew
-  segment 24/52 [image] 16.2s
+  segment 24/52 [image] 16.3s
   segment 25/52 [card] 15.0s
   WIKI File:Earth's City Lights by DMSP, 1994-1995 (large).jpg (Public domain)
-  segment 26/52 [image] 14.1s
+  segment 26/52 [image] 14.2s
   WIKI File:STS-118_EVA_EMU_Suit.jpg (Public domain)
   segment 27/52 [image] 15.2s
   ! no usable NASA image for 'spacesuit layers EMU'
   segment 28/52 [image] 16.4s
   WIKI File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg (Public domain)
-  segment 29/52 [image] 18.6s
-  NASA 'astronaut airlock preparation spacewalk' -> iss054e022341: NASA astronaut Scott Tingle wears a U.S. spacesuit
+  segment 29/52 [image] 18.5s
+  WIKI File:Bruce McCandless II during EVA in 1984.jpg (Public domain)
   segment 30/52 [image] 13.3s
   segment 31/52 [card] 13.7s
-  - no free lead image for 'Voskhod 2'
-  ! no usable NASA image for 'Voskhod spacecraft'
-  segment 32/52 [image] 14.2s
+  segment 32/52 [card] 14.1s
   NASA 'spacewalk Earth orbit astronaut tether' -> iss061e011882: iss061e011882
-  segment 33/52 [image] 9.6s
+  segment 33/52 [image] 9.7s
   NASA 'Earth orbit sunrise spacecraft' -> s66-38275: Earth's limb at sunrise as seen from the Gemini 9-A spacecraft
-  segment 34/52 [image] 16.2s
+  segment 34/52 [image] 16.4s
   WIKI File:Ed_White_First_American_Spacewalker_-_GPN-2000-001180.jpg (Public domain)
   segment 35/52 [image] 17.5s
-  NASA 'ISS spacewalk astronaut' -> iss010e20747: Chiao holds EVA holds tool caddy in the SM during Expedition 10
-  segment 36/52 [image] 19.0s
+  WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
+  segment 36/52 [image] 18.8s
   WIKI File:Earth's City Lights by DMSP, 1994-1995 (large).jpg (Public domain)
-  segment 37/52 [image] 12.5s
-  segment 38/52 [question] 12.9s
-  NASA 'astronauts inside International Space Station' -> iss072e189112: Astronaut Suni Williams smiles for a portrait inside the International
-  segment 39/52 [image] 15.6s
-  NASA 'ISS interior module' -> S106E5142: Commander Wilcutt works on the Zvezda / Service Module during STS-106
-  segment 40/52 [image] 12.6s
-  NASA 'astronaut food ISS' -> iss008e22009: Kuipers retrieves a food locker at mealtime in the SM during EXP 8 / E
-  segment 41/52 [image] 17.4s
+  segment 37/52 [image] 12.6s
+  segment 38/52 [question] 13.1s
+  segment 39/52 [card] 15.6s
+  segment 40/52 [card] 12.6s
+  segment 41/52 [card] 17.5s
   NASA 'sunrise from International Space Station' -> iss043e193779: Night galaxy sequence
   segment 42/52 [image] 15.4s
-  segment 43/52 [card] 13.3s
+  segment 43/52 [card] 13.2s
   ! no usable NASA image for 'astronaut eye exam ISS'
-  segment 44/52 [image] 16.3s
+  segment 44/52 [image] 16.4s
   NASA 'International Space Station orbit Earth' -> iss058e005282: View of the Earth's limb with an aurora
   segment 45/52 [image] 17.2s
   NASA 'Soyuz landing capsule' -> NHQ202104170162: Expedition 64 Soyuz Landing
-  segment 46/52 [image] 11.3s
+  segment 46/52 [image] 11.6s
   WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
-  segment 47/52 [image] 14.4s
+  segment 47/52 [image] 14.2s
   WIKI File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg (Public domain)
-  segment 48/52 [image] 11.8s
+  segment 48/52 [image] 11.7s
   NASA 'Artemis spacesuit' -> axemu-prada-spacesuit-mockup-20241007-423: Artemis III Lunar Spacesuit
   segment 49/52 [image] 15.7s
   WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
   segment 50/52 [image] 10.8s
   segment 51/52 [question] 10.2s
   WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
-  segment 52/52 [end] 19.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-space-without-suit.mp4 (61.6 MB, 12.60 min)
+  segment 52/52 [end] 19.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-space-without-suit.mp4 (58.1 MB, 12.59 min)
   WIKI File:Bruce McCandless II during EVA in 1984.jpg (Public domain)
 thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-survive-space-without-suit.jpg
