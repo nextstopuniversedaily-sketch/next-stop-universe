@@ -1,24 +1,24 @@
-[0;93m2026-11-18 04:35:08.040467477 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:55:59.872841907 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 78: Starship
-  audio 70.4s
+  audio 67.7s
   - skip File:Starship SN16.jpeg: license 'CC BY-SA 2.0'
   WIKI File:SpaceX Starship ignition during IFT-5.jpg (CC BY 2.0)
-  segment 1/10 [title] 3.6s
+  segment 1/10 [title] 4.7s
   WIKI File:Apollo 11 Launch2.jpg (Public domain)
   segment 2/10 [image] 7.0s
   segment 3/10 [card] 8.9s
   - skip File:Super Heavy BN3.jpg: license 'CC BY-SA 2.0'
   WIKI File:SpaceX workers looking at Super Heavy booster.jpg (Public domain)
-  segment 4/10 [image] 6.5s
+  segment 4/10 [image] 6.6s
   WIKI File:Falcon 9 Booster 1029.1 Landing.jpg (CC0)
   segment 5/10 [image] 6.3s
   WIKI File:Starship launch tower in Starbase.jpg (CC BY 2.0)
   segment 6/10 [image] 10.0s
   segment 7/10 [card] 7.0s
   WIKI File:Artist’s Concepts Depict SpaceX’s Starship HLS Test Article for NASA’s Artemis III.jpg (Public domain)
-  segment 8/10 [image] 6.2s
+  segment 8/10 [image] 6.1s
   WIKI File:Viking spacecraft.jpg (Public domain)
   segment 9/10 [image] 3.3s
   WIKI File:LRO WAC South Pole Mosaic.jpg (Public domain)
-  segment 10/10 [end] 11.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep078.mp4 (15.8 MB)
+  segment 10/10 [end] 7.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep078.mp4 (14.4 MB)
