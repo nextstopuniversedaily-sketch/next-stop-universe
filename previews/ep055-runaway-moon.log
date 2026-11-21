@@ -1,20 +1,19 @@
-[0;93m2026-11-18 01:07:44.882044250 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:13:38.274341917 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 55: The Runaway Moon
-  audio 73.0s
+  audio 71.6s
   WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
-  segment 1/10 [title] 4.2s
+  segment 1/10 [title] 4.7s
   WIKI File:Good Morning From the International Space Station.jpg (Public domain)
   segment 2/10 [image] 5.7s
   segment 3/10 [card] 7.9s
   WIKI File:Apollo 11 Lunar Laser Ranging Experiment.jpg (Public domain)
   segment 4/10 [image] 5.3s
-  ! commons search failed laser guide star observatory night 'query'
-  ! no usable NASA image for 'laser guide star observatory night'
+  WIKI File:Laser Towards Milky Ways Centre.jpg (CC BY 4.0)
   segment 5/10 [image] 8.9s
   - skip File:Low tide beach, lågt tidvatten strand 7.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 1.JPG: license 'CC BY-SA 4.0'
-  - skip File:Low tide beach, lågt tidvatten strand 2.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 6.JPG: license 'CC BY-SA 4.0'
+  - skip File:Low tide beach, lågt tidvatten strand 2.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 5.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 4.JPG: license 'CC BY-SA 4.0'
   - skip File:Low tide beach, lågt tidvatten strand 3.JPG: license 'CC BY-SA 4.0'
@@ -26,5 +25,5 @@
   WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
   segment 9/10 [image] 7.5s
   WIKI File:Artist’s impression of a gamma-ray burst shining through two young galaxies in the early Universe.jpg (CC BY 4.0)
-  segment 10/10 [end] 10.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep055.mp4 (24.1 MB)
+  segment 10/10 [end] 8.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep055.mp4 (24.0 MB)
