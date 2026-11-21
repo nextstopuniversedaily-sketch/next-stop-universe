@@ -1,6 +1,6 @@
-[0;93m2026-11-21 20:31:02.708311255 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 20:54:34.750882381 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 45: Interstellar Visitors
-  audio 97.0s
+  audio 92.3s
   - skip File:Artist impression of interstellar object ‘Oumuamua (54445460199).png: license 'CC BY-SA 4.0'
   WIKI File:Artist’s impression of the interstellar asteroid `Oumuamua.jpg (CC BY 4.0)
   segment 1/11 [title] 6.8s
@@ -24,5 +24,5 @@
   WIKI File:Vera C Rubin Observatory in the Snow (IMG 0315-CC).jpg (CC BY 4.0)
   segment 10/11 [image] 8.0s
   WIKI File:Artist’s impression of debris around a white dwarf star.jpg (CC BY 4.0)
-  segment 11/11 [end] 12.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep045.mp4 (20.9 MB)
+  segment 11/11 [end] 8.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep045.mp4 (20.4 MB)
