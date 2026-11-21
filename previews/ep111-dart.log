@@ -1,13 +1,13 @@
-[0;93m2026-11-19 16:39:11.635981835 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:53:37.262709965 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 111: DART: We Moved an Asteroid
-  audio 71.4s
+  audio 66.4s
   WIKI File:Didymos dimorphos 2309 092622.png (Public domain)
-  segment 1/10 [title] 5.7s
+  segment 1/10 [title] 5.1s
   WIKI File:DART and MUBLCOM.jpg (Public domain)
   segment 2/10 [image] 6.3s
   WIKI File:Didymos dimorphos 2309 092622.png (Public domain)
   segment 3/10 [image] 9.5s
-  segment 4/10 [card] 7.9s
+  segment 4/10 [card] 7.7s
   segment 5/10 [card] 4.6s
   WIKI File:Twin Tail Revealed in New Hubble Image of Didymos-Dimorphos System Following DART Impact (opo22056a).jpg (CC BY 4.0)
   segment 6/10 [image] 4.6s
@@ -19,5 +19,5 @@
   WIKI File:North America from low orbiting satellite Suomi NPP.jpg (Public domain)
   segment 9/10 [image] 4.3s
   WIKI File:Bennu mosaic OSIRIS-REx (square).png (Public domain)
-  segment 10/10 [end] 12.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep111.mp4 (16.4 MB)
+  segment 10/10 [end] 8.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep111.mp4 (15.1 MB)
