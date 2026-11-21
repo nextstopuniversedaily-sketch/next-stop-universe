@@ -44,23 +44,21 @@
  ],
  "thumbnail": {
   "wiki": [
-   "Venus"
+   "Jupiter"
   ],
-  "files": [
-   "Venus-real color.jpg"
-  ],
-  "query": "Venus Mariner 10",
+  "query": "Jupiter Juno full disk",
   "white": "IT CRUSHES",
   "accent": "YOU..",
   "astronaut": [
-   0.8,
-   0.7
+   0.84,
+   0.72
   ],
   "focus": [
-   0.45,
-   0.5
+   0.5,
+   0.55
   ],
-  "zoom": 1.15
+  "zoom": 1.0,
+  "astronaut_size": 64
  },
  "segments": [
   {
@@ -174,7 +172,10 @@
    "text": "Your first problem is that you'd never see the ground on the way down. Venus is wrapped in thick clouds made of sulfuric acid.",
    "visual": {
     "type": "image",
-    "query": "Venus clouds ultraviolet Akatsuki"
+    "query": "Venus Akatsuki ultraviolet clouds",
+    "files": [
+     "Venus 2 Approach Image.jpg"
+    ]
    }
   },
   {
@@ -199,10 +200,11 @@
    "text": "Soviet engineers built landers like armored diving bells. In 1982, Venera thirteen survived on the surface for two hours and seven minutes, and sent back the first color pictures, before the heat and pressure destroyed it.",
    "visual": {
     "type": "image",
-    "wiki": [
-     "Venera 13"
-    ],
-    "query": "Venera 13 lander"
+    "query": "Venera surface image",
+    "files": [
+     "Venera 13 surface.jpg",
+     "Venera 13 lander.jpg"
+    ]
    },
    "headline": "127 minutes"
   },
@@ -210,17 +212,17 @@
    "text": "Here's a strange one. A day on Venus is longer than its year. It spins so slowly, and backwards, that the Sun rises in the west and sets in the east.",
    "visual": {
     "type": "image",
-    "wiki": [
-     "Venus"
-    ],
-    "query": "Venus radar Magellan global"
+    "query": "Maat Mons Venus Magellan"
    }
   },
   {
    "text": "But there's a twist. About fifty kilometers above the surface, the air pressure and temperature are almost like Earth's. Some NASA scientists have even imagined airships floating there one day.",
    "visual": {
     "type": "image",
-    "query": "Venus cloud city airship concept"
+    "query": "Venus atmosphere clouds Pioneer Venus",
+    "files": [
+     "Venus-pioneer.jpg"
+    ]
    },
    "headline": "Floating cities?"
   },
@@ -228,7 +230,7 @@
    "text": "Could a spacesuit help you on the surface of Venus? Not for long. No suit ever built could survive it. Even the toughest Soviet landers lasted only a couple of hours.",
    "visual": {
     "type": "image",
-    "query": "Venus surface Venera panorama"
+    "query": "Venus surface lava plains Magellan 3D"
    }
   },
   {
