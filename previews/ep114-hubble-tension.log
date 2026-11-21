@@ -1,12 +1,12 @@
-[0;93m2026-11-19 15:42:52.613712629 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:58:59.332674182 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 114: The Hubble Tension
-  audio 74.0s
+  audio 70.4s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 1/10 [title] 4.9s
+  segment 1/10 [title] 4.6s
   WIKI File:Webb's First Deep Field.jpg (Public domain)
   segment 2/10 [image] 5.8s
   WIKI File:Hubble at 100-inch (19950424 cd3 07-CC).jpg (CC BY 4.0)
-  segment 3/10 [image] 5.1s
+  segment 3/10 [image] 5.2s
   segment 4/10 [card] 8.5s
   segment 5/10 [card] 9.2s
   WIKI File:Messier83 - Heic1403a.jpg (Public domain)
@@ -18,5 +18,5 @@
   WIKI File:Laser Towards Milky Ways Centre.jpg (CC BY 4.0)
   segment 9/10 [image] 6.4s
   WIKI File:Antennae galaxies xl.jpg (Public domain)
-  segment 10/10 [end] 11.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep114.mp4 (21.6 MB)
+  segment 10/10 [end] 8.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep114.mp4 (20.9 MB)
