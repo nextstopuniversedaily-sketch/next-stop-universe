@@ -1,22 +1,22 @@
-[0;93m2026-11-19 16:55:22.139436211 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 23:18:12.861238152 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 125: Spacesuits
-  audio 73.0s
+  audio 69.3s
   WIKI File:STS-116 spacewalk 1.jpg (Public domain)
-  segment 1/10 [title] 4.8s
+  segment 1/10 [title] 5.8s
   WIKI File:STS-116 spacewalk 1.jpg (Public domain)
   segment 2/10 [image] 7.8s
-  segment 3/10 [card] 8.9s
+  segment 3/10 [card] 8.8s
   WIKI File:STS-116 spacewalk 1.jpg (Public domain)
   segment 4/10 [image] 4.6s
   WIKI File:NASA astronaut Jessica Meir’s reflection is captured in a spacesuit helmet visor (iss074e0336282).jpg (Public domain)
   segment 5/10 [image] 7.0s
   - skip File:LCG DeutschesMuseum DL2023.jpg: license 'CC BY-SA 4.0'
   WIKI File:Lcvg.jpg (Public domain)
-  segment 6/10 [image] 7.6s
+  segment 6/10 [image] 7.5s
   segment 7/10 [card] 5.3s
-  segment 8/10 [card] 8.6s
+  segment 8/10 [card] 8.7s
   WIKI File:Artemis Lunar Spacesuit Testing (jsc2026e391022).jpg (Public domain)
   segment 9/10 [image] 5.7s
   WIKI File:Yuri Gagarin (1961) - Restoration.jpg (Public domain)
-  segment 10/10 [end] 12.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep125.mp4 (14.7 MB)
+  segment 10/10 [end] 8.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep125.mp4 (14.2 MB)
