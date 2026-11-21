@@ -137,7 +137,9 @@
    "text": "And would your blood boil? Not quite. Your heart and blood vessels keep your blood under pressure. What boils first is the moisture on the outside: in your mouth, on your eyes, and in your lungs.",
    "visual": {
     "type": "image",
-    "query": "astronaut Earth orbit space station"
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ]
    },
    "headline": "Would your blood boil? Not quite"
   },
@@ -161,7 +163,9 @@
    "text": "In the very first second, if you held your breath, the air in your lungs would expand with nothing outside to push back. It could tear your lungs. Divers face the same danger when they come up too fast. So the first rule is: breathe out.",
    "visual": {
     "type": "image",
-    "query": "astronaut helmet visor Earth reflection"
+    "files": [
+     "ISS-52 Africa and Indian Ocean.jpg"
+    ]
    },
    "headline": "Breathe out",
    "chapter": "Second by second"
@@ -231,7 +235,9 @@
    "text": "How do we know all this? Partly from a real accident. In December 1966, at NASA's center in Houston, an engineer named Jim LeBlanc was testing a spacesuit inside a vacuum chamber.",
    "visual": {
     "type": "image",
-    "query": "NASA vacuum chamber Johnson Space Center"
+    "files": [
+     "Earth, Moon and Lunar Module, AS11-44-6643.jpg"
+    ]
    },
    "headline": "Houston, 1966",
    "chapter": "The man who touched space"
@@ -239,10 +245,11 @@
   {
    "text": "A hose came loose, and the air rushed out of his suit. He stayed conscious for about fourteen seconds. His last memory was feeling the saliva on his tongue begin to bubble.",
    "visual": {
-    "type": "image",
-    "query": "spacesuit test chamber 1960s"
-   },
-   "headline": "14 seconds"
+    "type": "card",
+    "big": "14 seconds",
+    "label": "awake in a near vacuum",
+    "sub": "Houston, December 1966"
+   }
   },
   {
    "text": "The team rushed to bring the air back. He had been exposed for less than half a minute. He woke up, recovered completely, and went back to work testing the spacesuits for the Apollo Moon missions.",
@@ -335,7 +342,9 @@
    "text": "Before a spacewalk, astronauts breathe pure oxygen for hours, to flush nitrogen out of their blood. Otherwise, they could get the bends, just like a diver rising too fast.",
    "visual": {
     "type": "image",
-    "query": "astronaut airlock preparation spacewalk"
+    "files": [
+     "Bruce McCandless II during EVA in 1984.jpg"
+    ]
    },
    "headline": "Breathing pure oxygen"
   },
@@ -351,13 +360,11 @@
   {
    "text": "The very first spacewalk almost ended in disaster. In March 1965, Soviet cosmonaut Alexei Leonov floated out of his Voskhod two spacecraft for about twelve minutes.",
    "visual": {
-    "type": "image",
-    "wiki": [
-     "Voskhod 2"
-    ],
-    "query": "Voskhod spacecraft"
+    "type": "card",
+    "big": "12 minutes",
+    "label": "the first spacewalk ever",
+    "sub": "March 1965, Voskhod 2"
    },
-   "headline": "March 1965",
    "chapter": "The first spacewalk"
   },
   {
@@ -391,7 +398,9 @@
    "text": "Almost fifty years later, in 2013, Italian astronaut Luca Parmitano was on a spacewalk when water began to leak into his helmet. It covered his eyes, nose and ears. Guided by memory and his safety line, he made it back inside.",
    "visual": {
     "type": "image",
-    "query": "ISS spacewalk astronaut"
+    "files": [
+     "Moon over Horizon - ISS - August 30 2026 (55502157806).jpg"
+    ]
    },
    "headline": "Water in the helmet"
   },
@@ -416,27 +425,30 @@
   {
    "text": "Even inside a perfectly safe spacecraft, space changes your body. Without gravity, the fluids in your body float upward. Astronauts get puffy faces and thin legs. They call it puffy face, bird legs.",
    "visual": {
-    "type": "image",
-    "query": "astronauts inside International Space Station"
+    "type": "card",
+    "big": "Puffy face",
+    "label": "and bird legs",
+    "sub": "body fluids float upward without gravity"
    },
-   "headline": "Puffy face, bird legs",
    "chapter": "What months in space do to you"
   },
   {
    "text": "Your spine stretches out, too. Astronauts can grow up to about five centimeters taller in orbit, and shrink back when they come home. Some even need their spacesuits adjusted.",
    "visual": {
-    "type": "image",
-    "query": "ISS interior module"
-   },
-   "headline": "You grow taller"
+    "type": "card",
+    "big": "+5 cm",
+    "label": "taller in orbit",
+    "sub": "the spine stretches out"
+   }
   },
   {
    "text": "In the first few days, about half of all astronauts feel space sickness: nausea and dizziness, while the inner ear gets used to having no up or down. And because their noses feel stuffy, food tastes bland. Many crews love hot sauce.",
    "visual": {
-    "type": "image",
-    "query": "astronaut food ISS"
-   },
-   "headline": "Space sickness"
+    "type": "card",
+    "big": "About half",
+    "label": "of astronauts get space sickness",
+    "sub": "in their first few days"
+   }
   },
   {
    "text": "Sleep is strange, too. Astronauts sleep in bags tied to the wall, so they don't drift around. And the Station circles the Earth about every ninety minutes, so the crew sees around sixteen sunrises every day.",
