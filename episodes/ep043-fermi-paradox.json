@@ -1,125 +1,125 @@
 {
-  "number": 43,
-  "title": "The Fermi Paradox",
-  "subtitle": "Where is everybody?",
-  "next_stop": "Earthrise",
-  "yt_title": "If Aliens Exist, Where Is Everybody? 👽 | Ep. 43 #shorts",
-  "description": "Episode 43 of a daily journey through the universe. 👽\nThe Fermi paradox: hundreds of billions of stars in our galaxy, most with planets, billions of years for life to spread, and yet total silence. We look at Enrico Fermi's 1950 question, the Drake equation, and the possible answers.\n\n➡️ Tomorrow, Episode 44: Next stop, Earthrise. The Christmas Eve photo that changed how we see our planet.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #fermiparadox #astronomy #shorts #science",
-  "tags": [
-    "fermi paradox",
-    "drake equation",
-    "aliens",
-    "seti",
-    "great filter",
-    "space mystery",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode forty-three. Next stop... the Fermi paradox.",
-      "visual": {
-        "type": "title",
-        "query": "Milky Way galaxy night sky",
-        "commons": "Milky Way galaxy night sky"
-      }
-    },
-    {
-      "text": "In nineteen fifty, the physicist Enrico Fermi was having lunch with friends, talking about aliens. Suddenly he asked: but where is everybody?",
-      "visual": {
-        "type": "image",
-        "query": "Enrico Fermi",
-        "wiki": "Enrico Fermi"
-      },
-      "headline": "Where is everybody?"
-    },
-    {
-      "text": "Here's why it's a good question. Our galaxy has hundreds of billions of stars.",
-      "visual": {
-        "type": "card",
-        "big": "100s of billions",
-        "label": "stars in the Milky Way"
-      }
-    },
-    {
-      "text": "And most of those stars have planets. Billions of them could be rocky worlds at the right distance for liquid water.",
-      "visual": {
-        "type": "image",
-        "query": "exoplanet artist impression habitable zone",
-        "commons": "exoplanet artist impression habitable zone"
-      },
-      "headline": "Billions of planets"
-    },
-    {
-      "text": "The galaxy is over ten billion years old. Even a slow civilization could have spread across it in a small fraction of that time.",
-      "visual": {
-        "type": "card",
-        "big": "10+ billion",
-        "label": "years old"
-      }
-    },
-    {
-      "text": "So why don't we see anyone? No signals, no ships, no visitors. Just silence.",
-      "visual": {
-        "type": "image",
-        "query": "radio telescope night sky stars",
-        "commons": "radio telescope night sky stars"
-      },
-      "headline": "The great silence"
-    },
-    {
-      "text": "In nineteen sixty-one, Frank Drake wrote an equation to estimate how many civilizations might be out there. Depending on your guesses, the answer is zero, or millions.",
-      "visual": {
-        "type": "image",
-        "query": "Green Bank Telescope",
-        "commons": "Green Bank Telescope"
-      },
-      "headline": "The Drake equation"
-    },
-    {
-      "text": "Maybe life is common, but intelligence is rare. Maybe civilizations destroy themselves. Or maybe something stops nearly all life from getting very far. Scientists call that the Great Filter.",
-      "visual": {
-        "type": "image",
-        "query": "Earth from space night lights",
-        "commons": "Earth from space night lights"
-      },
-      "headline": "The Great Filter?"
-    },
-    {
-      "text": "Or maybe they are out there, and we've just started listening. We've searched only a tiny fraction of the sky.",
-      "visual": {
-        "type": "image",
-        "query": "Allen Telescope Array",
-        "commons": "Allen Telescope Array"
-      },
-      "headline": "Or we just started"
-    },
-    {
-      "text": "Either answer is mind-blowing. Either we are alone, or we are not.",
-      "visual": {
-        "type": "card",
-        "big": "?",
-        "label": "alone, or not?"
-      }
-    },
-    {
-      "text": "Tomorrow, a Christmas Eve photo that changed how humans see Earth forever. Next stop: Earthrise. Follow, so you don't miss episode forty-four.",
-      "visual": {
-        "type": "end",
-        "query": "Earthrise Apollo 8",
-        "warm": false,
-        "wiki": [
-          "Earthrise"
-        ],
-        "commons": [
-          "Earthrise Apollo 8"
-        ]
-      }
-    }
-  ]
+ "number": 43,
+ "title": "The Fermi Paradox",
+ "subtitle": "Where is everybody?",
+ "next_stop": "Earthrise",
+ "yt_title": "If Aliens Exist, Why Haven't You Met One? 👽 #shorts",
+ "description": "If Aliens Exist, Why Haven't You Met One?\n\nEpisode 43 of a daily journey through the universe. 👽\nThe Fermi paradox: hundreds of billions of stars in our galaxy, most with planets, billions of years for life to spread, and yet total silence. We look at Enrico Fermi's 1950 question, the Drake equation, and the possible answers.\n\n➡️ Tomorrow, Episode 44: Next stop, Earthrise. The Christmas Eve photo that changed how we see our planet.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #fermiparadox #astronomy #shorts #science",
+ "tags": [
+  "fermi paradox",
+  "drake equation",
+  "aliens",
+  "seti",
+  "great filter",
+  "space mystery",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "If aliens exist, why hasn't anyone ever met one? Scientists have a name for this puzzle.",
+   "visual": {
+    "type": "title",
+    "query": "Milky Way galaxy night sky",
+    "commons": "Milky Way galaxy night sky"
+   }
+  },
+  {
+   "text": "In nineteen fifty, the physicist Enrico Fermi was having lunch with friends, talking about aliens. Suddenly he asked: but where is everybody?",
+   "visual": {
+    "type": "image",
+    "query": "Enrico Fermi",
+    "wiki": "Enrico Fermi"
+   },
+   "headline": "Where is everybody?"
+  },
+  {
+   "text": "Here's why it's a good question. Our galaxy has hundreds of billions of stars.",
+   "visual": {
+    "type": "card",
+    "big": "100s of billions",
+    "label": "stars in the Milky Way"
+   }
+  },
+  {
+   "text": "And most of those stars have planets. Billions of them could be rocky worlds at the right distance for liquid water.",
+   "visual": {
+    "type": "image",
+    "query": "exoplanet artist impression habitable zone",
+    "commons": "exoplanet artist impression habitable zone"
+   },
+   "headline": "Billions of planets"
+  },
+  {
+   "text": "The galaxy is over ten billion years old. Even a slow civilization could have spread across it in a small fraction of that time.",
+   "visual": {
+    "type": "card",
+    "big": "10+ billion",
+    "label": "years old"
+   }
+  },
+  {
+   "text": "So why don't we see anyone? No signals, no ships, no visitors. Just silence.",
+   "visual": {
+    "type": "image",
+    "query": "radio telescope night sky stars",
+    "commons": "radio telescope night sky stars"
+   },
+   "headline": "The great silence"
+  },
+  {
+   "text": "In nineteen sixty-one, Frank Drake wrote an equation to estimate how many civilizations might be out there. Depending on your guesses, the answer is zero, or millions.",
+   "visual": {
+    "type": "image",
+    "query": "Green Bank Telescope",
+    "commons": "Green Bank Telescope"
+   },
+   "headline": "The Drake equation"
+  },
+  {
+   "text": "Maybe life is common, but intelligence is rare. Maybe civilizations destroy themselves. Or maybe something stops nearly all life from getting very far. Scientists call that the Great Filter.",
+   "visual": {
+    "type": "image",
+    "query": "Earth from space night lights",
+    "commons": "Earth from space night lights"
+   },
+   "headline": "The Great Filter?"
+  },
+  {
+   "text": "Or maybe they are out there, and we've just started listening. We've searched only a tiny fraction of the sky.",
+   "visual": {
+    "type": "image",
+    "query": "Allen Telescope Array",
+    "commons": "Allen Telescope Array"
+   },
+   "headline": "Or we just started"
+  },
+  {
+   "text": "Either answer is mind-blowing. Either we are alone, or we are not.",
+   "visual": {
+    "type": "card",
+    "big": "?",
+    "label": "alone, or not?"
+   }
+  },
+  {
+   "text": "Tomorrow, a Christmas Eve photo that changed how humans see Earth forever. Next stop: Earthrise. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Earthrise Apollo 8",
+    "warm": false,
+    "wiki": [
+     "Earthrise"
+    ],
+    "commons": [
+     "Earthrise Apollo 8"
+    ]
+   }
+  }
+ ]
 }

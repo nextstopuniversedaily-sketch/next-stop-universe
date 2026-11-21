@@ -1,121 +1,121 @@
 {
-  "number": 99,
-  "title": "Vesta",
-  "subtitle": "The giant asteroid",
-  "next_stop": "Kepler-452b",
-  "yt_title": "This Asteroid Has a 22 km Mountain ☄️ | Ep. 99 #shorts",
-  "description": "Episode 99 of a daily journey through the universe. ☄️\nWe visit Vesta, one of the biggest asteroids: about 525 km wide, a giant impact basin with a central peak about 22 km tall, pieces that fell to Earth as meteorites, and NASA's Dawn spacecraft that orbited it in 2011–2012.\n\n➡️ Tomorrow, Episode 100: Next stop, Kepler-452b. Earth's older cousin?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #vesta #astronomy #shorts #science #nasa",
-  "tags": [
-    "vesta",
-    "asteroid belt",
-    "dawn mission",
-    "rheasilvia",
-    "meteorites",
-    "asteroid",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode ninety-nine. Next stop... Vesta.",
-      "visual": {
-        "type": "title",
-        "query": "Vesta",
-        "wiki": "4 Vesta"
-      }
-    },
-    {
-      "text": "Between Mars and Jupiter lies the asteroid belt. And one of its giants is Vesta.",
-      "visual": {
-        "type": "image",
-        "query": "Vesta Dawn spacecraft",
-        "commons": "Vesta Dawn spacecraft"
-      },
-      "headline": "A giant asteroid"
-    },
-    {
-      "text": "It's about five hundred and twenty-five kilometers wide. Big enough that you can sometimes see it without a telescope.",
-      "visual": {
-        "type": "card",
-        "big": "525 km",
-        "label": "wide",
-        "sub": "the brightest asteroid"
-      }
-    },
-    {
-      "text": "Long ago, something huge slammed into its south pole, leaving a crater almost as wide as Vesta itself.",
-      "visual": {
-        "type": "image",
-        "query": "Rheasilvia Vesta",
-        "commons": [
-          "Vesta Dawn full view",
-          "Vesta Dawn"
-        ]
-      },
-      "headline": "A giant impact"
-    },
-    {
-      "text": "In the middle of that crater stands a mountain about twenty-two kilometers tall. More than twice the height of Everest.",
-      "visual": {
-        "type": "card",
-        "big": "22 km",
-        "label": "tall",
-        "sub": "2.5 times Everest"
-      }
-    },
-    {
-      "text": "That impact blasted pieces into space. Some of them fell on Earth. About one in every twenty meteorites found here came from Vesta.",
-      "visual": {
-        "type": "image",
-        "query": "HED meteorite Vesta",
-        "commons": "HED meteorite Vesta"
-      },
-      "headline": "Vesta on Earth"
-    },
-    {
-      "text": "Inside, Vesta has a metal core, a mantle and a crust, just like a small planet. It almost became one.",
-      "visual": {
-        "type": "image",
-        "query": "Vesta Dawn full view",
-        "commons": "Vesta Dawn full view"
-      },
-      "headline": "An almost planet"
-    },
-    {
-      "text": "NASA's Dawn spacecraft orbited Vesta from twenty eleven to twenty twelve, then flew on to the dwarf planet Ceres.",
-      "visual": {
-        "type": "image",
-        "query": "Dawn spacecraft",
-        "commons": "Dawn spacecraft"
-      },
-      "headline": "Dawn's visit"
-    },
-    {
-      "text": "Vesta is a time capsule from when the planets were being built, four and a half billion years ago.",
-      "visual": {
-        "type": "image",
-        "query": "Vesta surface Dawn craters",
-        "commons": "Vesta surface Dawn craters"
-      },
-      "headline": "A time capsule"
-    },
-    {
-      "text": "Tomorrow, episode one hundred! We leave the solar system to visit a planet called Earth's older cousin. Follow, so you don't miss it.",
-      "visual": {
-        "type": "end",
-        "query": "Kepler-452b artist",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Kepler-452b artist concept",
-          "Kepler-452b"
-        ]
-      }
-    }
-  ]
+ "number": 99,
+ "title": "Vesta",
+ "subtitle": "Vesta.",
+ "next_stop": "Kepler-452b",
+ "yt_title": "Could You Climb a Mountain Twice as Tall as Everest? ☄️ #shorts",
+ "description": "Could You Climb a Mountain Twice as Tall as Everest?\n\nEpisode 99 of a daily journey through the universe. ☄️\nWe visit Vesta, one of the biggest asteroids: about 525 km wide, a giant impact basin with a central peak about 22 km tall, pieces that fell to Earth as meteorites, and NASA's Dawn spacecraft that orbited it in 2011–2012.\n\n➡️ Tomorrow, Episode 100: Next stop, Kepler-452b. Earth's older cousin?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #vesta #astronomy #shorts #science #nasa",
+ "tags": [
+  "vesta",
+  "asteroid belt",
+  "dawn mission",
+  "rheasilvia",
+  "meteorites",
+  "asteroid",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What if you climbed a mountain more than twice as tall as Everest, on an asteroid?",
+   "visual": {
+    "type": "title",
+    "query": "Vesta",
+    "wiki": "4 Vesta"
+   }
+  },
+  {
+   "text": "Between Mars and Jupiter lies the asteroid belt. And one of its giants is Vesta.",
+   "visual": {
+    "type": "image",
+    "query": "Vesta Dawn spacecraft",
+    "commons": "Vesta Dawn spacecraft"
+   },
+   "headline": "A giant asteroid"
+  },
+  {
+   "text": "It's about five hundred and twenty-five kilometers wide. Big enough that you can sometimes see it without a telescope.",
+   "visual": {
+    "type": "card",
+    "big": "525 km",
+    "label": "wide",
+    "sub": "the brightest asteroid"
+   }
+  },
+  {
+   "text": "Long ago, something huge slammed into its south pole, leaving a crater almost as wide as Vesta itself.",
+   "visual": {
+    "type": "image",
+    "query": "Rheasilvia Vesta",
+    "commons": [
+     "Vesta Dawn full view",
+     "Vesta Dawn"
+    ]
+   },
+   "headline": "A giant impact"
+  },
+  {
+   "text": "In the middle of that crater stands a mountain about twenty-two kilometers tall. More than twice the height of Everest.",
+   "visual": {
+    "type": "card",
+    "big": "22 km",
+    "label": "tall",
+    "sub": "2.5 times Everest"
+   }
+  },
+  {
+   "text": "That impact blasted pieces into space. Some of them fell on Earth. About one in every twenty meteorites found here came from Vesta.",
+   "visual": {
+    "type": "image",
+    "query": "HED meteorite Vesta",
+    "commons": "HED meteorite Vesta"
+   },
+   "headline": "Vesta on Earth"
+  },
+  {
+   "text": "Inside, Vesta has a metal core, a mantle and a crust, just like a small planet. It almost became one.",
+   "visual": {
+    "type": "image",
+    "query": "Vesta Dawn full view",
+    "commons": "Vesta Dawn full view"
+   },
+   "headline": "An almost planet"
+  },
+  {
+   "text": "NASA's Dawn spacecraft orbited Vesta from twenty eleven to twenty twelve, then flew on to the dwarf planet Ceres.",
+   "visual": {
+    "type": "image",
+    "query": "Dawn spacecraft",
+    "commons": "Dawn spacecraft"
+   },
+   "headline": "Dawn's visit"
+  },
+  {
+   "text": "Vesta is a time capsule from when the planets were being built, four and a half billion years ago.",
+   "visual": {
+    "type": "image",
+    "query": "Vesta surface Dawn craters",
+    "commons": "Vesta surface Dawn craters"
+   },
+   "headline": "A time capsule"
+  },
+  {
+   "text": "Tomorrow, episode one hundred! We leave the solar system to visit a planet called Earth's older cousin. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Kepler-452b artist",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Kepler-452b artist concept",
+     "Kepler-452b"
+    ]
+   }
+  }
+ ]
 }

@@ -1,119 +1,119 @@
 {
-  "number": 122,
-  "title": "The Zodiacal Light",
-  "subtitle": "The false dusk",
-  "next_stop": "Light Pollution",
-  "yt_title": "A Ghostly Glow After Sunset 🌌 | Ep. 122 #shorts",
-  "description": "Episode 122 of a daily journey through the universe. 🌌\nWe hunt the zodiacal light: a faint cone of light in the west after evening twilight on moonless spring nights (late February to April in the Northern Hemisphere), sunlight scattered by dust from comets and Mars, and why you need a dark sky to see it.\n\n➡️ Tomorrow, Episode 123: Next stop, light pollution. Why most people can't see the Milky Way anymore.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #zodiacallight #astronomy #shorts #science #nasa",
-  "tags": [
-    "zodiacal light",
-    "false dusk",
-    "night sky",
-    "dark sky",
-    "stargazing",
-    "astrophotography",
-    "interplanetary dust",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and twenty-two. Next stop... the zodiacal light.",
-      "visual": {
-        "type": "title",
-        "query": "Zodiacal light",
-        "wiki": "Zodiacal light"
-      }
-    },
-    {
-      "text": "On spring evenings, after the sky gets completely dark, a faint cone of light can rise from the western horizon.",
-      "visual": {
-        "type": "image",
-        "query": "Zodiacal light",
-        "commons": "Zodiacal light"
-      },
-      "headline": "A cone of light"
-    },
-    {
-      "text": "It's the zodiacal light. Sometimes called the false dusk.",
-      "visual": {
-        "type": "image",
-        "query": "zodiacal light Paranal",
-        "commons": "zodiacal light Paranal"
-      },
-      "headline": "The false dusk"
-    },
-    {
-      "text": "It's sunlight, bouncing off countless grains of dust that fill the space between the planets.",
-      "visual": {
-        "type": "image",
-        "query": "interplanetary dust particle",
-        "commons": "interplanetary dust particle"
-      },
-      "headline": "Sunlit space dust"
-    },
-    {
-      "text": "In twenty twenty-one, scientists found that much of that dust might come from Mars, and from comets breaking apart.",
-      "visual": {
-        "type": "image",
-        "query": "comet 67P Rosetta",
-        "commons": "comet 67P Rosetta"
-      },
-      "headline": "Dust from comets and Mars"
-    },
-    {
-      "text": "It follows the same path across the sky as the Sun and planets. That's why it's named after the zodiac.",
-      "visual": {
-        "type": "image",
-        "query": "zodiacal light and Milky Way",
-        "commons": "zodiacal light and Milky Way"
-      },
-      "headline": "Along the planets' path"
-    },
-    {
-      "text": "In the Northern Hemisphere, the best time is now: late February to April, about an hour or two after sunset, with no Moon.",
-      "visual": {
-        "type": "card",
-        "big": "Feb–Apr",
-        "label": "best evenings",
-        "sub": "west, after twilight"
-      }
-    },
-    {
-      "text": "In autumn, look before dawn, in the east.",
-      "visual": {
-        "type": "image",
-        "query": "zodiacal light before dawn",
-        "commons": "zodiacal light before dawn"
-      },
-      "headline": "In autumn: before dawn"
-    },
-    {
-      "text": "It's brighter than the Milky Way in places, but city lights wash it out completely. You need a truly dark sky.",
-      "visual": {
-        "type": "image",
-        "query": "dark sky Milky Way desert",
-        "commons": "dark sky Milky Way desert"
-      },
-      "headline": "You need dark skies"
-    },
-    {
-      "text": "Tomorrow, the reason most people alive today have never seen the Milky Way. And it's getting worse. Follow, so you don't miss episode one hundred and twenty-three.",
-      "visual": {
-        "type": "end",
-        "query": "city lights at night from space",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "city lights at night from space",
-          "Earth at night"
-        ]
-      }
-    }
-  ]
+ "number": 122,
+ "title": "The Zodiacal Light",
+ "subtitle": "The zodiacal light.",
+ "next_stop": "Light Pollution",
+ "yt_title": "Have You Ever Seen the Ghostly Glow After Sunset? 🌌 #shorts",
+ "description": "Have You Ever Seen the Ghostly Glow After Sunset?\n\nEpisode 122 of a daily journey through the universe. 🌌\nWe hunt the zodiacal light: a faint cone of light in the west after evening twilight on moonless spring nights (late February to April in the Northern Hemisphere), sunlight scattered by dust from comets and Mars, and why you need a dark sky to see it.\n\n➡️ Tomorrow, Episode 123: Next stop, light pollution. Why most people can't see the Milky Way anymore.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #zodiacallight #astronomy #shorts #science #nasa",
+ "tags": [
+  "zodiacal light",
+  "false dusk",
+  "night sky",
+  "dark sky",
+  "stargazing",
+  "astrophotography",
+  "interplanetary dust",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Have you ever seen a ghostly cone of light after sunset? Most people never have.",
+   "visual": {
+    "type": "title",
+    "query": "Zodiacal light",
+    "wiki": "Zodiacal light"
+   }
+  },
+  {
+   "text": "On spring evenings, after the sky gets completely dark, a faint cone of light can rise from the western horizon.",
+   "visual": {
+    "type": "image",
+    "query": "Zodiacal light",
+    "commons": "Zodiacal light"
+   },
+   "headline": "A cone of light"
+  },
+  {
+   "text": "It's the zodiacal light. Sometimes called the false dusk.",
+   "visual": {
+    "type": "image",
+    "query": "zodiacal light Paranal",
+    "commons": "zodiacal light Paranal"
+   },
+   "headline": "The false dusk"
+  },
+  {
+   "text": "It's sunlight, bouncing off countless grains of dust that fill the space between the planets.",
+   "visual": {
+    "type": "image",
+    "query": "interplanetary dust particle",
+    "commons": "interplanetary dust particle"
+   },
+   "headline": "Sunlit space dust"
+  },
+  {
+   "text": "In twenty twenty-one, scientists found that much of that dust might come from Mars, and from comets breaking apart.",
+   "visual": {
+    "type": "image",
+    "query": "comet 67P Rosetta",
+    "commons": "comet 67P Rosetta"
+   },
+   "headline": "Dust from comets and Mars"
+  },
+  {
+   "text": "It follows the same path across the sky as the Sun and planets. That's why it's named after the zodiac.",
+   "visual": {
+    "type": "image",
+    "query": "zodiacal light and Milky Way",
+    "commons": "zodiacal light and Milky Way"
+   },
+   "headline": "Along the planets' path"
+  },
+  {
+   "text": "In the Northern Hemisphere, the best time is now: late February to April, about an hour or two after sunset, with no Moon.",
+   "visual": {
+    "type": "card",
+    "big": "Feb–Apr",
+    "label": "best evenings",
+    "sub": "west, after twilight"
+   }
+  },
+  {
+   "text": "In autumn, look before dawn, in the east.",
+   "visual": {
+    "type": "image",
+    "query": "zodiacal light before dawn",
+    "commons": "zodiacal light before dawn"
+   },
+   "headline": "In autumn: before dawn"
+  },
+  {
+   "text": "It's brighter than the Milky Way in places, but city lights wash it out completely. You need a truly dark sky.",
+   "visual": {
+    "type": "image",
+    "query": "dark sky Milky Way desert",
+    "commons": "dark sky Milky Way desert"
+   },
+   "headline": "You need dark skies"
+  },
+  {
+   "text": "Tomorrow, the reason most people alive today have never seen the Milky Way. And it's getting worse. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "city lights at night from space",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "city lights at night from space",
+     "Earth at night"
+    ]
+   }
+  }
+ ]
 }

@@ -1,119 +1,119 @@
 {
-  "number": 105,
-  "title": "Charon",
-  "subtitle": "Pluto's partner",
-  "next_stop": "Eris",
-  "yt_title": "Pluto's Moon Has a Red Cap Called Mordor 🔴 | Ep. 105 #shorts",
-  "description": "Episode 105 of a daily journey through the universe. 🔴\nWe visit Charon, Pluto's biggest moon: discovered in 1978, about 1,212 km wide, half the size of Pluto, the two locked face to face, a giant canyon belt, and a red north pole nicknamed Mordor Macula, colored by gas stolen from Pluto.\n\n➡️ Tomorrow, Episode 106: Next stop, Eris. The dwarf planet that got Pluto demoted.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #charon #astronomy #shorts #science #nasa",
-  "tags": [
-    "charon",
-    "pluto",
-    "new horizons",
-    "mordor macula",
-    "dwarf planet",
-    "kuiper belt",
-    "nasa",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and five. Next stop... Charon.",
-      "visual": {
-        "type": "title",
-        "query": "Charon",
-        "wiki": "Charon (moon)"
-      }
-    },
-    {
-      "text": "In nineteen seventy-eight, astronomer James Christy noticed a bump on blurry photos of Pluto. It was a moon.",
-      "visual": {
-        "type": "image",
-        "query": "Charon discovery photograph",
-        "commons": "Charon discovery photograph"
-      },
-      "headline": "Discovered in 1978"
-    },
-    {
-      "text": "Charon is about one thousand two hundred kilometers wide. Half the size of Pluto.",
-      "visual": {
-        "type": "card",
-        "big": "1,212 km",
-        "label": "wide",
-        "sub": "half of Pluto"
-      }
-    },
-    {
-      "text": "It's so big that Pluto and Charon orbit a point in the empty space between them. Like two dancers holding hands.",
-      "visual": {
-        "type": "image",
-        "query": "Pluto Charon New Horizons",
-        "commons": "Pluto Charon New Horizons"
-      },
-      "headline": "Dancing partners"
-    },
-    {
-      "text": "And they always show each other the same face. From one side of Pluto, Charon never rises, and never sets.",
-      "visual": {
-        "type": "card",
-        "big": "6.4 days",
-        "label": "Pluto's day and Charon's orbit",
-        "sub": "perfectly matched"
-      }
-    },
-    {
-      "text": "In twenty fifteen, New Horizons flew past and saw canyons longer than the Grand Canyon, maybe from an ancient frozen ocean.",
-      "visual": {
-        "type": "image",
-        "query": "Charon New Horizons",
-        "commons": "Charon New Horizons"
-      },
-      "headline": "Giant canyons"
-    },
-    {
-      "text": "And a strange red cap at its north pole. Scientists nicknamed it Mordor.",
-      "visual": {
-        "type": "image",
-        "query": "Charon Mordor Macula",
-        "commons": "Charon Mordor Macula"
-      },
-      "headline": "Mordor"
-    },
-    {
-      "text": "The red comes from Pluto. Gas escapes Pluto, freezes on Charon's cold pole, and sunlight turns it red.",
-      "visual": {
-        "type": "image",
-        "query": "Pluto New Horizons",
-        "commons": "Pluto New Horizons"
-      },
-      "headline": "Painted by Pluto"
-    },
-    {
-      "text": "A moon painted by its own planet.",
-      "visual": {
-        "type": "image",
-        "query": "Pluto and Charon color New Horizons",
-        "commons": "Pluto and Charon color New Horizons"
-      },
-      "headline": "A painted moon"
-    },
-    {
-      "text": "Tomorrow, the dwarf planet that started a fight. When it was found, Pluto lost its planet title. Follow, so you don't miss episode one hundred and six.",
-      "visual": {
-        "type": "end",
-        "query": "Eris dwarf planet",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Eris dwarf planet Hubble",
-          "Eris and Dysnomia"
-        ]
-      }
-    }
-  ]
+ "number": 105,
+ "title": "Charon",
+ "subtitle": "Charon.",
+ "next_stop": "Eris",
+ "yt_title": "Why Does Pluto's Moon Have a Red Cap Called Mordor? 🔴 #shorts",
+ "description": "Why Does Pluto's Moon Have a Red Cap Called Mordor?\n\nEpisode 105 of a daily journey through the universe. 🔴\nWe visit Charon, Pluto's biggest moon: discovered in 1978, about 1,212 km wide, half the size of Pluto, the two locked face to face, a giant canyon belt, and a red north pole nicknamed Mordor Macula, colored by gas stolen from Pluto.\n\n➡️ Tomorrow, Episode 106: Next stop, Eris. The dwarf planet that got Pluto demoted.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #charon #astronomy #shorts #science #nasa",
+ "tags": [
+  "charon",
+  "pluto",
+  "new horizons",
+  "mordor macula",
+  "dwarf planet",
+  "kuiper belt",
+  "nasa",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Why does Pluto's moon have a red cap, nicknamed Mordor?",
+   "visual": {
+    "type": "title",
+    "query": "Charon",
+    "wiki": "Charon (moon)"
+   }
+  },
+  {
+   "text": "In nineteen seventy-eight, astronomer James Christy noticed a bump on blurry photos of Pluto. It was a moon.",
+   "visual": {
+    "type": "image",
+    "query": "Charon discovery photograph",
+    "commons": "Charon discovery photograph"
+   },
+   "headline": "Discovered in 1978"
+  },
+  {
+   "text": "Charon is about one thousand two hundred kilometers wide. Half the size of Pluto.",
+   "visual": {
+    "type": "card",
+    "big": "1,212 km",
+    "label": "wide",
+    "sub": "half of Pluto"
+   }
+  },
+  {
+   "text": "It's so big that Pluto and Charon orbit a point in the empty space between them. Like two dancers holding hands.",
+   "visual": {
+    "type": "image",
+    "query": "Pluto Charon New Horizons",
+    "commons": "Pluto Charon New Horizons"
+   },
+   "headline": "Dancing partners"
+  },
+  {
+   "text": "And they always show each other the same face. From one side of Pluto, Charon never rises, and never sets.",
+   "visual": {
+    "type": "card",
+    "big": "6.4 days",
+    "label": "Pluto's day and Charon's orbit",
+    "sub": "perfectly matched"
+   }
+  },
+  {
+   "text": "In twenty fifteen, New Horizons flew past and saw canyons longer than the Grand Canyon, maybe from an ancient frozen ocean.",
+   "visual": {
+    "type": "image",
+    "query": "Charon New Horizons",
+    "commons": "Charon New Horizons"
+   },
+   "headline": "Giant canyons"
+  },
+  {
+   "text": "And a strange red cap at its north pole. Scientists nicknamed it Mordor.",
+   "visual": {
+    "type": "image",
+    "query": "Charon Mordor Macula",
+    "commons": "Charon Mordor Macula"
+   },
+   "headline": "Mordor"
+  },
+  {
+   "text": "The red comes from Pluto. Gas escapes Pluto, freezes on Charon's cold pole, and sunlight turns it red.",
+   "visual": {
+    "type": "image",
+    "query": "Pluto New Horizons",
+    "commons": "Pluto New Horizons"
+   },
+   "headline": "Painted by Pluto"
+  },
+  {
+   "text": "A moon painted by its own planet.",
+   "visual": {
+    "type": "image",
+    "query": "Pluto and Charon color New Horizons",
+    "commons": "Pluto and Charon color New Horizons"
+   },
+   "headline": "A painted moon"
+  },
+  {
+   "text": "Tomorrow, the dwarf planet that started a fight. When it was found, Pluto lost its planet title. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Eris dwarf planet",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Eris dwarf planet Hubble",
+     "Eris and Dysnomia"
+    ]
+   }
+  }
+ ]
 }

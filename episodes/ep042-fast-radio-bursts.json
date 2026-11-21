@@ -1,123 +1,123 @@
 {
-  "number": 42,
-  "title": "Fast Radio Bursts",
-  "subtitle": "A flash in a millisecond",
-  "next_stop": "The Fermi Paradox",
-  "yt_title": "A Flash From Space That Lasts 1 Millisecond ⚡ | Ep. 42 #shorts",
-  "description": "Episode 42 of a daily journey through the universe. ⚡\nFast radio bursts: flashes of radio waves from far-away galaxies that last about a thousandth of a second, yet release as much energy as the Sun does in days. Some repeat. In 2020 one was traced to a magnetar inside our own galaxy.\n\n➡️ Tomorrow, Episode 43: Next stop, the Fermi paradox. If the universe is so big, where is everybody?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #fastradiobursts #astronomy #shorts #science",
-  "tags": [
-    "fast radio bursts",
-    "frb",
-    "magnetar",
-    "radio astronomy",
-    "space mystery",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode forty-two. Next stop... fast radio bursts.",
-      "visual": {
-        "type": "title",
-        "query": "Parkes radio telescope",
-        "commons": "Parkes radio telescope"
-      }
-    },
-    {
-      "text": "Imagine a flash that lasts just one thousandth of a second, but carries more energy than the Sun gives out in days.",
-      "visual": {
-        "type": "card",
-        "big": "1 ms",
-        "label": "a flash of radio waves"
-      }
-    },
-    {
-      "text": "These are fast radio bursts. The first one was found in two thousand seven, hidden in old data from the Parkes radio telescope in Australia.",
-      "visual": {
-        "type": "image",
-        "query": "Parkes Observatory radio telescope",
-        "commons": "Parkes Observatory radio telescope"
-      },
-      "headline": "First found in 2007"
-    },
-    {
-      "text": "Most come from galaxies billions of light-years away. Their light has been travelling since before Earth existed.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble deep field galaxies",
-        "commons": "Hubble deep field galaxies"
-      },
-      "headline": "From distant galaxies"
-    },
-    {
-      "text": "Telescopes now spot them all over the sky. Astronomers think thousands may happen every single day.",
-      "visual": {
-        "type": "card",
-        "big": "1000s",
-        "label": "every day, across the sky"
-      }
-    },
-    {
-      "text": "Most flash once and disappear. But some repeat, again and again, from the same place.",
-      "visual": {
-        "type": "image",
-        "query": "CHIME radio telescope",
-        "commons": "CHIME radio telescope"
-      },
-      "headline": "Some repeat"
-    },
-    {
-      "text": "In twenty twenty, a breakthrough. A burst came from inside our own galaxy, from a magnetar, the super-magnetic dead star from episode thirteen.",
-      "visual": {
-        "type": "image",
-        "query": "magnetar artist impression",
-        "commons": "magnetar artist impression"
-      },
-      "headline": "A clue: a magnetar"
-    },
-    {
-      "text": "That magnetar is about thirty thousand light-years away. Close enough to catch it in the act.",
-      "visual": {
-        "type": "card",
-        "big": "2020",
-        "label": "a burst inside the Milky Way"
-      }
-    },
-    {
-      "text": "So magnetars make at least some of them. But not all bursts fit, and astronomers are still searching for the rest.",
-      "visual": {
-        "type": "image",
-        "query": "neutron star artist impression",
-        "commons": "neutron star artist impression"
-      },
-      "headline": "Still a puzzle"
-    },
-    {
-      "text": "And because these flashes cross the universe, scientists use them to weigh the gas hidden between galaxies.",
-      "visual": {
-        "type": "image",
-        "query": "galaxy cluster Hubble",
-        "commons": "galaxy cluster Hubble"
-      },
-      "headline": "Weighing the universe"
-    },
-    {
-      "text": "Tomorrow, the biggest question of all. If the universe is so big, where is everybody? Next stop: the Fermi paradox. Follow, so you don't miss episode forty-three.",
-      "visual": {
-        "type": "end",
-        "query": "Milky Way night sky observatory",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "Milky Way night sky observatory",
-          "starry sky telescope silhouette"
-        ]
-      }
-    }
-  ]
+ "number": 42,
+ "title": "Fast Radio Bursts",
+ "subtitle": "Gone in a blink.",
+ "next_stop": "The Fermi Paradox",
+ "yt_title": "What Flashes for 1 Millisecond With the Power of the Sun? ⚡ #shorts",
+ "description": "What Flashes for 1 Millisecond With the Power of the Sun?\n\nEpisode 42 of a daily journey through the universe. ⚡\nFast radio bursts: flashes of radio waves from far-away galaxies that last about a thousandth of a second, yet release as much energy as the Sun does in days. Some repeat. In 2020 one was traced to a magnetar inside our own galaxy.\n\n➡️ Tomorrow, Episode 43: Next stop, the Fermi paradox. If the universe is so big, where is everybody?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #fastradiobursts #astronomy #shorts #science",
+ "tags": [
+  "fast radio bursts",
+  "frb",
+  "magnetar",
+  "radio astronomy",
+  "space mystery",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What could flash for one thousandth of a second, and outshine the Sun for days?",
+   "visual": {
+    "type": "title",
+    "query": "Parkes radio telescope",
+    "commons": "Parkes radio telescope"
+   }
+  },
+  {
+   "text": "Imagine a flash that lasts just one thousandth of a second, but carries more energy than the Sun gives out in days.",
+   "visual": {
+    "type": "card",
+    "big": "1 ms",
+    "label": "a flash of radio waves"
+   }
+  },
+  {
+   "text": "These are fast radio bursts. The first one was found in two thousand seven, hidden in old data from the Parkes radio telescope in Australia.",
+   "visual": {
+    "type": "image",
+    "query": "Parkes Observatory radio telescope",
+    "commons": "Parkes Observatory radio telescope"
+   },
+   "headline": "First found in 2007"
+  },
+  {
+   "text": "Most come from galaxies billions of light-years away. Their light has been travelling since before Earth existed.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble deep field galaxies",
+    "commons": "Hubble deep field galaxies"
+   },
+   "headline": "From distant galaxies"
+  },
+  {
+   "text": "Telescopes now spot them all over the sky. Astronomers think thousands may happen every single day.",
+   "visual": {
+    "type": "card",
+    "big": "1000s",
+    "label": "every day, across the sky"
+   }
+  },
+  {
+   "text": "Most flash once and disappear. But some repeat, again and again, from the same place.",
+   "visual": {
+    "type": "image",
+    "query": "CHIME radio telescope",
+    "commons": "CHIME radio telescope"
+   },
+   "headline": "Some repeat"
+  },
+  {
+   "text": "In twenty twenty, a breakthrough. A burst came from inside our own galaxy, from a magnetar, the super-magnetic dead star from episode thirteen.",
+   "visual": {
+    "type": "image",
+    "query": "magnetar artist impression",
+    "commons": "magnetar artist impression"
+   },
+   "headline": "A clue: a magnetar"
+  },
+  {
+   "text": "That magnetar is about thirty thousand light-years away. Close enough to catch it in the act.",
+   "visual": {
+    "type": "card",
+    "big": "2020",
+    "label": "a burst inside the Milky Way"
+   }
+  },
+  {
+   "text": "So magnetars make at least some of them. But not all bursts fit, and astronomers are still searching for the rest.",
+   "visual": {
+    "type": "image",
+    "query": "neutron star artist impression",
+    "commons": "neutron star artist impression"
+   },
+   "headline": "Still a puzzle"
+  },
+  {
+   "text": "And because these flashes cross the universe, scientists use them to weigh the gas hidden between galaxies.",
+   "visual": {
+    "type": "image",
+    "query": "galaxy cluster Hubble",
+    "commons": "galaxy cluster Hubble"
+   },
+   "headline": "Weighing the universe"
+  },
+  {
+   "text": "Tomorrow, the biggest question of all. If the universe is so big, where is everybody? Next stop: the Fermi paradox. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Milky Way night sky observatory",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "Milky Way night sky observatory",
+     "starry sky telescope silhouette"
+    ]
+   }
+  }
+ ]
 }

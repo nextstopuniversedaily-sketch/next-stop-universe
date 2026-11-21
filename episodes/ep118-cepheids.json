@@ -1,119 +1,119 @@
 {
-  "number": 118,
-  "title": "The Stars That Measured the Universe",
-  "subtitle": "Henrietta Leavitt",
-  "next_stop": "Polaris",
-  "yt_title": "The Woman Who Measured the Universe ⭐ | Ep. 118 #shorts",
-  "description": "Episode 118 of a daily journey through the universe. ⭐\nFor International Women's Day: Henrietta Swan Leavitt, a Harvard 'computer' paid cents an hour, discovered in 1908–1912 that Cepheid stars' blinking reveals their true brightness, the measuring tape Edwin Hubble used in 1923 to prove Andromeda is another galaxy.\n\n➡️ Tomorrow, Episode 119: Next stop, Polaris. The North Star isn't what you think.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #womeninscience #astronomy #shorts #science #nasa",
-  "tags": [
-    "henrietta leavitt",
-    "cepheid variable",
-    "women in science",
-    "international women's day",
-    "edwin hubble",
-    "andromeda",
-    "astronomy history",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and eighteen. Happy International Women's Day! Next stop... the stars that measured the universe.",
-      "visual": {
-        "type": "title",
-        "query": "Henrietta Swan Leavitt",
-        "wiki": "Henrietta Swan Leavitt"
-      }
-    },
-    {
-      "text": "A century ago, Henrietta Swan Leavitt worked at Harvard as a computer. A person who studied photos of the sky by hand, for a few cents an hour.",
-      "visual": {
-        "type": "image",
-        "query": "Harvard computers women astronomers",
-        "commons": "Harvard computers women astronomers"
-      },
-      "headline": "Harvard's human computers"
-    },
-    {
-      "text": "She studied stars that blink, getting brighter and dimmer over days. They're called Cepheids.",
-      "visual": {
-        "type": "image",
-        "query": "Cepheid variable star Hubble",
-        "commons": "Cepheid variable star Hubble"
-      },
-      "headline": "Blinking stars"
-    },
-    {
-      "text": "In the Small Magellanic Cloud, she noticed something amazing. The slower a Cepheid blinks, the brighter it really is.",
-      "visual": {
-        "type": "image",
-        "query": "Small Magellanic Cloud",
-        "commons": "Small Magellanic Cloud"
-      },
-      "headline": "Her big discovery"
-    },
-    {
-      "text": "She published the rule in nineteen twelve. Now, if you time a Cepheid's blinking, you know its true brightness.",
-      "visual": {
-        "type": "card",
-        "big": "1912",
-        "label": "Leavitt's law",
-        "sub": "blink speed = true brightness"
-      }
-    },
-    {
-      "text": "Compare that to how bright it looks from Earth, and you can work out how far away it is. A cosmic measuring tape.",
-      "visual": {
-        "type": "card",
-        "big": "distance",
-        "label": "from a blinking star",
-        "sub": "a cosmic measuring tape"
-      }
-    },
-    {
-      "text": "In nineteen twenty-three, Edwin Hubble found a Cepheid in the Andromeda nebula, and measured its distance.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble Cepheid V1 Andromeda",
-        "commons": "Hubble Cepheid V1 Andromeda"
-      },
-      "headline": "Hubble finds V1"
-    },
-    {
-      "text": "Andromeda was far outside the Milky Way. It was a whole other galaxy. The universe suddenly became huge.",
-      "visual": {
-        "type": "image",
-        "query": "Andromeda galaxy",
-        "commons": "Andromeda galaxy"
-      },
-      "headline": "A whole other galaxy"
-    },
-    {
-      "text": "Leavitt died in nineteen twenty-one, before seeing what her discovery led to. Astronomers still use her law today.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble Space Telescope in orbit",
-        "commons": "Hubble Space Telescope in orbit"
-      },
-      "headline": "Still used today"
-    },
-    {
-      "text": "Tomorrow, the most famous star in the sky. Everyone thinks it's the brightest. It isn't. Follow, so you don't miss episode one hundred and nineteen.",
-      "visual": {
-        "type": "end",
-        "query": "Polaris",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Polaris star trails",
-          "North Star star trails"
-        ]
-      }
-    }
-  ]
+ "number": 118,
+ "title": "The Stars That Measured the Universe",
+ "subtitle": "Henrietta Leavitt.",
+ "next_stop": "Polaris",
+ "yt_title": "How Did One Woman Measure the Universe? ⭐ #shorts",
+ "description": "How Did One Woman Measure the Universe?\n\nEpisode 118 of a daily journey through the universe. ⭐\nFor International Women's Day: Henrietta Swan Leavitt, a Harvard 'computer' paid cents an hour, discovered in 1908–1912 that Cepheid stars' blinking reveals their true brightness, the measuring tape Edwin Hubble used in 1923 to prove Andromeda is another galaxy.\n\n➡️ Tomorrow, Episode 119: Next stop, Polaris. The North Star isn't what you think.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #womeninscience #astronomy #shorts #science #nasa",
+ "tags": [
+  "henrietta leavitt",
+  "cepheid variable",
+  "women in science",
+  "international women's day",
+  "edwin hubble",
+  "andromeda",
+  "astronomy history",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "How do you measure the universe? One woman figured it out, using blinking stars.",
+   "visual": {
+    "type": "title",
+    "query": "Henrietta Swan Leavitt",
+    "wiki": "Henrietta Swan Leavitt"
+   }
+  },
+  {
+   "text": "A century ago, Henrietta Swan Leavitt worked at Harvard as a computer. A person who studied photos of the sky by hand, for a few cents an hour.",
+   "visual": {
+    "type": "image",
+    "query": "Harvard computers women astronomers",
+    "commons": "Harvard computers women astronomers"
+   },
+   "headline": "Harvard's human computers"
+  },
+  {
+   "text": "She studied stars that blink, getting brighter and dimmer over days. They're called Cepheids.",
+   "visual": {
+    "type": "image",
+    "query": "Cepheid variable star Hubble",
+    "commons": "Cepheid variable star Hubble"
+   },
+   "headline": "Blinking stars"
+  },
+  {
+   "text": "In the Small Magellanic Cloud, she noticed something amazing. The slower a Cepheid blinks, the brighter it really is.",
+   "visual": {
+    "type": "image",
+    "query": "Small Magellanic Cloud",
+    "commons": "Small Magellanic Cloud"
+   },
+   "headline": "Her big discovery"
+  },
+  {
+   "text": "She published the rule in nineteen twelve. Now, if you time a Cepheid's blinking, you know its true brightness.",
+   "visual": {
+    "type": "card",
+    "big": "1912",
+    "label": "Leavitt's law",
+    "sub": "blink speed = true brightness"
+   }
+  },
+  {
+   "text": "Compare that to how bright it looks from Earth, and you can work out how far away it is. A cosmic measuring tape.",
+   "visual": {
+    "type": "card",
+    "big": "distance",
+    "label": "from a blinking star",
+    "sub": "a cosmic measuring tape"
+   }
+  },
+  {
+   "text": "In nineteen twenty-three, Edwin Hubble found a Cepheid in the Andromeda nebula, and measured its distance.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble Cepheid V1 Andromeda",
+    "commons": "Hubble Cepheid V1 Andromeda"
+   },
+   "headline": "Hubble finds V1"
+  },
+  {
+   "text": "Andromeda was far outside the Milky Way. It was a whole other galaxy. The universe suddenly became huge.",
+   "visual": {
+    "type": "image",
+    "query": "Andromeda galaxy",
+    "commons": "Andromeda galaxy"
+   },
+   "headline": "A whole other galaxy"
+  },
+  {
+   "text": "Leavitt died in nineteen twenty-one, before seeing what her discovery led to. Astronomers still use her law today.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble Space Telescope in orbit",
+    "commons": "Hubble Space Telescope in orbit"
+   },
+   "headline": "Still used today"
+  },
+  {
+   "text": "Tomorrow, the most famous star in the sky. Everyone thinks it's the brightest. It isn't. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Polaris",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Polaris star trails",
+     "North Star star trails"
+    ]
+   }
+  }
+ ]
 }

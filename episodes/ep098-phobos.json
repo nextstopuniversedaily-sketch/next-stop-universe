@@ -1,118 +1,118 @@
 {
-  "number": 98,
-  "title": "Phobos",
-  "subtitle": "The falling moon",
-  "next_stop": "Vesta",
-  "yt_title": "This Moon Is Falling Into Mars 🌑 | Ep. 98 #shorts",
-  "description": "Episode 98 of a daily journey through the universe. 🌑\nWe orbit Phobos, the bigger moon of Mars: a 22 km potato that circles Mars three times a day, rises in the west, is spiraling inward about 2 meters every century, and will be torn apart or crash in about 30 to 50 million years.\n\n➡️ Tomorrow, Episode 99: Next stop, Vesta. A giant asteroid with a mountain twice as tall as Everest.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #phobos #astronomy #shorts #science #nasa",
-  "tags": [
-    "phobos",
-    "moons of mars",
-    "mars",
-    "phobos falling",
-    "stickney crater",
-    "mmx mission",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode ninety-eight. Next stop... Phobos.",
-      "visual": {
-        "type": "title",
-        "query": "Phobos",
-        "wiki": "Phobos (moon)"
-      }
-    },
-    {
-      "text": "Mars has two tiny moons. The bigger one is Phobos, a lumpy rock only about twenty-two kilometers across.",
-      "visual": {
-        "type": "card",
-        "big": "22 km",
-        "label": "across",
-        "sub": "smaller than many cities"
-      }
-    },
-    {
-      "text": "It orbits just six thousand kilometers above the surface of Mars. Closer than any other moon to its planet.",
-      "visual": {
-        "type": "image",
-        "query": "Phobos Mars Reconnaissance Orbiter",
-        "commons": "Phobos Mars Reconnaissance Orbiter"
-      },
-      "headline": "Very close to Mars"
-    },
-    {
-      "text": "It's so fast that it circles Mars three times a day. From the ground, it rises in the west and sets in the east.",
-      "visual": {
-        "type": "card",
-        "big": "3",
-        "label": "laps a day",
-        "sub": "rises in the west"
-      }
-    },
-    {
-      "text": "One giant crater, Stickney, is almost half as wide as the whole moon. The impact nearly shattered it.",
-      "visual": {
-        "type": "image",
-        "query": "Stickney crater Phobos",
-        "commons": "Stickney crater Phobos"
-      },
-      "headline": "Stickney crater"
-    },
-    {
-      "text": "But here's the twist. Mars's gravity is slowly pulling Phobos inward, about two meters every century.",
-      "visual": {
-        "type": "image",
-        "query": "Phobos HiRISE",
-        "commons": "Phobos HiRISE"
-      },
-      "headline": "It's falling"
-    },
-    {
-      "text": "Those long grooves on its surface may be stretch marks, as Mars tugs on it.",
-      "visual": {
-        "type": "image",
-        "query": "Phobos grooves Mars Express",
-        "commons": "Phobos grooves Mars Express"
-      },
-      "headline": "Stretch marks?"
-    },
-    {
-      "text": "In about thirty to fifty million years, Phobos will crash into Mars, or be torn apart into a ring.",
-      "visual": {
-        "type": "card",
-        "big": "30–50 million",
-        "label": "years left",
-        "sub": "then a crash, or a ring"
-      }
-    },
-    {
-      "text": "Japan's MMX mission plans to land on Phobos and bring a piece of it back to Earth.",
-      "visual": {
-        "type": "image",
-        "query": "Phobos Viking orbiter",
-        "commons": "Phobos Viking orbiter"
-      },
-      "headline": "A sample is coming"
-    },
-    {
-      "text": "Tomorrow, we fly to the asteroid belt, to a giant asteroid with a mountain more than twice as tall as Everest. Follow, so you don't miss episode ninety-nine.",
-      "visual": {
-        "type": "end",
-        "query": "Vesta Dawn",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Vesta Dawn spacecraft",
-          "4 Vesta"
-        ]
-      }
-    }
-  ]
+ "number": 98,
+ "title": "Phobos",
+ "subtitle": "Phobos is falling.",
+ "next_stop": "Vesta",
+ "yt_title": "What If You Watched a Moon Fall Out of the Sky? 🌑 #shorts",
+ "description": "What If You Watched a Moon Fall Out of the Sky?\n\nEpisode 98 of a daily journey through the universe. 🌑\nWe orbit Phobos, the bigger moon of Mars: a 22 km potato that circles Mars three times a day, rises in the west, is spiraling inward about 2 meters every century, and will be torn apart or crash in about 30 to 50 million years.\n\n➡️ Tomorrow, Episode 99: Next stop, Vesta. A giant asteroid with a mountain twice as tall as Everest.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #phobos #astronomy #shorts #science #nasa",
+ "tags": [
+  "phobos",
+  "moons of mars",
+  "mars",
+  "phobos falling",
+  "stickney crater",
+  "mmx mission",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "One of Mars's moons is falling, and one day it will crash or shatter.",
+   "visual": {
+    "type": "title",
+    "query": "Phobos",
+    "wiki": "Phobos (moon)"
+   }
+  },
+  {
+   "text": "Mars has two tiny moons. The bigger one is Phobos, a lumpy rock only about twenty-two kilometers across.",
+   "visual": {
+    "type": "card",
+    "big": "22 km",
+    "label": "across",
+    "sub": "smaller than many cities"
+   }
+  },
+  {
+   "text": "It orbits just six thousand kilometers above the surface of Mars. Closer than any other moon to its planet.",
+   "visual": {
+    "type": "image",
+    "query": "Phobos Mars Reconnaissance Orbiter",
+    "commons": "Phobos Mars Reconnaissance Orbiter"
+   },
+   "headline": "Very close to Mars"
+  },
+  {
+   "text": "It's so fast that it circles Mars three times a day. From the ground, it rises in the west and sets in the east.",
+   "visual": {
+    "type": "card",
+    "big": "3",
+    "label": "laps a day",
+    "sub": "rises in the west"
+   }
+  },
+  {
+   "text": "One giant crater, Stickney, is almost half as wide as the whole moon. The impact nearly shattered it.",
+   "visual": {
+    "type": "image",
+    "query": "Stickney crater Phobos",
+    "commons": "Stickney crater Phobos"
+   },
+   "headline": "Stickney crater"
+  },
+  {
+   "text": "But here's the twist. Mars's gravity is slowly pulling Phobos inward, about two meters every century.",
+   "visual": {
+    "type": "image",
+    "query": "Phobos HiRISE",
+    "commons": "Phobos HiRISE"
+   },
+   "headline": "It's falling"
+  },
+  {
+   "text": "Those long grooves on its surface may be stretch marks, as Mars tugs on it.",
+   "visual": {
+    "type": "image",
+    "query": "Phobos grooves Mars Express",
+    "commons": "Phobos grooves Mars Express"
+   },
+   "headline": "Stretch marks?"
+  },
+  {
+   "text": "In about thirty to fifty million years, Phobos will crash into Mars, or be torn apart into a ring.",
+   "visual": {
+    "type": "card",
+    "big": "30–50 million",
+    "label": "years left",
+    "sub": "then a crash, or a ring"
+   }
+  },
+  {
+   "text": "Japan's MMX mission plans to land on Phobos and bring a piece of it back to Earth.",
+   "visual": {
+    "type": "image",
+    "query": "Phobos Viking orbiter",
+    "commons": "Phobos Viking orbiter"
+   },
+   "headline": "A sample is coming"
+  },
+  {
+   "text": "Tomorrow, we fly to the asteroid belt, to a giant asteroid with a mountain more than twice as tall as Everest. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Vesta Dawn",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Vesta Dawn spacecraft",
+     "4 Vesta"
+    ]
+   }
+  }
+ ]
 }

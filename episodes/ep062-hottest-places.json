@@ -1,122 +1,122 @@
 {
-  "number": 62,
-  "title": "The Hottest Places",
-  "subtitle": "Trillions of degrees",
-  "next_stop": "The Diamond Star",
-  "yt_title": "The Hottest Temperature Ever Made 🔥 | Ep. 62 #shorts",
-  "description": "Episode 62 of a daily journey through the universe. 🔥\nFrom the Sun's 15-million-degree core, to its mysterious million-degree corona, to gas in galaxy clusters at 100 million degrees, and the hottest temperature ever created: about 5 trillion degrees inside the Large Hadron Collider.\n\n➡️ Tomorrow, Episode 63: Next stop, the diamond star. A dead star with a core of crystal carbon.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #hottest #astronomy #shorts #science",
-  "tags": [
-    "hottest place in the universe",
-    "sun core",
-    "solar corona",
-    "large hadron collider",
-    "quark gluon plasma",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode sixty-two. Next stop... the hottest places in the universe.",
-      "visual": {
-        "type": "title",
-        "query": "Sun SDO",
-        "commons": "Sun SDO"
-      }
-    },
-    {
-      "text": "Yesterday we visited the coldest place. Today, let's turn up the heat.",
-      "visual": {
-        "type": "image",
-        "query": "solar flare SDO",
-        "commons": "solar flare SDO"
-      },
-      "headline": "Turn up the heat"
-    },
-    {
-      "text": "The surface of the Sun is about five thousand five hundred degrees Celsius.",
-      "visual": {
-        "type": "card",
-        "big": "5,500°C",
-        "label": "the Sun's surface"
-      }
-    },
-    {
-      "text": "Its core is about fifteen million degrees. Hot enough to fuse hydrogen into helium.",
-      "visual": {
-        "type": "card",
-        "big": "15 million°C",
-        "label": "the Sun's core"
-      }
-    },
-    {
-      "text": "Here's a mystery. The Sun's outer atmosphere, the corona, is over a million degrees. Hundreds of times hotter than the surface below it.",
-      "visual": {
-        "type": "image",
-        "query": "solar corona total eclipse",
-        "commons": "solar corona total eclipse"
-      },
-      "headline": "The corona mystery"
-    },
-    {
-      "text": "Even hotter: the gas between galaxies in giant galaxy clusters, at around a hundred million degrees. It glows in X-rays.",
-      "visual": {
-        "type": "image",
-        "query": "galaxy cluster Chandra X-ray",
-        "commons": "galaxy cluster Chandra X-ray"
-      },
-      "headline": "100 million degrees"
-    },
-    {
-      "text": "Exploding stars, supernovas, reach billions of degrees in their cores as they collapse.",
-      "visual": {
-        "type": "image",
-        "query": "supernova remnant Chandra",
-        "commons": "supernova remnant Chandra"
-      },
-      "headline": "Billions of degrees"
-    },
-    {
-      "text": "But the hottest temperature ever measured was made on Earth. At the Large Hadron Collider, near Geneva.",
-      "visual": {
-        "type": "image",
-        "query": "Large Hadron Collider tunnel",
-        "commons": "Large Hadron Collider tunnel"
-      },
-      "headline": "The Large Hadron Collider"
-    },
-    {
-      "text": "Smashing lead atoms together created a tiny soup of particles at about five trillion degrees.",
-      "visual": {
-        "type": "card",
-        "big": "5 trillion°C",
-        "label": "made on Earth"
-      }
-    },
-    {
-      "text": "For a tiny moment, it recreated conditions from the first millionths of a second after the Big Bang.",
-      "visual": {
-        "type": "image",
-        "query": "cosmic microwave background Planck",
-        "commons": "cosmic microwave background Planck"
-      },
-      "headline": "Like the Big Bang"
-    },
-    {
-      "text": "Tomorrow, a dead star with a heart of diamond. Next stop: the diamond star. Follow, so you don't miss episode sixty-three.",
-      "visual": {
-        "type": "end",
-        "query": "white dwarf artist impression",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "white dwarf artist impression"
-        ]
-      }
-    }
-  ]
+ "number": 62,
+ "title": "The Hottest Places",
+ "subtitle": "Trillions of degrees.",
+ "next_stop": "The Diamond Star",
+ "yt_title": "Could You Survive the Hottest Temperature Ever Made? 🔥 #shorts",
+ "description": "Could You Survive the Hottest Temperature Ever Made?\n\nEpisode 62 of a daily journey through the universe. 🔥\nFrom the Sun's 15-million-degree core, to its mysterious million-degree corona, to gas in galaxy clusters at 100 million degrees, and the hottest temperature ever created: about 5 trillion degrees inside the Large Hadron Collider.\n\n➡️ Tomorrow, Episode 63: Next stop, the diamond star. A dead star with a core of crystal carbon.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #hottest #astronomy #shorts #science",
+ "tags": [
+  "hottest place in the universe",
+  "sun core",
+  "solar corona",
+  "large hadron collider",
+  "quark gluon plasma",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What's the hottest temperature ever? Humans made it, here on Earth.",
+   "visual": {
+    "type": "title",
+    "query": "Sun SDO",
+    "commons": "Sun SDO"
+   }
+  },
+  {
+   "text": "Yesterday we visited the coldest place. Today, let's turn up the heat.",
+   "visual": {
+    "type": "image",
+    "query": "solar flare SDO",
+    "commons": "solar flare SDO"
+   },
+   "headline": "Turn up the heat"
+  },
+  {
+   "text": "The surface of the Sun is about five thousand five hundred degrees Celsius.",
+   "visual": {
+    "type": "card",
+    "big": "5,500°C",
+    "label": "the Sun's surface"
+   }
+  },
+  {
+   "text": "Its core is about fifteen million degrees. Hot enough to fuse hydrogen into helium.",
+   "visual": {
+    "type": "card",
+    "big": "15 million°C",
+    "label": "the Sun's core"
+   }
+  },
+  {
+   "text": "Here's a mystery. The Sun's outer atmosphere, the corona, is over a million degrees. Hundreds of times hotter than the surface below it.",
+   "visual": {
+    "type": "image",
+    "query": "solar corona total eclipse",
+    "commons": "solar corona total eclipse"
+   },
+   "headline": "The corona mystery"
+  },
+  {
+   "text": "Even hotter: the gas between galaxies in giant galaxy clusters, at around a hundred million degrees. It glows in X-rays.",
+   "visual": {
+    "type": "image",
+    "query": "galaxy cluster Chandra X-ray",
+    "commons": "galaxy cluster Chandra X-ray"
+   },
+   "headline": "100 million degrees"
+  },
+  {
+   "text": "Exploding stars, supernovas, reach billions of degrees in their cores as they collapse.",
+   "visual": {
+    "type": "image",
+    "query": "supernova remnant Chandra",
+    "commons": "supernova remnant Chandra"
+   },
+   "headline": "Billions of degrees"
+  },
+  {
+   "text": "But the hottest temperature ever measured was made on Earth. At the Large Hadron Collider, near Geneva.",
+   "visual": {
+    "type": "image",
+    "query": "Large Hadron Collider tunnel",
+    "commons": "Large Hadron Collider tunnel"
+   },
+   "headline": "The Large Hadron Collider"
+  },
+  {
+   "text": "Smashing lead atoms together created a tiny soup of particles at about five trillion degrees.",
+   "visual": {
+    "type": "card",
+    "big": "5 trillion°C",
+    "label": "made on Earth"
+   }
+  },
+  {
+   "text": "For a tiny moment, it recreated conditions from the first millionths of a second after the Big Bang.",
+   "visual": {
+    "type": "image",
+    "query": "cosmic microwave background Planck",
+    "commons": "cosmic microwave background Planck"
+   },
+   "headline": "Like the Big Bang"
+  },
+  {
+   "text": "Tomorrow, a dead star with a heart of diamond. Next stop: the diamond star. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "white dwarf artist impression",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "white dwarf artist impression"
+    ]
+   }
+  }
+ ]
 }

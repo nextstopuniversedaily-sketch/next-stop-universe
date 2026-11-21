@@ -1,116 +1,116 @@
 {
-  "number": 84,
-  "title": "Arrokoth",
-  "subtitle": "The most distant world explored",
-  "next_stop": "The Golden Record",
-  "yt_title": "The Farthest World Ever Explored ⛄ | Ep. 84 #shorts",
-  "description": "Episode 84 of a daily journey through the universe. ⛄\nArrokoth: on January 1, 2019, NASA's New Horizons flew past this 36-km Kuiper Belt object, the most distant object ever explored up close. Two lobes that gently touched 4.5 billion years ago: a time capsule from the birth of the planets.\n\n➡️ Tomorrow, Episode 85: Next stop, the Golden Record. A message to aliens, flying between the stars.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #arrokoth #astronomy #shorts #science",
-  "tags": [
-    "arrokoth",
-    "new horizons",
-    "kuiper belt",
-    "ultima thule",
-    "most distant object explored",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode eighty-four. Next stop... Arrokoth.",
-      "visual": {
-        "type": "title",
-        "query": "486958 Arrokoth",
-        "wiki": "486958 Arrokoth"
-      }
-    },
-    {
-      "text": "In twenty fifteen, NASA's New Horizons spacecraft flew past Pluto. But its journey wasn't over.",
-      "visual": {
-        "type": "image",
-        "query": "Pluto New Horizons",
-        "commons": "Pluto New Horizons"
-      },
-      "headline": "After Pluto"
-    },
-    {
-      "text": "It kept going, deeper into the Kuiper belt, toward a small icy world no one had ever seen up close.",
-      "visual": {
-        "type": "image",
-        "query": "Kuiper belt illustration",
-        "commons": "Kuiper belt illustration"
-      },
-      "headline": "Deeper into the dark"
-    },
-    {
-      "text": "On January first, twenty nineteen, it flew past Arrokoth, the most distant object ever explored up close.",
-      "visual": {
-        "type": "card",
-        "big": "Jan 1, 2019",
-        "label": "the flyby"
-      }
-    },
-    {
-      "text": "It's about thirty-six kilometers long and looks like a flattened snowman: two lobes stuck together.",
-      "visual": {
-        "type": "image",
-        "query": "486958 Arrokoth",
-        "wiki": "486958 Arrokoth"
-      },
-      "headline": "A cosmic snowman"
-    },
-    {
-      "text": "The two pieces didn't crash. They drifted together gently, at walking speed, and stuck.",
-      "visual": {
-        "type": "image",
-        "query": "Arrokoth New Horizons color",
-        "commons": "Arrokoth New Horizons color"
-      },
-      "headline": "A gentle touch"
-    },
-    {
-      "text": "It's red, coated with organic compounds cooked by billions of years of faint sunlight and cosmic rays.",
-      "visual": {
-        "type": "image",
-        "query": "Arrokoth New Horizons",
-        "commons": "Arrokoth New Horizons"
-      },
-      "headline": "Red and frozen"
-    },
-    {
-      "text": "It has barely changed since the planets formed, about four and a half billion years ago.",
-      "visual": {
-        "type": "card",
-        "big": "4.5 billion",
-        "label": "years untouched"
-      }
-    },
-    {
-      "text": "Arrokoth means sky in the Powhatan language. It's a frozen time capsule from the birth of our solar system.",
-      "visual": {
-        "type": "image",
-        "query": "New Horizons spacecraft",
-        "commons": "New Horizons spacecraft"
-      },
-      "headline": "A time capsule"
-    },
-    {
-      "text": "Tomorrow, a golden record carrying Earth's sounds and music to the stars. Next stop: the Golden Record. Follow, so you don't miss episode eighty-five.",
-      "visual": {
-        "type": "end",
-        "query": "Voyager Golden Record",
-        "warm": true,
-        "wiki": [
-          "Voyager Golden Record"
-        ],
-        "commons": [
-          "Voyager Golden Record"
-        ]
-      }
-    }
-  ]
+ "number": 84,
+ "title": "Arrokoth",
+ "subtitle": "A cosmic snowman.",
+ "next_stop": "The Golden Record",
+ "yt_title": "What's the Farthest World You Could Ever Visit? ⛄ #shorts",
+ "description": "What's the Farthest World You Could Ever Visit?\n\nEpisode 84 of a daily journey through the universe. ⛄\nArrokoth: on January 1, 2019, NASA's New Horizons flew past this 36-km Kuiper Belt object, the most distant object ever explored up close. Two lobes that gently touched 4.5 billion years ago: a time capsule from the birth of the planets.\n\n➡️ Tomorrow, Episode 85: Next stop, the Golden Record. A message to aliens, flying between the stars.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #arrokoth #astronomy #shorts #science",
+ "tags": [
+  "arrokoth",
+  "new horizons",
+  "kuiper belt",
+  "ultima thule",
+  "most distant object explored",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What does the farthest world ever explored look like? A snowman.",
+   "visual": {
+    "type": "title",
+    "query": "486958 Arrokoth",
+    "wiki": "486958 Arrokoth"
+   }
+  },
+  {
+   "text": "In twenty fifteen, NASA's New Horizons spacecraft flew past Pluto. But its journey wasn't over.",
+   "visual": {
+    "type": "image",
+    "query": "Pluto New Horizons",
+    "commons": "Pluto New Horizons"
+   },
+   "headline": "After Pluto"
+  },
+  {
+   "text": "It kept going, deeper into the Kuiper belt, toward a small icy world no one had ever seen up close.",
+   "visual": {
+    "type": "image",
+    "query": "Kuiper belt illustration",
+    "commons": "Kuiper belt illustration"
+   },
+   "headline": "Deeper into the dark"
+  },
+  {
+   "text": "On January first, twenty nineteen, it flew past Arrokoth, the most distant object ever explored up close.",
+   "visual": {
+    "type": "card",
+    "big": "Jan 1, 2019",
+    "label": "the flyby"
+   }
+  },
+  {
+   "text": "It's about thirty-six kilometers long and looks like a flattened snowman: two lobes stuck together.",
+   "visual": {
+    "type": "image",
+    "query": "486958 Arrokoth",
+    "wiki": "486958 Arrokoth"
+   },
+   "headline": "A cosmic snowman"
+  },
+  {
+   "text": "The two pieces didn't crash. They drifted together gently, at walking speed, and stuck.",
+   "visual": {
+    "type": "image",
+    "query": "Arrokoth New Horizons color",
+    "commons": "Arrokoth New Horizons color"
+   },
+   "headline": "A gentle touch"
+  },
+  {
+   "text": "It's red, coated with organic compounds cooked by billions of years of faint sunlight and cosmic rays.",
+   "visual": {
+    "type": "image",
+    "query": "Arrokoth New Horizons",
+    "commons": "Arrokoth New Horizons"
+   },
+   "headline": "Red and frozen"
+  },
+  {
+   "text": "It has barely changed since the planets formed, about four and a half billion years ago.",
+   "visual": {
+    "type": "card",
+    "big": "4.5 billion",
+    "label": "years untouched"
+   }
+  },
+  {
+   "text": "Arrokoth means sky in the Powhatan language. It's a frozen time capsule from the birth of our solar system.",
+   "visual": {
+    "type": "image",
+    "query": "New Horizons spacecraft",
+    "commons": "New Horizons spacecraft"
+   },
+   "headline": "A time capsule"
+  },
+  {
+   "text": "Tomorrow, a golden record carrying Earth's sounds and music to the stars. Next stop: the Golden Record. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Voyager Golden Record",
+    "warm": true,
+    "wiki": [
+     "Voyager Golden Record"
+    ],
+    "commons": [
+     "Voyager Golden Record"
+    ]
+   }
+  }
+ ]
 }

@@ -1,123 +1,123 @@
 {
-  "number": 100,
-  "title": "Kepler-452b",
-  "subtitle": "Episode 100",
-  "next_stop": "Super-Earths",
-  "yt_title": "Earth's Older Cousin? Kepler-452b 🌍 | Ep. 100 #shorts",
-  "description": "Episode 100 of a daily journey through the universe. 🌍\nEpisode 100! We visit Kepler-452b: about 1,400 light-years away, around 1.6 times wider than Earth, a 385-day year around a Sun-like star, nicknamed Earth's older cousin, and why some astronomers now doubt it's even there.\n\n➡️ Tomorrow, Episode 101: Next stop, super-Earths. The most common planets we've found, and we don't have one.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #kepler452b #astronomy #shorts #science #nasa",
-  "tags": [
-    "kepler-452b",
-    "earth 2.0",
-    "exoplanet",
-    "kepler space telescope",
-    "habitable zone",
-    "earth like planet",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred! Thank you for traveling with us. Next stop... Kepler-452b.",
-      "visual": {
-        "type": "title",
-        "query": "Kepler-452b artist concept",
-        "commons": "Kepler-452b artist concept"
-      }
-    },
-    {
-      "text": "In twenty fifteen, NASA announced a planet nicknamed Earth's older cousin.",
-      "visual": {
-        "type": "image",
-        "query": "Kepler-452b artist concept",
-        "commons": "Kepler-452b artist concept"
-      },
-      "headline": "Earth's older cousin"
-    },
-    {
-      "text": "It orbits a star a lot like our Sun, about one thousand four hundred light-years away.",
-      "visual": {
-        "type": "card",
-        "big": "1,400",
-        "label": "light-years away",
-        "sub": "around a Sun-like star"
-      }
-    },
-    {
-      "text": "Its year lasts three hundred and eighty-five days. Almost the same as ours.",
-      "visual": {
-        "type": "card",
-        "big": "385 days",
-        "label": "one year",
-        "sub": "just 20 days longer"
-      }
-    },
-    {
-      "text": "And it sits in the habitable zone, where water could be liquid.",
-      "visual": {
-        "type": "image",
-        "query": "habitable zone Kepler-452b comparison Earth",
-        "commons": "habitable zone Kepler-452b comparison Earth"
-      },
-      "headline": "In the Goldilocks zone"
-    },
-    {
-      "text": "But it's about one point six times wider than Earth. It might be rocky, or wrapped in thick gas.",
-      "visual": {
-        "type": "image",
-        "query": "Kepler space telescope",
-        "wiki": "Kepler space telescope"
-      },
-      "headline": "Found by Kepler"
-    },
-    {
-      "text": "Its star is about one and a half billion years older than the Sun. A preview of Earth's future?",
-      "visual": {
-        "type": "image",
-        "query": "Sun-like star artist",
-        "commons": "Sun-like star artist"
-      },
-      "headline": "An older Sun"
-    },
-    {
-      "text": "Here's the twist. In twenty eighteen, astronomers rechecked the data, and the signal was so faint that the planet might not exist at all.",
-      "visual": {
-        "type": "image",
-        "query": "Kepler field of view Milky Way",
-        "commons": [
-          "Cygnus constellation Milky Way",
-          "Milky Way Cygnus"
-        ]
-      },
-      "headline": "Does it exist?"
-    },
-    {
-      "text": "NASA still lists it, marked as controversial. Science means checking, even your biggest discoveries.",
-      "visual": {
-        "type": "image",
-        "query": "Kepler-452 system artist concept",
-        "commons": [
-          "Milky Way over mountains"
-        ]
-      },
-      "headline": "Still a mystery"
-    },
-    {
-      "text": "Tomorrow, the most common kind of planet in the galaxy. Our solar system doesn't have one. Follow, so you don't miss episode one hundred and one.",
-      "visual": {
-        "type": "end",
-        "query": "super-Earth artist",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Super-Earth artist impression",
-          "55 Cancri e artist"
-        ]
-      }
-    }
-  ]
+ "number": 100,
+ "title": "Kepler-452b",
+ "subtitle": "Kepler-452b.",
+ "next_stop": "Super-Earths",
+ "yt_title": "Could You Live on Earth's Older Cousin? 🌍 #shorts",
+ "description": "Could You Live on Earth's Older Cousin?\n\nEpisode 100 of a daily journey through the universe. 🌍\nEpisode 100! We visit Kepler-452b: about 1,400 light-years away, around 1.6 times wider than Earth, a 385-day year around a Sun-like star, nicknamed Earth's older cousin, and why some astronomers now doubt it's even there.\n\n➡️ Tomorrow, Episode 101: Next stop, super-Earths. The most common planets we've found, and we don't have one.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #kepler452b #astronomy #shorts #science #nasa",
+ "tags": [
+  "kepler-452b",
+  "earth 2.0",
+  "exoplanet",
+  "kepler space telescope",
+  "habitable zone",
+  "earth like planet",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Episode one hundred! Could you live on a planet called Earth's older cousin?",
+   "visual": {
+    "type": "title",
+    "query": "Kepler-452b artist concept",
+    "commons": "Kepler-452b artist concept"
+   }
+  },
+  {
+   "text": "In twenty fifteen, NASA announced a planet nicknamed Earth's older cousin.",
+   "visual": {
+    "type": "image",
+    "query": "Kepler-452b artist concept",
+    "commons": "Kepler-452b artist concept"
+   },
+   "headline": "Earth's older cousin"
+  },
+  {
+   "text": "It orbits a star a lot like our Sun, about one thousand four hundred light-years away.",
+   "visual": {
+    "type": "card",
+    "big": "1,400",
+    "label": "light-years away",
+    "sub": "around a Sun-like star"
+   }
+  },
+  {
+   "text": "Its year lasts three hundred and eighty-five days. Almost the same as ours.",
+   "visual": {
+    "type": "card",
+    "big": "385 days",
+    "label": "one year",
+    "sub": "just 20 days longer"
+   }
+  },
+  {
+   "text": "And it sits in the habitable zone, where water could be liquid.",
+   "visual": {
+    "type": "image",
+    "query": "habitable zone Kepler-452b comparison Earth",
+    "commons": "habitable zone Kepler-452b comparison Earth"
+   },
+   "headline": "In the Goldilocks zone"
+  },
+  {
+   "text": "But it's about one point six times wider than Earth. It might be rocky, or wrapped in thick gas.",
+   "visual": {
+    "type": "image",
+    "query": "Kepler space telescope",
+    "wiki": "Kepler space telescope"
+   },
+   "headline": "Found by Kepler"
+  },
+  {
+   "text": "Its star is about one and a half billion years older than the Sun. A preview of Earth's future?",
+   "visual": {
+    "type": "image",
+    "query": "Sun-like star artist",
+    "commons": "Sun-like star artist"
+   },
+   "headline": "An older Sun"
+  },
+  {
+   "text": "Here's the twist. In twenty eighteen, astronomers rechecked the data, and the signal was so faint that the planet might not exist at all.",
+   "visual": {
+    "type": "image",
+    "query": "Kepler field of view Milky Way",
+    "commons": [
+     "Cygnus constellation Milky Way",
+     "Milky Way Cygnus"
+    ]
+   },
+   "headline": "Does it exist?"
+  },
+  {
+   "text": "NASA still lists it, marked as controversial. Science means checking, even your biggest discoveries.",
+   "visual": {
+    "type": "image",
+    "query": "Kepler-452 system artist concept",
+    "commons": [
+     "Milky Way over mountains"
+    ]
+   },
+   "headline": "Still a mystery"
+  },
+  {
+   "text": "Tomorrow, the most common kind of planet in the galaxy. Our solar system doesn't have one. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "super-Earth artist",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Super-Earth artist impression",
+     "55 Cancri e artist"
+    ]
+   }
+  }
+ ]
 }

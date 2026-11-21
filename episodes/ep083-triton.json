@@ -1,116 +1,116 @@
 {
-  "number": 83,
-  "title": "Triton",
-  "subtitle": "The backward moon",
-  "next_stop": "Arrokoth",
-  "yt_title": "Neptune's Moon Orbits Backward 🔄 | Ep. 83 #shorts",
-  "description": "Episode 83 of a daily journey through the universe. 🔄\nTriton, Neptune's largest moon: it orbits backward, was probably captured from the Kuiper Belt, and Voyager 2 saw nitrogen geysers there in 1989. Surface around minus 235°C. One day Neptune may tear it apart into rings.\n\n➡️ Tomorrow, Episode 84: Next stop, Arrokoth. The most distant world ever explored up close.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #triton #astronomy #shorts #science",
-  "tags": [
-    "triton",
-    "neptune moon",
-    "voyager 2",
-    "geysers",
-    "kuiper belt",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode eighty-three. Next stop... Triton.",
-      "visual": {
-        "type": "title",
-        "query": "Triton (moon)",
-        "wiki": "Triton (moon)"
-      }
-    },
-    {
-      "text": "Triton is Neptune's biggest moon. And it's a rebel.",
-      "visual": {
-        "type": "image",
-        "query": "Neptune Voyager 2",
-        "commons": "Neptune Voyager 2"
-      },
-      "headline": "Neptune's rebel moon"
-    },
-    {
-      "text": "Almost all big moons orbit in the same direction their planet spins. Triton goes the opposite way. Backward.",
-      "visual": {
-        "type": "image",
-        "query": "Triton Neptune Voyager",
-        "commons": "Triton Neptune Voyager"
-      },
-      "headline": "It orbits backward"
-    },
-    {
-      "text": "That suggests it wasn't born there. It was probably a small world from the Kuiper belt, captured by Neptune's gravity.",
-      "visual": {
-        "type": "image",
-        "query": "Kuiper belt object artist impression",
-        "commons": "Kuiper belt object artist impression"
-      },
-      "headline": "A captured world"
-    },
-    {
-      "text": "Its surface is one of the coldest ever measured: about minus two hundred thirty-five degrees Celsius.",
-      "visual": {
-        "type": "card",
-        "big": "-235°C",
-        "label": "on the surface"
-      }
-    },
-    {
-      "text": "In nineteen eighty-nine, Voyager two flew past and saw something amazing: dark plumes shooting kilometers high. Geysers on an icy moon.",
-      "visual": {
-        "type": "image",
-        "query": "Triton geysers Voyager",
-        "commons": "Triton geysers Voyager"
-      },
-      "headline": "Ice geysers"
-    },
-    {
-      "text": "Its surface has a strange pattern, called cantaloupe terrain because it looks like melon skin.",
-      "visual": {
-        "type": "image",
-        "query": "Triton surface Voyager",
-        "commons": "Triton surface Voyager"
-      },
-      "headline": "Cantaloupe terrain"
-    },
-    {
-      "text": "Triton is slowly spiraling inward. In billions of years, Neptune's gravity may rip it apart.",
-      "visual": {
-        "type": "image",
-        "query": "Neptune rings Voyager",
-        "commons": "Neptune rings Voyager"
-      },
-      "headline": "Spiraling inward"
-    },
-    {
-      "text": "Its pieces could form a ring around Neptune, maybe even grander than Saturn's.",
-      "visual": {
-        "type": "card",
-        "big": "a new ring",
-        "label": "for Neptune?"
-      }
-    },
-    {
-      "text": "Tomorrow, the most distant world ever explored up close: a cosmic snowman. Next stop: Arrokoth. Follow, so you don't miss episode eighty-four.",
-      "visual": {
-        "type": "end",
-        "query": "Arrokoth New Horizons",
-        "warm": false,
-        "wiki": [
-          "486958 Arrokoth"
-        ],
-        "commons": [
-          "Arrokoth New Horizons"
-        ]
-      }
-    }
-  ]
+ "number": 83,
+ "title": "Triton",
+ "subtitle": "A rebel moon.",
+ "next_stop": "Arrokoth",
+ "yt_title": "Why Does Neptune's Moon Orbit Backward? 🔄 #shorts",
+ "description": "Why Does Neptune's Moon Orbit Backward?\n\nEpisode 83 of a daily journey through the universe. 🔄\nTriton, Neptune's largest moon: it orbits backward, was probably captured from the Kuiper Belt, and Voyager 2 saw nitrogen geysers there in 1989. Surface around minus 235°C. One day Neptune may tear it apart into rings.\n\n➡️ Tomorrow, Episode 84: Next stop, Arrokoth. The most distant world ever explored up close.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #triton #astronomy #shorts #science",
+ "tags": [
+  "triton",
+  "neptune moon",
+  "voyager 2",
+  "geysers",
+  "kuiper belt",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Why does one moon go around its planet the wrong way? Triton is a rebel.",
+   "visual": {
+    "type": "title",
+    "query": "Triton (moon)",
+    "wiki": "Triton (moon)"
+   }
+  },
+  {
+   "text": "Triton is Neptune's biggest moon. And it's a rebel.",
+   "visual": {
+    "type": "image",
+    "query": "Neptune Voyager 2",
+    "commons": "Neptune Voyager 2"
+   },
+   "headline": "Neptune's rebel moon"
+  },
+  {
+   "text": "Almost all big moons orbit in the same direction their planet spins. Triton goes the opposite way. Backward.",
+   "visual": {
+    "type": "image",
+    "query": "Triton Neptune Voyager",
+    "commons": "Triton Neptune Voyager"
+   },
+   "headline": "It orbits backward"
+  },
+  {
+   "text": "That suggests it wasn't born there. It was probably a small world from the Kuiper belt, captured by Neptune's gravity.",
+   "visual": {
+    "type": "image",
+    "query": "Kuiper belt object artist impression",
+    "commons": "Kuiper belt object artist impression"
+   },
+   "headline": "A captured world"
+  },
+  {
+   "text": "Its surface is one of the coldest ever measured: about minus two hundred thirty-five degrees Celsius.",
+   "visual": {
+    "type": "card",
+    "big": "-235°C",
+    "label": "on the surface"
+   }
+  },
+  {
+   "text": "In nineteen eighty-nine, Voyager two flew past and saw something amazing: dark plumes shooting kilometers high. Geysers on an icy moon.",
+   "visual": {
+    "type": "image",
+    "query": "Triton geysers Voyager",
+    "commons": "Triton geysers Voyager"
+   },
+   "headline": "Ice geysers"
+  },
+  {
+   "text": "Its surface has a strange pattern, called cantaloupe terrain because it looks like melon skin.",
+   "visual": {
+    "type": "image",
+    "query": "Triton surface Voyager",
+    "commons": "Triton surface Voyager"
+   },
+   "headline": "Cantaloupe terrain"
+  },
+  {
+   "text": "Triton is slowly spiraling inward. In billions of years, Neptune's gravity may rip it apart.",
+   "visual": {
+    "type": "image",
+    "query": "Neptune rings Voyager",
+    "commons": "Neptune rings Voyager"
+   },
+   "headline": "Spiraling inward"
+  },
+  {
+   "text": "Its pieces could form a ring around Neptune, maybe even grander than Saturn's.",
+   "visual": {
+    "type": "card",
+    "big": "a new ring",
+    "label": "for Neptune?"
+   }
+  },
+  {
+   "text": "Tomorrow, the most distant world ever explored up close: a cosmic snowman. Next stop: Arrokoth. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Arrokoth New Horizons",
+    "warm": false,
+    "wiki": [
+     "486958 Arrokoth"
+    ],
+    "commons": [
+     "Arrokoth New Horizons"
+    ]
+   }
+  }
+ ]
 }

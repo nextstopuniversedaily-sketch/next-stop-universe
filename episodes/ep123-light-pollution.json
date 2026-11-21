@@ -1,119 +1,119 @@
 {
-  "number": 123,
-  "title": "Losing the Night",
-  "subtitle": "Light pollution",
-  "next_stop": "Astronaut Life",
-  "yt_title": "Most People Can't See the Milky Way Anymore 🌃 | Ep. 123 #shorts",
-  "description": "Episode 123 of a daily journey through the universe. 🌃\nWe look at light pollution: about a third of humanity can't see the Milky Way, the night sky brightening year after year, more than 10,000 satellites now in orbit (most of them Starlink), streaks in telescope images, and easy ways to help bring back dark skies.\n\n➡️ Tomorrow, Episode 124: Next stop, astronaut life. How do you sleep, eat and go to the bathroom in space?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #darksky #astronomy #shorts #science #nasa",
-  "tags": [
-    "light pollution",
-    "dark sky",
-    "starlink",
-    "satellites",
-    "milky way",
-    "night sky",
-    "stargazing",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and twenty-three. Next stop... losing the night.",
-      "visual": {
-        "type": "title",
-        "query": "city lights at night from space",
-        "commons": "city lights at night from space"
-      }
-    },
-    {
-      "text": "For all of human history, people looked up and saw the Milky Way. Today, about a third of humanity can't.",
-      "visual": {
-        "type": "card",
-        "big": "1 in 3",
-        "label": "people",
-        "sub": "can't see the Milky Way"
-      }
-    },
-    {
-      "text": "Street lights, buildings and billboards send light up into the sky, where it glows and hides the stars.",
-      "visual": {
-        "type": "image",
-        "query": "Earth at night",
-        "wiki": "Light pollution"
-      },
-      "headline": "Light going up"
-    },
-    {
-      "text": "Studies using citizen scientists suggest the night sky is getting brighter by about ten percent a year.",
-      "visual": {
-        "type": "card",
-        "big": "~10%",
-        "label": "brighter every year",
-        "sub": "citizen science"
-      }
-    },
-    {
-      "text": "And there's a new problem. More than ten thousand satellites now orbit Earth. Most of them belong to Starlink.",
-      "visual": {
-        "type": "card",
-        "big": "10,000+",
-        "label": "satellites",
-        "sub": "most of them Starlink"
-      }
-    },
-    {
-      "text": "They reflect sunlight and leave streaks across telescope images, and their radio signals can disturb radio telescopes.",
-      "visual": {
-        "type": "image",
-        "query": "satellite streaks telescope image",
-        "wiki": "Starlink"
-      },
-      "headline": "Streaks across the sky"
-    },
-    {
-      "text": "Darkness matters for nature too. Baby sea turtles, birds and insects get confused by artificial light.",
-      "visual": {
-        "type": "image",
-        "query": "sea turtle hatchling",
-        "commons": "sea turtle hatchling"
-      },
-      "headline": "Animals need the dark"
-    },
-    {
-      "text": "The good news: light pollution is easy to fix. Point lights downward, use warmer colors, and turn off what you don't need.",
-      "visual": {
-        "type": "image",
-        "query": "dark sky Milky Way desert",
-        "commons": "dark sky Milky Way desert"
-      },
-      "headline": "Easy to fix"
-    },
-    {
-      "text": "Dark sky parks around the world protect the night. Visit one, and you'll never forget it.",
-      "visual": {
-        "type": "image",
-        "query": "Milky Way over mountains",
-        "commons": "Milky Way over mountains"
-      },
-      "headline": "Visit a dark sky park"
-    },
-    {
-      "text": "Tomorrow, we go up to the space station. How do astronauts sleep, eat, and go to the bathroom? Follow, so you don't miss episode one hundred and twenty-four.",
-      "visual": {
-        "type": "end",
-        "query": "astronaut sleeping space station",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "astronaut sleeping International Space Station",
-          "astronauts eating space station"
-        ]
-      }
-    }
-  ]
+ "number": 123,
+ "title": "Losing the Night",
+ "subtitle": "Losing the night.",
+ "next_stop": "Astronaut Life",
+ "yt_title": "Why Can't You See the Milky Way Anymore? 🌃 #shorts",
+ "description": "Why Can't You See the Milky Way Anymore?\n\nEpisode 123 of a daily journey through the universe. 🌃\nWe look at light pollution: about a third of humanity can't see the Milky Way, the night sky brightening year after year, more than 10,000 satellites now in orbit (most of them Starlink), streaks in telescope images, and easy ways to help bring back dark skies.\n\n➡️ Tomorrow, Episode 124: Next stop, astronaut life. How do you sleep, eat and go to the bathroom in space?\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #darksky #astronomy #shorts #science #nasa",
+ "tags": [
+  "light pollution",
+  "dark sky",
+  "starlink",
+  "satellites",
+  "milky way",
+  "night sky",
+  "stargazing",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Have you ever seen the Milky Way? Most people alive today never have. Here's why.",
+   "visual": {
+    "type": "title",
+    "query": "city lights at night from space",
+    "commons": "city lights at night from space"
+   }
+  },
+  {
+   "text": "For all of human history, people looked up and saw the Milky Way. Today, about a third of humanity can't.",
+   "visual": {
+    "type": "card",
+    "big": "1 in 3",
+    "label": "people",
+    "sub": "can't see the Milky Way"
+   }
+  },
+  {
+   "text": "Street lights, buildings and billboards send light up into the sky, where it glows and hides the stars.",
+   "visual": {
+    "type": "image",
+    "query": "Earth at night",
+    "wiki": "Light pollution"
+   },
+   "headline": "Light going up"
+  },
+  {
+   "text": "Studies using citizen scientists suggest the night sky is getting brighter by about ten percent a year.",
+   "visual": {
+    "type": "card",
+    "big": "~10%",
+    "label": "brighter every year",
+    "sub": "citizen science"
+   }
+  },
+  {
+   "text": "And there's a new problem. More than ten thousand satellites now orbit Earth. Most of them belong to Starlink.",
+   "visual": {
+    "type": "card",
+    "big": "10,000+",
+    "label": "satellites",
+    "sub": "most of them Starlink"
+   }
+  },
+  {
+   "text": "They reflect sunlight and leave streaks across telescope images, and their radio signals can disturb radio telescopes.",
+   "visual": {
+    "type": "image",
+    "query": "satellite streaks telescope image",
+    "wiki": "Starlink"
+   },
+   "headline": "Streaks across the sky"
+  },
+  {
+   "text": "Darkness matters for nature too. Baby sea turtles, birds and insects get confused by artificial light.",
+   "visual": {
+    "type": "image",
+    "query": "sea turtle hatchling",
+    "commons": "sea turtle hatchling"
+   },
+   "headline": "Animals need the dark"
+  },
+  {
+   "text": "The good news: light pollution is easy to fix. Point lights downward, use warmer colors, and turn off what you don't need.",
+   "visual": {
+    "type": "image",
+    "query": "dark sky Milky Way desert",
+    "commons": "dark sky Milky Way desert"
+   },
+   "headline": "Easy to fix"
+  },
+  {
+   "text": "Dark sky parks around the world protect the night. Visit one, and you'll never forget it.",
+   "visual": {
+    "type": "image",
+    "query": "Milky Way over mountains",
+    "commons": "Milky Way over mountains"
+   },
+   "headline": "Visit a dark sky park"
+  },
+  {
+   "text": "Tomorrow, we go up to the space station. How do astronauts sleep, eat, and go to the bathroom? Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "astronaut sleeping space station",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "astronaut sleeping International Space Station",
+     "astronauts eating space station"
+    ]
+   }
+  }
+ ]
 }

@@ -1,116 +1,116 @@
 {
-  "number": 82,
-  "title": "Saturn's Vanishing Rings",
-  "subtitle": "They're raining away",
-  "next_stop": "Triton",
-  "yt_title": "Saturn's Rings Are Disappearing 💍 | Ep. 82 #shorts",
-  "description": "Episode 82 of a daily journey through the universe. 💍\nSaturn's rings: hundreds of thousands of kilometers wide but often only about 10 meters thick, made almost entirely of water ice. Pieces are 'raining' into Saturn, and the rings could be largely gone in a few hundred million years.\n\n➡️ Tomorrow, Episode 83: Next stop, Triton. Neptune's backward moon with ice volcanoes.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #saturnrings #astronomy #shorts #science",
-  "tags": [
-    "saturn rings",
-    "ring rain",
-    "saturn",
-    "cassini",
-    "ring plane crossing",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode eighty-two. Next stop... Saturn's vanishing rings.",
-      "visual": {
-        "type": "title",
-        "query": "Saturn",
-        "wiki": "Saturn"
-      }
-    },
-    {
-      "text": "Saturn's rings are one of the most beautiful sights in the solar system.",
-      "visual": {
-        "type": "image",
-        "query": "Saturn Cassini rings",
-        "commons": "Saturn Cassini rings"
-      },
-      "headline": "Saturn's rings"
-    },
-    {
-      "text": "They stretch hundreds of thousands of kilometers across, but in most places they're only about ten meters thick.",
-      "visual": {
-        "type": "card",
-        "big": "~10 m",
-        "label": "thick"
-      }
-    },
-    {
-      "text": "They're made almost entirely of water ice, from tiny grains to chunks as big as houses.",
-      "visual": {
-        "type": "image",
-        "query": "Saturn rings close-up Cassini",
-        "commons": "Saturn rings close-up Cassini"
-      },
-      "headline": "Made of ice"
-    },
-    {
-      "text": "But they won't last forever. Saturn's gravity and magnetic field are pulling ring material down into the planet.",
-      "visual": {
-        "type": "image",
-        "query": "Saturn Hubble",
-        "commons": "Saturn Hubble"
-      },
-      "headline": "Raining into Saturn"
-    },
-    {
-      "text": "Scientists call it ring rain. Enough ice to fill an Olympic swimming pool falls into Saturn about every half hour.",
-      "visual": {
-        "type": "image",
-        "query": "Saturn Cassini",
-        "commons": "Saturn Cassini"
-      },
-      "headline": "Ring rain"
-    },
-    {
-      "text": "At that rate, the rings could be largely gone in a few hundred million years.",
-      "visual": {
-        "type": "card",
-        "big": "100s of millions",
-        "label": "of years left"
-      }
-    },
-    {
-      "text": "Some scientists think the rings are young, maybe younger than the dinosaurs. Others think they're as old as Saturn. The debate continues.",
-      "visual": {
-        "type": "image",
-        "query": "Saturn rings Cassini backlit",
-        "commons": "Saturn rings Cassini backlit"
-      },
-      "headline": "Young or old?"
-    },
-    {
-      "text": "And every fifteen years or so, the rings seem to vanish from Earth's view, when we see them exactly edge-on. That happened in twenty twenty-five.",
-      "visual": {
-        "type": "image",
-        "query": "Saturn rings edge-on Hubble",
-        "commons": "Saturn rings edge-on Hubble"
-      },
-      "headline": "Edge-on, they vanish"
-    },
-    {
-      "text": "Tomorrow, a moon that orbits the wrong way and erupts ice. Next stop: Triton. Follow, so you don't miss episode eighty-three.",
-      "visual": {
-        "type": "end",
-        "query": "Triton Voyager 2",
-        "warm": false,
-        "wiki": [
-          "Triton (moon)"
-        ],
-        "commons": [
-          "Triton Voyager 2"
-        ]
-      }
-    }
-  ]
+ "number": 82,
+ "title": "Saturn's Vanishing Rings",
+ "subtitle": "They're disappearing.",
+ "next_stop": "Triton",
+ "yt_title": "What If Saturn Lost Its Rings? 💍 #shorts",
+ "description": "What If Saturn Lost Its Rings?\n\nEpisode 82 of a daily journey through the universe. 💍\nSaturn's rings: hundreds of thousands of kilometers wide but often only about 10 meters thick, made almost entirely of water ice. Pieces are 'raining' into Saturn, and the rings could be largely gone in a few hundred million years.\n\n➡️ Tomorrow, Episode 83: Next stop, Triton. Neptune's backward moon with ice volcanoes.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #saturnrings #astronomy #shorts #science",
+ "tags": [
+  "saturn rings",
+  "ring rain",
+  "saturn",
+  "cassini",
+  "ring plane crossing",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Saturn's rings are disappearing. Will you still see them in your lifetime?",
+   "visual": {
+    "type": "title",
+    "query": "Saturn",
+    "wiki": "Saturn"
+   }
+  },
+  {
+   "text": "Saturn's rings are one of the most beautiful sights in the solar system.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn Cassini rings",
+    "commons": "Saturn Cassini rings"
+   },
+   "headline": "Saturn's rings"
+  },
+  {
+   "text": "They stretch hundreds of thousands of kilometers across, but in most places they're only about ten meters thick.",
+   "visual": {
+    "type": "card",
+    "big": "~10 m",
+    "label": "thick"
+   }
+  },
+  {
+   "text": "They're made almost entirely of water ice, from tiny grains to chunks as big as houses.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn rings close-up Cassini",
+    "commons": "Saturn rings close-up Cassini"
+   },
+   "headline": "Made of ice"
+  },
+  {
+   "text": "But they won't last forever. Saturn's gravity and magnetic field are pulling ring material down into the planet.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn Hubble",
+    "commons": "Saturn Hubble"
+   },
+   "headline": "Raining into Saturn"
+  },
+  {
+   "text": "Scientists call it ring rain. Enough ice to fill an Olympic swimming pool falls into Saturn about every half hour.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn Cassini",
+    "commons": "Saturn Cassini"
+   },
+   "headline": "Ring rain"
+  },
+  {
+   "text": "At that rate, the rings could be largely gone in a few hundred million years.",
+   "visual": {
+    "type": "card",
+    "big": "100s of millions",
+    "label": "of years left"
+   }
+  },
+  {
+   "text": "Some scientists think the rings are young, maybe younger than the dinosaurs. Others think they're as old as Saturn. The debate continues.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn rings Cassini backlit",
+    "commons": "Saturn rings Cassini backlit"
+   },
+   "headline": "Young or old?"
+  },
+  {
+   "text": "And every fifteen years or so, the rings seem to vanish from Earth's view, when we see them exactly edge-on. That happened in twenty twenty-five.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn rings edge-on Hubble",
+    "commons": "Saturn rings edge-on Hubble"
+   },
+   "headline": "Edge-on, they vanish"
+  },
+  {
+   "text": "Tomorrow, a moon that orbits the wrong way and erupts ice. Next stop: Triton. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Triton Voyager 2",
+    "warm": false,
+    "wiki": [
+     "Triton (moon)"
+    ],
+    "commons": [
+     "Triton Voyager 2"
+    ]
+   }
+  }
+ ]
 }

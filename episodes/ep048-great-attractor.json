@@ -1,116 +1,116 @@
 {
-  "number": 48,
-  "title": "The Great Attractor",
-  "subtitle": "Something is pulling us",
-  "next_stop": "Titan",
-  "yt_title": "Something Is Pulling Our Galaxy 🌀 | Ep. 48 #shorts",
-  "description": "Episode 48 of a daily journey through the universe. 🌀\nThe Great Attractor: the Milky Way and its neighbors are being pulled toward a hidden region of space behind our own galaxy's disk. In 2014 astronomers mapped our home supercluster, Laniakea, Hawaiian for 'immeasurable heaven'.\n\n➡️ Tomorrow, Episode 49: Next stop, Titan. A moon with rain, rivers and lakes, but not of water.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #greatattractor #astronomy #shorts #science",
-  "tags": [
-    "great attractor",
-    "laniakea",
-    "supercluster",
-    "milky way",
-    "zone of avoidance",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode forty-eight. Next stop... the Great Attractor.",
-      "visual": {
-        "type": "title",
-        "query": "Laniakea supercluster",
-        "commons": "Laniakea supercluster"
-      }
-    },
-    {
-      "text": "You're sitting still, right? Not really. Earth spins, it orbits the Sun, and the Sun orbits the center of the Milky Way.",
-      "visual": {
-        "type": "image",
-        "query": "Earth from ISS horizon",
-        "commons": "Earth from ISS horizon"
-      },
-      "headline": "You're not sitting still"
-    },
-    {
-      "text": "And our whole galaxy, with its neighbors, is flying through space at about six hundred kilometers per second.",
-      "visual": {
-        "type": "card",
-        "big": "600 km/s",
-        "label": "our galaxy's speed"
-      }
-    },
-    {
-      "text": "In the nineteen eighties, astronomers noticed thousands of galaxies, ours included, are drifting toward one region of space. They called it the Great Attractor.",
-      "visual": {
-        "type": "image",
-        "query": "galaxy cluster Hubble",
-        "commons": "galaxy cluster Hubble"
-      },
-      "headline": "The Great Attractor"
-    },
-    {
-      "text": "The problem? It's hidden behind our own galaxy. The dust and stars of the Milky Way block our view. Astronomers call it the zone of avoidance.",
-      "visual": {
-        "type": "image",
-        "query": "Milky Way dust lanes panorama",
-        "commons": "Milky Way dust lanes panorama"
-      },
-      "headline": "Hidden behind the Milky Way"
-    },
-    {
-      "text": "Using X-rays and radio waves, which pass through dust, they found huge clusters of galaxies there, including the Norma cluster.",
-      "visual": {
-        "type": "image",
-        "query": "Norma Cluster",
-        "commons": "Norma Cluster"
-      },
-      "headline": "Seeing through the dust"
-    },
-    {
-      "text": "In twenty fourteen, scientists mapped how thousands of galaxies move and drew the borders of our cosmic home: a supercluster named Laniakea.",
-      "visual": {
-        "type": "image",
-        "query": "Laniakea Supercluster",
-        "wiki": "Laniakea Supercluster"
-      },
-      "headline": "Home: Laniakea"
-    },
-    {
-      "text": "Laniakea means immeasurable heaven in Hawaiian. It's about five hundred twenty million light-years across, with around a hundred thousand galaxies.",
-      "visual": {
-        "type": "card",
-        "big": "100,000",
-        "label": "galaxies in our supercluster"
-      }
-    },
-    {
-      "text": "And even Laniakea is being tugged by something bigger, farther away. The pull goes on.",
-      "visual": {
-        "type": "image",
-        "query": "Shapley Supercluster",
-        "commons": "Shapley Supercluster"
-      },
-      "headline": "The pull goes on"
-    },
-    {
-      "text": "Tomorrow, a moon with rain, rivers and seas, but not of water. Next stop: Titan. Follow, so you don't miss episode forty-nine.",
-      "visual": {
-        "type": "end",
-        "query": "Titan Saturn moon Cassini",
-        "warm": false,
-        "wiki": [
-          "Titan (moon)"
-        ],
-        "commons": [
-          "Titan Saturn moon Cassini"
-        ]
-      }
-    }
-  ]
+ "number": 48,
+ "title": "The Great Attractor",
+ "subtitle": "You're not sitting still.",
+ "next_stop": "Titan",
+ "yt_title": "Why Is Something Pulling You Across Space Right Now? 🌀 #shorts",
+ "description": "Why Is Something Pulling You Across Space Right Now?\n\nEpisode 48 of a daily journey through the universe. 🌀\nThe Great Attractor: the Milky Way and its neighbors are being pulled toward a hidden region of space behind our own galaxy's disk. In 2014 astronomers mapped our home supercluster, Laniakea, Hawaiian for 'immeasurable heaven'.\n\n➡️ Tomorrow, Episode 49: Next stop, Titan. A moon with rain, rivers and lakes, but not of water.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #greatattractor #astronomy #shorts #science",
+ "tags": [
+  "great attractor",
+  "laniakea",
+  "supercluster",
+  "milky way",
+  "zone of avoidance",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Something huge is pulling you across space right now, and we can't see what it is.",
+   "visual": {
+    "type": "title",
+    "query": "Laniakea supercluster",
+    "commons": "Laniakea supercluster"
+   }
+  },
+  {
+   "text": "You're sitting still, right? Not really. Earth spins, it orbits the Sun, and the Sun orbits the center of the Milky Way.",
+   "visual": {
+    "type": "image",
+    "query": "Earth from ISS horizon",
+    "commons": "Earth from ISS horizon"
+   },
+   "headline": "You're not sitting still"
+  },
+  {
+   "text": "And our whole galaxy, with its neighbors, is flying through space at about six hundred kilometers per second.",
+   "visual": {
+    "type": "card",
+    "big": "600 km/s",
+    "label": "our galaxy's speed"
+   }
+  },
+  {
+   "text": "In the nineteen eighties, astronomers noticed thousands of galaxies, ours included, are drifting toward one region of space. They called it the Great Attractor.",
+   "visual": {
+    "type": "image",
+    "query": "galaxy cluster Hubble",
+    "commons": "galaxy cluster Hubble"
+   },
+   "headline": "The Great Attractor"
+  },
+  {
+   "text": "The problem? It's hidden behind our own galaxy. The dust and stars of the Milky Way block our view. Astronomers call it the zone of avoidance.",
+   "visual": {
+    "type": "image",
+    "query": "Milky Way dust lanes panorama",
+    "commons": "Milky Way dust lanes panorama"
+   },
+   "headline": "Hidden behind the Milky Way"
+  },
+  {
+   "text": "Using X-rays and radio waves, which pass through dust, they found huge clusters of galaxies there, including the Norma cluster.",
+   "visual": {
+    "type": "image",
+    "query": "Norma Cluster",
+    "commons": "Norma Cluster"
+   },
+   "headline": "Seeing through the dust"
+  },
+  {
+   "text": "In twenty fourteen, scientists mapped how thousands of galaxies move and drew the borders of our cosmic home: a supercluster named Laniakea.",
+   "visual": {
+    "type": "image",
+    "query": "Laniakea Supercluster",
+    "wiki": "Laniakea Supercluster"
+   },
+   "headline": "Home: Laniakea"
+  },
+  {
+   "text": "Laniakea means immeasurable heaven in Hawaiian. It's about five hundred twenty million light-years across, with around a hundred thousand galaxies.",
+   "visual": {
+    "type": "card",
+    "big": "100,000",
+    "label": "galaxies in our supercluster"
+   }
+  },
+  {
+   "text": "And even Laniakea is being tugged by something bigger, farther away. The pull goes on.",
+   "visual": {
+    "type": "image",
+    "query": "Shapley Supercluster",
+    "commons": "Shapley Supercluster"
+   },
+   "headline": "The pull goes on"
+  },
+  {
+   "text": "Tomorrow, a moon with rain, rivers and seas, but not of water. Next stop: Titan. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Titan Saturn moon Cassini",
+    "warm": false,
+    "wiki": [
+     "Titan (moon)"
+    ],
+    "commons": [
+     "Titan Saturn moon Cassini"
+    ]
+   }
+  }
+ ]
 }

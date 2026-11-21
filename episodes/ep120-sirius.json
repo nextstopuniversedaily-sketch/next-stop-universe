@@ -1,119 +1,119 @@
 {
-  "number": 120,
-  "title": "Sirius",
-  "subtitle": "The brightest star",
-  "next_stop": "Orion's Belt",
-  "yt_title": "The Brightest Star in the Night Sky ✨ | Ep. 120 #shorts",
-  "description": "Episode 120 of a daily journey through the universe. ✨\nWe visit Sirius, the brightest star in the night sky at magnitude −1.46: just 8.6 light-years away, about 25 times brighter than the Sun, the Dog Star, why it twinkles in colors, and Sirius B, a white dwarf first seen in 1862.\n\n➡️ Tomorrow, Episode 121: Next stop, Orion's Belt. Three stars everyone knows.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #sirius #astronomy #shorts #science #nasa",
-  "tags": [
-    "sirius",
-    "dog star",
-    "brightest star",
-    "white dwarf",
-    "sirius b",
-    "night sky",
-    "winter stars",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and twenty. Next stop... Sirius.",
-      "visual": {
-        "type": "title",
-        "query": "Sirius",
-        "wiki": "Sirius"
-      }
-    },
-    {
-      "text": "After the planets and the Moon, Sirius is the brightest thing in the night sky.",
-      "visual": {
-        "type": "image",
-        "query": "Sirius star",
-        "commons": "Sirius star"
-      },
-      "headline": "The brightest star"
-    },
-    {
-      "text": "It shines at magnitude minus one point four six.",
-      "visual": {
-        "type": "card",
-        "big": "−1.46",
-        "label": "magnitude",
-        "sub": "brightest star at night"
-      }
-    },
-    {
-      "text": "Part of the reason: it's close. Only about eight point six light-years away. One of our nearest neighbors.",
-      "visual": {
-        "type": "card",
-        "big": "8.6",
-        "label": "light-years away",
-        "sub": "a close neighbor"
-      }
-    },
-    {
-      "text": "It's also about twenty-five times brighter than our Sun.",
-      "visual": {
-        "type": "image",
-        "query": "Sirius A and B Hubble",
-        "commons": "Sirius A and B Hubble"
-      },
-      "headline": "25 times the Sun"
-    },
-    {
-      "text": "It's called the Dog Star, because it's the brightest star in the constellation Canis Major, the Big Dog.",
-      "visual": {
-        "type": "image",
-        "query": "Canis Major constellation",
-        "commons": "Canis Major constellation"
-      },
-      "headline": "The Dog Star"
-    },
-    {
-      "text": "When it's low in the sky, Sirius twinkles in flashing colors. That's Earth's air bending its light.",
-      "visual": {
-        "type": "image",
-        "query": "Sirius twinkling",
-        "wiki": "Sirius"
-      },
-      "headline": "Flashing colors"
-    },
-    {
-      "text": "And it has a secret. A tiny companion, Sirius B, first spotted in eighteen sixty-two.",
-      "visual": {
-        "type": "image",
-        "query": "Sirius B white dwarf artist",
-        "commons": "Sirius B white dwarf artist"
-      },
-      "headline": "A hidden companion"
-    },
-    {
-      "text": "Sirius B is a white dwarf. As heavy as the Sun, but squeezed down to about the size of Earth.",
-      "visual": {
-        "type": "card",
-        "big": "Sun's mass",
-        "label": "in an Earth-sized star",
-        "sub": "Sirius B"
-      }
-    },
-    {
-      "text": "To find Sirius, follow the three stars of Orion's Belt down and to the left. Tomorrow, we go to those three stars. Follow, so you don't miss episode one hundred and twenty-one.",
-      "visual": {
-        "type": "end",
-        "query": "Orion's Belt",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Orion's Belt",
-          "Orion constellation"
-        ]
-      }
-    }
-  ]
+ "number": 120,
+ "title": "Sirius",
+ "subtitle": "Sirius.",
+ "next_stop": "Orion's Belt",
+ "yt_title": "Can You Find the Brightest Star in the Night Sky? ✨ #shorts",
+ "description": "Can You Find the Brightest Star in the Night Sky?\n\nEpisode 120 of a daily journey through the universe. ✨\nWe visit Sirius, the brightest star in the night sky at magnitude −1.46: just 8.6 light-years away, about 25 times brighter than the Sun, the Dog Star, why it twinkles in colors, and Sirius B, a white dwarf first seen in 1862.\n\n➡️ Tomorrow, Episode 121: Next stop, Orion's Belt. Three stars everyone knows.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #sirius #astronomy #shorts #science #nasa",
+ "tags": [
+  "sirius",
+  "dog star",
+  "brightest star",
+  "white dwarf",
+  "sirius b",
+  "night sky",
+  "winter stars",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Can you find the brightest star in the night sky? It hides a tiny secret.",
+   "visual": {
+    "type": "title",
+    "query": "Sirius",
+    "wiki": "Sirius"
+   }
+  },
+  {
+   "text": "After the planets and the Moon, Sirius is the brightest thing in the night sky.",
+   "visual": {
+    "type": "image",
+    "query": "Sirius star",
+    "commons": "Sirius star"
+   },
+   "headline": "The brightest star"
+  },
+  {
+   "text": "It shines at magnitude minus one point four six.",
+   "visual": {
+    "type": "card",
+    "big": "−1.46",
+    "label": "magnitude",
+    "sub": "brightest star at night"
+   }
+  },
+  {
+   "text": "Part of the reason: it's close. Only about eight point six light-years away. One of our nearest neighbors.",
+   "visual": {
+    "type": "card",
+    "big": "8.6",
+    "label": "light-years away",
+    "sub": "a close neighbor"
+   }
+  },
+  {
+   "text": "It's also about twenty-five times brighter than our Sun.",
+   "visual": {
+    "type": "image",
+    "query": "Sirius A and B Hubble",
+    "commons": "Sirius A and B Hubble"
+   },
+   "headline": "25 times the Sun"
+  },
+  {
+   "text": "It's called the Dog Star, because it's the brightest star in the constellation Canis Major, the Big Dog.",
+   "visual": {
+    "type": "image",
+    "query": "Canis Major constellation",
+    "commons": "Canis Major constellation"
+   },
+   "headline": "The Dog Star"
+  },
+  {
+   "text": "When it's low in the sky, Sirius twinkles in flashing colors. That's Earth's air bending its light.",
+   "visual": {
+    "type": "image",
+    "query": "Sirius twinkling",
+    "wiki": "Sirius"
+   },
+   "headline": "Flashing colors"
+  },
+  {
+   "text": "And it has a secret. A tiny companion, Sirius B, first spotted in eighteen sixty-two.",
+   "visual": {
+    "type": "image",
+    "query": "Sirius B white dwarf artist",
+    "commons": "Sirius B white dwarf artist"
+   },
+   "headline": "A hidden companion"
+  },
+  {
+   "text": "Sirius B is a white dwarf. As heavy as the Sun, but squeezed down to about the size of Earth.",
+   "visual": {
+    "type": "card",
+    "big": "Sun's mass",
+    "label": "in an Earth-sized star",
+    "sub": "Sirius B"
+   }
+  },
+  {
+   "text": "To find Sirius, follow the three stars of Orion's Belt down and to the left. Tomorrow, we go to those three stars. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Orion's Belt",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Orion's Belt",
+     "Orion constellation"
+    ]
+   }
+  }
+ ]
 }

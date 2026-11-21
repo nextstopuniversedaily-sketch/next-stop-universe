@@ -1,120 +1,120 @@
 {
-  "number": 91,
-  "title": "Jupiter's Biggest Night",
-  "subtitle": "Season 6 begins",
-  "next_stop": "The Great Red Spot",
-  "yt_title": "Jupiter's Biggest Night of the Year 🪐 | Ep. 91 #shorts",
-  "description": "Episode 91 of a daily journey through the universe. 🪐\nSeason 6 begins with Jupiter at opposition on February 10 to 11, 2027: the king of planets shines at magnitude −2.6 in the constellation Leo, rises at sunset and stays up all night. How to find it, and how to see four of its moons with simple binoculars.\n\n➡️ Tomorrow, Episode 92: Next stop, the Great Red Spot. A storm bigger than our whole planet.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #jupiter #astronomy #shorts #science",
-  "tags": [
-    "jupiter opposition 2027",
-    "jupiter",
-    "jupiter tonight",
-    "see jupiter",
-    "galilean moons",
-    "stargazing",
-    "night sky",
-    "leo constellation",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode ninety-one. Season six begins. Next stop... Jupiter's biggest night of the year.",
-      "visual": {
-        "type": "title",
-        "query": "Jupiter",
-        "wiki": "Jupiter"
-      }
-    },
-    {
-      "text": "On February tenth and eleventh, Jupiter reaches opposition. Earth passes right between Jupiter and the Sun.",
-      "visual": {
-        "type": "image",
-        "query": "Jupiter Hubble 2019",
-        "commons": "Jupiter Hubble 2019"
-      },
-      "headline": "Earth in the middle"
-    },
-    {
-      "text": "That means Jupiter rises as the Sun sets, and shines all night long.",
-      "visual": {
-        "type": "image",
-        "query": "Jupiter bright planet night sky photograph",
-        "commons": "Jupiter bright planet night sky photograph"
-      },
-      "headline": "Up all night"
-    },
-    {
-      "text": "It will be brighter than any star in the sky, at magnitude minus two point six.",
-      "visual": {
-        "type": "card",
-        "big": "−2.6",
-        "label": "magnitude",
-        "sub": "brighter than any star"
-      }
-    },
-    {
-      "text": "Look east after sunset, in the constellation Leo. That bright, steady light that doesn't twinkle? That's Jupiter. And just a week later, Mars joins it in Leo.",
-      "visual": {
-        "type": "image",
-        "query": "Leo constellation night sky",
-        "commons": "Leo constellation night sky"
-      },
-      "headline": "Look east, in Leo"
-    },
-    {
-      "text": "Even at its closest, Jupiter is about six hundred and fifty million kilometers away. Its light takes thirty-six minutes to reach your eyes.",
-      "visual": {
-        "type": "card",
-        "big": "650 million km",
-        "label": "from Earth",
-        "sub": "light takes 36 minutes"
-      }
-    },
-    {
-      "text": "Now grab binoculars and hold them steady. You'll see up to four tiny dots lined up beside it.",
-      "visual": {
-        "type": "image",
-        "query": "Jupiter Galilean moons photograph telescope",
-        "commons": "Jupiter Galilean moons photograph telescope"
-      },
-      "headline": "Grab binoculars"
-    },
-    {
-      "text": "Those are Io, Europa, Ganymede and Callisto. The same moons Galileo saw in sixteen ten, the discovery that proved not everything circles the Earth.",
-      "visual": {
-        "type": "image",
-        "query": "Galilean moons Jupiter montage",
-        "commons": "Galilean moons Jupiter montage"
-      },
-      "headline": "Galileo's moons"
-    },
-    {
-      "text": "Watch over a few nights, and they change places as they orbit.",
-      "visual": {
-        "type": "image",
-        "query": "Jupiter moon shadow transit Hubble",
-        "commons": "Jupiter moon shadow transit Hubble"
-      },
-      "headline": "They move every night"
-    },
-    {
-      "text": "But with a small telescope, you might spot something else. A dark red eye on Jupiter's face. A storm bigger than Earth. Follow, so you don't miss episode ninety-two.",
-      "visual": {
-        "type": "end",
-        "query": "Great Red Spot Juno",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Jupiter Great Red Spot Juno",
-          "Great Red Spot Voyager"
-        ]
-      }
-    }
-  ]
+ "number": 91,
+ "title": "Jupiter's Biggest Night",
+ "subtitle": "Jupiter's biggest night.",
+ "next_stop": "The Great Red Spot",
+ "yt_title": "Can You See Jupiter's Moons Tonight? 🪐 #shorts",
+ "description": "Can You See Jupiter's Moons Tonight?\n\nEpisode 91 of a daily journey through the universe. 🪐\nSeason 6 begins with Jupiter at opposition on February 10 to 11, 2027: the king of planets shines at magnitude −2.6 in the constellation Leo, rises at sunset and stays up all night. How to find it, and how to see four of its moons with simple binoculars.\n\n➡️ Tomorrow, Episode 92: Next stop, the Great Red Spot. A storm bigger than our whole planet.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #jupiter #astronomy #shorts #science",
+ "tags": [
+  "jupiter opposition 2027",
+  "jupiter",
+  "jupiter tonight",
+  "see jupiter",
+  "galilean moons",
+  "stargazing",
+  "night sky",
+  "leo constellation",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Tonight, you can see Jupiter's moons with just binoculars. Here's how.",
+   "visual": {
+    "type": "title",
+    "query": "Jupiter",
+    "wiki": "Jupiter"
+   }
+  },
+  {
+   "text": "On February tenth and eleventh, Jupiter reaches opposition. Earth passes right between Jupiter and the Sun.",
+   "visual": {
+    "type": "image",
+    "query": "Jupiter Hubble 2019",
+    "commons": "Jupiter Hubble 2019"
+   },
+   "headline": "Earth in the middle"
+  },
+  {
+   "text": "That means Jupiter rises as the Sun sets, and shines all night long.",
+   "visual": {
+    "type": "image",
+    "query": "Jupiter bright planet night sky photograph",
+    "commons": "Jupiter bright planet night sky photograph"
+   },
+   "headline": "Up all night"
+  },
+  {
+   "text": "It will be brighter than any star in the sky, at magnitude minus two point six.",
+   "visual": {
+    "type": "card",
+    "big": "−2.6",
+    "label": "magnitude",
+    "sub": "brighter than any star"
+   }
+  },
+  {
+   "text": "Look east after sunset, in the constellation Leo. That bright, steady light that doesn't twinkle? That's Jupiter. And just a week later, Mars joins it in Leo.",
+   "visual": {
+    "type": "image",
+    "query": "Leo constellation night sky",
+    "commons": "Leo constellation night sky"
+   },
+   "headline": "Look east, in Leo"
+  },
+  {
+   "text": "Even at its closest, Jupiter is about six hundred and fifty million kilometers away. Its light takes thirty-six minutes to reach your eyes.",
+   "visual": {
+    "type": "card",
+    "big": "650 million km",
+    "label": "from Earth",
+    "sub": "light takes 36 minutes"
+   }
+  },
+  {
+   "text": "Now grab binoculars and hold them steady. You'll see up to four tiny dots lined up beside it.",
+   "visual": {
+    "type": "image",
+    "query": "Jupiter Galilean moons photograph telescope",
+    "commons": "Jupiter Galilean moons photograph telescope"
+   },
+   "headline": "Grab binoculars"
+  },
+  {
+   "text": "Those are Io, Europa, Ganymede and Callisto. The same moons Galileo saw in sixteen ten, the discovery that proved not everything circles the Earth.",
+   "visual": {
+    "type": "image",
+    "query": "Galilean moons Jupiter montage",
+    "commons": "Galilean moons Jupiter montage"
+   },
+   "headline": "Galileo's moons"
+  },
+  {
+   "text": "Watch over a few nights, and they change places as they orbit.",
+   "visual": {
+    "type": "image",
+    "query": "Jupiter moon shadow transit Hubble",
+    "commons": "Jupiter moon shadow transit Hubble"
+   },
+   "headline": "They move every night"
+  },
+  {
+   "text": "But with a small telescope, you might spot something else. A dark red eye on Jupiter's face. A storm bigger than Earth. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Great Red Spot Juno",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Jupiter Great Red Spot Juno",
+     "Great Red Spot Voyager"
+    ]
+   }
+  }
+ ]
 }

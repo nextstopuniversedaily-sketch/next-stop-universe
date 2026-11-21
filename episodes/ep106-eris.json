@@ -1,121 +1,121 @@
 {
-  "number": 106,
-  "title": "Eris",
-  "subtitle": "The troublemaker",
-  "next_stop": "Haumea",
-  "yt_title": "The Dwarf Planet That Demoted Pluto 🪐 | Ep. 106 #shorts",
-  "description": "Episode 106 of a daily journey through the universe. 🪐\nWe travel to Eris: discovered in 2005, about 27% more massive than Pluto, about 2,326 km wide, now about 96 times farther from the Sun than Earth, a 559-year orbit, its moon Dysnomia, and how it started the 2006 vote that made Pluto a dwarf planet.\n\n➡️ Tomorrow, Episode 107: Next stop, Haumea. A dwarf planet shaped like an egg, with a ring.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #eris #astronomy #shorts #science #nasa",
-  "tags": [
-    "eris",
-    "dwarf planet",
-    "pluto",
-    "kuiper belt",
-    "mike brown",
-    "dysnomia",
-    "solar system",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and six. Next stop... Eris.",
-      "visual": {
-        "type": "title",
-        "query": "Eris",
-        "wiki": "Eris (dwarf planet)"
-      }
-    },
-    {
-      "text": "In January twenty oh five, astronomers found a world far beyond Pluto. At first, it looked even bigger than Pluto.",
-      "visual": {
-        "type": "image",
-        "query": "Eris dwarf planet Hubble",
-        "commons": "Eris dwarf planet Hubble"
-      },
-      "headline": "Bigger than Pluto?"
-    },
-    {
-      "text": "It's named Eris, after the Greek goddess of discord. And it lived up to its name.",
-      "visual": {
-        "type": "image",
-        "query": "Eris and Dysnomia",
-        "commons": [
-          "Kuiper belt object artist"
-        ]
-      },
-      "headline": "Goddess of discord"
-    },
-    {
-      "text": "If Eris wasn't a planet, then why was Pluto? In twenty oh six, astronomers voted on a new rule.",
-      "visual": {
-        "type": "image",
-        "query": "Pluto New Horizons",
-        "commons": "Pluto New Horizons"
-      },
-      "headline": "A big vote in 2006"
-    },
-    {
-      "text": "A planet must clear its own path around the Sun. Pluto and Eris don't. Both became dwarf planets.",
-      "visual": {
-        "type": "card",
-        "big": "2006",
-        "label": "Pluto demoted",
-        "sub": "Eris started it"
-      }
-    },
-    {
-      "text": "Eris is almost the same width as Pluto, about two thousand three hundred kilometers. But it's about twenty-seven percent heavier.",
-      "visual": {
-        "type": "card",
-        "big": "27%",
-        "label": "heavier than Pluto",
-        "sub": "but slightly smaller"
-      }
-    },
-    {
-      "text": "Right now it's about ninety-six times farther from the Sun than Earth. One orbit takes five hundred and fifty-nine years.",
-      "visual": {
-        "type": "card",
-        "big": "559 years",
-        "label": "one orbit",
-        "sub": "96 times farther than Earth"
-      }
-    },
-    {
-      "text": "It's so cold that its air may have frozen onto the ground as bright white frost.",
-      "visual": {
-        "type": "image",
-        "query": "Kuiper belt object artist",
-        "commons": "Kuiper belt object artist"
-      },
-      "headline": "Frozen air"
-    },
-    {
-      "text": "Its little moon, Dysnomia, helped scientists weigh it.",
-      "visual": {
-        "type": "image",
-        "query": "Eris and Dysnomia",
-        "wiki": "Dysnomia (moon)"
-      },
-      "headline": "Its moon Dysnomia"
-    },
-    {
-      "text": "Tomorrow, a dwarf planet that spins so fast it got stretched into an egg. And it has a ring. Follow, so you don't miss episode one hundred and seven.",
-      "visual": {
-        "type": "end",
-        "query": "Haumea artist",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Haumea artist concept",
-          "Haumea dwarf planet"
-        ]
-      }
-    }
-  ]
+ "number": 106,
+ "title": "Eris",
+ "subtitle": "Eris.",
+ "next_stop": "Haumea",
+ "yt_title": "How Did One Tiny World Kick Pluto Out? 🪐 #shorts",
+ "description": "How Did One Tiny World Kick Pluto Out?\n\nEpisode 106 of a daily journey through the universe. 🪐\nWe travel to Eris: discovered in 2005, about 27% more massive than Pluto, about 2,326 km wide, now about 96 times farther from the Sun than Earth, a 559-year orbit, its moon Dysnomia, and how it started the 2006 vote that made Pluto a dwarf planet.\n\n➡️ Tomorrow, Episode 107: Next stop, Haumea. A dwarf planet shaped like an egg, with a ring.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #eris #astronomy #shorts #science #nasa",
+ "tags": [
+  "eris",
+  "dwarf planet",
+  "pluto",
+  "kuiper belt",
+  "mike brown",
+  "dysnomia",
+  "solar system",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "How did one small, faraway world get Pluto kicked out of the planets?",
+   "visual": {
+    "type": "title",
+    "query": "Eris",
+    "wiki": "Eris (dwarf planet)"
+   }
+  },
+  {
+   "text": "In January twenty oh five, astronomers found a world far beyond Pluto. At first, it looked even bigger than Pluto.",
+   "visual": {
+    "type": "image",
+    "query": "Eris dwarf planet Hubble",
+    "commons": "Eris dwarf planet Hubble"
+   },
+   "headline": "Bigger than Pluto?"
+  },
+  {
+   "text": "It's named Eris, after the Greek goddess of discord. And it lived up to its name.",
+   "visual": {
+    "type": "image",
+    "query": "Eris and Dysnomia",
+    "commons": [
+     "Kuiper belt object artist"
+    ]
+   },
+   "headline": "Goddess of discord"
+  },
+  {
+   "text": "If Eris wasn't a planet, then why was Pluto? In twenty oh six, astronomers voted on a new rule.",
+   "visual": {
+    "type": "image",
+    "query": "Pluto New Horizons",
+    "commons": "Pluto New Horizons"
+   },
+   "headline": "A big vote in 2006"
+  },
+  {
+   "text": "A planet must clear its own path around the Sun. Pluto and Eris don't. Both became dwarf planets.",
+   "visual": {
+    "type": "card",
+    "big": "2006",
+    "label": "Pluto demoted",
+    "sub": "Eris started it"
+   }
+  },
+  {
+   "text": "Eris is almost the same width as Pluto, about two thousand three hundred kilometers. But it's about twenty-seven percent heavier.",
+   "visual": {
+    "type": "card",
+    "big": "27%",
+    "label": "heavier than Pluto",
+    "sub": "but slightly smaller"
+   }
+  },
+  {
+   "text": "Right now it's about ninety-six times farther from the Sun than Earth. One orbit takes five hundred and fifty-nine years.",
+   "visual": {
+    "type": "card",
+    "big": "559 years",
+    "label": "one orbit",
+    "sub": "96 times farther than Earth"
+   }
+  },
+  {
+   "text": "It's so cold that its air may have frozen onto the ground as bright white frost.",
+   "visual": {
+    "type": "image",
+    "query": "Kuiper belt object artist",
+    "commons": "Kuiper belt object artist"
+   },
+   "headline": "Frozen air"
+  },
+  {
+   "text": "Its little moon, Dysnomia, helped scientists weigh it.",
+   "visual": {
+    "type": "image",
+    "query": "Eris and Dysnomia",
+    "wiki": "Dysnomia (moon)"
+   },
+   "headline": "Its moon Dysnomia"
+  },
+  {
+   "text": "Tomorrow, a dwarf planet that spins so fast it got stretched into an egg. And it has a ring. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Haumea artist",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Haumea artist concept",
+     "Haumea dwarf planet"
+    ]
+   }
+  }
+ ]
 }

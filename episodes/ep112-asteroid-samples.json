@@ -1,120 +1,120 @@
 {
-  "number": 112,
-  "title": "Pieces of Asteroids",
-  "subtitle": "Bringing the sky home",
-  "next_stop": "Cosmic Inflation",
-  "yt_title": "What We Found Inside an Asteroid 🧪 | Ep. 112 #shorts",
-  "description": "Episode 112 of a daily journey through the universe. 🧪\nWe open asteroid samples: Japan's Hayabusa2 brought 5.4 g of Ryugu home in 2020, NASA's OSIRIS-REx returned 121.6 g of Bennu in 2023, with 14 of the 20 amino acids life uses, all 5 DNA and RNA bases, salty brine minerals and even sugars.\n\n➡️ Tomorrow, Episode 113: Next stop, cosmic inflation. The universe's first trillionth of a second.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #osirisrex #astronomy #shorts #science #nasa",
-  "tags": [
-    "osiris-rex",
-    "bennu",
-    "hayabusa2",
-    "ryugu",
-    "asteroid sample",
-    "origin of life",
-    "nasa",
-    "jaxa",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and twelve. Next stop... pieces of asteroids.",
-      "visual": {
-        "type": "title",
-        "query": "Bennu OSIRIS-REx",
-        "commons": "Bennu OSIRIS-REx"
-      }
-    },
-    {
-      "text": "Two spacecraft did something incredible. They touched asteroids, and brought pieces back to Earth.",
-      "visual": {
-        "type": "image",
-        "query": "Ryugu Hayabusa2",
-        "commons": "Ryugu Hayabusa2"
-      },
-      "headline": "Touch and go"
-    },
-    {
-      "text": "First, Japan's Hayabusa2 visited asteroid Ryugu. In twenty twenty, its capsule landed in Australia with about five grams of asteroid.",
-      "visual": {
-        "type": "card",
-        "big": "5.4 g",
-        "label": "of Ryugu",
-        "sub": "landed Dec 2020"
-      }
-    },
-    {
-      "text": "Then NASA's OSIRIS-REx grabbed rocks from asteroid Bennu. In twenty twenty-three, it dropped one hundred and twenty-one grams into the Utah desert.",
-      "visual": {
-        "type": "card",
-        "big": "121.6 g",
-        "label": "of Bennu",
-        "sub": "landed Sept 2023"
-      }
-    },
-    {
-      "text": "When OSIRIS-REx touched Bennu, the surface acted like a ball pit. The spacecraft sank in, and had to back away fast.",
-      "visual": {
-        "type": "image",
-        "query": "Bennu surface OSIRIS-REx",
-        "commons": "Bennu surface OSIRIS-REx"
-      },
-      "headline": "Like a ball pit"
-    },
-    {
-      "text": "Inside the Bennu sample, scientists found fourteen of the twenty amino acids life uses to build proteins.",
-      "visual": {
-        "type": "card",
-        "big": "14 of 20",
-        "label": "amino acids",
-        "sub": "building blocks of life"
-      }
-    },
-    {
-      "text": "Plus all five bases used in DNA and RNA, salts left by evaporated salty water, and even sugars.",
-      "visual": {
-        "type": "image",
-        "query": "OSIRIS-REx sample return capsule",
-        "commons": "OSIRIS-REx sample return capsule"
-      },
-      "headline": "DNA bases and sugars"
-    },
-    {
-      "text": "It doesn't mean there was life on Bennu. But the ingredients of life were floating in space before Earth existed.",
-      "visual": {
-        "type": "image",
-        "query": "asteroid Bennu OSIRIS-REx",
-        "commons": "asteroid Bennu OSIRIS-REx"
-      },
-      "headline": "Ingredients for life"
-    },
-    {
-      "text": "Hayabusa2 isn't done. It's on its way to a tiny, fast-spinning asteroid, arriving in twenty thirty-one.",
-      "visual": {
-        "type": "image",
-        "query": "Hayabusa2 spacecraft",
-        "wiki": "Hayabusa2"
-      },
-      "headline": "Hayabusa2 flies on"
-    },
-    {
-      "text": "Tomorrow, the craziest moment in history. In a tiny fraction of a second, the universe grew from smaller than an atom to the size of a grapefruit. Follow, so you don't miss episode one hundred and thirteen.",
-      "visual": {
-        "type": "end",
-        "query": "cosmic microwave background",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "cosmic microwave background Planck",
-          "WMAP cosmic microwave background"
-        ]
-      }
-    }
-  ]
+ "number": 112,
+ "title": "Pieces of Asteroids",
+ "subtitle": "Pieces brought home.",
+ "next_stop": "Cosmic Inflation",
+ "yt_title": "What Would You Find Inside an Asteroid? 🧪 #shorts",
+ "description": "What Would You Find Inside an Asteroid?\n\nEpisode 112 of a daily journey through the universe. 🧪\nWe open asteroid samples: Japan's Hayabusa2 brought 5.4 g of Ryugu home in 2020, NASA's OSIRIS-REx returned 121.6 g of Bennu in 2023, with 14 of the 20 amino acids life uses, all 5 DNA and RNA bases, salty brine minerals and even sugars.\n\n➡️ Tomorrow, Episode 113: Next stop, cosmic inflation. The universe's first trillionth of a second.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #osirisrex #astronomy #shorts #science #nasa",
+ "tags": [
+  "osiris-rex",
+  "bennu",
+  "hayabusa2",
+  "ryugu",
+  "asteroid sample",
+  "origin of life",
+  "nasa",
+  "jaxa",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What's inside an asteroid? Two spacecraft brought pieces home to find out.",
+   "visual": {
+    "type": "title",
+    "query": "Bennu OSIRIS-REx",
+    "commons": "Bennu OSIRIS-REx"
+   }
+  },
+  {
+   "text": "Two spacecraft did something incredible. They touched asteroids, and brought pieces back to Earth.",
+   "visual": {
+    "type": "image",
+    "query": "Ryugu Hayabusa2",
+    "commons": "Ryugu Hayabusa2"
+   },
+   "headline": "Touch and go"
+  },
+  {
+   "text": "First, Japan's Hayabusa2 visited asteroid Ryugu. In twenty twenty, its capsule landed in Australia with about five grams of asteroid.",
+   "visual": {
+    "type": "card",
+    "big": "5.4 g",
+    "label": "of Ryugu",
+    "sub": "landed Dec 2020"
+   }
+  },
+  {
+   "text": "Then NASA's OSIRIS-REx grabbed rocks from asteroid Bennu. In twenty twenty-three, it dropped one hundred and twenty-one grams into the Utah desert.",
+   "visual": {
+    "type": "card",
+    "big": "121.6 g",
+    "label": "of Bennu",
+    "sub": "landed Sept 2023"
+   }
+  },
+  {
+   "text": "When OSIRIS-REx touched Bennu, the surface acted like a ball pit. The spacecraft sank in, and had to back away fast.",
+   "visual": {
+    "type": "image",
+    "query": "Bennu surface OSIRIS-REx",
+    "commons": "Bennu surface OSIRIS-REx"
+   },
+   "headline": "Like a ball pit"
+  },
+  {
+   "text": "Inside the Bennu sample, scientists found fourteen of the twenty amino acids life uses to build proteins.",
+   "visual": {
+    "type": "card",
+    "big": "14 of 20",
+    "label": "amino acids",
+    "sub": "building blocks of life"
+   }
+  },
+  {
+   "text": "Plus all five bases used in DNA and RNA, salts left by evaporated salty water, and even sugars.",
+   "visual": {
+    "type": "image",
+    "query": "OSIRIS-REx sample return capsule",
+    "commons": "OSIRIS-REx sample return capsule"
+   },
+   "headline": "DNA bases and sugars"
+  },
+  {
+   "text": "It doesn't mean there was life on Bennu. But the ingredients of life were floating in space before Earth existed.",
+   "visual": {
+    "type": "image",
+    "query": "asteroid Bennu OSIRIS-REx",
+    "commons": "asteroid Bennu OSIRIS-REx"
+   },
+   "headline": "Ingredients for life"
+  },
+  {
+   "text": "Hayabusa2 isn't done. It's on its way to a tiny, fast-spinning asteroid, arriving in twenty thirty-one.",
+   "visual": {
+    "type": "image",
+    "query": "Hayabusa2 spacecraft",
+    "wiki": "Hayabusa2"
+   },
+   "headline": "Hayabusa2 flies on"
+  },
+  {
+   "text": "Tomorrow, the craziest moment in history. In a tiny fraction of a second, the universe grew from smaller than an atom to the size of a grapefruit. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "cosmic microwave background",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "cosmic microwave background Planck",
+     "WMAP cosmic microwave background"
+    ]
+   }
+  }
+ ]
 }

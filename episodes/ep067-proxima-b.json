@@ -1,114 +1,114 @@
 {
-  "number": 67,
-  "title": "Proxima b",
-  "subtitle": "Our nearest neighbor world",
-  "next_stop": "Breakthrough Starshot",
-  "yt_title": "The Closest Planet Outside Our Solar System 🔴 | Ep. 67 #shorts",
-  "description": "Episode 67 of a daily journey through the universe. 🔴\nProxima b orbits Proxima Centauri, the nearest star to the Sun at 4.2 light-years. It's at the right distance for liquid water, with an 11-day year, but its star throws powerful flares. Could anything live there?\n\n➡️ Tomorrow, Episode 68: Next stop, Breakthrough Starshot. A plan to send tiny spacecraft to another star.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #proximab #astronomy #shorts #science",
-  "tags": [
-    "proxima b",
-    "proxima centauri",
-    "nearest star",
-    "alpha centauri",
-    "exoplanet",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode sixty-seven. Next stop... Proxima b.",
-      "visual": {
-        "type": "title",
-        "query": "Proxima Centauri b artist impression",
-        "commons": "Proxima Centauri b artist impression"
-      }
-    },
-    {
-      "text": "The nearest star to the Sun is a small red dwarf called Proxima Centauri.",
-      "visual": {
-        "type": "image",
-        "query": "Proxima Centauri",
-        "wiki": "Proxima Centauri"
-      },
-      "headline": "Our nearest star"
-    },
-    {
-      "text": "It's four point two light-years away. About forty trillion kilometers.",
-      "visual": {
-        "type": "card",
-        "big": "4.2",
-        "label": "light-years away"
-      }
-    },
-    {
-      "text": "It's so faint you can't see it without a telescope, even though it's our closest neighbor.",
-      "visual": {
-        "type": "image",
-        "query": "Milky Way southern sky Alpha Centauri",
-        "commons": "Milky Way southern sky Alpha Centauri"
-      },
-      "headline": "Too faint to see"
-    },
-    {
-      "text": "In twenty sixteen, astronomers found a planet orbiting it, a bit heavier than Earth. They named it Proxima b.",
-      "visual": {
-        "type": "image",
-        "query": "Proxima b artist impression",
-        "commons": "Proxima b artist impression"
-      },
-      "headline": "Proxima b, 2016"
-    },
-    {
-      "text": "It circles its star every eleven days, at a distance where liquid water could exist on the surface.",
-      "visual": {
-        "type": "card",
-        "big": "11 days",
-        "label": "one year on Proxima b"
-      }
-    },
-    {
-      "text": "But there's a problem. Proxima Centauri throws violent flares, blasting the planet with radiation that could strip away its air.",
-      "visual": {
-        "type": "image",
-        "query": "red dwarf flare artist impression",
-        "commons": "red dwarf flare artist impression"
-      },
-      "headline": "Violent flares"
-    },
-    {
-      "text": "The planet is probably tidally locked: one side always faces the star, the other is in endless night.",
-      "visual": {
-        "type": "image",
-        "query": "tidally locked planet artist impression",
-        "commons": "tidally locked planet artist impression"
-      },
-      "headline": "Endless day, endless night"
-    },
-    {
-      "text": "Could life survive there? Maybe on the line between day and night. Or under the surface. We don't know yet.",
-      "visual": {
-        "type": "image",
-        "query": "exoplanet surface artist impression red sun",
-        "commons": "exoplanet surface artist impression red sun"
-      },
-      "headline": "Life? We don't know"
-    },
-    {
-      "text": "Tomorrow, a real plan to send spacecraft to Proxima within a human lifetime. Next stop: Breakthrough Starshot. Follow, so you don't miss episode sixty-eight.",
-      "visual": {
-        "type": "end",
-        "query": "solar sail artist impression",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "solar sail artist impression"
-        ]
-      }
-    }
-  ]
+ "number": 67,
+ "title": "Proxima b",
+ "subtitle": "Proxima b.",
+ "next_stop": "Breakthrough Starshot",
+ "yt_title": "Could You Live on the Closest Planet to Earth Outside Our Solar System? 🔴 #shorts",
+ "description": "Could You Live on the Closest Planet to Earth Outside Our Solar System?\n\nEpisode 67 of a daily journey through the universe. 🔴\nProxima b orbits Proxima Centauri, the nearest star to the Sun at 4.2 light-years. It's at the right distance for liquid water, with an 11-day year, but its star throws powerful flares. Could anything live there?\n\n➡️ Tomorrow, Episode 68: Next stop, Breakthrough Starshot. A plan to send tiny spacecraft to another star.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #proximab #astronomy #shorts #science",
+ "tags": [
+  "proxima b",
+  "proxima centauri",
+  "nearest star",
+  "alpha centauri",
+  "exoplanet",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "The closest planet outside our solar system is right next door. Could you live there?",
+   "visual": {
+    "type": "title",
+    "query": "Proxima Centauri b artist impression",
+    "commons": "Proxima Centauri b artist impression"
+   }
+  },
+  {
+   "text": "The nearest star to the Sun is a small red dwarf called Proxima Centauri.",
+   "visual": {
+    "type": "image",
+    "query": "Proxima Centauri",
+    "wiki": "Proxima Centauri"
+   },
+   "headline": "Our nearest star"
+  },
+  {
+   "text": "It's four point two light-years away. About forty trillion kilometers.",
+   "visual": {
+    "type": "card",
+    "big": "4.2",
+    "label": "light-years away"
+   }
+  },
+  {
+   "text": "It's so faint you can't see it without a telescope, even though it's our closest neighbor.",
+   "visual": {
+    "type": "image",
+    "query": "Milky Way southern sky Alpha Centauri",
+    "commons": "Milky Way southern sky Alpha Centauri"
+   },
+   "headline": "Too faint to see"
+  },
+  {
+   "text": "In twenty sixteen, astronomers found a planet orbiting it, a bit heavier than Earth. They named it Proxima b.",
+   "visual": {
+    "type": "image",
+    "query": "Proxima b artist impression",
+    "commons": "Proxima b artist impression"
+   },
+   "headline": "Proxima b, 2016"
+  },
+  {
+   "text": "It circles its star every eleven days, at a distance where liquid water could exist on the surface.",
+   "visual": {
+    "type": "card",
+    "big": "11 days",
+    "label": "one year on Proxima b"
+   }
+  },
+  {
+   "text": "But there's a problem. Proxima Centauri throws violent flares, blasting the planet with radiation that could strip away its air.",
+   "visual": {
+    "type": "image",
+    "query": "red dwarf flare artist impression",
+    "commons": "red dwarf flare artist impression"
+   },
+   "headline": "Violent flares"
+  },
+  {
+   "text": "The planet is probably tidally locked: one side always faces the star, the other is in endless night.",
+   "visual": {
+    "type": "image",
+    "query": "tidally locked planet artist impression",
+    "commons": "tidally locked planet artist impression"
+   },
+   "headline": "Endless day, endless night"
+  },
+  {
+   "text": "Could life survive there? Maybe on the line between day and night. Or under the surface. We don't know yet.",
+   "visual": {
+    "type": "image",
+    "query": "exoplanet surface artist impression red sun",
+    "commons": "exoplanet surface artist impression red sun"
+   },
+   "headline": "Life? We don't know"
+  },
+  {
+   "text": "Tomorrow, a real plan to send spacecraft to Proxima within a human lifetime. Next stop: Breakthrough Starshot. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "solar sail artist impression",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "solar sail artist impression"
+    ]
+   }
+  }
+ ]
 }

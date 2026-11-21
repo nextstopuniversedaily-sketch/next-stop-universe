@@ -1,114 +1,114 @@
 {
-  "number": 80,
-  "title": "Ceres",
-  "subtitle": "Queen of the asteroid belt",
-  "next_stop": "Psyche",
-  "yt_title": "The Dwarf Planet With Mysterious Bright Spots ✨ | Ep. 80 #shorts",
-  "description": "Episode 80 of a daily journey through the universe. ✨\nCeres: the largest object in the asteroid belt, discovered on January 1, 1801, first called a planet, then an asteroid, now a dwarf planet. NASA's Dawn spacecraft revealed bright spots of salt in Occator Crater, left by salty water from below.\n\n➡️ Tomorrow, Episode 81: Next stop, Psyche. A world that may be made of metal.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #ceres #astronomy #shorts #science",
-  "tags": [
-    "ceres",
-    "dwarf planet",
-    "dawn mission",
-    "occator crater",
-    "asteroid belt",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode eighty. Next stop... Ceres.",
-      "visual": {
-        "type": "title",
-        "query": "Ceres (dwarf planet)",
-        "wiki": "Ceres (dwarf planet)"
-      }
-    },
-    {
-      "text": "On the first night of eighteen oh one, an Italian astronomer named Giuseppe Piazzi spotted a new point of light moving between Mars and Jupiter.",
-      "visual": {
-        "type": "image",
-        "query": "Giuseppe Piazzi",
-        "commons": "Giuseppe Piazzi"
-      },
-      "headline": "January 1, 1801"
-    },
-    {
-      "text": "It was called a planet. Then astronomers found many more objects nearby, and it was called an asteroid.",
-      "visual": {
-        "type": "image",
-        "query": "Ceres Hubble",
-        "commons": "Ceres Hubble"
-      },
-      "headline": "Planet? Asteroid?"
-    },
-    {
-      "text": "In two thousand six, it was named a dwarf planet, the same category as Pluto.",
-      "visual": {
-        "type": "card",
-        "big": "2006",
-        "label": "a dwarf planet"
-      }
-    },
-    {
-      "text": "It's about nine hundred forty kilometers wide. The largest object in the asteroid belt.",
-      "visual": {
-        "type": "card",
-        "big": "940 km",
-        "label": "wide"
-      }
-    },
-    {
-      "text": "In twenty fifteen, NASA's Dawn spacecraft arrived and spotted something strange: brilliant white spots in a crater called Occator.",
-      "visual": {
-        "type": "image",
-        "query": "Ceres Occator bright spots Dawn",
-        "commons": "Ceres Occator bright spots Dawn"
-      },
-      "headline": "Mysterious bright spots"
-    },
-    {
-      "text": "They turned out to be salt, left behind when salty water seeped up from below and evaporated.",
-      "visual": {
-        "type": "image",
-        "query": "Ceres bright spots Occator",
-        "commons": "Ceres bright spots Occator"
-      },
-      "headline": "They're salt"
-    },
-    {
-      "text": "Dawn found signs of a deep reservoir of salty water under the crust, maybe still partly liquid today.",
-      "visual": {
-        "type": "image",
-        "query": "Ceres Dawn",
-        "commons": "Ceres Dawn"
-      },
-      "headline": "Salty water below"
-    },
-    {
-      "text": "Dawn ran out of fuel in twenty eighteen. It's still orbiting Ceres, silent.",
-      "visual": {
-        "type": "image",
-        "query": "Dawn spacecraft artist concept",
-        "commons": "Dawn spacecraft artist concept"
-      },
-      "headline": "Dawn's last orbit"
-    },
-    {
-      "text": "Tomorrow, an asteroid that may be the exposed metal core of a baby planet. Next stop: Psyche. Follow, so you don't miss episode eighty-one.",
-      "visual": {
-        "type": "end",
-        "query": "Psyche asteroid artist concept",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "Psyche asteroid artist concept"
-        ]
-      }
-    }
-  ]
+ "number": 80,
+ "title": "Ceres",
+ "subtitle": "Glowing white spots.",
+ "next_stop": "Psyche",
+ "yt_title": "What Are the Mysterious Bright Spots on Ceres? ✨ #shorts",
+ "description": "What Are the Mysterious Bright Spots on Ceres?\n\nEpisode 80 of a daily journey through the universe. ✨\nCeres: the largest object in the asteroid belt, discovered on January 1, 1801, first called a planet, then an asteroid, now a dwarf planet. NASA's Dawn spacecraft revealed bright spots of salt in Occator Crater, left by salty water from below.\n\n➡️ Tomorrow, Episode 81: Next stop, Psyche. A world that may be made of metal.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #ceres #astronomy #shorts #science",
+ "tags": [
+  "ceres",
+  "dwarf planet",
+  "dawn mission",
+  "occator crater",
+  "asteroid belt",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Why does a dwarf planet have glowing white spots? Scientists had to go and look.",
+   "visual": {
+    "type": "title",
+    "query": "Ceres (dwarf planet)",
+    "wiki": "Ceres (dwarf planet)"
+   }
+  },
+  {
+   "text": "On the first night of eighteen oh one, an Italian astronomer named Giuseppe Piazzi spotted a new point of light moving between Mars and Jupiter.",
+   "visual": {
+    "type": "image",
+    "query": "Giuseppe Piazzi",
+    "commons": "Giuseppe Piazzi"
+   },
+   "headline": "January 1, 1801"
+  },
+  {
+   "text": "It was called a planet. Then astronomers found many more objects nearby, and it was called an asteroid.",
+   "visual": {
+    "type": "image",
+    "query": "Ceres Hubble",
+    "commons": "Ceres Hubble"
+   },
+   "headline": "Planet? Asteroid?"
+  },
+  {
+   "text": "In two thousand six, it was named a dwarf planet, the same category as Pluto.",
+   "visual": {
+    "type": "card",
+    "big": "2006",
+    "label": "a dwarf planet"
+   }
+  },
+  {
+   "text": "It's about nine hundred forty kilometers wide. The largest object in the asteroid belt.",
+   "visual": {
+    "type": "card",
+    "big": "940 km",
+    "label": "wide"
+   }
+  },
+  {
+   "text": "In twenty fifteen, NASA's Dawn spacecraft arrived and spotted something strange: brilliant white spots in a crater called Occator.",
+   "visual": {
+    "type": "image",
+    "query": "Ceres Occator bright spots Dawn",
+    "commons": "Ceres Occator bright spots Dawn"
+   },
+   "headline": "Mysterious bright spots"
+  },
+  {
+   "text": "They turned out to be salt, left behind when salty water seeped up from below and evaporated.",
+   "visual": {
+    "type": "image",
+    "query": "Ceres bright spots Occator",
+    "commons": "Ceres bright spots Occator"
+   },
+   "headline": "They're salt"
+  },
+  {
+   "text": "Dawn found signs of a deep reservoir of salty water under the crust, maybe still partly liquid today.",
+   "visual": {
+    "type": "image",
+    "query": "Ceres Dawn",
+    "commons": "Ceres Dawn"
+   },
+   "headline": "Salty water below"
+  },
+  {
+   "text": "Dawn ran out of fuel in twenty eighteen. It's still orbiting Ceres, silent.",
+   "visual": {
+    "type": "image",
+    "query": "Dawn spacecraft artist concept",
+    "commons": "Dawn spacecraft artist concept"
+   },
+   "headline": "Dawn's last orbit"
+  },
+  {
+   "text": "Tomorrow, an asteroid that may be the exposed metal core of a baby planet. Next stop: Psyche. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Psyche asteroid artist concept",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "Psyche asteroid artist concept"
+    ]
+   }
+  }
+ ]
 }

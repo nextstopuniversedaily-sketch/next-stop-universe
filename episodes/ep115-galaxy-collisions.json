@@ -1,119 +1,119 @@
 {
-  "number": 115,
-  "title": "Galaxy Collisions",
-  "subtitle": "Cosmic crashes",
-  "next_stop": "The Magellanic Clouds",
-  "yt_title": "When Galaxies Collide 🌌 | Ep. 115 #shorts",
-  "description": "Episode 115 of a daily journey through the universe. 🌌\nWe watch galaxies collide: why the stars almost never hit each other, the Antennae and Mice galaxies, bursts of new star birth, merging black holes, and how the Milky Way itself is built from galaxies it swallowed.\n\n➡️ Tomorrow, Episode 116: Next stop, the Magellanic Clouds. Two galaxies you can see with your own eyes.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #galaxies #astronomy #shorts #science #nasa",
-  "tags": [
-    "galaxy collision",
-    "colliding galaxies",
-    "antennae galaxies",
-    "hubble",
-    "jwst",
-    "milky way",
-    "andromeda",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and fifteen. Next stop... galaxy collisions.",
-      "visual": {
-        "type": "title",
-        "query": "Antennae galaxies Hubble",
-        "commons": "Antennae galaxies Hubble"
-      }
-    },
-    {
-      "text": "Galaxies crash into each other all the time. It's how they grow.",
-      "visual": {
-        "type": "image",
-        "query": "interacting galaxies Hubble",
-        "commons": "interacting galaxies Hubble"
-      },
-      "headline": "Galaxies collide"
-    },
-    {
-      "text": "But the stars almost never hit each other. The space between stars is enormous.",
-      "visual": {
-        "type": "card",
-        "big": "~0",
-        "label": "stars that collide",
-        "sub": "space is mostly empty"
-      }
-    },
-    {
-      "text": "If the Sun were a grain of sand, the next star would be another grain about thirty kilometers away.",
-      "visual": {
-        "type": "card",
-        "big": "30 km",
-        "label": "between two grains of sand",
-        "sub": "that's how far apart stars are"
-      }
-    },
-    {
-      "text": "What does collide is gas. Giant clouds smash together and squeeze into thousands of new stars.",
-      "visual": {
-        "type": "image",
-        "query": "Antennae galaxies Hubble",
-        "commons": "Antennae galaxies Hubble"
-      },
-      "headline": "Bursts of new stars"
-    },
-    {
-      "text": "Gravity pulls out long tails of stars, like in the Mice galaxies.",
-      "visual": {
-        "type": "image",
-        "query": "Mice galaxies Hubble",
-        "commons": "Mice galaxies Hubble"
-      },
-      "headline": "Long tails of stars"
-    },
-    {
-      "text": "The giant black holes at their centers sink together, and finally merge, shaking space with gravitational waves.",
-      "visual": {
-        "type": "image",
-        "query": "galaxy merger black holes artist",
-        "commons": "galaxy merger black holes artist"
-      },
-      "headline": "Black holes merge"
-    },
-    {
-      "text": "Our own Milky Way grew by swallowing smaller galaxies. About ten billion years ago, it ate one called Gaia-Enceladus.",
-      "visual": {
-        "type": "image",
-        "query": "Milky Way galaxy",
-        "commons": "Milky Way galaxy"
-      },
-      "headline": "The Milky Way eats galaxies"
-    },
-    {
-      "text": "And it's still eating. Smaller galaxies around us are being slowly torn apart right now.",
-      "visual": {
-        "type": "image",
-        "query": "Sagittarius dwarf galaxy",
-        "commons": "Sagittarius dwarf galaxy"
-      },
-      "headline": "Still eating"
-    },
-    {
-      "text": "Tomorrow, two galaxies you can see without a telescope, if you go south. And one day, we'll swallow them too. Follow, so you don't miss episode one hundred and sixteen.",
-      "visual": {
-        "type": "end",
-        "query": "Magellanic Clouds",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Large Magellanic Cloud",
-          "Magellanic Clouds over telescope"
-        ]
-      }
-    }
-  ]
+ "number": 115,
+ "title": "Galaxy Collisions",
+ "subtitle": "Cosmic car crashes.",
+ "next_stop": "The Magellanic Clouds",
+ "yt_title": "What Would You See if Two Galaxies Collided? 🌌 #shorts",
+ "description": "What Would You See if Two Galaxies Collided?\n\nEpisode 115 of a daily journey through the universe. 🌌\nWe watch galaxies collide: why the stars almost never hit each other, the Antennae and Mice galaxies, bursts of new star birth, merging black holes, and how the Milky Way itself is built from galaxies it swallowed.\n\n➡️ Tomorrow, Episode 116: Next stop, the Magellanic Clouds. Two galaxies you can see with your own eyes.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #galaxies #astronomy #shorts #science #nasa",
+ "tags": [
+  "galaxy collision",
+  "colliding galaxies",
+  "antennae galaxies",
+  "hubble",
+  "jwst",
+  "milky way",
+  "andromeda",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What would you see if two galaxies collided? Almost nothing would hit you.",
+   "visual": {
+    "type": "title",
+    "query": "Antennae galaxies Hubble",
+    "commons": "Antennae galaxies Hubble"
+   }
+  },
+  {
+   "text": "Galaxies crash into each other all the time. It's how they grow.",
+   "visual": {
+    "type": "image",
+    "query": "interacting galaxies Hubble",
+    "commons": "interacting galaxies Hubble"
+   },
+   "headline": "Galaxies collide"
+  },
+  {
+   "text": "But the stars almost never hit each other. The space between stars is enormous.",
+   "visual": {
+    "type": "card",
+    "big": "~0",
+    "label": "stars that collide",
+    "sub": "space is mostly empty"
+   }
+  },
+  {
+   "text": "If the Sun were a grain of sand, the next star would be another grain about thirty kilometers away.",
+   "visual": {
+    "type": "card",
+    "big": "30 km",
+    "label": "between two grains of sand",
+    "sub": "that's how far apart stars are"
+   }
+  },
+  {
+   "text": "What does collide is gas. Giant clouds smash together and squeeze into thousands of new stars.",
+   "visual": {
+    "type": "image",
+    "query": "Antennae galaxies Hubble",
+    "commons": "Antennae galaxies Hubble"
+   },
+   "headline": "Bursts of new stars"
+  },
+  {
+   "text": "Gravity pulls out long tails of stars, like in the Mice galaxies.",
+   "visual": {
+    "type": "image",
+    "query": "Mice galaxies Hubble",
+    "commons": "Mice galaxies Hubble"
+   },
+   "headline": "Long tails of stars"
+  },
+  {
+   "text": "The giant black holes at their centers sink together, and finally merge, shaking space with gravitational waves.",
+   "visual": {
+    "type": "image",
+    "query": "galaxy merger black holes artist",
+    "commons": "galaxy merger black holes artist"
+   },
+   "headline": "Black holes merge"
+  },
+  {
+   "text": "Our own Milky Way grew by swallowing smaller galaxies. About ten billion years ago, it ate one called Gaia-Enceladus.",
+   "visual": {
+    "type": "image",
+    "query": "Milky Way galaxy",
+    "commons": "Milky Way galaxy"
+   },
+   "headline": "The Milky Way eats galaxies"
+  },
+  {
+   "text": "And it's still eating. Smaller galaxies around us are being slowly torn apart right now.",
+   "visual": {
+    "type": "image",
+    "query": "Sagittarius dwarf galaxy",
+    "commons": "Sagittarius dwarf galaxy"
+   },
+   "headline": "Still eating"
+  },
+  {
+   "text": "Tomorrow, two galaxies you can see without a telescope, if you go south. And one day, we'll swallow them too. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Magellanic Clouds",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Large Magellanic Cloud",
+     "Magellanic Clouds over telescope"
+    ]
+   }
+  }
+ ]
 }

@@ -1,114 +1,114 @@
 {
-  "number": 64,
-  "title": "Pulsar Planets",
-  "subtitle": "The first alien worlds",
-  "next_stop": "51 Pegasi b",
-  "yt_title": "The First Planets Ever Found Orbit a Dead Star 💫 | Ep. 64 #shorts",
-  "description": "Episode 64 of a daily journey through the universe. 💫\nIn 1992, Aleksander Wolszczan and Dale Frail found the first confirmed planets beyond our solar system, orbiting pulsar PSR B1257+12, a dead star spinning about 160 times a second and bathing its worlds in deadly radiation.\n\n➡️ Tomorrow, Episode 65: Next stop, 51 Pegasi b. The first planet found around a star like our Sun, and a Nobel Prize.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #pulsarplanets #astronomy #shorts #science",
-  "tags": [
-    "pulsar planets",
-    "psr b1257+12",
-    "first exoplanet",
-    "exoplanets",
-    "pulsar",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode sixty-four. Next stop... pulsar planets.",
-      "visual": {
-        "type": "title",
-        "query": "pulsar planet artist impression",
-        "commons": "pulsar planet artist impression"
-      }
-    },
-    {
-      "text": "For centuries, people wondered if other stars had planets. The first answer was a surprise.",
-      "visual": {
-        "type": "image",
-        "query": "starry night sky Milky Way",
-        "commons": "starry night sky Milky Way"
-      },
-      "headline": "Do other stars have planets?"
-    },
-    {
-      "text": "In nineteen ninety-two, two astronomers, Aleksander Wolszczan and Dale Frail, were studying a pulsar with the giant Arecibo radio telescope.",
-      "visual": {
-        "type": "image",
-        "query": "Arecibo Observatory aerial",
-        "commons": "Arecibo Observatory aerial"
-      },
-      "headline": "Arecibo, 1992"
-    },
-    {
-      "text": "A pulsar is a spinning neutron star, the dead core of an exploded star. It sweeps beams of radio waves across space, like a lighthouse.",
-      "visual": {
-        "type": "image",
-        "query": "pulsar lighthouse artist impression",
-        "commons": "pulsar lighthouse artist impression"
-      },
-      "headline": "A cosmic lighthouse"
-    },
-    {
-      "text": "This one spins about one hundred sixty times every second.",
-      "visual": {
-        "type": "card",
-        "big": "~160",
-        "label": "spins per second"
-      }
-    },
-    {
-      "text": "Its ticks were incredibly regular, but not perfectly. Tiny wobbles in the timing revealed something tugging on the star: planets.",
-      "visual": {
-        "type": "image",
-        "query": "pulsar planet artist impression",
-        "commons": "pulsar planet artist impression"
-      },
-      "headline": "Tiny wobbles"
-    },
-    {
-      "text": "They were the first planets ever confirmed beyond our solar system.",
-      "visual": {
-        "type": "card",
-        "big": "1992",
-        "label": "the first exoplanets"
-      }
-    },
-    {
-      "text": "But you wouldn't want to visit. These worlds are blasted by radiation from the pulsar. Probably no place for life.",
-      "visual": {
-        "type": "image",
-        "query": "neutron star artist impression",
-        "commons": "neutron star artist impression"
-      },
-      "headline": "No place for life"
-    },
-    {
-      "text": "How do planets survive a star exploding? Maybe they formed afterward, from the wreckage.",
-      "visual": {
-        "type": "image",
-        "query": "supernova remnant Hubble",
-        "commons": "supernova remnant Hubble"
-      },
-      "headline": "Born from the wreckage?"
-    },
-    {
-      "text": "Tomorrow, the first planet found around a star like our Sun. It won a Nobel Prize. Next stop: fifty-one Pegasi b. Follow, so you don't miss episode sixty-five.",
-      "visual": {
-        "type": "end",
-        "query": "hot Jupiter artist impression",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "hot Jupiter artist impression"
-        ]
-      }
-    }
-  ]
+ "number": 64,
+ "title": "Pulsar Planets",
+ "subtitle": "The first planets ever found.",
+ "next_stop": "51 Pegasi b",
+ "yt_title": "Could You Live on a Planet Orbiting a Dead Star? 💫 #shorts",
+ "description": "Could You Live on a Planet Orbiting a Dead Star?\n\nEpisode 64 of a daily journey through the universe. 💫\nIn 1992, Aleksander Wolszczan and Dale Frail found the first confirmed planets beyond our solar system, orbiting pulsar PSR B1257+12, a dead star spinning about 160 times a second and bathing its worlds in deadly radiation.\n\n➡️ Tomorrow, Episode 65: Next stop, 51 Pegasi b. The first planet found around a star like our Sun, and a Nobel Prize.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #pulsarplanets #astronomy #shorts #science",
+ "tags": [
+  "pulsar planets",
+  "psr b1257+12",
+  "first exoplanet",
+  "exoplanets",
+  "pulsar",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "The first planets ever found beyond our Sun orbit a dead star. Could anything live there?",
+   "visual": {
+    "type": "title",
+    "query": "pulsar planet artist impression",
+    "commons": "pulsar planet artist impression"
+   }
+  },
+  {
+   "text": "For centuries, people wondered if other stars had planets. The first answer was a surprise.",
+   "visual": {
+    "type": "image",
+    "query": "starry night sky Milky Way",
+    "commons": "starry night sky Milky Way"
+   },
+   "headline": "Do other stars have planets?"
+  },
+  {
+   "text": "In nineteen ninety-two, two astronomers, Aleksander Wolszczan and Dale Frail, were studying a pulsar with the giant Arecibo radio telescope.",
+   "visual": {
+    "type": "image",
+    "query": "Arecibo Observatory aerial",
+    "commons": "Arecibo Observatory aerial"
+   },
+   "headline": "Arecibo, 1992"
+  },
+  {
+   "text": "A pulsar is a spinning neutron star, the dead core of an exploded star. It sweeps beams of radio waves across space, like a lighthouse.",
+   "visual": {
+    "type": "image",
+    "query": "pulsar lighthouse artist impression",
+    "commons": "pulsar lighthouse artist impression"
+   },
+   "headline": "A cosmic lighthouse"
+  },
+  {
+   "text": "This one spins about one hundred sixty times every second.",
+   "visual": {
+    "type": "card",
+    "big": "~160",
+    "label": "spins per second"
+   }
+  },
+  {
+   "text": "Its ticks were incredibly regular, but not perfectly. Tiny wobbles in the timing revealed something tugging on the star: planets.",
+   "visual": {
+    "type": "image",
+    "query": "pulsar planet artist impression",
+    "commons": "pulsar planet artist impression"
+   },
+   "headline": "Tiny wobbles"
+  },
+  {
+   "text": "They were the first planets ever confirmed beyond our solar system.",
+   "visual": {
+    "type": "card",
+    "big": "1992",
+    "label": "the first exoplanets"
+   }
+  },
+  {
+   "text": "But you wouldn't want to visit. These worlds are blasted by radiation from the pulsar. Probably no place for life.",
+   "visual": {
+    "type": "image",
+    "query": "neutron star artist impression",
+    "commons": "neutron star artist impression"
+   },
+   "headline": "No place for life"
+  },
+  {
+   "text": "How do planets survive a star exploding? Maybe they formed afterward, from the wreckage.",
+   "visual": {
+    "type": "image",
+    "query": "supernova remnant Hubble",
+    "commons": "supernova remnant Hubble"
+   },
+   "headline": "Born from the wreckage?"
+  },
+  {
+   "text": "Tomorrow, the first planet found around a star like our Sun. It won a Nobel Prize. Next stop: fifty-one Pegasi b. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "hot Jupiter artist impression",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "hot Jupiter artist impression"
+    ]
+   }
+  }
+ ]
 }

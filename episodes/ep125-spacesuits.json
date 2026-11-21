@@ -1,119 +1,119 @@
 {
-  "number": 125,
-  "title": "Spacesuits",
-  "subtitle": "A spacecraft for one",
-  "next_stop": "Yuri Gagarin",
-  "yt_title": "A Spacesuit Is a Tiny Spaceship 👨‍🚀 | Ep. 125 #shorts",
-  "description": "Episode 125 of a daily journey through the universe. 👨‍🚀\nWe suit up: why a spacesuit is a personal spacecraft, keeping air pressure, oxygen and temperature in a place that swings from about +120°C in sunlight to −150°C in shadow, layers of protection, cooling water tubes, and how long a suit takes to put on.\n\n➡️ Tomorrow, Episode 126: Next stop, Yuri Gagarin. The first human in space.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #spacesuit #astronomy #shorts #science #nasa",
-  "tags": [
-    "spacesuit",
-    "spacewalk",
-    "astronaut",
-    "eva",
-    "nasa",
-    "axiom spacesuit",
-    "space station",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and twenty-five. Next stop... spacesuits.",
-      "visual": {
-        "type": "title",
-        "query": "astronaut spacewalk",
-        "commons": "astronaut spacewalk"
-      }
-    },
-    {
-      "text": "Outside a spacecraft, there's no air, no pressure, and deadly temperatures. A spacesuit has to fix all of that.",
-      "visual": {
-        "type": "image",
-        "query": "astronaut spacewalk",
-        "commons": "astronaut spacewalk"
-      },
-      "headline": "Deadly outside"
-    },
-    {
-      "text": "In sunlight, things can heat to about one hundred and twenty degrees. In shadow, they drop to about minus one hundred and fifty.",
-      "visual": {
-        "type": "card",
-        "big": "+120 / −150 °C",
-        "label": "sun vs shadow",
-        "sub": "outside the station"
-      }
-    },
-    {
-      "text": "So a spacesuit is really a tiny spacecraft, shaped like a person.",
-      "visual": {
-        "type": "image",
-        "query": "spacewalk Earth",
-        "commons": "spacewalk Earth"
-      },
-      "headline": "A spaceship for one"
-    },
-    {
-      "text": "It has its own oxygen, removes the carbon dioxide you breathe out, and keeps the pressure steady.",
-      "visual": {
-        "type": "image",
-        "query": "spacesuit helmet visor",
-        "commons": "spacesuit helmet visor"
-      },
-      "headline": "Its own air"
-    },
-    {
-      "text": "Under the suit, astronauts wear long underwear laced with thin tubes of cool water, to carry away body heat.",
-      "visual": {
-        "type": "image",
-        "query": "liquid cooling garment spacesuit",
-        "commons": "liquid cooling garment spacesuit"
-      },
-      "headline": "Water-cooled underwear"
-    },
-    {
-      "text": "Many layers protect against tiny space dust that flies faster than a bullet.",
-      "visual": {
-        "type": "card",
-        "big": "10+",
-        "label": "layers",
-        "sub": "protect against space dust"
-      }
-    },
-    {
-      "text": "A spacewalk can last more than six hours. Astronauts wear a diaper, and drink from a small water pouch inside the suit.",
-      "visual": {
-        "type": "card",
-        "big": "6+ hours",
-        "label": "per spacewalk",
-        "sub": "wearing a diaper"
-      }
-    },
-    {
-      "text": "New suits are being built for the Moon, to walk on dusty ground and bend more easily.",
-      "visual": {
-        "type": "image",
-        "query": "Artemis spacesuit",
-        "commons": "Artemis spacesuit"
-      },
-      "headline": "New suits for the Moon"
-    },
-    {
-      "text": "Tomorrow, the first person who ever left Earth. One orbit, one hundred and eight minutes, and history changed forever. Follow, so you don't miss episode one hundred and twenty-six.",
-      "visual": {
-        "type": "end",
-        "query": "Yuri Gagarin",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Yuri Gagarin",
-          "Vostok 1"
-        ]
-      }
-    }
-  ]
+ "number": 125,
+ "title": "Spacesuits",
+ "subtitle": "A tiny spaceship.",
+ "next_stop": "Yuri Gagarin",
+ "yt_title": "Could You Survive in Space Without a Spacesuit? 👨‍🚀 #shorts",
+ "description": "Could You Survive in Space Without a Spacesuit?\n\nEpisode 125 of a daily journey through the universe. 👨‍🚀\nWe suit up: why a spacesuit is a personal spacecraft, keeping air pressure, oxygen and temperature in a place that swings from about +120°C in sunlight to −150°C in shadow, layers of protection, cooling water tubes, and how long a suit takes to put on.\n\n➡️ Tomorrow, Episode 126: Next stop, Yuri Gagarin. The first human in space.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #spacesuit #astronomy #shorts #science #nasa",
+ "tags": [
+  "spacesuit",
+  "spacewalk",
+  "astronaut",
+  "eva",
+  "nasa",
+  "axiom spacesuit",
+  "space station",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What happens if you step into space without a spacesuit? Here's why it's a tiny spaceship.",
+   "visual": {
+    "type": "title",
+    "query": "astronaut spacewalk",
+    "commons": "astronaut spacewalk"
+   }
+  },
+  {
+   "text": "Outside a spacecraft, there's no air, no pressure, and deadly temperatures. A spacesuit has to fix all of that.",
+   "visual": {
+    "type": "image",
+    "query": "astronaut spacewalk",
+    "commons": "astronaut spacewalk"
+   },
+   "headline": "Deadly outside"
+  },
+  {
+   "text": "In sunlight, things can heat to about one hundred and twenty degrees. In shadow, they drop to about minus one hundred and fifty.",
+   "visual": {
+    "type": "card",
+    "big": "+120 / −150 °C",
+    "label": "sun vs shadow",
+    "sub": "outside the station"
+   }
+  },
+  {
+   "text": "So a spacesuit is really a tiny spacecraft, shaped like a person.",
+   "visual": {
+    "type": "image",
+    "query": "spacewalk Earth",
+    "commons": "spacewalk Earth"
+   },
+   "headline": "A spaceship for one"
+  },
+  {
+   "text": "It has its own oxygen, removes the carbon dioxide you breathe out, and keeps the pressure steady.",
+   "visual": {
+    "type": "image",
+    "query": "spacesuit helmet visor",
+    "commons": "spacesuit helmet visor"
+   },
+   "headline": "Its own air"
+  },
+  {
+   "text": "Under the suit, astronauts wear long underwear laced with thin tubes of cool water, to carry away body heat.",
+   "visual": {
+    "type": "image",
+    "query": "liquid cooling garment spacesuit",
+    "commons": "liquid cooling garment spacesuit"
+   },
+   "headline": "Water-cooled underwear"
+  },
+  {
+   "text": "Many layers protect against tiny space dust that flies faster than a bullet.",
+   "visual": {
+    "type": "card",
+    "big": "10+",
+    "label": "layers",
+    "sub": "protect against space dust"
+   }
+  },
+  {
+   "text": "A spacewalk can last more than six hours. Astronauts wear a diaper, and drink from a small water pouch inside the suit.",
+   "visual": {
+    "type": "card",
+    "big": "6+ hours",
+    "label": "per spacewalk",
+    "sub": "wearing a diaper"
+   }
+  },
+  {
+   "text": "New suits are being built for the Moon, to walk on dusty ground and bend more easily.",
+   "visual": {
+    "type": "image",
+    "query": "Artemis spacesuit",
+    "commons": "Artemis spacesuit"
+   },
+   "headline": "New suits for the Moon"
+  },
+  {
+   "text": "Tomorrow, the first person who ever left Earth. One orbit, one hundred and eight minutes, and history changed forever. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Yuri Gagarin",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Yuri Gagarin",
+     "Vostok 1"
+    ]
+   }
+  }
+ ]
 }

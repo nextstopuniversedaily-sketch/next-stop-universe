@@ -1,118 +1,118 @@
 {
-  "number": 116,
-  "title": "The Magellanic Clouds",
-  "subtitle": "Our neighbor galaxies",
-  "next_stop": "Globular Clusters",
-  "yt_title": "Two Galaxies You Can See With Your Eyes 🌌 | Ep. 116 #shorts",
-  "description": "Episode 116 of a daily journey through the universe. 🌌\nWe visit the Large and Small Magellanic Clouds: galaxies about 160,000 and 200,000 light-years away, visible to the naked eye from the Southern Hemisphere, the Tarantula Nebula, Supernova 1987A, and a collision with the Milky Way in about 2 billion years.\n\n➡️ Tomorrow, Episode 117: Next stop, globular clusters. Ancient balls of a million stars.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #magellanicclouds #astronomy #shorts #science #nasa",
-  "tags": [
-    "magellanic clouds",
-    "large magellanic cloud",
-    "tarantula nebula",
-    "supernova 1987a",
-    "southern sky",
-    "galaxy",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and sixteen. Next stop... the Magellanic Clouds.",
-      "visual": {
-        "type": "title",
-        "query": "Large Magellanic Cloud",
-        "wiki": "Large Magellanic Cloud"
-      }
-    },
-    {
-      "text": "From the Southern Hemisphere, on a dark night, you can see two faint clouds in the sky. They're not clouds. They're galaxies.",
-      "visual": {
-        "type": "image",
-        "query": "Magellanic Clouds over telescope",
-        "commons": "Magellanic Clouds over telescope"
-      },
-      "headline": "Two clouds that are galaxies"
-    },
-    {
-      "text": "The Large Magellanic Cloud is about one hundred and sixty thousand light-years away.",
-      "visual": {
-        "type": "card",
-        "big": "160,000",
-        "label": "light-years",
-        "sub": "Large Magellanic Cloud"
-      }
-    },
-    {
-      "text": "The Small one is about two hundred thousand light-years away.",
-      "visual": {
-        "type": "card",
-        "big": "200,000",
-        "label": "light-years",
-        "sub": "Small Magellanic Cloud"
-      }
-    },
-    {
-      "text": "They're named after the explorer Ferdinand Magellan, whose crew described them in the fifteen hundreds. People in the south knew them for thousands of years before.",
-      "visual": {
-        "type": "image",
-        "query": "Small Magellanic Cloud",
-        "commons": "Small Magellanic Cloud"
-      },
-      "headline": "Known for millennia"
-    },
-    {
-      "text": "The Large Cloud holds the Tarantula Nebula, the biggest star factory in our neighborhood.",
-      "visual": {
-        "type": "image",
-        "query": "Tarantula Nebula",
-        "commons": "Tarantula Nebula"
-      },
-      "headline": "The Tarantula Nebula"
-    },
-    {
-      "text": "In nineteen eighty-seven, a star there exploded. The closest supernova seen in almost four hundred years.",
-      "visual": {
-        "type": "image",
-        "query": "Supernova 1987A Hubble",
-        "wiki": "SN 1987A"
-      },
-      "headline": "Supernova 1987A"
-    },
-    {
-      "text": "The Large Cloud is surprisingly heavy, maybe a tenth of the Milky Way's mass.",
-      "visual": {
-        "type": "image",
-        "query": "Large Magellanic Cloud",
-        "commons": "Large Magellanic Cloud"
-      },
-      "headline": "A heavy neighbor"
-    },
-    {
-      "text": "In about two billion years, it's expected to crash into the Milky Way.",
-      "visual": {
-        "type": "card",
-        "big": "2 billion",
-        "label": "years from now",
-        "sub": "it crashes into us"
-      }
-    },
-    {
-      "text": "Tomorrow, glittering balls of a million stars, some of the oldest things in our galaxy. Follow, so you don't miss episode one hundred and seventeen.",
-      "visual": {
-        "type": "end",
-        "query": "globular cluster Hubble",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Omega Centauri",
-          "Messier 80 Hubble"
-        ]
-      }
-    }
-  ]
+ "number": 116,
+ "title": "The Magellanic Clouds",
+ "subtitle": "The Magellanic Clouds.",
+ "next_stop": "Globular Clusters",
+ "yt_title": "Can You See Two Other Galaxies With Your Own Eyes? 🌌 #shorts",
+ "description": "Can You See Two Other Galaxies With Your Own Eyes?\n\nEpisode 116 of a daily journey through the universe. 🌌\nWe visit the Large and Small Magellanic Clouds: galaxies about 160,000 and 200,000 light-years away, visible to the naked eye from the Southern Hemisphere, the Tarantula Nebula, Supernova 1987A, and a collision with the Milky Way in about 2 billion years.\n\n➡️ Tomorrow, Episode 117: Next stop, globular clusters. Ancient balls of a million stars.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #magellanicclouds #astronomy #shorts #science #nasa",
+ "tags": [
+  "magellanic clouds",
+  "large magellanic cloud",
+  "tarantula nebula",
+  "supernova 1987a",
+  "southern sky",
+  "galaxy",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "You can see two other galaxies with your own eyes, if you know where to look.",
+   "visual": {
+    "type": "title",
+    "query": "Large Magellanic Cloud",
+    "wiki": "Large Magellanic Cloud"
+   }
+  },
+  {
+   "text": "From the Southern Hemisphere, on a dark night, you can see two faint clouds in the sky. They're not clouds. They're galaxies.",
+   "visual": {
+    "type": "image",
+    "query": "Magellanic Clouds over telescope",
+    "commons": "Magellanic Clouds over telescope"
+   },
+   "headline": "Two clouds that are galaxies"
+  },
+  {
+   "text": "The Large Magellanic Cloud is about one hundred and sixty thousand light-years away.",
+   "visual": {
+    "type": "card",
+    "big": "160,000",
+    "label": "light-years",
+    "sub": "Large Magellanic Cloud"
+   }
+  },
+  {
+   "text": "The Small one is about two hundred thousand light-years away.",
+   "visual": {
+    "type": "card",
+    "big": "200,000",
+    "label": "light-years",
+    "sub": "Small Magellanic Cloud"
+   }
+  },
+  {
+   "text": "They're named after the explorer Ferdinand Magellan, whose crew described them in the fifteen hundreds. People in the south knew them for thousands of years before.",
+   "visual": {
+    "type": "image",
+    "query": "Small Magellanic Cloud",
+    "commons": "Small Magellanic Cloud"
+   },
+   "headline": "Known for millennia"
+  },
+  {
+   "text": "The Large Cloud holds the Tarantula Nebula, the biggest star factory in our neighborhood.",
+   "visual": {
+    "type": "image",
+    "query": "Tarantula Nebula",
+    "commons": "Tarantula Nebula"
+   },
+   "headline": "The Tarantula Nebula"
+  },
+  {
+   "text": "In nineteen eighty-seven, a star there exploded. The closest supernova seen in almost four hundred years.",
+   "visual": {
+    "type": "image",
+    "query": "Supernova 1987A Hubble",
+    "wiki": "SN 1987A"
+   },
+   "headline": "Supernova 1987A"
+  },
+  {
+   "text": "The Large Cloud is surprisingly heavy, maybe a tenth of the Milky Way's mass.",
+   "visual": {
+    "type": "image",
+    "query": "Large Magellanic Cloud",
+    "commons": "Large Magellanic Cloud"
+   },
+   "headline": "A heavy neighbor"
+  },
+  {
+   "text": "In about two billion years, it's expected to crash into the Milky Way.",
+   "visual": {
+    "type": "card",
+    "big": "2 billion",
+    "label": "years from now",
+    "sub": "it crashes into us"
+   }
+  },
+  {
+   "text": "Tomorrow, glittering balls of a million stars, some of the oldest things in our galaxy. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "globular cluster Hubble",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Omega Centauri",
+     "Messier 80 Hubble"
+    ]
+   }
+  }
+ ]
 }

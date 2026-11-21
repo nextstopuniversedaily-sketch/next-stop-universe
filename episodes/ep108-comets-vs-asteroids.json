@@ -1,118 +1,118 @@
 {
-  "number": 108,
-  "title": "Comets vs Asteroids",
-  "subtitle": "Ice or rock?",
-  "next_stop": "Meteorites",
-  "yt_title": "Comet vs Asteroid: What's the Difference? ☄️ | Ep. 108 #shorts",
-  "description": "Episode 108 of a daily journey through the universe. ☄️\nComets vs asteroids: icy dirty snowballs from the outer solar system vs rocky and metal leftovers from the inner one, why comets grow tails that always point away from the Sun, and the objects that blur the line.\n\n➡️ Tomorrow, Episode 109: Next stop, meteorites. Space rocks you can hold in your hand.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #comet #astronomy #shorts #science #nasa",
-  "tags": [
-    "comet vs asteroid",
-    "comets",
-    "asteroids",
-    "comet tail",
-    "meteor",
-    "solar system",
-    "space facts for kids",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and eight. Next stop... comets versus asteroids.",
-      "visual": {
-        "type": "title",
-        "query": "Comet NEOWISE",
-        "commons": "Comet NEOWISE"
-      }
-    },
-    {
-      "text": "They're both leftovers from when the planets formed, four and a half billion years ago. But they're very different.",
-      "visual": {
-        "type": "image",
-        "query": "asteroid Bennu OSIRIS-REx",
-        "commons": "asteroid Bennu OSIRIS-REx"
-      },
-      "headline": "Leftovers from the beginning"
-    },
-    {
-      "text": "Asteroids are mostly rock and metal. Most live in the asteroid belt, between Mars and Jupiter.",
-      "visual": {
-        "type": "image",
-        "query": "asteroid Eros NEAR",
-        "commons": "asteroid Eros NEAR"
-      },
-      "headline": "Asteroids: rock and metal"
-    },
-    {
-      "text": "Comets are dirty snowballs. Ice, dust and rock, from the frozen edge of the solar system.",
-      "visual": {
-        "type": "image",
-        "query": "comet 67P Rosetta",
-        "commons": "comet 67P Rosetta"
-      },
-      "headline": "Comets: dirty snowballs"
-    },
-    {
-      "text": "When a comet nears the Sun, its ice turns straight to gas. It grows a glowing cloud, and tails millions of kilometers long.",
-      "visual": {
-        "type": "card",
-        "big": "millions of km",
-        "label": "long tails",
-        "sub": "made of gas and dust"
-      }
-    },
-    {
-      "text": "Here's the strange part. A comet's tail always points away from the Sun, even when the comet is leaving.",
-      "visual": {
-        "type": "image",
-        "query": "Comet Hale-Bopp tails",
-        "wiki": "Comet Hale–Bopp"
-      },
-      "headline": "Tails point away from the Sun"
-    },
-    {
-      "text": "That's because sunlight and the solar wind push the gas and dust outward.",
-      "visual": {
-        "type": "image",
-        "query": "Comet NEOWISE",
-        "commons": "Comet NEOWISE"
-      },
-      "headline": "Pushed by sunlight"
-    },
-    {
-      "text": "Asteroids don't grow tails. Well, usually. Some active asteroids leak dust, and some old comets have lost all their ice.",
-      "visual": {
-        "type": "image",
-        "query": "active asteroid Hubble",
-        "commons": "active asteroid Hubble"
-      },
-      "headline": "The line is blurry"
-    },
-    {
-      "text": "So the real difference is ice. Comets have lots of it. Asteroids mostly don't.",
-      "visual": {
-        "type": "card",
-        "big": "ICE",
-        "label": "the key difference"
-      }
-    },
-    {
-      "text": "Tomorrow, pieces of both that actually landed on Earth. Some are older than Earth itself, and you can hold one. Follow, so you don't miss episode one hundred and nine.",
-      "visual": {
-        "type": "end",
-        "query": "meteorite",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Willamette meteorite",
-          "iron meteorite"
-        ]
-      }
-    }
-  ]
+ "number": 108,
+ "title": "Comets vs Asteroids",
+ "subtitle": "Most people get this wrong.",
+ "next_stop": "Meteorites",
+ "yt_title": "Do You Know the Difference Between a Comet and an Asteroid? ☄️ #shorts",
+ "description": "Do You Know the Difference Between a Comet and an Asteroid?\n\nEpisode 108 of a daily journey through the universe. ☄️\nComets vs asteroids: icy dirty snowballs from the outer solar system vs rocky and metal leftovers from the inner one, why comets grow tails that always point away from the Sun, and the objects that blur the line.\n\n➡️ Tomorrow, Episode 109: Next stop, meteorites. Space rocks you can hold in your hand.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #comet #astronomy #shorts #science #nasa",
+ "tags": [
+  "comet vs asteroid",
+  "comets",
+  "asteroids",
+  "comet tail",
+  "meteor",
+  "solar system",
+  "space facts for kids",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Most people get this wrong. What's the real difference between a comet and an asteroid?",
+   "visual": {
+    "type": "title",
+    "query": "Comet NEOWISE",
+    "commons": "Comet NEOWISE"
+   }
+  },
+  {
+   "text": "They're both leftovers from when the planets formed, four and a half billion years ago. But they're very different.",
+   "visual": {
+    "type": "image",
+    "query": "asteroid Bennu OSIRIS-REx",
+    "commons": "asteroid Bennu OSIRIS-REx"
+   },
+   "headline": "Leftovers from the beginning"
+  },
+  {
+   "text": "Asteroids are mostly rock and metal. Most live in the asteroid belt, between Mars and Jupiter.",
+   "visual": {
+    "type": "image",
+    "query": "asteroid Eros NEAR",
+    "commons": "asteroid Eros NEAR"
+   },
+   "headline": "Asteroids: rock and metal"
+  },
+  {
+   "text": "Comets are dirty snowballs. Ice, dust and rock, from the frozen edge of the solar system.",
+   "visual": {
+    "type": "image",
+    "query": "comet 67P Rosetta",
+    "commons": "comet 67P Rosetta"
+   },
+   "headline": "Comets: dirty snowballs"
+  },
+  {
+   "text": "When a comet nears the Sun, its ice turns straight to gas. It grows a glowing cloud, and tails millions of kilometers long.",
+   "visual": {
+    "type": "card",
+    "big": "millions of km",
+    "label": "long tails",
+    "sub": "made of gas and dust"
+   }
+  },
+  {
+   "text": "Here's the strange part. A comet's tail always points away from the Sun, even when the comet is leaving.",
+   "visual": {
+    "type": "image",
+    "query": "Comet Hale-Bopp tails",
+    "wiki": "Comet Hale–Bopp"
+   },
+   "headline": "Tails point away from the Sun"
+  },
+  {
+   "text": "That's because sunlight and the solar wind push the gas and dust outward.",
+   "visual": {
+    "type": "image",
+    "query": "Comet NEOWISE",
+    "commons": "Comet NEOWISE"
+   },
+   "headline": "Pushed by sunlight"
+  },
+  {
+   "text": "Asteroids don't grow tails. Well, usually. Some active asteroids leak dust, and some old comets have lost all their ice.",
+   "visual": {
+    "type": "image",
+    "query": "active asteroid Hubble",
+    "commons": "active asteroid Hubble"
+   },
+   "headline": "The line is blurry"
+  },
+  {
+   "text": "So the real difference is ice. Comets have lots of it. Asteroids mostly don't.",
+   "visual": {
+    "type": "card",
+    "big": "ICE",
+    "label": "the key difference"
+   }
+  },
+  {
+   "text": "Tomorrow, pieces of both that actually landed on Earth. Some are older than Earth itself, and you can hold one. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "meteorite",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Willamette meteorite",
+     "iron meteorite"
+    ]
+   }
+  }
+ ]
 }

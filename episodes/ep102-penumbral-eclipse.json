@@ -1,119 +1,119 @@
 {
-  "number": 102,
-  "title": "The Faintest Eclipse",
-  "subtitle": "Tonight, February 20",
-  "next_stop": "Rogue Black Holes",
-  "yt_title": "Tonight's Secret Lunar Eclipse 🌕 | Ep. 102 #shorts",
-  "description": "Episode 102 of a daily journey through the universe. 🌕\nTonight, February 20, 2027, the full Moon slides through Earth's faint outer shadow: a penumbral lunar eclipse peaking about 23:12 UTC, best seen from Europe, Africa and Asia, with the Moon rising already in eclipse over the Americas. Why it's so hard to notice, and what to look for.\n\n➡️ Tomorrow, Episode 103: Next stop, rogue black holes. Invisible monsters wandering the galaxy.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #lunareclipse #astronomy #shorts #science #nasa",
-  "tags": [
-    "lunar eclipse",
-    "penumbral lunar eclipse",
-    "february 2027",
-    "full moon",
-    "eclipse 2027",
-    "night sky",
-    "stargazing",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and two. Next stop... tonight's secret eclipse.",
-      "visual": {
-        "type": "title",
-        "query": "Full Moon",
-        "wiki": "Moon"
-      }
-    },
-    {
-      "text": "Tonight, February twentieth, the full Moon passes through Earth's shadow. But there's a catch.",
-      "visual": {
-        "type": "image",
-        "query": "Full Moon photograph",
-        "wiki": "Lunar eclipse"
-      },
-      "headline": "Tonight: an eclipse"
-    },
-    {
-      "text": "Earth's shadow has two parts. A dark inner shadow, the umbra, and a pale outer shadow, the penumbra.",
-      "visual": {
-        "type": "image",
-        "query": "lunar eclipse Earth shadow",
-        "commons": "lunar eclipse Earth shadow"
-      },
-      "headline": "Two shadows"
-    },
-    {
-      "text": "Tonight, the Moon only touches the pale one. That's a penumbral eclipse.",
-      "visual": {
-        "type": "card",
-        "big": "0.93",
-        "label": "penumbral magnitude",
-        "sub": "it misses the dark shadow"
-      }
-    },
-    {
-      "text": "Standing on the Moon, you'd see Earth cover only part of the Sun.",
-      "visual": {
-        "type": "image",
-        "query": "Earth from the Moon",
-        "commons": "Earth from the Moon"
-      },
-      "headline": "The view from the Moon"
-    },
-    {
-      "text": "From Earth, the change is very subtle. Look for a faint gray shading on one edge of the Moon.",
-      "visual": {
-        "type": "image",
-        "query": "penumbral lunar eclipse",
-        "commons": "penumbral lunar eclipse"
-      },
-      "headline": "Look for gray shading"
-    },
-    {
-      "text": "The deepest moment is around twenty-three twelve, Universal Time. Europe, Africa and Asia see it best.",
-      "visual": {
-        "type": "card",
-        "big": "23:12 UTC",
-        "label": "greatest eclipse",
-        "sub": "best from Europe, Africa, Asia"
-      }
-    },
-    {
-      "text": "In the Americas, the Moon rises with the eclipse already ending. Look east, low, right after sunset.",
-      "visual": {
-        "type": "image",
-        "query": "Moonrise",
-        "commons": "Moonrise"
-      },
-      "headline": "Americas: look east at moonrise"
-    },
-    {
-      "text": "Take a photo with your phone, and another one later. Compare them. Can you see the shadow?",
-      "visual": {
-        "type": "image",
-        "query": "Full Moon over city",
-        "commons": "Full Moon over city"
-      },
-      "headline": "Try the photo test"
-    },
-    {
-      "text": "Tomorrow, something far darker. Black holes wandering the galaxy alone, invisible, and one of them was caught. Follow, so you don't miss episode one hundred and three.",
-      "visual": {
-        "type": "end",
-        "query": "black hole artist",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "black hole artist concept Hubble",
-          "black hole illustration NASA"
-        ]
-      }
-    }
-  ]
+ "number": 102,
+ "title": "The Faintest Eclipse",
+ "subtitle": "Tonight.",
+ "next_stop": "Rogue Black Holes",
+ "yt_title": "Can You Spot Tonight's Secret Lunar Eclipse? 🌕 #shorts",
+ "description": "Can You Spot Tonight's Secret Lunar Eclipse?\n\nEpisode 102 of a daily journey through the universe. 🌕\nTonight, February 20, 2027, the full Moon slides through Earth's faint outer shadow: a penumbral lunar eclipse peaking about 23:12 UTC, best seen from Europe, Africa and Asia, with the Moon rising already in eclipse over the Americas. Why it's so hard to notice, and what to look for.\n\n➡️ Tomorrow, Episode 103: Next stop, rogue black holes. Invisible monsters wandering the galaxy.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #lunareclipse #astronomy #shorts #science #nasa",
+ "tags": [
+  "lunar eclipse",
+  "penumbral lunar eclipse",
+  "february 2027",
+  "full moon",
+  "eclipse 2027",
+  "night sky",
+  "stargazing",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "There's a lunar eclipse tonight, and most people won't even notice. Can you?",
+   "visual": {
+    "type": "title",
+    "query": "Full Moon",
+    "wiki": "Moon"
+   }
+  },
+  {
+   "text": "Tonight, February twentieth, the full Moon passes through Earth's shadow. But there's a catch.",
+   "visual": {
+    "type": "image",
+    "query": "Full Moon photograph",
+    "wiki": "Lunar eclipse"
+   },
+   "headline": "Tonight: an eclipse"
+  },
+  {
+   "text": "Earth's shadow has two parts. A dark inner shadow, the umbra, and a pale outer shadow, the penumbra.",
+   "visual": {
+    "type": "image",
+    "query": "lunar eclipse Earth shadow",
+    "commons": "lunar eclipse Earth shadow"
+   },
+   "headline": "Two shadows"
+  },
+  {
+   "text": "Tonight, the Moon only touches the pale one. That's a penumbral eclipse.",
+   "visual": {
+    "type": "card",
+    "big": "0.93",
+    "label": "penumbral magnitude",
+    "sub": "it misses the dark shadow"
+   }
+  },
+  {
+   "text": "Standing on the Moon, you'd see Earth cover only part of the Sun.",
+   "visual": {
+    "type": "image",
+    "query": "Earth from the Moon",
+    "commons": "Earth from the Moon"
+   },
+   "headline": "The view from the Moon"
+  },
+  {
+   "text": "From Earth, the change is very subtle. Look for a faint gray shading on one edge of the Moon.",
+   "visual": {
+    "type": "image",
+    "query": "penumbral lunar eclipse",
+    "commons": "penumbral lunar eclipse"
+   },
+   "headline": "Look for gray shading"
+  },
+  {
+   "text": "The deepest moment is around twenty-three twelve, Universal Time. Europe, Africa and Asia see it best.",
+   "visual": {
+    "type": "card",
+    "big": "23:12 UTC",
+    "label": "greatest eclipse",
+    "sub": "best from Europe, Africa, Asia"
+   }
+  },
+  {
+   "text": "In the Americas, the Moon rises with the eclipse already ending. Look east, low, right after sunset.",
+   "visual": {
+    "type": "image",
+    "query": "Moonrise",
+    "commons": "Moonrise"
+   },
+   "headline": "Americas: look east at moonrise"
+  },
+  {
+   "text": "Take a photo with your phone, and another one later. Compare them. Can you see the shadow?",
+   "visual": {
+    "type": "image",
+    "query": "Full Moon over city",
+    "commons": "Full Moon over city"
+   },
+   "headline": "Try the photo test"
+  },
+  {
+   "text": "Tomorrow, something far darker. Black holes wandering the galaxy alone, invisible, and one of them was caught. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "black hole artist",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "black hole artist concept Hubble",
+     "black hole illustration NASA"
+    ]
+   }
+  }
+ ]
 }

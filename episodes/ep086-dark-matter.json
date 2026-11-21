@@ -1,115 +1,115 @@
 {
-  "number": 86,
-  "title": "Dark Matter",
-  "subtitle": "The invisible majority",
-  "next_stop": "Ring of Fire",
-  "yt_title": "85% of All Matter Is Invisible 🌑 | Ep. 86 #shorts",
-  "description": "Episode 86 of a daily journey through the universe. 🌑\nDark matter: Fritz Zwicky noticed in 1933 that galaxy clusters move too fast, and Vera Rubin showed in the 1970s that galaxies spin too fast. About 85% of all matter seems to be invisible. Nobody knows what it is.\n\n➡️ Tomorrow, Episode 87: Next stop, a ring of fire in the sky. The annular solar eclipse of February 6.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #darkmatter #astronomy #shorts #science",
-  "tags": [
-    "dark matter",
-    "vera rubin",
-    "fritz zwicky",
-    "bullet cluster",
-    "galaxy rotation",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode eighty-six. Next stop... dark matter.",
-      "visual": {
-        "type": "title",
-        "query": "Abell 1689 Hubble",
-        "commons": "Abell 1689 Hubble"
-      }
-    },
-    {
-      "text": "In nineteen thirty-three, astronomer Fritz Zwicky studied a cluster of galaxies, and noticed they were moving way too fast.",
-      "visual": {
-        "type": "image",
-        "query": "Coma Cluster",
-        "commons": "Coma Cluster"
-      },
-      "headline": "Too fast, 1933"
-    },
-    {
-      "text": "With only the matter we could see, their gravity should not have been strong enough to hold them together.",
-      "visual": {
-        "type": "image",
-        "query": "galaxy cluster Hubble",
-        "commons": "galaxy cluster Hubble"
-      },
-      "headline": "Missing gravity"
-    },
-    {
-      "text": "In the nineteen seventies, astronomer Vera Rubin measured how galaxies spin. The outer stars moved just as fast as the inner ones.",
-      "visual": {
-        "type": "image",
-        "query": "spiral galaxy Hubble",
-        "commons": "spiral galaxy Hubble"
-      },
-      "headline": "Vera Rubin's discovery"
-    },
-    {
-      "text": "They should have flown away. Something invisible was holding them in. Astronomers called it dark matter.",
-      "visual": {
-        "type": "image",
-        "query": "galaxy dark matter halo illustration",
-        "commons": "galaxy dark matter halo illustration"
-      },
-      "headline": "Dark matter"
-    },
-    {
-      "text": "Today we think about eighty-five percent of all the matter in the universe is dark matter.",
-      "visual": {
-        "type": "card",
-        "big": "85%",
-        "label": "of all matter"
-      }
-    },
-    {
-      "text": "It doesn't shine, reflect or block light. We only see its gravity, bending the light of distant galaxies.",
-      "visual": {
-        "type": "image",
-        "query": "gravitational lensing Hubble",
-        "commons": "gravitational lensing Hubble"
-      },
-      "headline": "Only its gravity"
-    },
-    {
-      "text": "Scientists have built detectors deep underground to catch dark matter particles. So far, nothing.",
-      "visual": {
-        "type": "image",
-        "query": "underground laboratory detector",
-        "commons": "underground laboratory detector"
-      },
-      "headline": "The hunt continues"
-    },
-    {
-      "text": "The new Vera Rubin Observatory, named after her, will map dark matter across billions of galaxies.",
-      "visual": {
-        "type": "image",
-        "query": "Vera C. Rubin Observatory",
-        "commons": "Vera C. Rubin Observatory"
-      },
-      "headline": "Rubin will map it"
-    },
-    {
-      "text": "Tomorrow, a ring of fire is coming to the sky. Next stop: the annular eclipse. Follow, so you don't miss episode eighty-seven.",
-      "visual": {
-        "type": "end",
-        "query": "annular eclipse October 2023",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "annular eclipse October 2023"
-        ]
-      }
-    }
-  ]
+ "number": 86,
+ "title": "Dark Matter",
+ "subtitle": "Dark matter.",
+ "next_stop": "Ring of Fire",
+ "yt_title": "What If 85% of Everything Was Invisible to You? 🌑 #shorts",
+ "description": "What If 85% of Everything Was Invisible to You?\n\nEpisode 86 of a daily journey through the universe. 🌑\nDark matter: Fritz Zwicky noticed in 1933 that galaxy clusters move too fast, and Vera Rubin showed in the 1970s that galaxies spin too fast. About 85% of all matter seems to be invisible. Nobody knows what it is.\n\n➡️ Tomorrow, Episode 87: Next stop, a ring of fire in the sky. The annular solar eclipse of February 6.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #darkmatter #astronomy #shorts #science",
+ "tags": [
+  "dark matter",
+  "vera rubin",
+  "fritz zwicky",
+  "bullet cluster",
+  "galaxy rotation",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What if most of the universe was invisible? It is.",
+   "visual": {
+    "type": "title",
+    "query": "Abell 1689 Hubble",
+    "commons": "Abell 1689 Hubble"
+   }
+  },
+  {
+   "text": "In nineteen thirty-three, astronomer Fritz Zwicky studied a cluster of galaxies, and noticed they were moving way too fast.",
+   "visual": {
+    "type": "image",
+    "query": "Coma Cluster",
+    "commons": "Coma Cluster"
+   },
+   "headline": "Too fast, 1933"
+  },
+  {
+   "text": "With only the matter we could see, their gravity should not have been strong enough to hold them together.",
+   "visual": {
+    "type": "image",
+    "query": "galaxy cluster Hubble",
+    "commons": "galaxy cluster Hubble"
+   },
+   "headline": "Missing gravity"
+  },
+  {
+   "text": "In the nineteen seventies, astronomer Vera Rubin measured how galaxies spin. The outer stars moved just as fast as the inner ones.",
+   "visual": {
+    "type": "image",
+    "query": "spiral galaxy Hubble",
+    "commons": "spiral galaxy Hubble"
+   },
+   "headline": "Vera Rubin's discovery"
+  },
+  {
+   "text": "They should have flown away. Something invisible was holding them in. Astronomers called it dark matter.",
+   "visual": {
+    "type": "image",
+    "query": "galaxy dark matter halo illustration",
+    "commons": "galaxy dark matter halo illustration"
+   },
+   "headline": "Dark matter"
+  },
+  {
+   "text": "Today we think about eighty-five percent of all the matter in the universe is dark matter.",
+   "visual": {
+    "type": "card",
+    "big": "85%",
+    "label": "of all matter"
+   }
+  },
+  {
+   "text": "It doesn't shine, reflect or block light. We only see its gravity, bending the light of distant galaxies.",
+   "visual": {
+    "type": "image",
+    "query": "gravitational lensing Hubble",
+    "commons": "gravitational lensing Hubble"
+   },
+   "headline": "Only its gravity"
+  },
+  {
+   "text": "Scientists have built detectors deep underground to catch dark matter particles. So far, nothing.",
+   "visual": {
+    "type": "image",
+    "query": "underground laboratory detector",
+    "commons": "underground laboratory detector"
+   },
+   "headline": "The hunt continues"
+  },
+  {
+   "text": "The new Vera Rubin Observatory, named after her, will map dark matter across billions of galaxies.",
+   "visual": {
+    "type": "image",
+    "query": "Vera C. Rubin Observatory",
+    "commons": "Vera C. Rubin Observatory"
+   },
+   "headline": "Rubin will map it"
+  },
+  {
+   "text": "Tomorrow, a ring of fire is coming to the sky. Next stop: the annular eclipse. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "annular eclipse October 2023",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "annular eclipse October 2023"
+    ]
+   }
+  }
+ ]
 }

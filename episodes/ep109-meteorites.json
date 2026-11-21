@@ -1,119 +1,119 @@
 {
-  "number": 109,
-  "title": "Meteorites You Can Hold",
-  "subtitle": "Older than Earth",
-  "next_stop": "Tunguska",
-  "yt_title": "You Can Hold Something Older Than Earth 🪨 | Ep. 109 #shorts",
-  "description": "Episode 109 of a daily journey through the universe. 🪨\nWe hold a meteorite: the difference between a meteor and a meteorite, tons of space dust falling on Earth every day, the 60-ton Hoba iron, meteorites from Mars and the Moon, and grains of stardust older than the Sun.\n\n➡️ Tomorrow, Episode 110: Next stop, Tunguska. The day a forest was flattened by the sky.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #meteorite #astronomy #shorts #science #nasa",
-  "tags": [
-    "meteorite",
-    "meteor",
-    "shooting star",
-    "hoba meteorite",
-    "space rock",
-    "allende meteorite",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and nine. Next stop... meteorites you can hold.",
-      "visual": {
-        "type": "title",
-        "query": "Willamette meteorite",
-        "commons": "Willamette meteorite"
-      }
-    },
-    {
-      "text": "A space rock flying through space is a meteoroid. When it burns in our sky, it's a meteor. If it lands, it's a meteorite.",
-      "visual": {
-        "type": "image",
-        "query": "meteor fireball night sky",
-        "commons": "meteor fireball night sky"
-      },
-      "headline": "Meteor or meteorite?"
-    },
-    {
-      "text": "Every day, Earth collects tons of space dust and rock. Most of it is tiny grains, falling unnoticed.",
-      "visual": {
-        "type": "card",
-        "big": "tons",
-        "label": "of space dust",
-        "sub": "every single day"
-      }
-    },
-    {
-      "text": "Some meteorites are mostly iron and nickel, the cores of broken asteroids.",
-      "visual": {
-        "type": "image",
-        "query": "iron meteorite",
-        "commons": "iron meteorite"
-      },
-      "headline": "Pieces of asteroid cores"
-    },
-    {
-      "text": "The biggest one ever found is Hoba, in Namibia. About sixty tons of iron. It never even left a crater.",
-      "visual": {
-        "type": "card",
-        "big": "60 tons",
-        "label": "Hoba meteorite",
-        "sub": "still where it fell"
-      }
-    },
-    {
-      "text": "We've even found meteorites from Mars and the Moon, blasted off by impacts and landed on Earth.",
-      "visual": {
-        "type": "image",
-        "query": "Martian meteorite ALH84001",
-        "commons": "Martian meteorite ALH84001"
-      },
-      "headline": "From Mars and the Moon"
-    },
-    {
-      "text": "Some stony meteorites are about four and a half billion years old. Older than any rock on Earth.",
-      "visual": {
-        "type": "card",
-        "big": "4.6 billion",
-        "label": "years old",
-        "sub": "older than Earth's rocks"
-      }
-    },
-    {
-      "text": "Inside some, scientists found tiny grains of stardust that are even older than our Sun.",
-      "visual": {
-        "type": "image",
-        "query": "Allende meteorite",
-        "commons": "Allende meteorite"
-      },
-      "headline": "Older than the Sun"
-    },
-    {
-      "text": "Want to touch one? Many science museums let you. You'd be touching the birth of the solar system.",
-      "visual": {
-        "type": "image",
-        "query": "meteorite museum",
-        "commons": "meteorite museum"
-      },
-      "headline": "Touch one yourself"
-    },
-    {
-      "text": "Tomorrow, we go back to nineteen oh eight. A blast in Siberia knocked down eighty million trees. Follow, so you don't miss episode one hundred and ten.",
-      "visual": {
-        "type": "end",
-        "query": "Tunguska",
-        "warm": true,
-        "wiki": [
-          "Tunguska event"
-        ],
-        "commons": [
-          "Tunguska event trees"
-        ]
-      }
-    }
-  ]
+ "number": 109,
+ "title": "Meteorites You Can Hold",
+ "subtitle": "Meteorites.",
+ "next_stop": "Tunguska",
+ "yt_title": "Could You Hold Something Older Than Earth? 🪨 #shorts",
+ "description": "Could You Hold Something Older Than Earth?\n\nEpisode 109 of a daily journey through the universe. 🪨\nWe hold a meteorite: the difference between a meteor and a meteorite, tons of space dust falling on Earth every day, the 60-ton Hoba iron, meteorites from Mars and the Moon, and grains of stardust older than the Sun.\n\n➡️ Tomorrow, Episode 110: Next stop, Tunguska. The day a forest was flattened by the sky.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #meteorite #astronomy #shorts #science #nasa",
+ "tags": [
+  "meteorite",
+  "meteor",
+  "shooting star",
+  "hoba meteorite",
+  "space rock",
+  "allende meteorite",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What if you could hold something older than Earth in your hand? You can.",
+   "visual": {
+    "type": "title",
+    "query": "Willamette meteorite",
+    "commons": "Willamette meteorite"
+   }
+  },
+  {
+   "text": "A space rock flying through space is a meteoroid. When it burns in our sky, it's a meteor. If it lands, it's a meteorite.",
+   "visual": {
+    "type": "image",
+    "query": "meteor fireball night sky",
+    "commons": "meteor fireball night sky"
+   },
+   "headline": "Meteor or meteorite?"
+  },
+  {
+   "text": "Every day, Earth collects tons of space dust and rock. Most of it is tiny grains, falling unnoticed.",
+   "visual": {
+    "type": "card",
+    "big": "tons",
+    "label": "of space dust",
+    "sub": "every single day"
+   }
+  },
+  {
+   "text": "Some meteorites are mostly iron and nickel, the cores of broken asteroids.",
+   "visual": {
+    "type": "image",
+    "query": "iron meteorite",
+    "commons": "iron meteorite"
+   },
+   "headline": "Pieces of asteroid cores"
+  },
+  {
+   "text": "The biggest one ever found is Hoba, in Namibia. About sixty tons of iron. It never even left a crater.",
+   "visual": {
+    "type": "card",
+    "big": "60 tons",
+    "label": "Hoba meteorite",
+    "sub": "still where it fell"
+   }
+  },
+  {
+   "text": "We've even found meteorites from Mars and the Moon, blasted off by impacts and landed on Earth.",
+   "visual": {
+    "type": "image",
+    "query": "Martian meteorite ALH84001",
+    "commons": "Martian meteorite ALH84001"
+   },
+   "headline": "From Mars and the Moon"
+  },
+  {
+   "text": "Some stony meteorites are about four and a half billion years old. Older than any rock on Earth.",
+   "visual": {
+    "type": "card",
+    "big": "4.6 billion",
+    "label": "years old",
+    "sub": "older than Earth's rocks"
+   }
+  },
+  {
+   "text": "Inside some, scientists found tiny grains of stardust that are even older than our Sun.",
+   "visual": {
+    "type": "image",
+    "query": "Allende meteorite",
+    "commons": "Allende meteorite"
+   },
+   "headline": "Older than the Sun"
+  },
+  {
+   "text": "Want to touch one? Many science museums let you. You'd be touching the birth of the solar system.",
+   "visual": {
+    "type": "image",
+    "query": "meteorite museum",
+    "commons": "meteorite museum"
+   },
+   "headline": "Touch one yourself"
+  },
+  {
+   "text": "Tomorrow, we go back to nineteen oh eight. A blast in Siberia knocked down eighty million trees. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Tunguska",
+    "warm": true,
+    "wiki": [
+     "Tunguska event"
+    ],
+    "commons": [
+     "Tunguska event trees"
+    ]
+   }
+  }
+ ]
 }

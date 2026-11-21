@@ -1,114 +1,114 @@
 {
-  "number": 76,
-  "title": "The Hubble Space Telescope",
-  "subtitle": "36 years of wonder",
-  "next_stop": "Space Junk",
-  "yt_title": "Hubble's First Photos Were Blurry 🔭 | Ep. 76 #shorts",
-  "description": "Episode 76 of a daily journey through the universe. 🔭\nSeason 5: Explorers begins. The Hubble Space Telescope launched April 24, 1990, but its first images were blurry: its mirror was off by a fraction of a hair's width. Astronauts fixed it in 1993, and after 36 years it's still working.\n\n➡️ Tomorrow, Episode 77: Next stop, space junk. Tens of thousands of objects racing around Earth.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #hubble #astronomy #shorts #science",
-  "tags": [
-    "hubble space telescope",
-    "hubble",
-    "nasa",
-    "space telescope",
-    "servicing mission",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode seventy-six. Season five: the explorers. Next stop... the Hubble Space Telescope.",
-      "visual": {
-        "type": "title",
-        "query": "Hubble Space Telescope",
-        "wiki": "Hubble Space Telescope"
-      }
-    },
-    {
-      "text": "On April twenty-fourth, nineteen ninety, the space shuttle Discovery carried the Hubble Space Telescope into orbit.",
-      "visual": {
-        "type": "image",
-        "query": "STS-31 launch Discovery",
-        "commons": "STS-31 launch Discovery"
-      },
-      "headline": "Launched, 1990"
-    },
-    {
-      "text": "Above the blurring of Earth's air, it would see the universe more sharply than ever. But the first pictures came back blurry.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble Space Telescope deployment STS-31",
-        "commons": "Hubble Space Telescope deployment STS-31"
-      },
-      "headline": "Blurry pictures"
-    },
-    {
-      "text": "Its main mirror had been ground to the wrong shape, off by about a fiftieth of the width of a human hair.",
-      "visual": {
-        "type": "card",
-        "big": "1/50",
-        "label": "of a hair's width"
-      }
-    },
-    {
-      "text": "Jokes about the expensive mistake were everywhere. But NASA had a plan: Hubble was built to be repaired by astronauts.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble servicing mission astronaut",
-        "commons": "Hubble servicing mission astronaut"
-      },
-      "headline": "Built to be repaired"
-    },
-    {
-      "text": "In nineteen ninety-three, astronauts added corrective optics. Glasses, for a telescope. The images became stunning.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble STS-61 servicing",
-        "commons": "Hubble STS-61 servicing"
-      },
-      "headline": "Glasses for a telescope"
-    },
-    {
-      "text": "Five servicing missions kept it upgraded. The last one flew in two thousand nine.",
-      "visual": {
-        "type": "card",
-        "big": "5",
-        "label": "servicing missions"
-      }
-    },
-    {
-      "text": "Hubble helped measure the age of the universe, showed that its expansion is speeding up, and photographed galaxies billions of light-years away.",
-      "visual": {
-        "type": "image",
-        "query": "Pillars of Creation Hubble",
-        "commons": "Pillars of Creation Hubble"
-      },
-      "headline": "What Hubble found"
-    },
-    {
-      "text": "Thirty-six years later, despite aging gyroscopes, it's still working, and NASA expects it to continue into the twenty-thirties.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble Space Telescope",
-        "wiki": "Hubble Space Telescope"
-      },
-      "headline": "Still working"
-    },
-    {
-      "text": "Tomorrow, the growing cloud of junk circling Earth. Next stop: space junk. Follow, so you don't miss episode seventy-seven.",
-      "visual": {
-        "type": "end",
-        "query": "space debris illustration ESA",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "space debris illustration ESA"
-        ]
-      }
-    }
-  ]
+ "number": 76,
+ "title": "The Hubble Space Telescope",
+ "subtitle": "A billion-dollar mistake.",
+ "next_stop": "Space Junk",
+ "yt_title": "Why Were Hubble's First Photos Blurry? 🔭 #shorts",
+ "description": "Why Were Hubble's First Photos Blurry?\n\nEpisode 76 of a daily journey through the universe. 🔭\nSeason 5: Explorers begins. The Hubble Space Telescope launched April 24, 1990, but its first images were blurry: its mirror was off by a fraction of a hair's width. Astronauts fixed it in 1993, and after 36 years it's still working.\n\n➡️ Tomorrow, Episode 77: Next stop, space junk. Tens of thousands of objects racing around Earth.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #hubble #astronomy #shorts #science",
+ "tags": [
+  "hubble space telescope",
+  "hubble",
+  "nasa",
+  "space telescope",
+  "servicing mission",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "The most famous telescope ever built sent back blurry photos. Here's what went wrong.",
+   "visual": {
+    "type": "title",
+    "query": "Hubble Space Telescope",
+    "wiki": "Hubble Space Telescope"
+   }
+  },
+  {
+   "text": "On April twenty-fourth, nineteen ninety, the space shuttle Discovery carried the Hubble Space Telescope into orbit.",
+   "visual": {
+    "type": "image",
+    "query": "STS-31 launch Discovery",
+    "commons": "STS-31 launch Discovery"
+   },
+   "headline": "Launched, 1990"
+  },
+  {
+   "text": "Above the blurring of Earth's air, it would see the universe more sharply than ever. But the first pictures came back blurry.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble Space Telescope deployment STS-31",
+    "commons": "Hubble Space Telescope deployment STS-31"
+   },
+   "headline": "Blurry pictures"
+  },
+  {
+   "text": "Its main mirror had been ground to the wrong shape, off by about a fiftieth of the width of a human hair.",
+   "visual": {
+    "type": "card",
+    "big": "1/50",
+    "label": "of a hair's width"
+   }
+  },
+  {
+   "text": "Jokes about the expensive mistake were everywhere. But NASA had a plan: Hubble was built to be repaired by astronauts.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble servicing mission astronaut",
+    "commons": "Hubble servicing mission astronaut"
+   },
+   "headline": "Built to be repaired"
+  },
+  {
+   "text": "In nineteen ninety-three, astronauts added corrective optics. Glasses, for a telescope. The images became stunning.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble STS-61 servicing",
+    "commons": "Hubble STS-61 servicing"
+   },
+   "headline": "Glasses for a telescope"
+  },
+  {
+   "text": "Five servicing missions kept it upgraded. The last one flew in two thousand nine.",
+   "visual": {
+    "type": "card",
+    "big": "5",
+    "label": "servicing missions"
+   }
+  },
+  {
+   "text": "Hubble helped measure the age of the universe, showed that its expansion is speeding up, and photographed galaxies billions of light-years away.",
+   "visual": {
+    "type": "image",
+    "query": "Pillars of Creation Hubble",
+    "commons": "Pillars of Creation Hubble"
+   },
+   "headline": "What Hubble found"
+  },
+  {
+   "text": "Thirty-six years later, despite aging gyroscopes, it's still working, and NASA expects it to continue into the twenty-thirties.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble Space Telescope",
+    "wiki": "Hubble Space Telescope"
+   },
+   "headline": "Still working"
+  },
+  {
+   "text": "Tomorrow, the growing cloud of junk circling Earth. Next stop: space junk. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "space debris illustration ESA",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "space debris illustration ESA"
+    ]
+   }
+  }
+ ]
 }

@@ -1,121 +1,121 @@
 {
-  "number": 93,
-  "title": "Ganymede",
-  "subtitle": "Bigger than a planet",
-  "next_stop": "Callisto",
-  "yt_title": "This Moon Is Bigger Than Mercury 🌕 | Ep. 93 #shorts",
-  "description": "Episode 93 of a daily journey through the universe. 🌕\nWe land on Ganymede, the biggest moon in the solar system: wider than Mercury, the only moon with its own magnetic field, auroras that revealed a hidden salty ocean, and ESA's Juice spacecraft that will orbit it in 2034.\n\n➡️ Tomorrow, Episode 94: Next stop, Callisto. The most cratered world we know.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #ganymede #astronomy #shorts #science",
-  "tags": [
-    "ganymede",
-    "jupiter moons",
-    "juice mission",
-    "subsurface ocean",
-    "biggest moon",
-    "esa",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode ninety-three. Next stop... Ganymede.",
-      "visual": {
-        "type": "title",
-        "query": "Ganymede",
-        "wiki": "Ganymede (moon)"
-      }
-    },
-    {
-      "text": "Ganymede, Jupiter's biggest moon, is the largest moon in the whole solar system.",
-      "visual": {
-        "type": "image",
-        "query": "Ganymede Juno 2021",
-        "commons": "Ganymede Juno 2021"
-      },
-      "headline": "The biggest moon"
-    },
-    {
-      "text": "It's about five thousand two hundred and seventy kilometers wide. That's bigger than the planet Mercury.",
-      "visual": {
-        "type": "card",
-        "big": "5,268 km",
-        "label": "wide",
-        "sub": "wider than Mercury"
-      }
-    },
-    {
-      "text": "And it's the only moon we know that makes its own magnetic field. So Ganymede has its own auroras.",
-      "visual": {
-        "type": "image",
-        "query": "Ganymede aurora Hubble",
-        "commons": "Ganymede aurora Hubble"
-      },
-      "headline": "Its own auroras"
-    },
-    {
-      "text": "In twenty fifteen, Hubble watched those auroras rock back and forth. A huge salty ocean under the ice was holding them steady.",
-      "visual": {
-        "type": "image",
-        "query": "Ganymede Hubble",
-        "commons": "Ganymede Hubble"
-      },
-      "headline": "An ocean underneath"
-    },
-    {
-      "text": "That ocean, buried under about one hundred and fifty kilometers of ice, may hold more water than all the oceans on Earth.",
-      "visual": {
-        "type": "card",
-        "big": "150 km",
-        "label": "of ice on top",
-        "sub": "with an ocean below"
-      }
-    },
-    {
-      "text": "Its surface is a patchwork: dark ancient ground, crossed by bright grooves where the ice cracked and shifted.",
-      "visual": {
-        "type": "image",
-        "query": "Ganymede surface grooves Galileo",
-        "commons": "Ganymede surface grooves Galileo"
-      },
-      "headline": "Cracked ice"
-    },
-    {
-      "text": "In twenty twenty-three, Europe launched a spacecraft called Juice. It reaches Jupiter in twenty thirty-one.",
-      "visual": {
-        "type": "image",
-        "query": "Ariane 5 launch",
-        "commons": [
-          "Ariane 5 launch Kourou",
-          "Ariane 5 liftoff"
-        ]
-      },
-      "headline": "Europe's mission to Jupiter"
-    },
-    {
-      "text": "In twenty thirty-four, it will orbit Ganymede. The first spacecraft ever to orbit a moon other than our own.",
-      "visual": {
-        "type": "card",
-        "big": "2034",
-        "label": "Juice orbits Ganymede",
-        "sub": "a first for any spacecraft"
-      }
-    },
-    {
-      "text": "But Jupiter's next moon out has the oldest face in the solar system. Covered in craters, and almost unchanged for four billion years. Follow, so you don't miss episode ninety-four.",
-      "visual": {
-        "type": "end",
-        "query": "Callisto Galileo",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Callisto moon Galileo",
-          "Callisto Voyager"
-        ]
-      }
-    }
-  ]
+ "number": 93,
+ "title": "Ganymede",
+ "subtitle": "Bigger than Mercury.",
+ "next_stop": "Callisto",
+ "yt_title": "Could You Swim in the Ocean of Ganymede? 🌕 #shorts",
+ "description": "Could You Swim in the Ocean of Ganymede?\n\nEpisode 93 of a daily journey through the universe. 🌕\nWe land on Ganymede, the biggest moon in the solar system: wider than Mercury, the only moon with its own magnetic field, auroras that revealed a hidden salty ocean, and ESA's Juice spacecraft that will orbit it in 2034.\n\n➡️ Tomorrow, Episode 94: Next stop, Callisto. The most cratered world we know.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #ganymede #astronomy #shorts #science",
+ "tags": [
+  "ganymede",
+  "jupiter moons",
+  "juice mission",
+  "subsurface ocean",
+  "biggest moon",
+  "esa",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "There's a moon bigger than a planet, and it may have more water than Earth.",
+   "visual": {
+    "type": "title",
+    "query": "Ganymede",
+    "wiki": "Ganymede (moon)"
+   }
+  },
+  {
+   "text": "Ganymede, Jupiter's biggest moon, is the largest moon in the whole solar system.",
+   "visual": {
+    "type": "image",
+    "query": "Ganymede Juno 2021",
+    "commons": "Ganymede Juno 2021"
+   },
+   "headline": "The biggest moon"
+  },
+  {
+   "text": "It's about five thousand two hundred and seventy kilometers wide. That's bigger than the planet Mercury.",
+   "visual": {
+    "type": "card",
+    "big": "5,268 km",
+    "label": "wide",
+    "sub": "wider than Mercury"
+   }
+  },
+  {
+   "text": "And it's the only moon we know that makes its own magnetic field. So Ganymede has its own auroras.",
+   "visual": {
+    "type": "image",
+    "query": "Ganymede aurora Hubble",
+    "commons": "Ganymede aurora Hubble"
+   },
+   "headline": "Its own auroras"
+  },
+  {
+   "text": "In twenty fifteen, Hubble watched those auroras rock back and forth. A huge salty ocean under the ice was holding them steady.",
+   "visual": {
+    "type": "image",
+    "query": "Ganymede Hubble",
+    "commons": "Ganymede Hubble"
+   },
+   "headline": "An ocean underneath"
+  },
+  {
+   "text": "That ocean, buried under about one hundred and fifty kilometers of ice, may hold more water than all the oceans on Earth.",
+   "visual": {
+    "type": "card",
+    "big": "150 km",
+    "label": "of ice on top",
+    "sub": "with an ocean below"
+   }
+  },
+  {
+   "text": "Its surface is a patchwork: dark ancient ground, crossed by bright grooves where the ice cracked and shifted.",
+   "visual": {
+    "type": "image",
+    "query": "Ganymede surface grooves Galileo",
+    "commons": "Ganymede surface grooves Galileo"
+   },
+   "headline": "Cracked ice"
+  },
+  {
+   "text": "In twenty twenty-three, Europe launched a spacecraft called Juice. It reaches Jupiter in twenty thirty-one.",
+   "visual": {
+    "type": "image",
+    "query": "Ariane 5 launch",
+    "commons": [
+     "Ariane 5 launch Kourou",
+     "Ariane 5 liftoff"
+    ]
+   },
+   "headline": "Europe's mission to Jupiter"
+  },
+  {
+   "text": "In twenty thirty-four, it will orbit Ganymede. The first spacecraft ever to orbit a moon other than our own.",
+   "visual": {
+    "type": "card",
+    "big": "2034",
+    "label": "Juice orbits Ganymede",
+    "sub": "a first for any spacecraft"
+   }
+  },
+  {
+   "text": "But Jupiter's next moon out has the oldest face in the solar system. Covered in craters, and almost unchanged for four billion years. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Callisto Galileo",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Callisto moon Galileo",
+     "Callisto Voyager"
+    ]
+   }
+  }
+ ]
 }

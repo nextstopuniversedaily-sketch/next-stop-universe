@@ -1,115 +1,115 @@
 {
-  "number": 68,
-  "title": "Breakthrough Starshot",
-  "subtitle": "To the stars in 20 years",
-  "next_stop": "The Speed of Light",
-  "yt_title": "A Plan to Reach Another Star in 20 Years 🚀 | Ep. 68 #shorts",
-  "description": "Episode 68 of a daily journey through the universe. 🚀\nBreakthrough Starshot, announced in 2016: tiny gram-scale spacecraft on ultra-thin light sails, pushed by powerful lasers to about 20% of the speed of light, could reach Alpha Centauri in about 20 years. The idea, and the huge challenges.\n\n➡️ Tomorrow, Episode 69: Next stop, the speed of light. The universe's ultimate speed limit.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #starshot #astronomy #shorts #science",
-  "tags": [
-    "breakthrough starshot",
-    "light sail",
-    "interstellar travel",
-    "alpha centauri",
-    "laser propulsion",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode sixty-eight. Next stop... Breakthrough Starshot.",
-      "visual": {
-        "type": "title",
-        "query": "solar sail artist impression",
-        "commons": "solar sail artist impression"
-      }
-    },
-    {
-      "text": "With today's rockets, reaching Proxima Centauri would take tens of thousands of years.",
-      "visual": {
-        "type": "card",
-        "big": "10,000s",
-        "label": "of years by rocket"
-      }
-    },
-    {
-      "text": "In twenty sixteen, scientists announced a bold idea to do it in about twenty years. It's called Breakthrough Starshot.",
-      "visual": {
-        "type": "image",
-        "query": "solar sail spacecraft artist concept",
-        "commons": "solar sail spacecraft artist concept"
-      },
-      "headline": "Breakthrough Starshot"
-    },
-    {
-      "text": "Instead of one big spaceship, send hundreds of tiny ones. Each would be a chip weighing about a gram.",
-      "visual": {
-        "type": "image",
-        "query": "computer chip close-up",
-        "commons": "computer chip close-up"
-      },
-      "headline": "Tiny spacecraft"
-    },
-    {
-      "text": "Each chip would ride on a sail just a few hundred atoms thick, a few meters wide.",
-      "visual": {
-        "type": "image",
-        "query": "LightSail 2 solar sail",
-        "commons": "LightSail 2 solar sail"
-      },
-      "headline": "A sail of light"
-    },
-    {
-      "text": "On Earth, a huge array of lasers would push the sails with light for a few minutes.",
-      "visual": {
-        "type": "image",
-        "query": "laser beams night sky observatory",
-        "commons": "laser beams night sky observatory"
-      },
-      "headline": "Pushed by lasers"
-    },
-    {
-      "text": "That could speed them up to about twenty percent of the speed of light.",
-      "visual": {
-        "type": "card",
-        "big": "20%",
-        "label": "of the speed of light"
-      }
-    },
-    {
-      "text": "They would fly past the Alpha Centauri stars, snap photos, and beam them home. The signal would take over four years to reach us.",
-      "visual": {
-        "type": "image",
-        "query": "Alpha Centauri Hubble",
-        "commons": "Alpha Centauri Hubble"
-      },
-      "headline": "Photos from another star"
-    },
-    {
-      "text": "The challenges are enormous: building the lasers, surviving dust impacts at that speed, sending a signal home. It may take decades.",
-      "visual": {
-        "type": "image",
-        "query": "dust particles space illustration",
-        "commons": "dust particles space illustration"
-      },
-      "headline": "Huge challenges"
-    },
-    {
-      "text": "Tomorrow, the fastest thing in the universe, and why nothing can beat it. Next stop: the speed of light. Follow, so you don't miss episode sixty-nine.",
-      "visual": {
-        "type": "end",
-        "query": "light beam prism",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "light beam prism",
-          "laser beam"
-        ]
-      }
-    }
-  ]
+ "number": 68,
+ "title": "Breakthrough Starshot",
+ "subtitle": "Breakthrough Starshot.",
+ "next_stop": "The Speed of Light",
+ "yt_title": "Could You Reach Another Star in 20 Years? 🚀 #shorts",
+ "description": "Could You Reach Another Star in 20 Years?\n\nEpisode 68 of a daily journey through the universe. 🚀\nBreakthrough Starshot, announced in 2016: tiny gram-scale spacecraft on ultra-thin light sails, pushed by powerful lasers to about 20% of the speed of light, could reach Alpha Centauri in about 20 years. The idea, and the huge challenges.\n\n➡️ Tomorrow, Episode 69: Next stop, the speed of light. The universe's ultimate speed limit.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #starshot #astronomy #shorts #science",
+ "tags": [
+  "breakthrough starshot",
+  "light sail",
+  "interstellar travel",
+  "alpha centauri",
+  "laser propulsion",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Could we reach another star in just twenty years? There's a real plan.",
+   "visual": {
+    "type": "title",
+    "query": "solar sail artist impression",
+    "commons": "solar sail artist impression"
+   }
+  },
+  {
+   "text": "With today's rockets, reaching Proxima Centauri would take tens of thousands of years.",
+   "visual": {
+    "type": "card",
+    "big": "10,000s",
+    "label": "of years by rocket"
+   }
+  },
+  {
+   "text": "In twenty sixteen, scientists announced a bold idea to do it in about twenty years. It's called Breakthrough Starshot.",
+   "visual": {
+    "type": "image",
+    "query": "solar sail spacecraft artist concept",
+    "commons": "solar sail spacecraft artist concept"
+   },
+   "headline": "Breakthrough Starshot"
+  },
+  {
+   "text": "Instead of one big spaceship, send hundreds of tiny ones. Each would be a chip weighing about a gram.",
+   "visual": {
+    "type": "image",
+    "query": "computer chip close-up",
+    "commons": "computer chip close-up"
+   },
+   "headline": "Tiny spacecraft"
+  },
+  {
+   "text": "Each chip would ride on a sail just a few hundred atoms thick, a few meters wide.",
+   "visual": {
+    "type": "image",
+    "query": "LightSail 2 solar sail",
+    "commons": "LightSail 2 solar sail"
+   },
+   "headline": "A sail of light"
+  },
+  {
+   "text": "On Earth, a huge array of lasers would push the sails with light for a few minutes.",
+   "visual": {
+    "type": "image",
+    "query": "laser beams night sky observatory",
+    "commons": "laser beams night sky observatory"
+   },
+   "headline": "Pushed by lasers"
+  },
+  {
+   "text": "That could speed them up to about twenty percent of the speed of light.",
+   "visual": {
+    "type": "card",
+    "big": "20%",
+    "label": "of the speed of light"
+   }
+  },
+  {
+   "text": "They would fly past the Alpha Centauri stars, snap photos, and beam them home. The signal would take over four years to reach us.",
+   "visual": {
+    "type": "image",
+    "query": "Alpha Centauri Hubble",
+    "commons": "Alpha Centauri Hubble"
+   },
+   "headline": "Photos from another star"
+  },
+  {
+   "text": "The challenges are enormous: building the lasers, surviving dust impacts at that speed, sending a signal home. It may take decades.",
+   "visual": {
+    "type": "image",
+    "query": "dust particles space illustration",
+    "commons": "dust particles space illustration"
+   },
+   "headline": "Huge challenges"
+  },
+  {
+   "text": "Tomorrow, the fastest thing in the universe, and why nothing can beat it. Next stop: the speed of light. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "light beam prism",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "light beam prism",
+     "laser beam"
+    ]
+   }
+  }
+ ]
 }

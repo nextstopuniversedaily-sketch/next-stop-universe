@@ -1,125 +1,125 @@
 {
-  "number": 45,
-  "title": "Interstellar Visitors",
-  "subtitle": "From other stars",
-  "next_stop": "Tabby's Star",
-  "yt_title": "3 Objects From Other Stars Have Visited Us ☄️ | Ep. 45 #shorts",
-  "description": "Episode 45 of a daily journey through the universe. ☄️\nInterstellar visitors: 'Oumuamua in 2017, the strange cigar- or pancake-shaped object that sped up as it left; comet Borisov in 2019; and 3I/ATLAS in 2025, the fastest yet and possibly older than our solar system.\n\n➡️ Tomorrow, Episode 46: Next stop, Tabby's star. The star that dimmed so strangely, some wondered about alien megastructures.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #oumuamua #astronomy #shorts #science",
-  "tags": [
-    "oumuamua",
-    "3i atlas",
-    "interstellar object",
-    "borisov",
-    "comet",
-    "interstellar comet",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode forty-five. Next stop... visitors from other stars.",
-      "visual": {
-        "type": "title",
-        "query": "Oumuamua artist impression",
-        "commons": "Oumuamua artist impression"
-      }
-    },
-    {
-      "text": "Everything in our solar system was born around our Sun. But in twenty seventeen, a telescope in Hawaii spotted something that wasn't.",
-      "visual": {
-        "type": "image",
-        "query": "Pan-STARRS telescope Haleakala",
-        "commons": "Pan-STARRS telescope Haleakala"
-      },
-      "headline": "Not from here"
-    },
-    {
-      "text": "It was moving far too fast to be trapped by the Sun's gravity. It came from another star system. Astronomers named it Oumuamua, Hawaiian for a messenger from afar.",
-      "visual": {
-        "type": "image",
-        "query": "ʻOumuamua",
-        "wiki": "ʻOumuamua"
-      },
-      "headline": "Oumuamua"
-    },
-    {
-      "text": "It was strange. Its brightness changed so much that it may be long like a cigar, or flat like a pancake.",
-      "visual": {
-        "type": "card",
-        "big": "2017",
-        "label": "the first interstellar object"
-      }
-    },
-    {
-      "text": "Stranger still, it sped up slightly as it left, without a visible tail. Most scientists think escaping gas pushed it. A few wondered if it was artificial.",
-      "visual": {
-        "type": "image",
-        "query": "Oumuamua artist impression",
-        "commons": "Oumuamua artist impression"
-      },
-      "headline": "It sped up"
-    },
-    {
-      "text": "Two years later, an amateur astronomer named Gennadiy Borisov found the second visitor: a comet from another star, with a glowing tail.",
-      "visual": {
-        "type": "image",
-        "query": "2I/Borisov",
-        "wiki": "2I/Borisov"
-      },
-      "headline": "Comet Borisov, 2019"
-    },
-    {
-      "text": "Then in July twenty twenty-five, a telescope in Chile found the third: 3I ATLAS.",
-      "visual": {
-        "type": "image",
-        "query": "3I/ATLAS",
-        "wiki": "3I/ATLAS"
-      },
-      "headline": "3I/ATLAS, 2025"
-    },
-    {
-      "text": "It raced in at about fifty-eight kilometers per second. The fastest interstellar visitor yet.",
-      "visual": {
-        "type": "card",
-        "big": "58 km/s",
-        "label": "3I/ATLAS speed"
-      }
-    },
-    {
-      "text": "It may come from an older part of our galaxy, which means this comet could be older than our solar system.",
-      "visual": {
-        "type": "image",
-        "query": "Comet Hale-Bopp 1997",
-        "commons": "Comet Hale-Bopp 1997"
-      },
-      "headline": "Older than the Sun?"
-    },
-    {
-      "text": "New telescopes like the Vera Rubin Observatory may find many more. Pieces of other worlds, delivered to our door.",
-      "visual": {
-        "type": "image",
-        "query": "Vera Rubin Observatory Cerro Pachon",
-        "commons": "Vera Rubin Observatory Cerro Pachon"
-      },
-      "headline": "More are coming"
-    },
-    {
-      "text": "Tomorrow, a star that dims in a way no one could explain. Next stop: Tabby's star. Follow, so you don't miss episode forty-six.",
-      "visual": {
-        "type": "end",
-        "query": "star with debris disk artist impression",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "star with debris disk artist impression",
-          "dusty debris disk star artist"
-        ]
-      }
-    }
-  ]
+ "number": 45,
+ "title": "Interstellar Visitors",
+ "subtitle": "Visitors from other stars.",
+ "next_stop": "Tabby's Star",
+ "yt_title": "What If Something From Another Star Flew Past You? ☄️ #shorts",
+ "description": "What If Something From Another Star Flew Past You?\n\nEpisode 45 of a daily journey through the universe. ☄️\nInterstellar visitors: 'Oumuamua in 2017, the strange cigar- or pancake-shaped object that sped up as it left; comet Borisov in 2019; and 3I/ATLAS in 2025, the fastest yet and possibly older than our solar system.\n\n➡️ Tomorrow, Episode 46: Next stop, Tabby's star. The star that dimmed so strangely, some wondered about alien megastructures.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #oumuamua #astronomy #shorts #science",
+ "tags": [
+  "oumuamua",
+  "3i atlas",
+  "interstellar object",
+  "borisov",
+  "comet",
+  "interstellar comet",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What if something from another star flew right through our solar system? It already has. Three times.",
+   "visual": {
+    "type": "title",
+    "query": "Oumuamua artist impression",
+    "commons": "Oumuamua artist impression"
+   }
+  },
+  {
+   "text": "Everything in our solar system was born around our Sun. But in twenty seventeen, a telescope in Hawaii spotted something that wasn't.",
+   "visual": {
+    "type": "image",
+    "query": "Pan-STARRS telescope Haleakala",
+    "commons": "Pan-STARRS telescope Haleakala"
+   },
+   "headline": "Not from here"
+  },
+  {
+   "text": "It was moving far too fast to be trapped by the Sun's gravity. It came from another star system. Astronomers named it Oumuamua, Hawaiian for a messenger from afar.",
+   "visual": {
+    "type": "image",
+    "query": "ʻOumuamua",
+    "wiki": "ʻOumuamua"
+   },
+   "headline": "Oumuamua"
+  },
+  {
+   "text": "It was strange. Its brightness changed so much that it may be long like a cigar, or flat like a pancake.",
+   "visual": {
+    "type": "card",
+    "big": "2017",
+    "label": "the first interstellar object"
+   }
+  },
+  {
+   "text": "Stranger still, it sped up slightly as it left, without a visible tail. Most scientists think escaping gas pushed it. A few wondered if it was artificial.",
+   "visual": {
+    "type": "image",
+    "query": "Oumuamua artist impression",
+    "commons": "Oumuamua artist impression"
+   },
+   "headline": "It sped up"
+  },
+  {
+   "text": "Two years later, an amateur astronomer named Gennadiy Borisov found the second visitor: a comet from another star, with a glowing tail.",
+   "visual": {
+    "type": "image",
+    "query": "2I/Borisov",
+    "wiki": "2I/Borisov"
+   },
+   "headline": "Comet Borisov, 2019"
+  },
+  {
+   "text": "Then in July twenty twenty-five, a telescope in Chile found the third: 3I ATLAS.",
+   "visual": {
+    "type": "image",
+    "query": "3I/ATLAS",
+    "wiki": "3I/ATLAS"
+   },
+   "headline": "3I/ATLAS, 2025"
+  },
+  {
+   "text": "It raced in at about fifty-eight kilometers per second. The fastest interstellar visitor yet.",
+   "visual": {
+    "type": "card",
+    "big": "58 km/s",
+    "label": "3I/ATLAS speed"
+   }
+  },
+  {
+   "text": "It may come from an older part of our galaxy, which means this comet could be older than our solar system.",
+   "visual": {
+    "type": "image",
+    "query": "Comet Hale-Bopp 1997",
+    "commons": "Comet Hale-Bopp 1997"
+   },
+   "headline": "Older than the Sun?"
+  },
+  {
+   "text": "New telescopes like the Vera Rubin Observatory may find many more. Pieces of other worlds, delivered to our door.",
+   "visual": {
+    "type": "image",
+    "query": "Vera Rubin Observatory Cerro Pachon",
+    "commons": "Vera Rubin Observatory Cerro Pachon"
+   },
+   "headline": "More are coming"
+  },
+  {
+   "text": "Tomorrow, a star that dims in a way no one could explain. Next stop: Tabby's star. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "star with debris disk artist impression",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "star with debris disk artist impression",
+     "dusty debris disk star artist"
+    ]
+   }
+  }
+ ]
 }

@@ -1,115 +1,115 @@
 {
-  "number": 69,
-  "title": "The Speed of Light",
-  "subtitle": "The ultimate speed limit",
-  "next_stop": "Time Dilation",
-  "yt_title": "Why Nothing Is Faster Than Light ⚡ | Ep. 69 #shorts",
-  "description": "Episode 69 of a daily journey through the universe. ⚡\nThe speed of light: almost 300,000 km per second. Sunlight takes about 8 minutes to reach us, Andromeda's light 2.5 million years. Why looking far away means looking back in time, and why nothing with mass can reach it.\n\n➡️ Tomorrow, Episode 70: Next stop, time dilation. Why time runs at different speeds.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #speedoflight #astronomy #shorts #science",
-  "tags": [
-    "speed of light",
-    "light year",
-    "einstein",
-    "relativity",
-    "looking back in time",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode sixty-nine. Next stop... the speed of light.",
-      "visual": {
-        "type": "title",
-        "query": "light beam prism",
-        "commons": "light beam prism"
-      }
-    },
-    {
-      "text": "Light travels at almost three hundred thousand kilometers every second.",
-      "visual": {
-        "type": "card",
-        "big": "300,000 km/s",
-        "label": "the speed of light"
-      }
-    },
-    {
-      "text": "That's fast enough to go around Earth more than seven times in one second.",
-      "visual": {
-        "type": "card",
-        "big": "7.5×",
-        "label": "around Earth in 1 second"
-      }
-    },
-    {
-      "text": "Moonlight takes just over one second to reach you. Sunlight takes about eight minutes.",
-      "visual": {
-        "type": "image",
-        "query": "Sun SDO",
-        "commons": "Sun SDO"
-      },
-      "headline": "8 minutes from the Sun"
-    },
-    {
-      "text": "So when you look at the Sun, you see it as it was eight minutes ago. If it vanished, you wouldn't know for eight minutes.",
-      "visual": {
-        "type": "image",
-        "query": "sunset ocean",
-        "commons": "sunset ocean"
-      },
-      "headline": "Looking into the past"
-    },
-    {
-      "text": "The light from the Andromeda galaxy left it two and a half million years ago, before modern humans existed.",
-      "visual": {
-        "type": "image",
-        "query": "Andromeda galaxy",
-        "commons": "Andromeda galaxy"
-      },
-      "headline": "2.5 million years ago"
-    },
-    {
-      "text": "So telescopes are time machines. The farther we look, the further back in time we see.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble Ultra Deep Field",
-        "commons": "Hubble Ultra Deep Field"
-      },
-      "headline": "Telescopes are time machines"
-    },
-    {
-      "text": "In nineteen oh five, Einstein showed that nothing with mass can reach the speed of light. The faster you go, the harder it gets to speed up.",
-      "visual": {
-        "type": "image",
-        "query": "Albert Einstein",
-        "wiki": "Albert Einstein"
-      },
-      "headline": "The ultimate limit"
-    },
-    {
-      "text": "Our fastest spacecraft, the Parker Solar Probe, has reached about two hundred kilometers per second. Still less than one tenth of one percent of light speed.",
-      "visual": {
-        "type": "image",
-        "query": "Parker Solar Probe",
-        "commons": "Parker Solar Probe"
-      },
-      "headline": "Our fastest spacecraft"
-    },
-    {
-      "text": "Tomorrow, the strangest consequence of all: time doesn't run at the same speed for everyone. Next stop: time dilation. Follow, so you don't miss episode seventy.",
-      "visual": {
-        "type": "end",
-        "query": "Prague astronomical clock",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "Prague astronomical clock",
-          "GPS satellite"
-        ]
-      }
-    }
-  ]
+ "number": 69,
+ "title": "The Speed of Light",
+ "subtitle": "The cosmic speed limit.",
+ "next_stop": "Time Dilation",
+ "yt_title": "Why Can't You Ever Go Faster Than Light? ⚡ #shorts",
+ "description": "Why Can't You Ever Go Faster Than Light?\n\nEpisode 69 of a daily journey through the universe. ⚡\nThe speed of light: almost 300,000 km per second. Sunlight takes about 8 minutes to reach us, Andromeda's light 2.5 million years. Why looking far away means looking back in time, and why nothing with mass can reach it.\n\n➡️ Tomorrow, Episode 70: Next stop, time dilation. Why time runs at different speeds.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #speedoflight #astronomy #shorts #science",
+ "tags": [
+  "speed of light",
+  "light year",
+  "einstein",
+  "relativity",
+  "looking back in time",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Why can't anything go faster than light? Not you, not a rocket, not anything.",
+   "visual": {
+    "type": "title",
+    "query": "light beam prism",
+    "commons": "light beam prism"
+   }
+  },
+  {
+   "text": "Light travels at almost three hundred thousand kilometers every second.",
+   "visual": {
+    "type": "card",
+    "big": "300,000 km/s",
+    "label": "the speed of light"
+   }
+  },
+  {
+   "text": "That's fast enough to go around Earth more than seven times in one second.",
+   "visual": {
+    "type": "card",
+    "big": "7.5×",
+    "label": "around Earth in 1 second"
+   }
+  },
+  {
+   "text": "Moonlight takes just over one second to reach you. Sunlight takes about eight minutes.",
+   "visual": {
+    "type": "image",
+    "query": "Sun SDO",
+    "commons": "Sun SDO"
+   },
+   "headline": "8 minutes from the Sun"
+  },
+  {
+   "text": "So when you look at the Sun, you see it as it was eight minutes ago. If it vanished, you wouldn't know for eight minutes.",
+   "visual": {
+    "type": "image",
+    "query": "sunset ocean",
+    "commons": "sunset ocean"
+   },
+   "headline": "Looking into the past"
+  },
+  {
+   "text": "The light from the Andromeda galaxy left it two and a half million years ago, before modern humans existed.",
+   "visual": {
+    "type": "image",
+    "query": "Andromeda galaxy",
+    "commons": "Andromeda galaxy"
+   },
+   "headline": "2.5 million years ago"
+  },
+  {
+   "text": "So telescopes are time machines. The farther we look, the further back in time we see.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble Ultra Deep Field",
+    "commons": "Hubble Ultra Deep Field"
+   },
+   "headline": "Telescopes are time machines"
+  },
+  {
+   "text": "In nineteen oh five, Einstein showed that nothing with mass can reach the speed of light. The faster you go, the harder it gets to speed up.",
+   "visual": {
+    "type": "image",
+    "query": "Albert Einstein",
+    "wiki": "Albert Einstein"
+   },
+   "headline": "The ultimate limit"
+  },
+  {
+   "text": "Our fastest spacecraft, the Parker Solar Probe, has reached about two hundred kilometers per second. Still less than one tenth of one percent of light speed.",
+   "visual": {
+    "type": "image",
+    "query": "Parker Solar Probe",
+    "commons": "Parker Solar Probe"
+   },
+   "headline": "Our fastest spacecraft"
+  },
+  {
+   "text": "Tomorrow, the strangest consequence of all: time doesn't run at the same speed for everyone. Next stop: time dilation. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Prague astronomical clock",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "Prague astronomical clock",
+     "GPS satellite"
+    ]
+   }
+  }
+ ]
 }

@@ -1,118 +1,118 @@
 {
-  "number": 103,
-  "title": "Rogue Black Holes",
-  "subtitle": "Invisible wanderers",
-  "next_stop": "Magnetic Flip",
-  "yt_title": "Invisible Black Holes Are Wandering Our Galaxy 🕳️ | Ep. 103 #shorts",
-  "description": "Episode 103 of a daily journey through the universe. 🕳️\nWe hunt rogue black holes: maybe 100 million drifting through the Milky Way, invisible, and the first one ever caught, OGLE-2011-BLG-0462, about 5,000 light-years away and about 7 times the Sun's mass, found by how it bent a star's light.\n\n➡️ Tomorrow, Episode 104: Next stop, the day Earth's compass flips.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #blackhole #astronomy #shorts #science #nasa",
-  "tags": [
-    "rogue black hole",
-    "black hole",
-    "hubble",
-    "gravitational microlensing",
-    "milky way",
-    "OGLE-2011-BLG-0462",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and three. Next stop... rogue black holes.",
-      "visual": {
-        "type": "title",
-        "query": "black hole artist concept Hubble",
-        "commons": "black hole artist concept Hubble"
-      }
-    },
-    {
-      "text": "When the biggest stars die, many collapse into black holes. Some of them get kicked away, and drift alone.",
-      "visual": {
-        "type": "image",
-        "query": "black hole artist concept Hubble",
-        "commons": "black hole artist concept Hubble"
-      },
-      "headline": "Kicked out, drifting alone"
-    },
-    {
-      "text": "Scientists estimate there may be about one hundred million black holes in our galaxy. Most of them invisible.",
-      "visual": {
-        "type": "card",
-        "big": "100 million",
-        "label": "black holes",
-        "sub": "in our galaxy?"
-      }
-    },
-    {
-      "text": "A lone black hole gives off no light. So how do you find one?",
-      "visual": {
-        "type": "image",
-        "query": "Milky Way center stars",
-        "commons": "Milky Way center stars"
-      },
-      "headline": "How do you see it?"
-    },
-    {
-      "text": "You wait for it to pass in front of a distant star. Its gravity bends that star's light like a lens, and the star gets brighter.",
-      "visual": {
-        "type": "image",
-        "query": "gravitational lensing Hubble",
-        "commons": "gravitational lensing Hubble"
-      },
-      "headline": "Gravity bends light"
-    },
-    {
-      "text": "In twenty eleven, telescopes saw a star brighten for almost three hundred days. Hubble watched it for years.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble Space Telescope in orbit",
-        "wiki": "Hubble Space Telescope"
-      },
-      "headline": "Hubble keeps watching"
-    },
-    {
-      "text": "In twenty twenty-two, astronomers announced the first rogue black hole ever found. About five thousand light-years away.",
-      "visual": {
-        "type": "card",
-        "big": "5,000",
-        "label": "light-years away",
-        "sub": "the first lone black hole"
-      }
-    },
-    {
-      "text": "A twenty twenty-five update weighed it: about seven times the mass of the Sun, moving fast through space.",
-      "visual": {
-        "type": "card",
-        "big": "7 Suns",
-        "label": "of mass",
-        "sub": "in something a few dozen km wide"
-      }
-    },
-    {
-      "text": "Don't worry. The nearest ones are still far, far away from us.",
-      "visual": {
-        "type": "image",
-        "query": "stars Milky Way galaxy field",
-        "commons": "stars Milky Way galaxy field"
-      },
-      "headline": "We're safe"
-    },
-    {
-      "text": "Tomorrow, we come home, to a planet whose magnetic north and south have swapped places hundreds of times. Follow, so you don't miss episode one hundred and four.",
-      "visual": {
-        "type": "end",
-        "query": "Earth magnetic field",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Earth from space aurora",
-          "Aurora from space station"
-        ]
-      }
-    }
-  ]
+ "number": 103,
+ "title": "Rogue Black Holes",
+ "subtitle": "Rogue black holes.",
+ "next_stop": "Magnetic Flip",
+ "yt_title": "What If an Invisible Black Hole Wandered Near You? 🕳️ #shorts",
+ "description": "What If an Invisible Black Hole Wandered Near You?\n\nEpisode 103 of a daily journey through the universe. 🕳️\nWe hunt rogue black holes: maybe 100 million drifting through the Milky Way, invisible, and the first one ever caught, OGLE-2011-BLG-0462, about 5,000 light-years away and about 7 times the Sun's mass, found by how it bent a star's light.\n\n➡️ Tomorrow, Episode 104: Next stop, the day Earth's compass flips.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #blackhole #astronomy #shorts #science #nasa",
+ "tags": [
+  "rogue black hole",
+  "black hole",
+  "hubble",
+  "gravitational microlensing",
+  "milky way",
+  "OGLE-2011-BLG-0462",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What if an invisible black hole was wandering through our galaxy? We caught one.",
+   "visual": {
+    "type": "title",
+    "query": "black hole artist concept Hubble",
+    "commons": "black hole artist concept Hubble"
+   }
+  },
+  {
+   "text": "When the biggest stars die, many collapse into black holes. Some of them get kicked away, and drift alone.",
+   "visual": {
+    "type": "image",
+    "query": "black hole artist concept Hubble",
+    "commons": "black hole artist concept Hubble"
+   },
+   "headline": "Kicked out, drifting alone"
+  },
+  {
+   "text": "Scientists estimate there may be about one hundred million black holes in our galaxy. Most of them invisible.",
+   "visual": {
+    "type": "card",
+    "big": "100 million",
+    "label": "black holes",
+    "sub": "in our galaxy?"
+   }
+  },
+  {
+   "text": "A lone black hole gives off no light. So how do you find one?",
+   "visual": {
+    "type": "image",
+    "query": "Milky Way center stars",
+    "commons": "Milky Way center stars"
+   },
+   "headline": "How do you see it?"
+  },
+  {
+   "text": "You wait for it to pass in front of a distant star. Its gravity bends that star's light like a lens, and the star gets brighter.",
+   "visual": {
+    "type": "image",
+    "query": "gravitational lensing Hubble",
+    "commons": "gravitational lensing Hubble"
+   },
+   "headline": "Gravity bends light"
+  },
+  {
+   "text": "In twenty eleven, telescopes saw a star brighten for almost three hundred days. Hubble watched it for years.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble Space Telescope in orbit",
+    "wiki": "Hubble Space Telescope"
+   },
+   "headline": "Hubble keeps watching"
+  },
+  {
+   "text": "In twenty twenty-two, astronomers announced the first rogue black hole ever found. About five thousand light-years away.",
+   "visual": {
+    "type": "card",
+    "big": "5,000",
+    "label": "light-years away",
+    "sub": "the first lone black hole"
+   }
+  },
+  {
+   "text": "A twenty twenty-five update weighed it: about seven times the mass of the Sun, moving fast through space.",
+   "visual": {
+    "type": "card",
+    "big": "7 Suns",
+    "label": "of mass",
+    "sub": "in something a few dozen km wide"
+   }
+  },
+  {
+   "text": "Don't worry. The nearest ones are still far, far away from us.",
+   "visual": {
+    "type": "image",
+    "query": "stars Milky Way galaxy field",
+    "commons": "stars Milky Way galaxy field"
+   },
+   "headline": "We're safe"
+  },
+  {
+   "text": "Tomorrow, we come home, to a planet whose magnetic north and south have swapped places hundreds of times. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Earth magnetic field",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Earth from space aurora",
+     "Aurora from space station"
+    ]
+   }
+  }
+ ]
 }

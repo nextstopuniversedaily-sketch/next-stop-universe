@@ -1,116 +1,116 @@
 {
-  "number": 55,
-  "title": "The Runaway Moon",
-  "subtitle": "It's drifting away",
-  "next_stop": "Gamma-Ray Bursts",
-  "yt_title": "The Moon Is Drifting Away From Earth 🌕 | Ep. 55 #shorts",
-  "description": "Episode 55 of a daily journey through the universe. 🌕\nThe Moon moves about 3.8 centimeters farther from Earth every year, measured with mirrors left by Apollo astronauts. Tides are the reason, and they are also slowly making our days longer.\n\n➡️ Tomorrow, Episode 56: Next stop, gamma-ray bursts. The biggest explosions since the Big Bang.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #moon #astronomy #shorts #science",
-  "tags": [
-    "moon",
-    "moon drifting away",
-    "tides",
-    "lunar laser ranging",
-    "apollo 11",
-    "earth day length",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode fifty-five. Next stop... the runaway Moon.",
-      "visual": {
-        "type": "title",
-        "query": "Moon over Earth horizon ISS",
-        "commons": "Moon over Earth horizon ISS"
-      }
-    },
-    {
-      "text": "The Moon looks like it's always been there, and always will be. But it's slowly leaving us.",
-      "visual": {
-        "type": "image",
-        "query": "Moon rising over horizon",
-        "commons": "Moon rising over horizon"
-      },
-      "headline": "It's leaving"
-    },
-    {
-      "text": "Every year, the Moon moves about three point eight centimeters farther from Earth. About as fast as your fingernails grow.",
-      "visual": {
-        "type": "card",
-        "big": "3.8 cm",
-        "label": "farther every year"
-      }
-    },
-    {
-      "text": "How do we know so precisely? Apollo astronauts left mirrors on the Moon.",
-      "visual": {
-        "type": "image",
-        "query": "Apollo 11 laser ranging retroreflector",
-        "commons": "Apollo 11 laser ranging retroreflector"
-      },
-      "headline": "Mirrors on the Moon"
-    },
-    {
-      "text": "Observatories on Earth fire lasers at those mirrors and time how long the light takes to come back. About two and a half seconds.",
-      "visual": {
-        "type": "image",
-        "query": "laser guide star observatory night",
-        "commons": "laser guide star observatory night"
-      },
-      "headline": "Lasers and mirrors"
-    },
-    {
-      "text": "Why is it drifting? Tides. The Moon pulls Earth's oceans into bulges, and Earth's spin drags those bulges slightly ahead.",
-      "visual": {
-        "type": "image",
-        "query": "ocean tide coast",
-        "commons": "ocean tide coast"
-      },
-      "headline": "Blame the tides"
-    },
-    {
-      "text": "The bulges pull the Moon forward, flinging it a little outward. And they act like a brake on Earth's spin.",
-      "visual": {
-        "type": "image",
-        "query": "Earth and Moon from space",
-        "commons": "Earth and Moon from space"
-      },
-      "headline": "A cosmic brake"
-    },
-    {
-      "text": "So our days are getting longer. Hundreds of millions of years ago, a day lasted only about twenty-one hours.",
-      "visual": {
-        "type": "card",
-        "big": "~21 h",
-        "label": "a day, long ago"
-      }
-    },
-    {
-      "text": "Will the Moon escape? No. Long before that could happen, in billions of years, our Sun will change everything.",
-      "visual": {
-        "type": "image",
-        "query": "Moon over Earth horizon ISS",
-        "commons": "Moon over Earth horizon ISS"
-      },
-      "headline": "Will it escape? No"
-    },
-    {
-      "text": "Tomorrow, the most powerful explosions since the Big Bang. Next stop: gamma-ray bursts. Follow, so you don't miss episode fifty-six.",
-      "visual": {
-        "type": "end",
-        "query": "gamma-ray burst artist impression",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "gamma-ray burst artist impression",
-          "hypernova artist impression"
-        ]
-      }
-    }
-  ]
+ "number": 55,
+ "title": "The Runaway Moon",
+ "subtitle": "It's drifting away.",
+ "next_stop": "Gamma-Ray Bursts",
+ "yt_title": "What Happens to You When the Moon Leaves Earth? 🌕 #shorts",
+ "description": "What Happens to You When the Moon Leaves Earth?\n\nEpisode 55 of a daily journey through the universe. 🌕\nThe Moon moves about 3.8 centimeters farther from Earth every year, measured with mirrors left by Apollo astronauts. Tides are the reason, and they are also slowly making our days longer.\n\n➡️ Tomorrow, Episode 56: Next stop, gamma-ray bursts. The biggest explosions since the Big Bang.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #moon #astronomy #shorts #science",
+ "tags": [
+  "moon",
+  "moon drifting away",
+  "tides",
+  "lunar laser ranging",
+  "apollo 11",
+  "earth day length",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "The Moon is leaving us, a little every year. What happens when it's gone?",
+   "visual": {
+    "type": "title",
+    "query": "Moon over Earth horizon ISS",
+    "commons": "Moon over Earth horizon ISS"
+   }
+  },
+  {
+   "text": "The Moon looks like it's always been there, and always will be. But it's slowly leaving us.",
+   "visual": {
+    "type": "image",
+    "query": "Moon rising over horizon",
+    "commons": "Moon rising over horizon"
+   },
+   "headline": "It's leaving"
+  },
+  {
+   "text": "Every year, the Moon moves about three point eight centimeters farther from Earth. About as fast as your fingernails grow.",
+   "visual": {
+    "type": "card",
+    "big": "3.8 cm",
+    "label": "farther every year"
+   }
+  },
+  {
+   "text": "How do we know so precisely? Apollo astronauts left mirrors on the Moon.",
+   "visual": {
+    "type": "image",
+    "query": "Apollo 11 laser ranging retroreflector",
+    "commons": "Apollo 11 laser ranging retroreflector"
+   },
+   "headline": "Mirrors on the Moon"
+  },
+  {
+   "text": "Observatories on Earth fire lasers at those mirrors and time how long the light takes to come back. About two and a half seconds.",
+   "visual": {
+    "type": "image",
+    "query": "laser guide star observatory night",
+    "commons": "laser guide star observatory night"
+   },
+   "headline": "Lasers and mirrors"
+  },
+  {
+   "text": "Why is it drifting? Tides. The Moon pulls Earth's oceans into bulges, and Earth's spin drags those bulges slightly ahead.",
+   "visual": {
+    "type": "image",
+    "query": "ocean tide coast",
+    "commons": "ocean tide coast"
+   },
+   "headline": "Blame the tides"
+  },
+  {
+   "text": "The bulges pull the Moon forward, flinging it a little outward. And they act like a brake on Earth's spin.",
+   "visual": {
+    "type": "image",
+    "query": "Earth and Moon from space",
+    "commons": "Earth and Moon from space"
+   },
+   "headline": "A cosmic brake"
+  },
+  {
+   "text": "So our days are getting longer. Hundreds of millions of years ago, a day lasted only about twenty-one hours.",
+   "visual": {
+    "type": "card",
+    "big": "~21 h",
+    "label": "a day, long ago"
+   }
+  },
+  {
+   "text": "Will the Moon escape? No. Long before that could happen, in billions of years, our Sun will change everything.",
+   "visual": {
+    "type": "image",
+    "query": "Moon over Earth horizon ISS",
+    "commons": "Moon over Earth horizon ISS"
+   },
+   "headline": "Will it escape? No"
+  },
+  {
+   "text": "Tomorrow, the most powerful explosions since the Big Bang. Next stop: gamma-ray bursts. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "gamma-ray burst artist impression",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "gamma-ray burst artist impression",
+     "hypernova artist impression"
+    ]
+   }
+  }
+ ]
 }

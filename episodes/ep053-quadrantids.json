@@ -1,115 +1,115 @@
 {
-  "number": 53,
-  "title": "The Quadrantids",
-  "subtitle": "First shooting stars of 2027",
-  "next_stop": "The Oort Cloud",
-  "yt_title": "First Shooting Stars of 2027 🌠 | Ep. 53 #shorts",
-  "description": "Episode 53 of a daily journey through the universe. 🌠\nThe Quadrantid meteor shower peaks the night of January 3 to 4, 2027, under a thin crescent Moon. Up to about 120 meteors an hour from very dark skies, but the peak lasts only a few hours. How and when to watch, and the mystery of where they come from.\n\n➡️ Tomorrow, Episode 54: Next stop, the Oort Cloud. Trillions of comets at the edge of our solar system.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #quadrantids #astronomy #shorts #science",
-  "tags": [
-    "quadrantids",
-    "quadrantid meteor shower 2027",
-    "meteor shower",
-    "shooting stars",
-    "2003 eh1",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode fifty-three. Next stop... the first shooting stars of twenty twenty-seven.",
-      "visual": {
-        "type": "title",
-        "query": "Perseid meteor night sky",
-        "commons": "Perseid meteor night sky"
-      }
-    },
-    {
-      "text": "Tomorrow night, January third to fourth, the Quadrantid meteor shower reaches its peak.",
-      "visual": {
-        "type": "image",
-        "query": "meteor shower night sky",
-        "commons": "meteor shower night sky"
-      },
-      "headline": "Peak: night of Jan 3–4"
-    },
-    {
-      "text": "Under very dark skies, it can produce up to around one hundred twenty meteors an hour.",
-      "visual": {
-        "type": "card",
-        "big": "~120",
-        "label": "meteors per hour, at best"
-      }
-    },
-    {
-      "text": "But there's a catch. The peak is short. Only about six hours. Timing matters.",
-      "visual": {
-        "type": "card",
-        "big": "6 hours",
-        "label": "a very short peak"
-      }
-    },
-    {
-      "text": "Good news this year: the Moon is just a thin crescent, so its light won't wash out the meteors.",
-      "visual": {
-        "type": "image",
-        "query": "crescent moon night sky photograph",
-        "commons": "crescent moon night sky photograph"
-      },
-      "headline": "A thin Moon this year"
-    },
-    {
-      "text": "Best time: after midnight and before dawn. Look toward the north-east sky, and the higher in the north you live, the better.",
-      "visual": {
-        "type": "image",
-        "query": "Big Dipper night sky",
-        "commons": "Big Dipper night sky"
-      },
-      "headline": "After midnight, look northeast"
-    },
-    {
-      "text": "Get away from city lights, dress warm, lie back, and give your eyes twenty minutes to adjust. No telescope needed.",
-      "visual": {
-        "type": "image",
-        "query": "stargazing person night sky",
-        "commons": "stargazing person night sky"
-      },
-      "headline": "No telescope needed"
-    },
-    {
-      "text": "Most meteor showers come from comets. The Quadrantids come from an object called twenty-oh-three E H one, which may be a dead comet that stopped glowing.",
-      "visual": {
-        "type": "image",
-        "query": "asteroid artist impression",
-        "commons": "asteroid artist impression"
-      },
-      "headline": "From a dead comet?"
-    },
-    {
-      "text": "And the name? It comes from a constellation that no longer exists, Quadrans Muralis, a wall-mounted quadrant once used by astronomers.",
-      "visual": {
-        "type": "image",
-        "query": "Quadrans Muralis",
-        "commons": "Quadrans Muralis"
-      },
-      "headline": "A lost constellation"
-    },
-    {
-      "text": "Tomorrow, the frozen edge of our solar system, where comets are born. Next stop: the Oort cloud. Follow, so you don't miss episode fifty-four.",
-      "visual": {
-        "type": "end",
-        "query": "Oort cloud illustration",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "Oort cloud illustration",
-          "comet Hale-Bopp"
-        ]
-      }
-    }
-  ]
+ "number": 53,
+ "title": "The Quadrantids",
+ "subtitle": "Tomorrow night.",
+ "next_stop": "The Oort Cloud",
+ "yt_title": "Can You See the First Shooting Stars of 2027? 🌠 #shorts",
+ "description": "Can You See the First Shooting Stars of 2027?\n\nEpisode 53 of a daily journey through the universe. 🌠\nThe Quadrantid meteor shower peaks the night of January 3 to 4, 2027, under a thin crescent Moon. Up to about 120 meteors an hour from very dark skies, but the peak lasts only a few hours. How and when to watch, and the mystery of where they come from.\n\n➡️ Tomorrow, Episode 54: Next stop, the Oort Cloud. Trillions of comets at the edge of our solar system.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #quadrantids #astronomy #shorts #science",
+ "tags": [
+  "quadrantids",
+  "quadrantid meteor shower 2027",
+  "meteor shower",
+  "shooting stars",
+  "2003 eh1",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Want to see up to a hundred shooting stars an hour? Look up tomorrow night.",
+   "visual": {
+    "type": "title",
+    "query": "Perseid meteor night sky",
+    "commons": "Perseid meteor night sky"
+   }
+  },
+  {
+   "text": "Tomorrow night, January third to fourth, the Quadrantid meteor shower reaches its peak.",
+   "visual": {
+    "type": "image",
+    "query": "meteor shower night sky",
+    "commons": "meteor shower night sky"
+   },
+   "headline": "Peak: night of Jan 3–4"
+  },
+  {
+   "text": "Under very dark skies, it can produce up to around one hundred twenty meteors an hour.",
+   "visual": {
+    "type": "card",
+    "big": "~120",
+    "label": "meteors per hour, at best"
+   }
+  },
+  {
+   "text": "But there's a catch. The peak is short. Only about six hours. Timing matters.",
+   "visual": {
+    "type": "card",
+    "big": "6 hours",
+    "label": "a very short peak"
+   }
+  },
+  {
+   "text": "Good news this year: the Moon is just a thin crescent, so its light won't wash out the meteors.",
+   "visual": {
+    "type": "image",
+    "query": "crescent moon night sky photograph",
+    "commons": "crescent moon night sky photograph"
+   },
+   "headline": "A thin Moon this year"
+  },
+  {
+   "text": "Best time: after midnight and before dawn. Look toward the north-east sky, and the higher in the north you live, the better.",
+   "visual": {
+    "type": "image",
+    "query": "Big Dipper night sky",
+    "commons": "Big Dipper night sky"
+   },
+   "headline": "After midnight, look northeast"
+  },
+  {
+   "text": "Get away from city lights, dress warm, lie back, and give your eyes twenty minutes to adjust. No telescope needed.",
+   "visual": {
+    "type": "image",
+    "query": "stargazing person night sky",
+    "commons": "stargazing person night sky"
+   },
+   "headline": "No telescope needed"
+  },
+  {
+   "text": "Most meteor showers come from comets. The Quadrantids come from an object called twenty-oh-three E H one, which may be a dead comet that stopped glowing.",
+   "visual": {
+    "type": "image",
+    "query": "asteroid artist impression",
+    "commons": "asteroid artist impression"
+   },
+   "headline": "From a dead comet?"
+  },
+  {
+   "text": "And the name? It comes from a constellation that no longer exists, Quadrans Muralis, a wall-mounted quadrant once used by astronomers.",
+   "visual": {
+    "type": "image",
+    "query": "Quadrans Muralis",
+    "commons": "Quadrans Muralis"
+   },
+   "headline": "A lost constellation"
+  },
+  {
+   "text": "Tomorrow, the frozen edge of our solar system, where comets are born. Next stop: the Oort cloud. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Oort cloud illustration",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "Oort cloud illustration",
+     "comet Hale-Bopp"
+    ]
+   }
+  }
+ ]
 }

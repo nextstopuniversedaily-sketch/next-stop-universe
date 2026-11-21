@@ -1,116 +1,116 @@
 {
-  "number": 46,
-  "title": "Tabby's Star",
-  "subtitle": "The strangest star?",
-  "next_stop": "The Boötes Void",
-  "yt_title": "The Star That Made Scientists Think of Aliens ⭐ | Ep. 46 #shorts",
-  "description": "Episode 46 of a daily journey through the universe. ⭐\nTabby's star: in 2015, citizen scientists found a star whose light dropped by up to 22 percent in irregular dips. Comets? Alien megastructures? We follow the clues to the answer most astronomers accept today: dust.\n\n➡️ Tomorrow, Episode 47: Next stop, the Boötes Void. A hole in the universe 330 million light-years wide.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #tabbysstar #astronomy #shorts #science",
-  "tags": [
-    "tabbys star",
-    "kic 8462852",
-    "boyajian star",
-    "dyson sphere",
-    "alien megastructure",
-    "kepler",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode forty-six. Next stop... the strangest star in the sky.",
-      "visual": {
-        "type": "title",
-        "query": "debris disk around star artist impression NASA",
-        "commons": "debris disk around star artist impression NASA"
-      }
-    },
-    {
-      "text": "NASA's Kepler telescope stared at one patch of sky for four years, watching for tiny dips in starlight when planets pass in front of their stars.",
-      "visual": {
-        "type": "image",
-        "query": "Kepler space telescope",
-        "wiki": "Kepler space telescope"
-      },
-      "headline": "Kepler watches"
-    },
-    {
-      "text": "Volunteers checking the data found one star that did something weird. Its light dropped, and dropped again, in strange uneven dips.",
-      "visual": {
-        "type": "image",
-        "query": "Kepler field of view Milky Way",
-        "commons": "Kepler field of view Milky Way"
-      },
-      "headline": "Something strange"
-    },
-    {
-      "text": "At one point, it dimmed by twenty-two percent. A planet the size of Jupiter would block only about one percent.",
-      "visual": {
-        "type": "card",
-        "big": "22%",
-        "label": "of its light, blocked"
-      }
-    },
-    {
-      "text": "Astronomer Tabetha Boyajian led the study in twenty fifteen. The star became known as Tabby's star.",
-      "visual": {
-        "type": "image",
-        "query": "star with orbiting dust ring artist concept",
-        "commons": "star with orbiting dust ring artist concept"
-      },
-      "headline": "Tabby's star"
-    },
-    {
-      "text": "Ideas flew. A swarm of comets? A smashed planet? Some even asked if aliens had built giant structures around it to collect energy, called a Dyson sphere.",
-      "visual": {
-        "type": "image",
-        "query": "Dyson swarm",
-        "commons": "Dyson swarm"
-      },
-      "headline": "Alien megastructure?"
-    },
-    {
-      "text": "The internet went wild. More than a thousand people chipped in to pay for more telescope time.",
-      "visual": {
-        "type": "card",
-        "big": "1,000+",
-        "label": "people paid for answers"
-      }
-    },
-    {
-      "text": "The new data showed the dips were deeper in blue light than red. Solid structures would block all colors equally. Fine dust doesn't.",
-      "visual": {
-        "type": "image",
-        "query": "dust cloud nebula",
-        "commons": "dust cloud nebula"
-      },
-      "headline": "The clue: color"
-    },
-    {
-      "text": "So most astronomers now think clouds of dust are the cause. But where the dust comes from is still not fully explained.",
-      "visual": {
-        "type": "image",
-        "query": "dust disk young star artist impression",
-        "commons": "dust disk young star artist impression"
-      },
-      "headline": "Probably dust"
-    },
-    {
-      "text": "Tomorrow, a giant hole in the universe where almost nothing exists. Next stop: the Boötes void. Follow, so you don't miss episode forty-seven.",
-      "visual": {
-        "type": "end",
-        "query": "Hubble Ultra Deep Field",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "Hubble Ultra Deep Field",
-          "galaxies deep field"
-        ]
-      }
-    }
-  ]
+ "number": 46,
+ "title": "Tabby's Star",
+ "subtitle": "The strangest star.",
+ "next_stop": "The Boötes Void",
+ "yt_title": "Why Did Scientists Think This Star Had Alien Megastructures? ⭐ #shorts",
+ "description": "Why Did Scientists Think This Star Had Alien Megastructures?\n\nEpisode 46 of a daily journey through the universe. ⭐\nTabby's star: in 2015, citizen scientists found a star whose light dropped by up to 22 percent in irregular dips. Comets? Alien megastructures? We follow the clues to the answer most astronomers accept today: dust.\n\n➡️ Tomorrow, Episode 47: Next stop, the Boötes Void. A hole in the universe 330 million light-years wide.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #tabbysstar #astronomy #shorts #science",
+ "tags": [
+  "tabbys star",
+  "kic 8462852",
+  "boyajian star",
+  "dyson sphere",
+  "alien megastructure",
+  "kepler",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Why did scientists once wonder if aliens were building something around a star?",
+   "visual": {
+    "type": "title",
+    "query": "debris disk around star artist impression NASA",
+    "commons": "debris disk around star artist impression NASA"
+   }
+  },
+  {
+   "text": "NASA's Kepler telescope stared at one patch of sky for four years, watching for tiny dips in starlight when planets pass in front of their stars.",
+   "visual": {
+    "type": "image",
+    "query": "Kepler space telescope",
+    "wiki": "Kepler space telescope"
+   },
+   "headline": "Kepler watches"
+  },
+  {
+   "text": "Volunteers checking the data found one star that did something weird. Its light dropped, and dropped again, in strange uneven dips.",
+   "visual": {
+    "type": "image",
+    "query": "Kepler field of view Milky Way",
+    "commons": "Kepler field of view Milky Way"
+   },
+   "headline": "Something strange"
+  },
+  {
+   "text": "At one point, it dimmed by twenty-two percent. A planet the size of Jupiter would block only about one percent.",
+   "visual": {
+    "type": "card",
+    "big": "22%",
+    "label": "of its light, blocked"
+   }
+  },
+  {
+   "text": "Astronomer Tabetha Boyajian led the study in twenty fifteen. The star became known as Tabby's star.",
+   "visual": {
+    "type": "image",
+    "query": "star with orbiting dust ring artist concept",
+    "commons": "star with orbiting dust ring artist concept"
+   },
+   "headline": "Tabby's star"
+  },
+  {
+   "text": "Ideas flew. A swarm of comets? A smashed planet? Some even asked if aliens had built giant structures around it to collect energy, called a Dyson sphere.",
+   "visual": {
+    "type": "image",
+    "query": "Dyson swarm",
+    "commons": "Dyson swarm"
+   },
+   "headline": "Alien megastructure?"
+  },
+  {
+   "text": "The internet went wild. More than a thousand people chipped in to pay for more telescope time.",
+   "visual": {
+    "type": "card",
+    "big": "1,000+",
+    "label": "people paid for answers"
+   }
+  },
+  {
+   "text": "The new data showed the dips were deeper in blue light than red. Solid structures would block all colors equally. Fine dust doesn't.",
+   "visual": {
+    "type": "image",
+    "query": "dust cloud nebula",
+    "commons": "dust cloud nebula"
+   },
+   "headline": "The clue: color"
+  },
+  {
+   "text": "So most astronomers now think clouds of dust are the cause. But where the dust comes from is still not fully explained.",
+   "visual": {
+    "type": "image",
+    "query": "dust disk young star artist impression",
+    "commons": "dust disk young star artist impression"
+   },
+   "headline": "Probably dust"
+  },
+  {
+   "text": "Tomorrow, a giant hole in the universe where almost nothing exists. Next stop: the Boötes void. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Hubble Ultra Deep Field",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "Hubble Ultra Deep Field",
+     "galaxies deep field"
+    ]
+   }
+  }
+ ]
 }

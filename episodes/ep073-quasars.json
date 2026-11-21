@@ -1,115 +1,115 @@
 {
-  "number": 73,
-  "title": "Quasars",
-  "subtitle": "Brighter than galaxies",
-  "next_stop": "Cosmic Rays",
-  "yt_title": "The Brightest Object in the Universe 💡 | Ep. 73 #shorts",
-  "description": "Episode 73 of a daily journey through the universe. 💡\nQuasars: supermassive black holes feeding so fast they outshine their entire galaxies. The record holder, J0529-4351, is powered by a black hole about 17 billion times the Sun's mass that swallows about one Sun a day, and shines 500 trillion times brighter than the Sun.\n\n➡️ Tomorrow, Episode 74: Next stop, cosmic rays. Particles from space hitting Earth with incredible energy.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #quasars #astronomy #shorts #science",
-  "tags": [
-    "quasar",
-    "j0529-4351",
-    "brightest object",
-    "supermassive black hole",
-    "3c 273",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode seventy-three. Next stop... quasars.",
-      "visual": {
-        "type": "title",
-        "query": "quasar artist impression ESO",
-        "commons": "quasar artist impression ESO"
-      }
-    },
-    {
-      "text": "In the nineteen fifties and sixties, radio astronomers found strange points that looked like stars, but blasted out radio waves.",
-      "visual": {
-        "type": "image",
-        "query": "radio telescope 1960s",
-        "commons": "radio telescope 1960s"
-      },
-      "headline": "Strange radio 'stars'"
-    },
-    {
-      "text": "They called them quasi-stellar objects. Quasars. One of the first, called 3C two seventy-three, turned out to be billions of light-years away.",
-      "visual": {
-        "type": "image",
-        "query": "quasar illustration NASA",
-        "commons": "quasar illustration NASA"
-      },
-      "headline": "Quasars"
-    },
-    {
-      "text": "To look that bright from so far, they must be unimaginably powerful.",
-      "visual": {
-        "type": "image",
-        "query": "quasar artist impression",
-        "commons": "quasar artist impression"
-      },
-      "headline": "Unimaginably bright"
-    },
-    {
-      "text": "The answer: supermassive black holes, feeding. Gas swirling into them heats up and glows brighter than all the stars in their galaxy.",
-      "visual": {
-        "type": "image",
-        "query": "accretion disk artist impression",
-        "commons": "accretion disk artist impression"
-      },
-      "headline": "Hungry black holes"
-    },
-    {
-      "text": "In twenty twenty-four, astronomers announced the brightest one ever seen: J oh five two nine.",
-      "visual": {
-        "type": "image",
-        "query": "quasar J0529-4351 artist impression",
-        "commons": "quasar J0529-4351 artist impression"
-      },
-      "headline": "The record holder"
-    },
-    {
-      "text": "Its black hole is about seventeen billion times heavier than our Sun.",
-      "visual": {
-        "type": "card",
-        "big": "17 billion",
-        "label": "Suns of mass"
-      }
-    },
-    {
-      "text": "It swallows about one Sun's worth of gas every day, and shines five hundred trillion times brighter than the Sun.",
-      "visual": {
-        "type": "card",
-        "big": "1 Sun / day",
-        "label": "eaten by the black hole"
-      }
-    },
-    {
-      "text": "Its light has travelled about twelve billion years to reach us. We're seeing it as it was when the universe was young.",
-      "visual": {
-        "type": "image",
-        "query": "Hubble deep field galaxies",
-        "commons": "Hubble deep field galaxies"
-      },
-      "headline": "12 billion years of travel"
-    },
-    {
-      "text": "Tomorrow, tiny particles from space that hit Earth with the energy of a thrown ball. Next stop: cosmic rays. Follow, so you don't miss episode seventy-four.",
-      "visual": {
-        "type": "end",
-        "query": "cosmic ray shower illustration",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "cosmic ray shower illustration",
-          "aurora from ISS"
-        ]
-      }
-    }
-  ]
+ "number": 73,
+ "title": "Quasars",
+ "subtitle": "Quasars.",
+ "next_stop": "Cosmic Rays",
+ "yt_title": "What's Brighter Than a Trillion Suns? 💡 #shorts",
+ "description": "What's Brighter Than a Trillion Suns?\n\nEpisode 73 of a daily journey through the universe. 💡\nQuasars: supermassive black holes feeding so fast they outshine their entire galaxies. The record holder, J0529-4351, is powered by a black hole about 17 billion times the Sun's mass that swallows about one Sun a day, and shines 500 trillion times brighter than the Sun.\n\n➡️ Tomorrow, Episode 74: Next stop, cosmic rays. Particles from space hitting Earth with incredible energy.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #quasars #astronomy #shorts #science",
+ "tags": [
+  "quasar",
+  "j0529-4351",
+  "brightest object",
+  "supermassive black hole",
+  "3c 273",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What could shine brighter than a trillion suns? A black hole, eating.",
+   "visual": {
+    "type": "title",
+    "query": "quasar artist impression ESO",
+    "commons": "quasar artist impression ESO"
+   }
+  },
+  {
+   "text": "In the nineteen fifties and sixties, radio astronomers found strange points that looked like stars, but blasted out radio waves.",
+   "visual": {
+    "type": "image",
+    "query": "radio telescope 1960s",
+    "commons": "radio telescope 1960s"
+   },
+   "headline": "Strange radio 'stars'"
+  },
+  {
+   "text": "They called them quasi-stellar objects. Quasars. One of the first, called 3C two seventy-three, turned out to be billions of light-years away.",
+   "visual": {
+    "type": "image",
+    "query": "quasar illustration NASA",
+    "commons": "quasar illustration NASA"
+   },
+   "headline": "Quasars"
+  },
+  {
+   "text": "To look that bright from so far, they must be unimaginably powerful.",
+   "visual": {
+    "type": "image",
+    "query": "quasar artist impression",
+    "commons": "quasar artist impression"
+   },
+   "headline": "Unimaginably bright"
+  },
+  {
+   "text": "The answer: supermassive black holes, feeding. Gas swirling into them heats up and glows brighter than all the stars in their galaxy.",
+   "visual": {
+    "type": "image",
+    "query": "accretion disk artist impression",
+    "commons": "accretion disk artist impression"
+   },
+   "headline": "Hungry black holes"
+  },
+  {
+   "text": "In twenty twenty-four, astronomers announced the brightest one ever seen: J oh five two nine.",
+   "visual": {
+    "type": "image",
+    "query": "quasar J0529-4351 artist impression",
+    "commons": "quasar J0529-4351 artist impression"
+   },
+   "headline": "The record holder"
+  },
+  {
+   "text": "Its black hole is about seventeen billion times heavier than our Sun.",
+   "visual": {
+    "type": "card",
+    "big": "17 billion",
+    "label": "Suns of mass"
+   }
+  },
+  {
+   "text": "It swallows about one Sun's worth of gas every day, and shines five hundred trillion times brighter than the Sun.",
+   "visual": {
+    "type": "card",
+    "big": "1 Sun / day",
+    "label": "eaten by the black hole"
+   }
+  },
+  {
+   "text": "Its light has travelled about twelve billion years to reach us. We're seeing it as it was when the universe was young.",
+   "visual": {
+    "type": "image",
+    "query": "Hubble deep field galaxies",
+    "commons": "Hubble deep field galaxies"
+   },
+   "headline": "12 billion years of travel"
+  },
+  {
+   "text": "Tomorrow, tiny particles from space that hit Earth with the energy of a thrown ball. Next stop: cosmic rays. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "cosmic ray shower illustration",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "cosmic ray shower illustration",
+     "aurora from ISS"
+    ]
+   }
+  }
+ ]
 }

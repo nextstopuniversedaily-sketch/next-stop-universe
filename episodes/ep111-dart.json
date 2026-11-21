@@ -1,120 +1,120 @@
 {
-  "number": 111,
-  "title": "DART: We Moved an Asteroid",
-  "subtitle": "Planetary defense",
-  "next_stop": "Asteroid Samples",
-  "yt_title": "Humans Moved an Asteroid! 🚀☄️ | Ep. 111 #shorts",
-  "description": "Episode 111 of a daily journey through the universe. 🚀\nWe relive NASA's DART mission: on September 26, 2022 a spacecraft hit the asteroid moonlet Dimorphos at about 22,000 km/h and shortened its orbit by about 33 minutes; a 2026 study found it even nudged Didymos's path around the Sun, and ESA's Hera arrived in November 2026 to inspect the crash site.\n\n➡️ Tomorrow, Episode 112: Next stop, asteroid samples. Bringing a piece of the sky home.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #dart #astronomy #shorts #science #nasa",
-  "tags": [
-    "dart mission",
-    "dimorphos",
-    "didymos",
-    "hera mission",
-    "planetary defense",
-    "asteroid",
-    "nasa",
-    "esa",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and eleven. Next stop... the day we moved an asteroid.",
-      "visual": {
-        "type": "title",
-        "query": "Didymos Dimorphos DART",
-        "commons": "Didymos Dimorphos DART"
-      }
-    },
-    {
-      "text": "Could we stop an asteroid from hitting Earth? In twenty twenty-two, NASA tested it for real.",
-      "visual": {
-        "type": "image",
-        "query": "DART spacecraft",
-        "commons": "DART spacecraft"
-      },
-      "headline": "A real test"
-    },
-    {
-      "text": "The target: Dimorphos, a small asteroid moon about one hundred and sixty meters wide, orbiting a bigger asteroid, Didymos.",
-      "visual": {
-        "type": "image",
-        "query": "Didymos Dimorphos DART",
-        "commons": "Didymos Dimorphos DART"
-      },
-      "headline": "The target: Dimorphos"
-    },
-    {
-      "text": "On September twenty-sixth, the DART spacecraft slammed into it at about twenty-two thousand kilometers per hour.",
-      "visual": {
-        "type": "card",
-        "big": "22,000 km/h",
-        "label": "impact speed",
-        "sub": "Sept 26, 2022"
-      }
-    },
-    {
-      "text": "It worked. Dimorphos's orbit got about thirty-three minutes shorter.",
-      "visual": {
-        "type": "card",
-        "big": "33 minutes",
-        "label": "shorter orbit",
-        "sub": "we moved an asteroid"
-      }
-    },
-    {
-      "text": "The crash blasted out a tail of debris thousands of kilometers long.",
-      "visual": {
-        "type": "image",
-        "query": "Dimorphos debris tail Hubble",
-        "commons": "Dimorphos debris tail Hubble"
-      },
-      "headline": "A huge debris tail"
-    },
-    {
-      "text": "In twenty twenty-six, scientists found DART even nudged the pair's path around the Sun. By a fraction of a second, but measurable.",
-      "visual": {
-        "type": "image",
-        "query": "DART Dimorphos impact",
-        "wiki": "Dimorphos"
-      },
-      "headline": "Even the Sun orbit changed"
-    },
-    {
-      "text": "And in November twenty twenty-six, Europe's Hera spacecraft arrived to inspect the crash site up close.",
-      "visual": {
-        "type": "image",
-        "query": "Hera spacecraft ESA",
-        "wiki": "Hera (space mission)"
-      },
-      "headline": "Hera arrives"
-    },
-    {
-      "text": "The lesson: with enough warning, a small push can save a planet.",
-      "visual": {
-        "type": "image",
-        "query": "Earth from space",
-        "commons": "Earth from space"
-      },
-      "headline": "Early warning is key"
-    },
-    {
-      "text": "Tomorrow, two spacecraft that touched asteroids and brought pieces home. What they found inside surprised everyone. Follow, so you don't miss episode one hundred and twelve.",
-      "visual": {
-        "type": "end",
-        "query": "Bennu",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Bennu OSIRIS-REx",
-          "Ryugu Hayabusa2"
-        ]
-      }
-    }
-  ]
+ "number": 111,
+ "title": "DART: We Moved an Asteroid",
+ "subtitle": "We moved one.",
+ "next_stop": "Asteroid Samples",
+ "yt_title": "Could You Stop an Asteroid From Hitting Earth? 🚀☄️ #shorts",
+ "description": "Could You Stop an Asteroid From Hitting Earth?\n\nEpisode 111 of a daily journey through the universe. 🚀\nWe relive NASA's DART mission: on September 26, 2022 a spacecraft hit the asteroid moonlet Dimorphos at about 22,000 km/h and shortened its orbit by about 33 minutes; a 2026 study found it even nudged Didymos's path around the Sun, and ESA's Hera arrived in November 2026 to inspect the crash site.\n\n➡️ Tomorrow, Episode 112: Next stop, asteroid samples. Bringing a piece of the sky home.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #dart #astronomy #shorts #science #nasa",
+ "tags": [
+  "dart mission",
+  "dimorphos",
+  "didymos",
+  "hera mission",
+  "planetary defense",
+  "asteroid",
+  "nasa",
+  "esa",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "If an asteroid was coming for Earth, could we stop it? We already tried.",
+   "visual": {
+    "type": "title",
+    "query": "Didymos Dimorphos DART",
+    "commons": "Didymos Dimorphos DART"
+   }
+  },
+  {
+   "text": "Could we stop an asteroid from hitting Earth? In twenty twenty-two, NASA tested it for real.",
+   "visual": {
+    "type": "image",
+    "query": "DART spacecraft",
+    "commons": "DART spacecraft"
+   },
+   "headline": "A real test"
+  },
+  {
+   "text": "The target: Dimorphos, a small asteroid moon about one hundred and sixty meters wide, orbiting a bigger asteroid, Didymos.",
+   "visual": {
+    "type": "image",
+    "query": "Didymos Dimorphos DART",
+    "commons": "Didymos Dimorphos DART"
+   },
+   "headline": "The target: Dimorphos"
+  },
+  {
+   "text": "On September twenty-sixth, the DART spacecraft slammed into it at about twenty-two thousand kilometers per hour.",
+   "visual": {
+    "type": "card",
+    "big": "22,000 km/h",
+    "label": "impact speed",
+    "sub": "Sept 26, 2022"
+   }
+  },
+  {
+   "text": "It worked. Dimorphos's orbit got about thirty-three minutes shorter.",
+   "visual": {
+    "type": "card",
+    "big": "33 minutes",
+    "label": "shorter orbit",
+    "sub": "we moved an asteroid"
+   }
+  },
+  {
+   "text": "The crash blasted out a tail of debris thousands of kilometers long.",
+   "visual": {
+    "type": "image",
+    "query": "Dimorphos debris tail Hubble",
+    "commons": "Dimorphos debris tail Hubble"
+   },
+   "headline": "A huge debris tail"
+  },
+  {
+   "text": "In twenty twenty-six, scientists found DART even nudged the pair's path around the Sun. By a fraction of a second, but measurable.",
+   "visual": {
+    "type": "image",
+    "query": "DART Dimorphos impact",
+    "wiki": "Dimorphos"
+   },
+   "headline": "Even the Sun orbit changed"
+  },
+  {
+   "text": "And in November twenty twenty-six, Europe's Hera spacecraft arrived to inspect the crash site up close.",
+   "visual": {
+    "type": "image",
+    "query": "Hera spacecraft ESA",
+    "wiki": "Hera (space mission)"
+   },
+   "headline": "Hera arrives"
+  },
+  {
+   "text": "The lesson: with enough warning, a small push can save a planet.",
+   "visual": {
+    "type": "image",
+    "query": "Earth from space",
+    "commons": "Earth from space"
+   },
+   "headline": "Early warning is key"
+  },
+  {
+   "text": "Tomorrow, two spacecraft that touched asteroids and brought pieces home. What they found inside surprised everyone. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "Bennu",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Bennu OSIRIS-REx",
+     "Ryugu Hayabusa2"
+    ]
+   }
+  }
+ ]
 }

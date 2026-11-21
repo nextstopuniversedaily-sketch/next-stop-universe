@@ -1,120 +1,120 @@
 {
-  "number": 121,
-  "title": "Orion's Belt",
-  "subtitle": "Three famous stars",
-  "next_stop": "Zodiacal Light",
-  "yt_title": "The Secret of Orion's Belt ⭐⭐⭐ | Ep. 121 #shorts",
-  "description": "Episode 121 of a daily journey through the universe. ⭐\nWe visit Orion's Belt: Alnitak, Alnilam and Mintaka, three hot blue giant stars that only look lined up, roughly 700 to 2,000 light-years away, plus the Horsehead and Flame nebulas and the Orion Nebula just below, the sword where stars are being born.\n\n➡️ Tomorrow, Episode 122: Next stop, the zodiacal light. A ghostly glow most people have never seen.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #orion #astronomy #shorts #science #nasa",
-  "tags": [
-    "orion's belt",
-    "orion",
-    "alnitak",
-    "alnilam",
-    "mintaka",
-    "horsehead nebula",
-    "orion nebula",
-    "constellations",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode one hundred and twenty-one. Next stop... Orion's Belt.",
-      "visual": {
-        "type": "title",
-        "query": "Orion's Belt",
-        "commons": "Orion's Belt"
-      }
-    },
-    {
-      "text": "Three bright stars in a row. Probably the most famous pattern in the night sky.",
-      "visual": {
-        "type": "image",
-        "query": "Orion constellation",
-        "commons": "Orion constellation"
-      },
-      "headline": "Three stars in a row"
-    },
-    {
-      "text": "Their names are Alnitak, Alnilam and Mintaka.",
-      "visual": {
-        "type": "image",
-        "query": "Orion's Belt",
-        "commons": "Orion's Belt"
-      },
-      "headline": "Alnitak, Alnilam, Mintaka"
-    },
-    {
-      "text": "They look like neighbors, but they're not. They sit hundreds to about two thousand light-years away. They only line up from our point of view.",
-      "visual": {
-        "type": "card",
-        "big": "~2,000",
-        "label": "light-years",
-        "sub": "Alnilam is the farthest"
-      }
-    },
-    {
-      "text": "All three are hot blue giant stars, each shining many thousands of times brighter than the Sun.",
-      "visual": {
-        "type": "card",
-        "big": "10,000s",
-        "label": "times brighter than the Sun",
-        "sub": "blue giants"
-      }
-    },
-    {
-      "text": "Next to Alnitak hide two famous clouds: the Flame Nebula, and the dark Horsehead Nebula.",
-      "visual": {
-        "type": "image",
-        "query": "Horsehead Nebula",
-        "commons": "Horsehead Nebula"
-      },
-      "headline": "The Horsehead Nebula"
-    },
-    {
-      "text": "Below the Belt hangs Orion's sword. Its middle star isn't a star at all.",
-      "visual": {
-        "type": "image",
-        "query": "Orion's sword",
-        "commons": "Orion's sword"
-      },
-      "headline": "Orion's sword"
-    },
-    {
-      "text": "It's the Orion Nebula, a star nursery about one thousand three hundred light-years away, where new stars are being born right now.",
-      "visual": {
-        "type": "image",
-        "query": "Orion Nebula Hubble",
-        "commons": "Orion Nebula Hubble"
-      },
-      "headline": "A star nursery"
-    },
-    {
-      "text": "Many cultures saw something different in these stars: a hunter, three kings, a fishing line, or three sisters.",
-      "visual": {
-        "type": "image",
-        "query": "Orion over landscape night",
-        "commons": "Orion over landscape night"
-      },
-      "headline": "Many stories"
-    },
-    {
-      "text": "Tomorrow, a ghostly glow that rises after sunset in spring. Most people have never seen it. Follow, so you don't miss episode one hundred and twenty-two.",
-      "visual": {
-        "type": "end",
-        "query": "zodiacal light",
-        "warm": true,
-        "wiki": [],
-        "commons": [
-          "Zodiacal light",
-          "zodiacal light Paranal"
-        ]
-      }
-    }
-  ]
+ "number": 121,
+ "title": "Orion's Belt",
+ "subtitle": "Three stars in a row.",
+ "next_stop": "Zodiacal Light",
+ "yt_title": "What's the Secret of Orion's Belt? ⭐⭐⭐ #shorts",
+ "description": "What's the Secret of Orion's Belt?\n\nEpisode 121 of a daily journey through the universe. ⭐\nWe visit Orion's Belt: Alnitak, Alnilam and Mintaka, three hot blue giant stars that only look lined up, roughly 700 to 2,000 light-years away, plus the Horsehead and Flame nebulas and the Orion Nebula just below, the sword where stars are being born.\n\n➡️ Tomorrow, Episode 122: Next stop, the zodiacal light. A ghostly glow most people have never seen.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #orion #astronomy #shorts #science #nasa",
+ "tags": [
+  "orion's belt",
+  "orion",
+  "alnitak",
+  "alnilam",
+  "mintaka",
+  "horsehead nebula",
+  "orion nebula",
+  "constellations",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "You've probably seen Orion's Belt. But those three stars have a secret.",
+   "visual": {
+    "type": "title",
+    "query": "Orion's Belt",
+    "commons": "Orion's Belt"
+   }
+  },
+  {
+   "text": "Three bright stars in a row. Probably the most famous pattern in the night sky.",
+   "visual": {
+    "type": "image",
+    "query": "Orion constellation",
+    "commons": "Orion constellation"
+   },
+   "headline": "Three stars in a row"
+  },
+  {
+   "text": "Their names are Alnitak, Alnilam and Mintaka.",
+   "visual": {
+    "type": "image",
+    "query": "Orion's Belt",
+    "commons": "Orion's Belt"
+   },
+   "headline": "Alnitak, Alnilam, Mintaka"
+  },
+  {
+   "text": "They look like neighbors, but they're not. They sit hundreds to about two thousand light-years away. They only line up from our point of view.",
+   "visual": {
+    "type": "card",
+    "big": "~2,000",
+    "label": "light-years",
+    "sub": "Alnilam is the farthest"
+   }
+  },
+  {
+   "text": "All three are hot blue giant stars, each shining many thousands of times brighter than the Sun.",
+   "visual": {
+    "type": "card",
+    "big": "10,000s",
+    "label": "times brighter than the Sun",
+    "sub": "blue giants"
+   }
+  },
+  {
+   "text": "Next to Alnitak hide two famous clouds: the Flame Nebula, and the dark Horsehead Nebula.",
+   "visual": {
+    "type": "image",
+    "query": "Horsehead Nebula",
+    "commons": "Horsehead Nebula"
+   },
+   "headline": "The Horsehead Nebula"
+  },
+  {
+   "text": "Below the Belt hangs Orion's sword. Its middle star isn't a star at all.",
+   "visual": {
+    "type": "image",
+    "query": "Orion's sword",
+    "commons": "Orion's sword"
+   },
+   "headline": "Orion's sword"
+  },
+  {
+   "text": "It's the Orion Nebula, a star nursery about one thousand three hundred light-years away, where new stars are being born right now.",
+   "visual": {
+    "type": "image",
+    "query": "Orion Nebula Hubble",
+    "commons": "Orion Nebula Hubble"
+   },
+   "headline": "A star nursery"
+  },
+  {
+   "text": "Many cultures saw something different in these stars: a hunter, three kings, a fishing line, or three sisters.",
+   "visual": {
+    "type": "image",
+    "query": "Orion over landscape night",
+    "commons": "Orion over landscape night"
+   },
+   "headline": "Many stories"
+  },
+  {
+   "text": "Tomorrow, a ghostly glow that rises after sunset in spring. Most people have never seen it. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "zodiacal light",
+    "warm": true,
+    "wiki": [],
+    "commons": [
+     "Zodiacal light",
+     "zodiacal light Paranal"
+    ]
+   }
+  }
+ ]
 }

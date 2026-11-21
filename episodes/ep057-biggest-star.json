@@ -1,133 +1,133 @@
 {
-  "number": 57,
-  "title": "The Biggest Stars",
-  "subtitle": "Monsters of light",
-  "next_stop": "Gravitational Waves",
-  "yt_title": "A Star Bigger Than Saturn's Orbit 🔴 | Ep. 57 #shorts",
-  "description": "Episode 57 of a daily journey through the universe. 🔴\nThe biggest stars: red supergiants like Stephenson 2-18 and UY Scuti may be more than a thousand times wider than the Sun (size estimates are uncertain), and the heaviest known star, R136a1, is about 200 times the Sun's mass.\n\n➡️ Tomorrow, Episode 58: Next stop, gravitational waves. Ripples in space itself.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #biggeststar #astronomy #shorts #science",
-  "tags": [
-    "biggest star",
-    "stephenson 2-18",
-    "uy scuti",
-    "r136a1",
-    "red supergiant",
-    "star size comparison",
-    "space",
-    "universe",
-    "astronomy",
-    "space facts",
-    "science shorts",
-    "journey through the universe",
-    "next stop universe"
-  ],
-  "segments": [
-    {
-      "text": "Episode fifty-seven. Next stop... the biggest stars in the universe.",
-      "visual": {
-        "type": "title",
-        "query": "red supergiant star artist impression",
-        "commons": "red supergiant star artist impression"
-      }
-    },
-    {
-      "text": "Our Sun is huge. About one point three million Earths could fit inside. But in the universe, it's ordinary.",
-      "visual": {
-        "type": "image",
-        "query": "Sun SDO",
-        "commons": "Sun SDO"
-      },
-      "headline": "The Sun is ordinary"
-    },
-    {
-      "text": "Remember Betelgeuse from episode fifteen? If it replaced our Sun, it would reach past the orbit of Mars.",
-      "visual": {
-        "type": "image",
-        "query": "Betelgeuse",
-        "wiki": "Betelgeuse"
-      },
-      "headline": "Betelgeuse"
-    },
-    {
-      "text": "But some stars are even bigger. One of the largest known is called Stephenson two-eighteen.",
-      "visual": {
-        "type": "image",
-        "query": "red supergiant star artist impression ESO",
-        "commons": "red supergiant star artist impression ESO"
-      },
-      "headline": "Stephenson 2-18"
-    },
-    {
-      "text": "Some estimates make it over two thousand times wider than the Sun.",
-      "visual": {
-        "type": "card",
-        "big": "2,000×",
-        "label": "wider than the Sun"
-      }
-    },
-    {
-      "text": "Put it in the center of our solar system, and its surface could reach beyond the orbit of Saturn.",
-      "visual": {
-        "type": "image",
-        "query": "Saturn",
-        "wiki": "Saturn"
-      },
-      "headline": "Past Saturn's orbit"
-    },
-    {
-      "text": "A plane flying at nine hundred kilometers an hour would need over a thousand years to fly once around it.",
-      "visual": {
-        "type": "card",
-        "big": "1000+ years",
-        "label": "to fly around it"
-      }
-    },
-    {
-      "text": "Measuring stars this far away is very hard, so these sizes are uncertain. Another giant, U Y Scuti, was once called the biggest.",
-      "visual": {
-        "type": "image",
-        "query": "UY Scuti",
-        "commons": "UY Scuti"
-      },
-      "headline": "Sizes are uncertain"
-    },
-    {
-      "text": "The heaviest known star is a different one: R one-thirty-six a one, in a nearby galaxy.",
-      "visual": {
-        "type": "image",
-        "query": "R136 cluster Hubble",
-        "commons": "R136 cluster Hubble"
-      },
-      "headline": "R136a1"
-    },
-    {
-      "text": "It has about two hundred times the mass of the Sun, and shines millions of times brighter.",
-      "visual": {
-        "type": "card",
-        "big": "~200×",
-        "label": "the Sun's mass"
-      }
-    },
-    {
-      "text": "Giants like these live fast and die young, in just a few million years, ending as supernovas or black holes.",
-      "visual": {
-        "type": "image",
-        "query": "supernova remnant Crab Nebula",
-        "commons": "supernova remnant Crab Nebula"
-      },
-      "headline": "Live fast, die young"
-    },
-    {
-      "text": "Tomorrow, ripples in space itself, detected from a collision a billion light-years away. Next stop: gravitational waves. Follow, so you don't miss episode fifty-eight.",
-      "visual": {
-        "type": "end",
-        "query": "LIGO Hanford",
-        "warm": false,
-        "wiki": [],
-        "commons": [
-          "LIGO Hanford",
-          "black hole merger simulation"
-        ]
-      }
-    }
-  ]
+ "number": 57,
+ "title": "The Biggest Stars",
+ "subtitle": "Bigger than Saturn's orbit.",
+ "next_stop": "Gravitational Waves",
+ "yt_title": "Could You Fly Around the Biggest Star in Your Lifetime? 🔴 #shorts",
+ "description": "Could You Fly Around the Biggest Star in Your Lifetime?\n\nEpisode 57 of a daily journey through the universe. 🔴\nThe biggest stars: red supergiants like Stephenson 2-18 and UY Scuti may be more than a thousand times wider than the Sun (size estimates are uncertain), and the heaviest known star, R136a1, is about 200 times the Sun's mass.\n\n➡️ Tomorrow, Episode 58: Next stop, gravitational waves. Ripples in space itself.\nStart from Episode 1 \"Leaving Earth\" on the channel.\nFollow so you don't miss a stop. A new episode every day.\n\nImages: NASA (public domain)\nNarration: AI voice\n\n#space #biggeststar #astronomy #shorts #science",
+ "tags": [
+  "biggest star",
+  "stephenson 2-18",
+  "uy scuti",
+  "r136a1",
+  "red supergiant",
+  "star size comparison",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "journey through the universe",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "If you flew around the biggest star at airplane speed, it would take you over a thousand years.",
+   "visual": {
+    "type": "title",
+    "query": "red supergiant star artist impression",
+    "commons": "red supergiant star artist impression"
+   }
+  },
+  {
+   "text": "Our Sun is huge. About one point three million Earths could fit inside. But in the universe, it's ordinary.",
+   "visual": {
+    "type": "image",
+    "query": "Sun SDO",
+    "commons": "Sun SDO"
+   },
+   "headline": "The Sun is ordinary"
+  },
+  {
+   "text": "Remember Betelgeuse from episode fifteen? If it replaced our Sun, it would reach past the orbit of Mars.",
+   "visual": {
+    "type": "image",
+    "query": "Betelgeuse",
+    "wiki": "Betelgeuse"
+   },
+   "headline": "Betelgeuse"
+  },
+  {
+   "text": "But some stars are even bigger. One of the largest known is called Stephenson two-eighteen.",
+   "visual": {
+    "type": "image",
+    "query": "red supergiant star artist impression ESO",
+    "commons": "red supergiant star artist impression ESO"
+   },
+   "headline": "Stephenson 2-18"
+  },
+  {
+   "text": "Some estimates make it over two thousand times wider than the Sun.",
+   "visual": {
+    "type": "card",
+    "big": "2,000×",
+    "label": "wider than the Sun"
+   }
+  },
+  {
+   "text": "Put it in the center of our solar system, and its surface could reach beyond the orbit of Saturn.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn",
+    "wiki": "Saturn"
+   },
+   "headline": "Past Saturn's orbit"
+  },
+  {
+   "text": "A plane flying at nine hundred kilometers an hour would need over a thousand years to fly once around it.",
+   "visual": {
+    "type": "card",
+    "big": "1000+ years",
+    "label": "to fly around it"
+   }
+  },
+  {
+   "text": "Measuring stars this far away is very hard, so these sizes are uncertain. Another giant, U Y Scuti, was once called the biggest.",
+   "visual": {
+    "type": "image",
+    "query": "UY Scuti",
+    "commons": "UY Scuti"
+   },
+   "headline": "Sizes are uncertain"
+  },
+  {
+   "text": "The heaviest known star is a different one: R one-thirty-six a one, in a nearby galaxy.",
+   "visual": {
+    "type": "image",
+    "query": "R136 cluster Hubble",
+    "commons": "R136 cluster Hubble"
+   },
+   "headline": "R136a1"
+  },
+  {
+   "text": "It has about two hundred times the mass of the Sun, and shines millions of times brighter.",
+   "visual": {
+    "type": "card",
+    "big": "~200×",
+    "label": "the Sun's mass"
+   }
+  },
+  {
+   "text": "Giants like these live fast and die young, in just a few million years, ending as supernovas or black holes.",
+   "visual": {
+    "type": "image",
+    "query": "supernova remnant Crab Nebula",
+    "commons": "supernova remnant Crab Nebula"
+   },
+   "headline": "Live fast, die young"
+  },
+  {
+   "text": "Tomorrow, ripples in space itself, detected from a collision a billion light-years away. Next stop: gravitational waves. Which part surprised you most? Tell me in the comments, and follow for tomorrow's stop.",
+   "visual": {
+    "type": "end",
+    "query": "LIGO Hanford",
+    "warm": false,
+    "wiki": [],
+    "commons": [
+     "LIGO Hanford",
+     "black hole merger simulation"
+    ]
+   }
+  }
+ ]
 }
