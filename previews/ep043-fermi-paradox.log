@@ -1,9 +1,9 @@
-[0;93m2026-11-17 22:43:09.116714320 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 20:13:23.637971470 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 43: The Fermi Paradox
-  audio 90.8s
+  audio 95.4s
   - skip File:In the photo there is one Perseid, Milky Way and Andromega galaxy and light pollution on the horizon - Luhasoo bog in Estonia.jpg: license 'CC BY-SA 4.0'
   WIKI File:Night Sky from Hawai‘i and Chile (iotw2225c).jpg (CC BY 4.0)
-  segment 1/11 [title] 4.3s
+  segment 1/11 [title] 6.6s
   WIKI File:Enrico_Fermi_1943-49.jpg (Public domain)
   segment 2/11 [image] 10.0s
   segment 3/11 [card] 5.2s
@@ -23,5 +23,5 @@
   segment 9/11 [image] 7.4s
   segment 10/11 [card] 5.0s
   WIKI File:NASA-Apollo8-Dec24-Earthrise.jpg (Public domain)
-  segment 11/11 [end] 11.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep043.mp4 (20.9 MB)
+  segment 11/11 [end] 13.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep043.mp4 (21.6 MB)
