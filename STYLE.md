@@ -11,7 +11,7 @@ first 10 seconds, and the whole Short is about 60 seconds.
 
 ## First 2 seconds (segment 1)
 - Never open with "Episode N. Season… Next stop…". Open with the hook question or a startling claim, spoken directly to the viewer.
-- Keep it under ~18 words. The on-screen `subtitle` on the title card is a short tease (2–6 words).
+- Keep it under ~18 words. The on-screen `subtitle` on the title card is the title question itself, so a viewer who sees the first frame reads the question.
 
 ## Body
 - Put the most visceral or surprising fact in the first 10–15 seconds, then explain.
