@@ -1,14 +1,14 @@
-[0;93m2026-11-19 16:37:09.809431601 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:52:00.448823122 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 110: The Tunguska Event
-  audio 70.1s
+  audio 68.4s
   WIKI File:Tunguska_Ereignis-1.jpg (Public domain)
-  segment 1/10 [title] 4.7s
+  segment 1/10 [title] 5.3s
   WIKI File:Fireball Flies Above Gemini North (iotw2602a).jpg (CC BY 4.0)
   segment 2/10 [image] 6.7s
   WIKI File:Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia.jpg (CC BY 4.0)
   segment 3/10 [image] 8.1s
   segment 4/10 [card] 7.1s
-  segment 5/10 [card] 7.7s
+  segment 5/10 [card] 7.8s
   segment 6/10 [card] 5.1s
   WIKI File:Tunguska_Ereignis-1.jpg (Public domain)
   segment 7/10 [image] 7.3s
@@ -18,5 +18,5 @@
   WIKI File:Artist’s Impression of Asteroid 1999 KW4 (eso1910c).jpg (CC BY 4.0)
   segment 9/10 [image] 5.2s
   WIKI File:Dart-poster3.jpg (Public domain)
-  segment 10/10 [end] 11.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep110.mp4 (22.1 MB)
+  segment 10/10 [end] 9.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep110.mp4 (22.5 MB)
