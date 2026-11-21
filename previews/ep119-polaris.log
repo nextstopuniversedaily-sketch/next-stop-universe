@@ -1,13 +1,13 @@
-[0;93m2026-11-19 16:48:40.805901124 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 23:07:58.469786320 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 119: Polaris
-  audio 73.0s
+  audio 68.9s
   - skip File:Polaris (star).jpg: license 'CC BY-SA 3.0'
   - skip File:Circumpolar Star Trails With High Flyer.jpg: license 'CC BY-SA 3.0'
   - skip File:Star trails Polaris.JPG: license 'CC BY-SA 3.0'
   - skip File:Star Trail above Beccles - geograph.org.uk - 1855505.jpg: license 'CC BY-SA 2.0'
   - skip File:Circumpolar star trails.jpg: license 'CC BY-SA 3.0'
   WIKI File:Star Trails Above Gemini North (iotw2506a).jpg (CC BY 4.0)
-  segment 1/10 [title] 5.6s
+  segment 1/10 [title] 5.1s
   segment 2/10 [card] 7.9s
   - skip File:Polaris (star).jpg: license 'CC BY-SA 3.0'
   - skip File:Circumpolar Star Trails With High Flyer.jpg: license 'CC BY-SA 3.0'
@@ -22,18 +22,16 @@
   WIKI File:Sailing beneath a sea of stars (potw2530a).jpg (CC BY 4.0)
   segment 5/10 [image] 8.3s
   - skip File:Big Dipper 20210116.jpg: license 'CC BY-SA 4.0'
-  - skip File:Big Dipper rapper - 3.jpg: license 'CC BY-SA 4.0'
-  - skip File:Big Dipper Geauga Lake.JPG: license 'CC BY-SA 3.0'
-  - skip File:Thin clouds and the Big Dipper over Brastad 2.jpg: license 'CC BY-SA 4.0'
   - skip File:Thin clouds and the Big Dipper over Brastad 3.jpg: license 'CC BY-SA 4.0'
+  - skip File:Thin clouds and the Big Dipper over Brastad 2.jpg: license 'CC BY-SA 4.0'
   - skip File:Thin clouds and the Big Dipper over Brastad 1.jpg: license 'CC BY-SA 4.0'
   - skip File:The Big Dipper and some electricity pylons in Tuntorp, Brastad.jpg: license 'CC BY-SA 4.0'
   WIKI File:BigDipperGlacierNational.jpg (CC0)
   segment 6/10 [image] 4.3s
   segment 7/10 [card] 7.8s
   ! no usable NASA image for 'Polaris Hubble'
-  segment 8/10 [image] 7.8s
+  segment 8/10 [image] 7.7s
   segment 9/10 [card] 8.3s
   WIKI File:Sirius A and B artwork.jpg (Public domain)
-  segment 10/10 [end] 11.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep119.mp4 (27.5 MB)
+  segment 10/10 [end] 7.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep119.mp4 (26.3 MB)
