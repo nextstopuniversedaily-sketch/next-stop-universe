@@ -1,8 +1,8 @@
-[0;93m2026-11-18 20:39:59.106350374 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:26:39.838741417 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 95: Europa Clipper's Journey
-  audio 75.8s
+  audio 74.0s
   WIKI File:Europa_Clipper_spacecraft_model.png (Public domain)
-  segment 1/10 [title] 4.1s
+  segment 1/10 [title] 5.6s
   WIKI File:NASA's SpaceX Europa Clipper Launch (KSC-20241014-PH-SPX01 0003).jpg (CC0)
   segment 2/10 [image] 8.3s
   segment 3/10 [card] 8.0s
@@ -17,5 +17,5 @@
   WIKI File:Europa Clipper commemorative plate 1.jpg (Public domain)
   segment 9/10 [image] 7.5s
   WIKI File:Olympus Mons alt.jpg (Public domain)
-  segment 10/10 [end] 12.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep095.mp4 (14.1 MB)
+  segment 10/10 [end] 9.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep095.mp4 (13.9 MB)
