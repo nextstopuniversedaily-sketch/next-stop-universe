@@ -1,7 +1,8 @@
+[0;93m2026-11-21 21:57:41.702118146 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 79: The Moon's South Pole
-  audio 70.8s
+  audio 70.0s
   WIKI File:LRO WAC South Pole Mosaic.jpg (Public domain)
-  segment 1/10 [title] 4.6s
+  segment 1/10 [title] 5.0s
   WIKI File:Aldrin Apollo 11.jpg (Public domain)
   segment 2/10 [image] 7.7s
   WIKI File:LRO Shackleton Center.jpg (Public domain)
@@ -19,5 +20,5 @@
   WIKI File:Chang'e 4 Lander- A Closer Look (02 m1147290066lr m130C5A1B).jpg (Public domain)
   segment 9/10 [image] 5.5s
   WIKI File:Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg (Public domain)
-  segment 10/10 [end] 8.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep079.mp4 (17.6 MB)
+  segment 10/10 [end] 7.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep079.mp4 (17.5 MB)
