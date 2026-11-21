@@ -1,8 +1,8 @@
-[0;93m2026-11-18 01:05:26.593708479 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:11:46.810116619 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 54: The Oort Cloud
-  audio 72.8s
+  audio 73.2s
   WIKI File:Rubin Oort Cloud and Kuiper Belt Illustration (rubin-Oort-Cloud-and-Kuiper-Belt).jpg (CC BY 4.0)
-  segment 1/11 [title] 4.0s
+  segment 1/11 [title] 5.9s
   - skip File:Comet-Hale-Bopp-29-03-1997 hires adj.jpg: license 'CC BY-SA 2.0 at'
   - skip File:Comet Hale-Bopp 1995O1.jpg: license 'CC BY-SA 3.0'
   WIKI File:Comet Hale-Bopp Phot-mar14-hbs-2.jpg (CC BY 4.0)
@@ -23,5 +23,5 @@
   segment 9/11 [card] 6.2s
   segment 10/11 [card] 3.3s
   WIKI File:Moon over Horizon - ISS - August 30 2026 (55502157806).jpg (CC BY 4.0)
-  segment 11/11 [end] 9.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep054.mp4 (18.5 MB)
+  segment 11/11 [end] 8.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep054.mp4 (18.7 MB)
