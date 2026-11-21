@@ -1,24 +1,25 @@
+[0;93m2026-11-21 07:21:58.171198040 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive on Mars
-  audio 533.7s (8.89 min)
+  audio 533.0s (8.88 min)
   WIKI File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png (CC BY 2.0)
   segment 1/52 [title] 14.2s
   WIKI File:A Dark Sky Full of Light (horalek-vst-milky-way).jpg (CC BY 4.0)
-  segment 2/52 [image] 12.7s
+  segment 2/52 [image] 12.8s
   WIKI File:Solar system scale edit.jpg (Public domain)
-  segment 3/52 [image] 7.5s
+  segment 3/52 [image] 7.6s
   segment 4/52 [card] 10.9s
   WIKI File:Full disk of the Sun (eso1703e-comparisona).jpg (CC BY 4.0)
   segment 5/52 [image] 9.2s
-  segment 6/52 [card] 12.2s
+  segment 6/52 [card] 12.0s
   WIKI File:NASA Mars Rover.jpg (Public domain)
-  segment 7/52 [image] 7.3s
+  segment 7/52 [image] 7.4s
   segment 8/52 [card] 7.6s
   WIKI File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png (CC BY 2.0)
   segment 9/52 [image] 12.7s
-  segment 10/52 [card] 8.5s
+  segment 10/52 [card] 8.4s
   WIKI File:Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg (Public domain)
-  segment 11/52 [image] 13.9s
-  segment 12/52 [question] 8.4s
+  segment 11/52 [image] 14.0s
+  segment 12/52 [question] 8.3s
   WIKI File:Perseverance Stuns in New Selfie.png (Public domain)
   segment 13/52 [image] 6.1s
   WIKI File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png (CC BY 2.0)
@@ -30,40 +31,40 @@
   WIKI File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png (CC BY 2.0)
   segment 17/52 [image] 3.8s
   WIKI File:NASA Mars Rover.jpg (Public domain)
-  segment 18/52 [image] 15.2s
+  segment 18/52 [image] 15.3s
   WIKI File:MarsSunset.jpg (Public domain)
   segment 19/52 [image] 16.8s
   WIKI File:Full disk of the Sun (eso1703e-comparisona).jpg (CC BY 4.0)
   segment 20/52 [image] 8.8s
   WIKI File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png (CC BY 2.0)
-  segment 21/52 [image] 10.0s
+  segment 21/52 [image] 10.1s
   segment 22/52 [card] 10.0s
   WIKI File:Mars Sample Return Concept Illustration.jpg (Public domain)
-  segment 23/52 [image] 8.1s
+  segment 23/52 [image] 8.2s
   WIKI File:Olympus Mons - ESA Mars Express.png (CC BY 4.0)
-  segment 24/52 [image] 4.3s
+  segment 24/52 [image] 4.2s
   segment 25/52 [card] 11.0s
   WIKI File:Olympus Mons - NASA Mars Global Surveyor (54542130265).png (Public domain)
   segment 26/52 [image] 11.2s
   WIKI File:Olympus Mons Caldera - ESA Mars Express (54041132578).png (CC BY 2.0)
-  segment 27/52 [image] 6.6s
+  segment 27/52 [image] 6.5s
   WIKI File:PIA00005 Oblique View of Valles Marineris.jpg (Public domain)
-  segment 28/52 [image] 12.1s
+  segment 28/52 [image] 12.0s
   segment 29/52 [card] 6.7s
   WIKI File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg (Public domain)
   segment 30/52 [image] 7.7s
   WIKI File:MarsSunset.jpg (Public domain)
-  segment 31/52 [image] 9.9s
+  segment 31/52 [image] 9.8s
   WIKI File:Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg (Public domain)
   segment 32/52 [image] 7.3s
   WIKI File:Perseverance Stuns in New Selfie.png (Public domain)
-  segment 33/52 [image] 8.3s
+  segment 33/52 [image] 8.2s
   WIKI File:1-PIA26368-Perseverance Finds a Rock with Leopard Spots-annotated.png (Public domain)
-  segment 34/52 [image] 13.8s
-  WIKI File:PIA25962-MarsPerseveranceRover-OtisPeak-RockSample-20230612.jpg (Public domain)
-  segment 35/52 [image] 10.2s
+  segment 34/52 [image] 13.7s
+  WIKI File:Perseverance Stuns in New Selfie.png (Public domain)
+  segment 35/52 [image] 10.3s
   WIKI File:Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg (Public domain)
-  segment 36/52 [image] 11.1s
+  segment 36/52 [image] 11.0s
   segment 37/52 [card] 8.2s
   WIKI File:Perseverance Stuns in New Selfie.png (Public domain)
   segment 38/52 [image] 13.9s
@@ -71,27 +72,27 @@
   segment 39/52 [image] 11.0s
   segment 40/52 [card] 10.2s
   WIKI File:Phobos colour 2008.jpg (Public domain)
-  segment 41/52 [image] 13.6s
+  segment 41/52 [image] 13.5s
   segment 42/52 [question] 7.7s
   WIKI File:Mars Sample Return Concept Illustration.jpg (Public domain)
-  segment 43/52 [image] 12.2s
+  segment 43/52 [image] 12.3s
   WIKI File:South Polar Cap of Mars during Martian South summer 2000.jpg (Public domain)
-  segment 44/52 [image] 9.4s
-  WIKI File:PIA25962-MarsPerseveranceRover-OtisPeak-RockSample-20230612.jpg (Public domain)
-  segment 45/52 [image] 15.8s
+  segment 44/52 [image] 9.5s
+  WIKI File:Perseverance Stuns in New Selfie.png (Public domain)
+  segment 45/52 [image] 16.0s
   WIKI File:Spanning the Delta of Jezero Crater on Mars (PIA25022).jpg (Public domain)
   segment 46/52 [image] 14.7s
   WIKI File:NASA Mars Rover.jpg (Public domain)
-  segment 47/52 [image] 9.5s
+  segment 47/52 [image] 9.4s
   WIKI File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png (CC BY 2.0)
   segment 48/52 [image] 7.7s
-  WIKI File:2018 Night Sky Festival- Stargazing in the Meadow (44025262174).jpg (Public domain)
-  segment 49/52 [image] 14.5s
+  WIKI File:A Dark Sky Full of Light (horalek-vst-milky-way).jpg (CC BY 4.0)
+  segment 49/52 [image] 14.6s
   WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
-  segment 50/52 [image] 9.4s
+  segment 50/52 [image] 9.3s
   segment 51/52 [question] 6.2s
   WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
-  segment 52/52 [end] 18.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-on-mars.mp4 (41.3 MB, 8.89 min)
+  segment 52/52 [end] 18.9s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-on-mars.mp4 (42.4 MB, 8.88 min)
   WIKI File:Mars - August 30 2021 - Flickr - Kevin M. Gill.png (CC BY 2.0)
 thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-survive-on-mars.jpg
