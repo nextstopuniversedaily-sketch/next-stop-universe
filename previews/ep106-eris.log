@@ -1,17 +1,17 @@
-[0;93m2026-11-19 16:28:40.788184830 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:45:35.239676323 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 106: Eris
-  audio 69.8s
+  audio 66.6s
   - skip File:Eris_and_moon_Dysnomia_JWST_NIRCam.jpg: license 'CC BY-SA 4.0'
   NASA 'Eris' -> PIA17307: Eris and Dysnomia Artist Concept
-  segment 1/10 [title] 4.0s
+  segment 1/10 [title] 4.8s
   WIKI File:Eris and Dysnomia (captured by the Hubble Space Telescope).jpg (Public domain)
-  segment 2/10 [image] 8.5s
+  segment 2/10 [image] 8.6s
   WIKI File:Smallest Kuiper Belt Object detected (artist's impression) (opo0933b).jpg (CC BY 4.0)
-  segment 3/10 [image] 5.8s
+  segment 3/10 [image] 5.7s
   WIKI File:Pluto-01 Stern 03 Pluto Color TXT.jpg (Public domain)
-  segment 4/10 [image] 7.0s
-  segment 5/10 [card] 7.4s
-  segment 6/10 [card] 9.0s
+  segment 4/10 [image] 6.9s
+  segment 5/10 [card] 7.3s
+  segment 6/10 [card] 8.9s
   segment 7/10 [card] 8.1s
   WIKI File:Smallest Kuiper Belt Object detected (artist's impression) (opo0933b).jpg (CC BY 4.0)
   segment 8/10 [image] 5.1s
@@ -20,5 +20,5 @@
   - skip File:Mesoplanet.jpg: license 'CC BY-SA 4.0'
   - skip File:Dwarfplanet.jpg: license 'CC BY-SA 4.0'
   WIKI File:Haumea Hubble.png (Public domain)
-  segment 10/10 [end] 11.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep106.mp4 (10.7 MB)
+  segment 10/10 [end] 7.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep106.mp4 (10.6 MB)
