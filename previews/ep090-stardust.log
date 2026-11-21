@@ -1,16 +1,16 @@
-[0;93m2026-11-18 05:02:56.847044143 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:17:45.308801138 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 90: You Are Stardust
-  audio 74.1s
+  audio 73.5s
   WIKI File:Orion Nebula - Hubble 2006 mosaic 18000.jpg (Public domain)
-  segment 1/10 [title] 4.9s
+  segment 1/10 [title] 5.3s
   WIKI File:Milky Way over Avenue of Baobabs (ann22042n).jpg (CC BY 4.0)
   segment 2/10 [image] 8.2s
   WIKI File:Cosmic Microwave Background (CMB).jpeg (CC BY 4.0)
-  segment 3/10 [image] 6.8s
+  segment 3/10 [image] 6.7s
   WIKI File:Grand star-forming region R136 in NGC 2070 (captured by the Hubble Space Telescope).jpg (Public domain)
-  segment 4/10 [image] 6.9s
+  segment 4/10 [image] 7.0s
   WIKI File:Crab Nebula.jpg (Public domain)
-  segment 5/10 [image] 9.1s
+  segment 5/10 [image] 9.2s
   WIKI File:Artist's impression of a kilonova explosion.jpg (CC BY 4.0)
   segment 6/10 [image] 6.9s
   WIKI File:HD 163296 protoplanetary disk by ALMA (16CB25B).jpg (CC BY 4.0)
@@ -19,5 +19,5 @@
   WIKI File:Milky way in Elbrus.jpg (CC BY 4.0)
   segment 9/10 [image] 6.9s
   WIKI File:PIA21972 Jupiter Blues.jpg (Public domain)
-  segment 10/10 [end] 9.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep090.mp4 (26.7 MB)
+  segment 10/10 [end] 8.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep090.mp4 (26.1 MB)
