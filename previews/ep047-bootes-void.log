@@ -1,6 +1,6 @@
-[0;93m2026-11-21 20:35:34.837072803 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 20:58:48.445463367 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 47: The Boötes Void
-  audio 76.9s
+  audio 71.9s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 1/10 [title] 6.5s
   - skip File:Cosmic web.jpg: license 'CC BY-SA 4.0'
@@ -22,5 +22,5 @@
   - skip File:Laniakea with Galaktika.jpg: license 'CC BY-SA 4.0'
   - skip File:07-Laniakea (LofE07240).png: license 'CC BY-SA 4.0'
   WIKI File:Laniakea Supercluster (Cropped).png (CC BY 4.0)
-  segment 10/10 [end] 13.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep047.mp4 (22.0 MB)
+  segment 10/10 [end] 8.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep047.mp4 (21.3 MB)
