@@ -1,8 +1,8 @@
-[0;93m2026-11-18 03:15:54.576582562 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:31:00.680070814 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 64: Pulsar Planets
-  audio 75.8s
+  audio 73.7s
   WIKI File:Artist's impression of pulsar planet B1620-26c.jpg (Public domain)
-  segment 1/10 [title] 4.1s
+  segment 1/10 [title] 6.1s
   WIKI File:ALMA and a Starry Night.jpg (CC BY 4.0)
   segment 2/10 [image] 6.4s
   WIKI File:Arecibo Observatory Aerial View.jpg (CC BY 4.0)
@@ -18,5 +18,5 @@
   WIKI File:Keplers supernova.jpg (Public domain)
   segment 9/10 [image] 5.9s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
-  segment 10/10 [end] 13.0s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep064.mp4 (13.5 MB)
+  segment 10/10 [end] 8.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep064.mp4 (13.8 MB)
