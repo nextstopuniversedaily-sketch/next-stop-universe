@@ -1,15 +1,16 @@
-[0;93m2026-11-19 16:43:58.886244043 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 22:57:11.315149474 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 113: Cosmic Inflation
-  audio 75.6s
+  audio 70.2s
   WIKI File:Cosmic Microwave Background (CMB).jpeg (CC BY 4.0)
-  segment 1/10 [title] 5.1s
+  segment 1/10 [title] 4.9s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 2/10 [image] 7.6s
+  segment 2/10 [image] 7.7s
   segment 3/10 [card] 8.5s
   WIKI File:Webb's First Deep Field.jpg (Public domain)
   segment 4/10 [image] 6.5s
   segment 5/10 [card] 7.6s
-  WIKI File:WMAP 2010.png (Public domain)
+  - skip File:WMAP 2010.png: looks like a chart/blank
+  WIKI File:WMAP 2008.png (Public domain)
   segment 6/10 [image] 5.9s
   WIKI File:Webb's First Deep Field.jpg (Public domain)
   segment 7/10 [image] 7.6s
@@ -22,5 +23,5 @@
   WIKI File:BICEP Telescope Camera Superconducting Circuit Chip (13586387733).jpg (Public domain)
   segment 9/10 [image] 6.5s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 10/10 [end] 13.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep113.mp4 (23.3 MB)
+  segment 10/10 [end] 8.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep113.mp4 (22.2 MB)
