@@ -1,8 +1,8 @@
-[0;93m2026-11-19 16:52:43.421760088 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 23:16:21.968926452 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 124: How Astronauts Live
-  audio 76.7s
+  audio 70.7s
   WIKI File:Astronaut Jessica Watkins is pictured eating a meal.jpg (Public domain)
-  segment 1/10 [title] 5.6s
+  segment 1/10 [title] 3.9s
   WIKI File:Temporary Sleep Station.jpg (Public domain)
   segment 2/10 [image] 8.2s
   segment 3/10 [card] 7.3s
@@ -13,11 +13,11 @@
   segment 5/10 [image] 6.9s
   WIKI File:Space_Toilet_(8687080967).jpg (CC BY 2.0)
   segment 6/10 [image] 7.5s
-  segment 7/10 [card] 8.4s
+  segment 7/10 [card] 8.5s
   WIKI File:ISS-38 Mike Hopkins works on the COLBERT treadmill in the Unity node.jpg (Public domain)
   segment 8/10 [image] 6.4s
   WIKI File:NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in (nasa-astronaut-chris-williams-returns-to-earth).jpg (Public domain)
   segment 9/10 [image] 6.2s
   WIKI File:STS-116 spacewalk 1.jpg (Public domain)
-  segment 10/10 [end] 12.1s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep124.mp4 (16.8 MB)
+  segment 10/10 [end] 7.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep124.mp4 (15.4 MB)
