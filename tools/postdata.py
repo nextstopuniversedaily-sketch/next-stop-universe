@@ -20,7 +20,17 @@ def credits(n):
         return ["NASA (public domain)"]
     return lines
 
+def stale(n):
+    """True if the episode script changed after its last render (render.py would render it again)."""
+    import os
+    out = subprocess.run([sys.executable, "pipeline/render.py", "--all", "--list"], capture_output=True, text=True,
+                         env={**os.environ, "MIN_EPISODE": "41"}).stdout
+    return any(f"ep{n:03d}-" in line for line in out.splitlines())
+
 def episode(n):
+    if stale(n):
+        sys.exit(f"ep{n:03d}: the video is not re-rendered yet (script changed). Do not upload it today; "
+                 "upload the next ready item instead and try this one again tomorrow.")
     d = json.load(open(glob.glob(f"episodes/ep{n:03d}-*.json")[0]))
     text = d["description"].replace("Images: NASA (public domain)",
                                     "Image credits:\n" + "\n".join("• " + c for c in credits(n)))

@@ -1,5 +1,8 @@
 # Next Stop: Universe
 
+> **Writing new Shorts or long videos? Follow [STYLE.md](STYLE.md) first** (hook-first openings, "What if you…" titles, comment prompts).
+
+
 Daily space Shorts for the YouTube channel **Next Stop: Universe** (@NextStopUniverse-v5v).
 
 ## How it works
