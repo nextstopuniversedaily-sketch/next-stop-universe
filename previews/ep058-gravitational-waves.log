@@ -1,8 +1,8 @@
-[0;93m2026-11-17 23:45:41.551074971 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 21:19:38.011175240 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 58: Gravitational Waves
   audio 76.9s
   ! no usable NASA image for 'black hole merger simulation'
-  segment 1/11 [title] 4.4s
+  segment 1/11 [title] 5.8s
   WIKI File:Albert_Einstein_Head_cleaned.jpg (Public domain)
   segment 2/11 [image] 9.1s
   WIKI File:Binary Black Hole.jpg (CC BY 4.0)
@@ -10,7 +10,7 @@
   WIKI File:LIGO Hanford aerial 05.jpg (Public domain)
   segment 4/11 [image] 11.1s
   segment 5/11 [card] 5.5s
-  segment 6/11 [card] 6.2s
+  segment 6/11 [card] 6.3s
   WIKI File:Artist’s Impression of Heaviest Supermassive Binary Black Hole (noirlab2405a).jpg (CC BY 4.0)
   segment 7/11 [image] 7.2s
   segment 8/11 [card] 7.0s
@@ -19,5 +19,5 @@
   WIKI File:Eso1733s Artist's impression of merging neutron stars.jpg (CC BY 4.0)
   segment 10/11 [image] 4.3s
   WIKI File:Hubble reveals the Ring Nebula’s true shape.jpg (Public domain)
-  segment 11/11 [end] 10.1s
+  segment 11/11 [end] 8.5s
   -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep058.mp4 (12.9 MB)
