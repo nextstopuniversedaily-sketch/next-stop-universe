@@ -1,6 +1,6 @@
-[0;93m2026-11-21 20:33:21.307275605 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-21 20:56:46.230349199 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 46: Tabby's Star
-  audio 88.7s
+  audio 83.3s
   WIKI File:Debris Disk Around Star HD 181327 (Artist's Concept) (2025-119).png (Public domain)
   segment 1/10 [title] 5.0s
   - skip File:Kepler_Space_Telescope_spacecraft_model_2.png: looks like a chart/blank
@@ -21,5 +21,5 @@
   WIKI File:Artist’s impression of debris around a white dwarf star.jpg (CC BY 4.0)
   segment 9/10 [image] 8.2s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
-  segment 10/10 [end] 13.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep046.mp4 (17.1 MB)
+  segment 10/10 [end] 8.4s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep046.mp4 (16.3 MB)
