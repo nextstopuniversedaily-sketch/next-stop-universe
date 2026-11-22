@@ -222,19 +222,22 @@
   "id": "ep042",
   "kind": "episode",
   "publishAt": "2026-11-23T13:00:00-06:00",
-  "status": "pending"
+  "status": "pending",
+  "draftPostId": "bea05167-b33a-45d2-8070-eef1f2594c72"
  },
  {
   "id": "ep043",
   "kind": "episode",
   "publishAt": "2026-11-24T13:00:00-06:00",
-  "status": "pending"
+  "status": "pending",
+  "draftPostId": "07e69f4f-8660-40e2-b3a0-f7712c28ba2a"
  },
  {
   "id": "ep045",
   "kind": "episode",
   "publishAt": "2026-11-25T13:00:00-06:00",
-  "status": "pending"
+  "status": "pending",
+  "draftPostId": "4e16931f-441c-4b4c-b420-82e05382b981"
  },
  {
   "id": "long-never-get-close-black-hole",
