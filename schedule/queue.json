@@ -222,15 +222,17 @@
   "id": "ep042",
   "kind": "episode",
   "publishAt": "2026-11-23T13:00:00-06:00",
-  "status": "pending",
-  "draftPostId": "bea05167-b33a-45d2-8070-eef1f2594c72"
+  "status": "scheduled",
+  "postId": "bea05167-b33a-45d2-8070-eef1f2594c72",
+  "postUrl": "https://www.youtube.com/watch?v=YlLwnwKFBtM"
  },
  {
   "id": "ep043",
   "kind": "episode",
   "publishAt": "2026-11-24T13:00:00-06:00",
-  "status": "pending",
-  "draftPostId": "07e69f4f-8660-40e2-b3a0-f7712c28ba2a"
+  "status": "scheduled",
+  "postId": "07e69f4f-8660-40e2-b3a0-f7712c28ba2a",
+  "postUrl": "https://www.youtube.com/watch?v=9SAJuOQkLqQ"
  },
  {
   "id": "ep045",
@@ -300,10 +302,12 @@
   "id": "long-never-survive-space-without-suit",
   "kind": "long",
   "publishAt": "2026-11-27T18:00:00-06:00",
-  "status": "pending",
+  "status": "scheduled",
   "series": "Why You'd Never",
   "thumbnail": "previews/thumb-never-survive-space-without-suit.jpg",
-  "note": "new series: upload first; set thumbnailImageId from the thumbnail file if possible"
+  "note": "scheduled 2026-11-23 with custom thumbnail (thumbnailImageId ea668f16-e3ad-4aa9-b9a7-e83579b949be)",
+  "postId": "9e9b84f5-0b87-4028-b290-91ff2b311559",
+  "postUrl": "https://www.youtube.com/watch?v=FeZy2V8asuo"
  },
  {
   "id": "ep048",
