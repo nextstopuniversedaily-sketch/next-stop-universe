@@ -238,8 +238,9 @@
   "id": "ep045",
   "kind": "episode",
   "publishAt": "2026-11-25T13:00:00-06:00",
-  "status": "pending",
-  "draftPostId": "4e16931f-441c-4b4c-b420-82e05382b981"
+  "status": "scheduled",
+  "postId": "4e16931f-441c-4b4c-b420-82e05382b981",
+  "postUrl": "https://www.youtube.com/watch?v=TY31_Y3mNmI"
  },
  {
   "id": "long-never-get-close-black-hole",
@@ -256,7 +257,9 @@
   "id": "ep046",
   "kind": "episode",
   "publishAt": "2026-11-26T13:00:00-06:00",
-  "status": "pending"
+  "status": "scheduled",
+  "postId": "6d90f3d8-ff39-47b1-9dc6-23456b659a17",
+  "postUrl": "https://www.youtube.com/watch?v=jy-Yl86Wmr8"
  },
  {
   "id": "long-biggest-mysteries",
@@ -296,7 +299,9 @@
   "id": "ep047",
   "kind": "episode",
   "publishAt": "2026-11-27T13:00:00-06:00",
-  "status": "pending"
+  "status": "scheduled",
+  "postId": "8a41a7f3-6f95-404b-8ea7-ad8eb89c30f1",
+  "postUrl": "https://www.youtube.com/watch?v=cewQT8YfAsw"
  },
  {
   "id": "long-never-survive-space-without-suit",
