@@ -318,7 +318,9 @@
   "id": "ep048",
   "kind": "episode",
   "publishAt": "2026-11-28T13:00:00-06:00",
-  "status": "pending"
+  "status": "scheduled",
+  "postId": "f7b9867a-095d-4bfd-9629-f5b1a72f7bcf",
+  "postUrl": "https://www.youtube.com/watch?v=CyExgIFwFiM"
  },
  {
   "id": "long-edge-of-universe",
@@ -349,13 +351,17 @@
    "journey through the universe"
   ],
   "hashtags": "#universe #bigbang #jwst #space #astronomy",
-  "status": "pending"
+  "status": "scheduled",
+  "postId": "b03408f7-fe60-4f5b-886e-44c15e62bec2",
+  "postUrl": "https://www.youtube.com/watch?v=aEL5KFJauLY"
  },
  {
   "id": "ep049",
   "kind": "episode",
   "publishAt": "2026-11-29T13:00:00-06:00",
-  "status": "pending"
+  "status": "scheduled",
+  "postId": "0a2c7887-b0f8-4cad-9499-2652ee270ef9",
+  "postUrl": "https://www.youtube.com/watch?v=CMw0gaUhf_E"
  },
  {
   "id": "long-never-survive-on-mars",
