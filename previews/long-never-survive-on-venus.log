@@ -1,4 +1,4 @@
-[0;93m2026-11-25 20:50:22.065052377 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-25 22:20:54.094529253 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive on Venus
   audio 538.8s (8.98 min)
   WIKI File:Venus-real color.jpg (Public domain)
@@ -37,7 +37,7 @@
   WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
   segment 20/45 [image] 8.9s
   segment 21/45 [card] 10.9s
-  WIKI File:Basaltic lava (late March 2021 eruption in Geldingadalur Valley, Rekjanes Peninsula, Iceland) 2.jpg (CC BY 2.0)
+  WIKI File:Venus 2 Approach Image.jpg (Public domain)
   segment 22/45 [image] 8.7s
   WIKI File:Venus-real color.jpg (Public domain)
   segment 23/45 [image] 14.9s
@@ -56,7 +56,7 @@
   segment 31/45 [card] 15.0s
   WIKI File:Desert Sky (Unsplash).jpg (CC0)
   segment 32/45 [image] 8.3s
-  WIKI File:Basaltic lava (late March 2021 eruption in Geldingadalur Valley, Rekjanes Peninsula, Iceland) 2.jpg (CC BY 2.0)
+  WIKI File:Maat Mons on Venus.jpg (Public domain)
   segment 33/45 [image] 13.6s
   WIKI File:Venus Mariner 10 true color.png (Public domain)
   segment 34/45 [image] 15.5s
@@ -79,6 +79,6 @@
   segment 44/45 [question] 8.0s
   WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
   segment 45/45 [end] 18.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-on-venus.mp4 (38.8 MB, 8.98 min)
-  WIKI File:Venus-real color.jpg (Public domain)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-on-venus.mp4 (36.1 MB, 8.98 min)
+  WIKI File:Venus 2 Approach Image.jpg (Public domain)
 thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-survive-on-venus.jpg
