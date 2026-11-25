@@ -1,4 +1,4 @@
-[0;93m2026-11-25 21:26:59.900235533 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-25 22:57:12.089754584 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive a Swim in Europa's Ocean
   audio 544.3s (9.07 min)
   WIKI File:PIA19048 realistic color Europa mosaic edited.jpg (Public domain)
@@ -20,7 +20,7 @@
   WIKI File:Europa - Perijove 45 (cropped).png (CC BY 2.0)
   segment 10/46 [image] 11.8s
   segment 11/46 [card] 11.4s
-  WIKI File:Jupiter and the Great Red Spot - Juno Perijove 7.png (Public domain)
+  WIKI File:Hubble Takes Close-up Portrait of Jupiter.png (CC BY 2.0)
   segment 12/46 [image] 14.3s
   WIKI File:Jupiter Family of Moons by Juno.png (Public domain)
   segment 13/46 [image] 9.7s
@@ -80,6 +80,6 @@
   segment 45/46 [question] 7.8s
   WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
   segment 46/46 [end] 18.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-swim-europa-ocean.mp4 (43.2 MB, 9.07 min)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-swim-europa-ocean.mp4 (43.1 MB, 9.07 min)
   WIKI File:PIA19048 realistic color Europa mosaic edited.jpg (Public domain)
 thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-swim-europa-ocean.jpg
