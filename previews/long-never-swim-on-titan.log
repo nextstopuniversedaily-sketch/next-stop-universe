@@ -1,4 +1,4 @@
-[0;93m2026-11-25 21:39:32.451320377 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-25 23:09:38.358255173 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Want to Swim on Titan
   audio 513.5s (8.56 min)
   WIKI File:Titan in true color by Kevin M. Gill.jpg (CC BY 2.0)
@@ -79,5 +79,5 @@
   WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
   segment 46/46 [end] 18.4s
   -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-swim-on-titan.mp4 (39.1 MB, 8.56 min)
-  WIKI File:Titan in true color by Kevin M. Gill.jpg (CC BY 2.0)
+  WIKI File:PIA17655 Kraken Mare crop no labels.jpg (Public domain)
 thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-swim-on-titan.jpg
