@@ -1,0 +1,517 @@
+{
+ "slug": "never-survive-nearby-supernova",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Nearby Supernova",
+ "screen_title": "Why You'd Never Survive a Nearby Supernova",
+ "subtitle": "What happens when a star explodes next door",
+ "yt_title": "Why You'd Never Survive a Nearby Supernova",
+ "intro": "What would happen if a star exploded close to Earth? We watch a giant star collapse in less than a second, feel the blast of light, radiation and ghostly particles, find the distance where it stops being a show and starts being a disaster, and discover the evidence that supernovas really have showered Earth before. Stay to the end to see which star is next in line, and what it will look like from your backyard.",
+ "questions": [
+  "Did you know a supernova can outshine a whole galaxy?",
+  "Would you want to see Betelgeuse explode in your lifetime?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#supernova #space #astronomy #betelgeuse #science",
+ "tags": [
+  "why you'd never survive",
+  "supernova",
+  "nearby supernova",
+  "what if a star exploded near earth",
+  "betelgeuse supernova",
+  "betelgeuse",
+  "crab nebula",
+  "exploding star",
+  "kill zone",
+  "stars",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Crab Nebula.jpg"
+  ],
+  "query": "Crab Nebula",
+  "white": "IT BLASTS",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "A star dies",
+   "text": "What if a star exploded right next to you? Not even the light would get you first. Ghostly particles that pass through planets would be enough to kill you. So how close is too close?",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Crab Nebula.jpg"
+    ],
+    "query": "Crab Nebula"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we get far too close to an exploding star. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "A supernova is the death of a giant star. For a few weeks, a single exploding star can shine brighter than an entire galaxy of billions of stars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "SN1994D.jpg"
+    ],
+    "query": "SN1994D"
+   },
+   "headline": "Brighter than a galaxy"
+  },
+  {
+   "text": "See that bright dot at the bottom left? That's one star, exploding, far away in another galaxy. It's almost as bright as the whole galaxy's core.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "SN1994D.jpg"
+    ],
+    "query": "SN1994D"
+   }
+  },
+  {
+   "text": "Today, we'll move closer and closer to one of these explosions, until it becomes deadly. And stay to the end, because one of the stars you can see on any winter night is next in line. I'll show you what it will look like from your backyard.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Orion Constellation (2006-01-1836).jpg"
+    ],
+    "query": "Orion Constellation (2006-01-1836)"
+   },
+   "headline": "Next in line"
+  },
+  {
+   "chapter": "The collapse",
+   "text": "First, how does a star explode? It starts with a giant. A star at least eight times heavier than our Sun.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Red hypergiant.jpg"
+    ],
+    "query": "Red hypergiant"
+   },
+   "headline": "A giant star"
+  },
+  {
+   "text": "For millions of years, it burns its fuel, turning hydrogen into helium, then into heavier and heavier elements. Carbon. Oxygen. Silicon. And finally, iron.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of the red supergiant star Antares.jpg"
+    ],
+    "query": "Artist’s impression of the red supergiant star Antares"
+   }
+  },
+  {
+   "text": "Iron is a dead end. Fusing it doesn't give the star any energy. So the core suddenly loses the fight against its own gravity.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Red hypergiant.jpg"
+    ],
+    "query": "Red hypergiant"
+   },
+   "headline": "Iron, the dead end"
+  },
+  {
+   "text": "A core about the mass of our Sun collapses in less than a second. It falls inward at up to a quarter of the speed of light.",
+   "visual": {
+    "type": "card",
+    "big": "< 1 second",
+    "label": "for the core to collapse",
+    "sub": "falling at up to 1/4 the speed of light"
+   }
+  },
+  {
+   "text": "It crushes into a ball about twenty kilometers wide. A neutron star. Or, if it's heavy enough, a black hole. And the rest of the star bounces off and blasts out into space.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg"
+    ],
+    "query": "Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron)"
+   },
+   "headline": "A city-sized core"
+  },
+  {
+   "text": "In those first seconds, the explosion releases more energy than our Sun will make in its entire ten-billion-year life.",
+   "visual": {
+    "type": "card",
+    "big": "10 billion years",
+    "label": "of sunshine, released in seconds"
+   }
+  },
+  {
+   "chapter": "Too close",
+   "text": "Now, let's put you close. Very close. Say, as far as Earth is from the Sun.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   },
+   "headline": "At Earth's distance"
+  },
+  {
+   "text": "Here's the strangest part. Most of a supernova's energy comes out as neutrinos. Tiny, ghostly particles. Trillions of them pass through your body every second right now, and you never notice. They usually fly straight through whole planets.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Leptonic event in Gargamelle bubble chamber.jpg"
+    ],
+    "query": "Leptonic event in Gargamelle bubble chamber"
+   },
+   "headline": "Ghost particles"
+  },
+  {
+   "text": "But a supernova makes so many of them that, at this distance, even the tiny fraction that hit your atoms would give you a deadly dose of radiation. You'd be killed by particles that normally can't even touch you.",
+   "visual": {
+    "type": "card",
+    "big": "neutrinos",
+    "label": "would kill you first",
+    "sub": "at the distance of Earth from the Sun"
+   }
+  },
+  {
+   "text": "Then the light arrives. Brighter than a billion Suns. And hours later, the blast wave of gas, racing at tens of thousands of kilometers per second. It would boil away Earth's oceans and strip the planet down to rock.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA's Chandra Releases 'Red, White, and Blue' Universe for US 250th (Cassiopeia A composite).jpg"
+    ],
+    "query": "NASA's Chandra Releases 'Red, White, and Blue' Universe for US 250th (Cassiopeia A composite)"
+   },
+   "headline": "The blast wave"
+  },
+  {
+   "text": "Quick question. Did you know that one dying star can outshine a whole galaxy? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know a supernova can outshine a whole galaxy?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The kill zone",
+   "text": "Now let's back away. Ten light years. Twenty. Thirty. The explosion is just a dazzling new star in the sky, brighter than the full Moon. Beautiful. But invisible danger is still on its way.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Keplers supernova.jpg"
+    ],
+    "query": "Keplers supernova"
+   },
+   "headline": "Backing away"
+  },
+  {
+   "text": "Gamma rays and X-rays from the blast would hit our atmosphere and break apart the ozone layer. That's our shield against the Sun's ultraviolet light.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Top of Atmosphere.jpg"
+    ],
+    "query": "Top of Atmosphere"
+   },
+   "headline": "The ozone shield"
+  },
+  {
+   "text": "Without it, sunlight would burn crops, damage plankton at the bottom of the ocean food chain, and give people terrible sunburns. Life would struggle for years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "ISS-45 StoryOfWater, Great Barrier Reef, Australia.jpg"
+    ],
+    "query": "ISS-45 StoryOfWater, Great Barrier Reef, Australia"
+   }
+  },
+  {
+   "text": "Scientists estimate the danger zone for this kind of damage reaches out to about twenty-five to fifty light years. Some studies suggest X-rays from certain supernovas could cause harm even farther out.",
+   "visual": {
+    "type": "card",
+    "big": "~25–50 light years",
+    "label": "the supernova danger zone",
+    "sub": "for serious damage to the ozone layer"
+   }
+  },
+  {
+   "text": "And then, for centuries afterward, cosmic rays from the blast would keep raining down, raising the radiation on the ground.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora Australis From ISS.JPG"
+    ],
+    "query": "Aurora Australis From ISS"
+   },
+   "headline": "Centuries of cosmic rays"
+  },
+  {
+   "chapter": "From a safe distance",
+   "text": "Now keep backing away. At a hundred light years, the damage to the ozone layer would be small. You'd mostly see a show. A brilliant new star, visible even in the daytime, maybe with stronger auroras for a while.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora and perseids.jpg"
+    ],
+    "query": "Aurora and perseids"
+   },
+   "headline": "At 100 light years"
+  },
+  {
+   "text": "At a thousand light years, it's pure wonder. A new point of light, brighter than any planet, that appears one night, lingers for a few months, and then slowly fades away.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way over Big Prairie (16631110890)"
+   },
+   "headline": "At 1,000 light years"
+  },
+  {
+   "text": "So distance is everything. The same explosion that would end the world at thirty light years would be the most beautiful thing you'd ever see at a thousand.",
+   "visual": {
+    "type": "card",
+    "big": "distance",
+    "label": "is everything",
+    "sub": "danger close, wonder far"
+   }
+  },
+  {
+   "chapter": "Has it happened before?",
+   "text": "Here's the scary part. This isn't just a thought experiment. It may already have happened.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Vela Supernova Remnant - Noirlab2406a.jpg"
+    ],
+    "query": "Vela Supernova Remnant - Noirlab2406a"
+   },
+   "headline": "It happened before"
+  },
+  {
+   "text": "On the bottom of the Pacific Ocean, scientists found a rare kind of iron, called iron-60. It isn't made on Earth. It's forged inside exploding stars.",
+   "visual": {
+    "type": "card",
+    "big": "iron-60",
+    "label": "found on the ocean floor",
+    "sub": "made only in exploding stars"
+   }
+  },
+  {
+   "text": "The layers show it rained down roughly two to three million years ago, and again around seven million years ago. Supernovas exploded a few hundred light years away, and their dust drifted onto Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ultraviolet image of the Cygnus Loop Nebula crop.jpg"
+    ],
+    "query": "Ultraviolet image of the Cygnus Loop Nebula crop"
+   },
+   "headline": "Star dust on Earth"
+  },
+  {
+   "text": "They were too far to wipe out life. But some scientists think they may have nudged Earth's climate. In fact, our whole solar system sits inside a huge bubble of hot gas blown out by ancient supernovas.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "A bubble of old blasts"
+  },
+  {
+   "chapter": "Supernovas we've seen",
+   "text": "People have watched supernovas with their own eyes. In the year 1054, astronomers in China saw a new star so bright it was visible in daylight for about three weeks.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Crab Nebula.jpg"
+    ],
+    "query": "Crab Nebula"
+   },
+   "headline": "The guest star of 1054"
+  },
+  {
+   "text": "Today, we can still see what's left. The Crab Nebula. A glowing cloud of wreckage, about ten light years wide, still expanding at around fifteen hundred kilometers every second.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moving heart of the Crab Nebula.jpg"
+    ],
+    "query": "Moving heart of the Crab Nebula"
+   }
+  },
+  {
+   "text": "At its heart spins the collapsed core. A neutron star turning thirty times every second.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Chandra X-ray Observations of the Crab Nebula (2011-crab-more-2 - 154).jpg"
+    ],
+    "query": "Chandra X-ray Observations of the Crab Nebula (2011-crab-more-2 - 154)"
+   },
+   "headline": "A spinning heart"
+  },
+  {
+   "text": "The last supernova seen with the naked eye in our own galaxy was in 1604. Johannes Kepler watched it. That's more than four hundred years ago. Astronomers think our galaxy should have one or two every century. So we may be overdue.",
+   "visual": {
+    "type": "card",
+    "big": "1604",
+    "label": "last naked-eye supernova in our galaxy",
+    "sub": "seen by Johannes Kepler"
+   }
+  },
+  {
+   "text": "In 1987, a star exploded in a neighboring galaxy, the Large Magellanic Cloud. And detectors deep underground caught about two dozen of its ghostly neutrinos, hours before the light was even spotted.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "New Hubble Observations of Supernova 1987A Trace Shock Wave (4954621859).jpg"
+    ],
+    "query": "New Hubble Observations of Supernova 1987A Trace Shock Wave (4954621859)"
+   },
+   "headline": "Supernova 1987A"
+  },
+  {
+   "chapter": "Are we safe?",
+   "text": "So should you be worried? No. Here's the good news. There's no star within fifty light years that's big enough to explode.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Avenue of Baobabs (ann22042n).jpg"
+    ],
+    "query": "Milky Way over Avenue of Baobabs (ann22042n)"
+   },
+   "headline": "Good news"
+  },
+  {
+   "text": "And our own Sun will never go supernova. It's far too small. It will end gently, as a white dwarf, billions of years from now.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Full disk of the Sun (eso1703e-comparisona).jpg"
+    ],
+    "query": "Full disk of the Sun (eso1703e-comparisona)"
+   }
+  },
+  {
+   "text": "And remember, without supernovas, you wouldn't exist. The calcium in your bones, the iron in your blood, much of it was spread through space by exploding stars long before the Sun was born.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg"
+    ],
+    "query": "Pillars of creation 2014 HST WFC3-UVIS full-res denoised"
+   },
+   "headline": "You are star stuff"
+  },
+  {
+   "chapter": "The next one",
+   "text": "So here's the payoff I promised. Look at Orion on a winter evening. At its shoulder, there's a bright orange star. Betelgeuse.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Orion Constellation (2006-01-1836).jpg"
+    ],
+    "query": "Orion Constellation (2006-01-1836)"
+   },
+   "headline": "Betelgeuse"
+  },
+  {
+   "text": "It's a red supergiant, so big that if it replaced our Sun, it would swallow the orbits of Mercury, Venus, Earth and Mars. And it's near the end of its life.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Betelgeuse’s Great Dimming Event in high resolution (potw2343a).jpg"
+    ],
+    "query": "Betelgeuse’s Great Dimming Event in high resolution (potw2343a)"
+   },
+   "headline": "A dying giant"
+  },
+  {
+   "text": "It's about six hundred and fifty light years away. Far outside the danger zone. And in early 2026, astronomers found strong evidence that it has a small companion star, now called Siwarha.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Betelgeuse and wake of its companion star (artist's concept) (opo2602).jpg"
+    ],
+    "query": "Betelgeuse and wake of its companion star (artist's concept) (opo2602)"
+   },
+   "headline": "A hidden companion"
+  },
+  {
+   "text": "When Betelgeuse explodes, maybe tomorrow, maybe in a hundred thousand years, it will be as bright as a half Moon. You could see it in the daytime. At night, it would cast shadows. For months, there would be a second moon-like light in Orion. And then, slowly, it would fade away forever.",
+   "visual": {
+    "type": "card",
+    "big": "as bright as a half Moon",
+    "label": "Betelgeuse's supernova",
+    "sub": "visible in daylight for weeks"
+   }
+  },
+  {
+   "text": "So would you want to see Betelgeuse explode in your lifetime? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you want to see Betelgeuse explode in your lifetime?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "From a safe distance, a supernova is the most beautiful sight in the universe. Up close, it's the end of everything. That's why you'd never want to be near one.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA's Chandra Releases 'Red, White, and Blue' Universe for US 250th (Cassiopeia A composite).jpg"
+    ],
+    "query": "NASA's Chandra Releases 'Red, White, and Blue' Universe for US 250th (Cassiopeia A composite)"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? A rogue planet? A solar superstorm? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

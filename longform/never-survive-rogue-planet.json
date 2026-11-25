@@ -1,0 +1,539 @@
+{
+ "slug": "never-survive-rogue-planet",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive on a Rogue Planet",
+ "screen_title": "Why You'd Never Survive on a Rogue Planet",
+ "subtitle": "Worlds drifting through the dark with no sun at all",
+ "yt_title": "Why You'd Never Survive on a Rogue Planet",
+ "intro": "What would happen if you lived on a planet with no sun? We follow a world that gets kicked out of its solar system, watch Earth freeze step by step if it ever happened to us, meet the billions of lonely planets drifting through the Milky Way, and find out how a new space telescope is hunting them right now. Stay to the end to see how life might still survive in the dark.",
+ "questions": [
+  "Did you know there may be more rogue planets than stars?",
+  "Would you live under the ice of a sunless world?",
+  "What should we never visit next?"
+ ],
+ "hashtags": "#rogueplanet #space #astronomy #exoplanets #science",
+ "tags": [
+  "why you'd never survive",
+  "rogue planet",
+  "free floating planet",
+  "planet without a sun",
+  "what if earth left the sun",
+  "earth without the sun",
+  "roman space telescope",
+  "exoplanets",
+  "interstellar",
+  "milky way",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Icy Earth-mass Rogue Planet (SVS14380).jpg"
+  ],
+  "query": "Icy Earth-mass rogue planet",
+  "white": "NO SUN",
+  "accent": "EVER..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "A planet with no sun",
+   "text": "What if Earth lost the Sun tonight? Within a week, the whole planet would be colder than Antarctica. And one day, the air itself would fall as snow. Some planets live like this forever.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Icy Earth-mass Rogue Planet (SVS14380).jpg"
+    ],
+    "query": "Icy Earth-mass Rogue Planet (SVS14380)"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we drift into the dark between the stars. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "They're called rogue planets. Worlds that don't orbit any star. They drift alone through the darkness between the stars, for billions of years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a free-floating planet (noirlab2131a).jpg"
+    ],
+    "query": "Artist's impression of a free-floating planet (noirlab2131a)"
+   },
+   "headline": "Rogue planets"
+  },
+  {
+   "text": "And here's the amazing part. There may be more of them in our galaxy than there are stars. Billions. Maybe even trillions.",
+   "visual": {
+    "type": "card",
+    "big": "billions",
+    "label": "of rogue planets",
+    "sub": "may drift through the Milky Way"
+   }
+  },
+  {
+   "text": "Today, we visit one. And stay to the end, because even on a world with no sun, life might still have a hiding place.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Icy Exoplanet.jpg"
+    ],
+    "query": "Icy Exoplanet"
+   },
+   "headline": "A hidden place for life"
+  },
+  {
+   "chapter": "Kicked out",
+   "text": "First, how does a planet lose its star? It gets kicked out.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "HD 163296 protoplanetary disk by ALMA (16CB25B).jpg"
+    ],
+    "query": "HD 163296 protoplanetary disk by ALMA (16CB25B)"
+   },
+   "headline": "Born around a star"
+  },
+  {
+   "text": "When a solar system is young, its planets are still settling into place. Giant planets swing past smaller ones. And sometimes, a close pass acts like a slingshot.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter OPAL 2024.png"
+    ],
+    "query": "Jupiter OPAL 2024"
+   },
+   "headline": "A cosmic slingshot"
+  },
+  {
+   "text": "The smaller planet is flung away so fast that its star can never pull it back. It sails off into space, and never sees a sunrise again.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a free-floating planet (noirlab2131a).jpg"
+    ],
+    "query": "Artist's impression of a free-floating planet (noirlab2131a)"
+   }
+  },
+  {
+   "text": "Some scientists think our own solar system may once have had another giant planet, which was thrown out like this, billions of years ago.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Neptune Full.jpg"
+    ],
+    "query": "Neptune Full"
+   },
+   "headline": "A lost planet?"
+  },
+  {
+   "text": "Other rogue planets may never have had a star at all. They may have formed alone, from small collapsing clouds of gas, like failed stars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Orion Nebula - Hubble 2006 mosaic 18000.jpg"
+    ],
+    "query": "Orion Nebula - Hubble 2006 mosaic 18000"
+   },
+   "headline": "Born alone"
+  },
+  {
+   "chapter": "If Earth went rogue",
+   "text": "So, what if it happened to Earth? Imagine our planet suddenly flung away from the Sun. What would you feel?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "If Earth went rogue"
+  },
+  {
+   "text": "At first, nothing. The Sun would shrink in the sky, day by day, until it was just a bright star. The days would grow dim and cold.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028.jpg"
+    ],
+    "query": "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028"
+   },
+   "headline": "The Sun shrinks"
+  },
+  {
+   "text": "The Moon would come along with us, still circling the Earth. But with no sunlight to reflect, it would go dark. You'd only notice it when it blocked out the stars behind it.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Crescent Moon (2558144570).jpg"
+    ],
+    "query": "Crescent Moon (2558144570)"
+   },
+   "headline": "The Moon goes dark"
+  },
+  {
+   "text": "And with no sunlight, nothing could grow. Plants, and everything that eats them, depend on the Sun. The food chain would begin to collapse almost at once.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia.jpg"
+    ],
+    "query": "Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia"
+   }
+  },
+  {
+   "text": "Without sunlight, the land would cool fast. Within about a week, the average temperature on Earth would drop below minus eighteen degrees Celsius.",
+   "visual": {
+    "type": "card",
+    "big": "~1 week",
+    "label": "until all of Earth is below freezing"
+   }
+  },
+  {
+   "text": "Within a year, it would be around minus seventy degrees. Colder than the coldest winter in Antarctica, everywhere on the planet. Every plant on land would die.",
+   "visual": {
+    "type": "card",
+    "big": "~ −70 °C",
+    "label": "after about a year",
+    "sub": "everywhere on Earth"
+   }
+  },
+  {
+   "text": "The oceans would freeze over, from the top down. But under a thick lid of ice, the deep water would stay liquid for a very long time, warmed from below by the heat inside the Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901).jpg"
+    ],
+    "query": "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901)"
+   },
+   "headline": "The oceans freeze over"
+  },
+  {
+   "text": "And then, over thousands of years, it would get so cold that the air itself would freeze. Oxygen and nitrogen would fall as snow, and pile up on the ice in deep drifts.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Snowfall at night over Brofjorden and Preemraff oil refinery.jpg"
+    ],
+    "query": "Snowfall at night over Brofjorden and Preemraff oil refinery"
+   },
+   "headline": "The air falls as snow"
+  },
+  {
+   "text": "In the end, Earth would cool to about minus two hundred and forty degrees Celsius on its surface. Just a little above absolute zero.",
+   "visual": {
+    "type": "card",
+    "big": "~ −240 °C",
+    "label": "a rogue Earth's surface",
+    "sub": "just above absolute zero"
+   }
+  },
+  {
+   "text": "Quick question for you. Did you know there may be more rogue planets in our galaxy than stars? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know there may be more rogue planets than stars?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Standing on a rogue planet",
+   "text": "Now, let's land on a real rogue planet. Step outside. It's pitch black. There's no sun. No day. No night. No seasons. Just the stars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Icy Earth-mass Rogue Planet (SVS14380).jpg"
+    ],
+    "query": "Icy Earth-mass Rogue Planet (SVS14380)"
+   },
+   "headline": "Eternal night"
+  },
+  {
+   "chapter": "The view from nowhere",
+   "text": "Without the glare of a sun, the sky would be breathtaking. The Milky Way would blaze across it, sharper than from any desert on Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Avenue of Baobabs (ann22042n).jpg"
+    ],
+    "query": "Milky Way over Avenue of Baobabs (ann22042n)"
+   },
+   "headline": "An endless starry sky"
+  },
+  {
+   "text": "But you wouldn't last long. With no air to breathe, and the cold pulling the heat from your suit, it would be one of the coldest places you could ever stand.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Icy Exoplanet.jpg"
+    ],
+    "query": "Icy Exoplanet"
+   }
+  },
+  {
+   "text": "And you'd be truly alone. The nearest star might be light years away. If you sent a message home, it could take years to arrive.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way over Big Prairie (16631110890)"
+   },
+   "headline": "Truly alone"
+  },
+  {
+   "chapter": "How we find them",
+   "text": "So how can we find a dark planet in the dark? They give off almost no light. For a long time, we simply couldn't see them.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way IR Spitzer.jpg"
+    ],
+    "query": "Milky Way IR Spitzer"
+   },
+   "headline": "Finding the invisible"
+  },
+  {
+   "text": "The trick is gravity. When a rogue planet drifts in front of a distant star, its gravity bends the starlight, like a magnifying glass. The star brightens for a few hours or days, then fades again.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Illustration of a gravitational lensing effect (heic0814f).jpg"
+    ],
+    "query": "Illustration of a gravitational lensing effect (heic0814f)"
+   },
+   "headline": "A gravity magnifying glass"
+  },
+  {
+   "text": "It's called microlensing. Astronomers have caught a few dozen rogue planets this way. Some are as small as Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Kitt Peak National Observatory Beneath Star Trails (noirlab2512ae).jpg"
+    ],
+    "query": "Kitt Peak National Observatory Beneath Star Trails (noirlab2512ae)"
+   }
+  },
+  {
+   "text": "And the hunt is speeding up. On August thirtieth, 2026, NASA launched the Nancy Grace Roman Space Telescope. It's heading to its observing spot, about one and a half million kilometers from Earth.",
+   "visual": {
+    "type": "card",
+    "big": "Aug 30, 2026",
+    "label": "Roman Space Telescope launched",
+    "sub": "a new hunter of rogue planets"
+   }
+  },
+  {
+   "text": "Roman will stare at the crowded center of our galaxy, watching hundreds of millions of stars. Scientists expect it to find hundreds of rogue planets, and finally tell us how common they really are.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Center of the Milky Way Galaxy IV – Composite.jpg"
+    ],
+    "query": "Center of the Milky Way Galaxy IV – Composite"
+   },
+   "headline": "Watching the galaxy's heart"
+  },
+  {
+   "chapter": "Strange rogues",
+   "text": "Some rogue planets are very strange. In the Orion Nebula, the James Webb Space Telescope spotted dozens of free-floating objects about the mass of Jupiter. Some seem to drift in pairs, circling each other with no star at all.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Orion Nebula - Hubble 2006 mosaic 18000.jpg"
+    ],
+    "query": "Orion Nebula - Hubble 2006 mosaic 18000"
+   },
+   "headline": "Rogues in Orion"
+  },
+  {
+   "text": "Scientists are still arguing about what they are. Planets, or tiny failed stars. Nobody expected them.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Great Orion Nebula in Narrowband.jpg"
+    ],
+    "query": "The Great Orion Nebula in Narrowband"
+   }
+  },
+  {
+   "text": "And in 2025, astronomers watched a young rogue planet, called Cha 1107-7626, go through a growth spurt. It was swallowing gas from the disk around it at about six billion tons every second.",
+   "visual": {
+    "type": "card",
+    "big": "6 billion tons",
+    "label": "of gas swallowed every second",
+    "sub": "a young rogue planet, 2025"
+   }
+  },
+  {
+   "text": "Imagine that. A planet, alone in the dark, still growing, with no star to call home.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a free-floating planet (noirlab2131a).jpg"
+    ],
+    "query": "Artist's impression of a free-floating planet (noirlab2131a)"
+   }
+  },
+  {
+   "chapter": "Rogues near us",
+   "text": "Could a rogue planet be close to us? Possibly. One of the nearest known objects like this, called WISE 0855, is only about seven light years away. It's a few times heavier than Jupiter, cold and dark, with no star of its own.",
+   "visual": {
+    "type": "card",
+    "big": "~7 light years",
+    "label": "WISE 0855",
+    "sub": "a cold, starless world nearby"
+   }
+  },
+  {
+   "text": "And there could be smaller ones even closer, too dark for us to have spotted yet.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a free-floating planet (noirlab2131a).jpg"
+    ],
+    "query": "Artist's impression of a free-floating planet (noirlab2131a)"
+   }
+  },
+  {
+   "text": "Should you worry about one hitting Earth? No. Space is unimaginably empty. The chance of a rogue planet coming close enough to disturb Earth in the next billion years is extremely small.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "Should you worry?"
+  },
+  {
+   "text": "We have had visitors from other stars, though. In 2017, a strange object called 'Oumuamua flew through our solar system. Then a comet called Borisov. And in 2025, a third, called 3I ATLAS. Small travelers, drifting between the stars, just like rogue planets.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of the interstellar asteroid `Oumuamua.jpg"
+    ],
+    "query": "Artist’s impression of the interstellar asteroid `Oumuamua"
+   },
+   "headline": "Visitors from other stars"
+  },
+  {
+   "chapter": "Life in the dark",
+   "text": "Now the payoff I promised. Could anything live on a world with no sun? Surprisingly, maybe.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Icy Earth-mass Rogue Planet (SVS14380).jpg"
+    ],
+    "query": "Icy Earth-mass Rogue Planet (SVS14380)"
+   },
+   "headline": "Life without a sun?"
+  },
+  {
+   "text": "Planets make their own heat, deep inside, from radioactive rocks slowly decaying. A big rogue planet could keep its core warm for billions of years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Outer core convection rolls.jpg"
+    ],
+    "query": "Outer core convection rolls"
+   },
+   "headline": "Heat from within"
+  },
+  {
+   "text": "If it has a thick blanket of hydrogen gas, scientists have calculated that heat could keep liquid oceans on its surface. And even without one, an ocean could survive under a thick shell of ice.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Icy Exoplanet.jpg"
+    ],
+    "query": "Icy Exoplanet"
+   },
+   "headline": "Oceans under the ice"
+  },
+  {
+   "text": "On Earth, deep in the dark at the bottom of the sea, whole ecosystems live around hot vents, far from any sunlight. Microbes there eat chemicals, not light.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moscow State University microbial mat 2014-01 1389532009.JPG"
+    ],
+    "query": "Moscow State University microbial mat 2014-01 1389532009"
+   },
+   "headline": "Life without light"
+  },
+  {
+   "text": "So somewhere out there, on a lonely planet drifting between the stars, there might be a dark ocean, quietly full of life. A world that has never seen a sunrise.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist's impression of a free-floating planet (noirlab2131a).jpg"
+    ],
+    "query": "Artist's impression of a free-floating planet (noirlab2131a)"
+   }
+  },
+  {
+   "text": "So here's my question. Would you live under the ice of a world that never sees a sunrise? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you live under the ice of a sunless world?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "And remember. We are lucky. Our planet circles a steady star at just the right distance. Every sunrise you see is something billions of planets never get.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA-Apollo8-Dec24-Earthrise.jpg"
+    ],
+    "query": "NASA-Apollo8-Dec24-Earthrise"
+   },
+   "headline": "Every sunrise is a gift"
+  },
+  {
+   "text": "Now my last question. What should we never visit next? Europa's hidden ocean? Proxima b? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never visit next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never visit next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

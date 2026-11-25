@@ -1,0 +1,532 @@
+{
+ "slug": "never-swim-europa-ocean",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Swim in Europa's Ocean",
+ "screen_title": "Why You'd Never Survive a Swim in Europa's Ocean",
+ "subtitle": "The hidden ocean under the ice of Jupiter's moon",
+ "yt_title": "Why You'd Never Survive a Swim in Europa's Ocean",
+ "intro": "What would happen if you tried to swim in the hidden ocean of Europa, Jupiter's icy moon? We land on ice colder than Antarctica under a sky full of Jupiter, survive (barely) the radiation, drill down through kilometers of ice, and sink into a dark ocean with twice as much water as all of Earth's seas. Stay to the end to find out what might be swimming down there, and when we'll finally find out.",
+ "questions": [
+  "Do you think there's life in Europa's ocean?",
+  "Would you ride a submarine into Europa's ocean?",
+  "What should we never visit next?"
+ ],
+ "hashtags": "#europa #jupiter #space #astronomy #science",
+ "tags": [
+  "why you'd never survive",
+  "europa",
+  "europa ocean",
+  "jupiter's moon europa",
+  "life on europa",
+  "europa clipper",
+  "ocean world",
+  "alien ocean",
+  "moons of jupiter",
+  "solar system",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "PIA19048 realistic color Europa mosaic edited.jpg"
+  ],
+  "query": "Europa realistic color",
+  "white": "DON'T",
+  "accent": "DIVE..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "An ocean in the dark",
+   "text": "What if you dove into an alien ocean? First you'd have to survive the radiation on the surface. Then dig through more than ten kilometers of ice. And then, the real danger begins.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "PIA19048 realistic color Europa mosaic edited.jpg"
+    ],
+    "query": "PIA19048 realistic color Europa mosaic edited"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we try to reach the most promising ocean beyond Earth. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "This is Europa. One of the moons of Jupiter. It's a little smaller than our own Moon, and covered in a shell of cracked, brownish ice.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA19048 realistic color Europa mosaic edited.jpg"
+    ],
+    "query": "PIA19048 realistic color Europa mosaic edited"
+   },
+   "headline": "Jupiter's icy moon"
+  },
+  {
+   "text": "But under that ice, scientists are confident there's an ocean. A real, salty, liquid water ocean, all the way around the moon.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Europa - Perijove 45 (cropped).png"
+    ],
+    "query": "Europa - Perijove 45 (cropped)"
+   },
+   "headline": "A hidden ocean"
+  },
+  {
+   "text": "And it's huge. Europa's ocean may hold about twice as much water as all the oceans on Earth combined.",
+   "visual": {
+    "type": "card",
+    "big": "2 times",
+    "label": "the water in all of Earth's oceans"
+   }
+  },
+  {
+   "text": "Water is what life needs. That makes Europa one of the best places in the solar system to look for life. So let's go there. And stay to the end, because I'll show you what might be swimming in that dark ocean, and when we'll finally know.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "ISS-45 StoryOfWater, Great Barrier Reef, Australia.jpg"
+    ],
+    "query": "ISS-45 StoryOfWater, Great Barrier Reef, Australia"
+   },
+   "headline": "What lives there?"
+  },
+  {
+   "chapter": "The journey out",
+   "text": "First, getting there. Jupiter is, on average, about seven hundred and seventy-eight million kilometers from the Sun. More than five times farther than Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter OPAL 2024.png"
+    ],
+    "query": "Jupiter OPAL 2024"
+   },
+   "headline": "Out to Jupiter"
+  },
+  {
+   "text": "NASA's Europa Clipper is making this trip right now. It launched in October 2024, on a Falcon Heavy rocket.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "NASA's SpaceX Europa Clipper Launch (KSC-20241014-PH-SPX01 0003).jpg"
+    ],
+    "query": "NASA's SpaceX Europa Clipper Launch (KSC-20241014-PH-SPX01 0003)"
+   },
+   "headline": "Europa Clipper"
+  },
+  {
+   "text": "It swung past Mars in 2025, and its path brings it back past Earth in December 2026, for one last boost. It will reach Jupiter in April 2030, more than five years after launch.",
+   "visual": {
+    "type": "card",
+    "big": "April 2030",
+    "label": "Europa Clipper arrives at Jupiter"
+   }
+  },
+  {
+   "chapter": "Landing on the ice",
+   "text": "Now imagine you land on Europa. Step outside. The ground is pure ice, laced with long reddish-brown cracks that run for thousands of kilometers.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Europa - Perijove 45 (cropped).png"
+    ],
+    "query": "Europa - Perijove 45 (cropped)"
+   },
+   "headline": "A cracked shell"
+  },
+  {
+   "text": "It's about minus one hundred sixty degrees Celsius at the equator. Even colder at the poles. At these temperatures, water ice is as hard as rock.",
+   "visual": {
+    "type": "card",
+    "big": "−160 °C",
+    "label": "at Europa's equator",
+    "sub": "ice as hard as rock"
+   }
+  },
+  {
+   "text": "And look up. Jupiter hangs in the black sky, about twenty-four times wider than our full Moon. It never rises and never sets. It just hangs there, with its stripes and storms slowly turning.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter and the Great Red Spot - Juno Perijove 7.png"
+    ],
+    "query": "Jupiter and the Great Red Spot - Juno Perijove 7"
+   },
+   "headline": "Jupiter fills the sky"
+  },
+  {
+   "text": "You'd see the other moons, too. Volcanic Io, giant Ganymede, cratered Callisto, drifting across the sky like small planets.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter Family of Moons by Juno.png"
+    ],
+    "query": "Jupiter Family of Moons by Juno"
+   },
+   "headline": "Neighboring moons"
+  },
+  {
+   "chapter": "A strange, young surface",
+   "text": "Look closer at the ground. There are almost no craters. That means the surface is young, maybe only forty to ninety million years old. Something keeps wiping it clean.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA19048 realistic color Europa mosaic edited.jpg"
+    ],
+    "query": "PIA19048 realistic color Europa mosaic edited"
+   },
+   "headline": "Almost no craters"
+  },
+  {
+   "text": "In some places, the ice has broken into huge jumbled blocks, like icebergs frozen back into a sea. Scientists call it chaos terrain. Warm water from below may have melted the ice and let it refreeze.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Europa - Perijove 45 (cropped).png"
+    ],
+    "query": "Europa - Perijove 45 (cropped)"
+   },
+   "headline": "Chaos terrain"
+  },
+  {
+   "text": "And those reddish-brown streaks? In 2019, the Hubble Space Telescope found that some of them contain ordinary table salt. Salt that may have come up from the ocean below. Europa's ocean may be leaking onto its surface.",
+   "visual": {
+    "type": "card",
+    "big": "table salt",
+    "label": "found on Europa's surface",
+    "sub": "possibly from the ocean below"
+   }
+  },
+  {
+   "text": "A day here is short, by moon standards. Europa circles Jupiter in about three and a half days. And every orbit, Jupiter blocks out the Sun for a few hours, plunging you into a strange, starlit eclipse.",
+   "visual": {
+    "type": "card",
+    "big": "3.5 days",
+    "label": "one orbit of Jupiter",
+    "sub": "with an eclipse every time"
+   }
+  },
+  {
+   "chapter": "The invisible killer",
+   "text": "It's beautiful. But you can't stay long. Here's the first reason you'd never survive.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter OPAL 2024.png"
+    ],
+    "query": "Jupiter OPAL 2024"
+   },
+   "headline": "The invisible killer"
+  },
+  {
+   "text": "Jupiter has the most powerful magnetic field of any planet. It traps charged particles and whips them around at incredible speeds. Europa orbits right inside that storm of radiation.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter - Great Red Spot - PJ7-60 61 62 - Balanced (49803032983).png"
+    ],
+    "query": "Jupiter - Great Red Spot - PJ7-60 61 62 - Balanced (49803032983)"
+   }
+  },
+  {
+   "text": "Standing on the surface, you'd receive about five sieverts of radiation every day. That's thousands of times more than a person gets in a year at home.",
+   "visual": {
+    "type": "card",
+    "big": "~5.4 sieverts",
+    "label": "of radiation per day",
+    "sub": "on Europa's surface"
+   }
+  },
+  {
+   "text": "Without heavy shielding, you'd be dangerously sick within hours, and you'd receive a deadly dose in about a day. That's why Europa Clipper will only swoop past the moon, again and again, and then retreat to safety.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Europa Clipper spacecraft model.png"
+    ],
+    "query": "Europa Clipper spacecraft model"
+   },
+   "headline": "Swoop in, swoop out"
+  },
+  {
+   "text": "It's planned to make nearly fifty close flybys, some just twenty-five kilometers above the ice.",
+   "visual": {
+    "type": "card",
+    "big": "~50 flybys",
+    "label": "of Europa planned",
+    "sub": "some 25 km above the ice"
+   }
+  },
+  {
+   "text": "Quick question for you. Do you think there's life in Europa's ocean? Yes, no, or maybe? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Do you think there's life in Europa's ocean?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Through the ice",
+   "text": "So let's get out of the radiation, and go down. The ice is your shield. Just a few meters of it would block most of the radiation.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901).jpg"
+    ],
+    "query": "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901)"
+   },
+   "headline": "Into the ice"
+  },
+  {
+   "text": "But the shell is thick. Scientists estimate it's somewhere between fifteen and twenty-five kilometers thick in most places. That's two Mount Everests of solid ice.",
+   "visual": {
+    "type": "card",
+    "big": "15–25 km",
+    "label": "of ice above the ocean",
+    "sub": "most scientists' estimate"
+   }
+  },
+  {
+   "text": "Drilling through it would take enormous energy. Some engineers imagine a nuclear-heated probe, slowly melting its way down, for months or even years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901).jpg"
+    ],
+    "query": "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901)"
+   }
+  },
+  {
+   "text": "Why is the ocean liquid at all, so far from the Sun? Because Jupiter squeezes Europa. As it orbits, Jupiter's gravity stretches and flexes the moon, over and over. That kneading creates heat, deep inside.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Io highest resolution true color.jpg"
+    ],
+    "query": "Io highest resolution true color"
+   },
+   "headline": "Squeezed by Jupiter"
+  },
+  {
+   "text": "It's the same force that makes Europa's neighbor Io the most volcanic world in the solar system.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Tvashtar volcano on Io from New Horizons.jpg"
+    ],
+    "query": "Tvashtar volcano on Io from New Horizons"
+   }
+  },
+  {
+   "chapter": "Into the ocean",
+   "text": "Now you break through. Your probe slides into the water. And it's completely dark. No sunlight has ever reached this place.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Water drop 001.jpg"
+    ],
+    "query": "Water drop 001"
+   },
+   "headline": "Total darkness"
+  },
+  {
+   "text": "Switch on your lights, and you might see tiny flakes of ice drifting past, like snow falling upward. The underside of the ice shell above you would be your sky. A ceiling of ice, ten or twenty kilometers thick, between you and the stars.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901).jpg"
+    ],
+    "query": "Brunt Ice Shelf, Antarctica - 11 December 2022 (52559137901)"
+   },
+   "headline": "A ceiling of ice"
+  },
+  {
+   "text": "The water is salty, and just around its freezing point. Colder than any swimming pool, but liquid.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Tide Pool (2622155259).jpg"
+    ],
+    "query": "Tide Pool (2622155259)"
+   }
+  },
+  {
+   "text": "And it's deep. Europa's ocean may be sixty to one hundred and fifty kilometers deep. The deepest point in Earth's ocean is about eleven kilometers.",
+   "visual": {
+    "type": "card",
+    "big": "60–150 km",
+    "label": "the depth of Europa's ocean",
+    "sub": "Earth's deepest: about 11 km"
+   }
+  },
+  {
+   "text": "Europa's gravity is weak, but with that much ice and water above you, the pressure at the bottom could be more than at the bottom of the Mariana Trench. Swim down unprotected, and you'd be crushed.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "ISS-45 StoryOfWater, Great Barrier Reef, Australia.jpg"
+    ],
+    "query": "ISS-45 StoryOfWater, Great Barrier Reef, Australia"
+   },
+   "headline": "Deeper than the trench"
+  },
+  {
+   "text": "So between the cold, the radiation, the ice and the pressure, there's no way you could swim here. But maybe something else already does.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA19048 realistic color Europa mosaic edited.jpg"
+    ],
+    "query": "PIA19048 realistic color Europa mosaic edited"
+   }
+  },
+  {
+   "chapter": "What might live there",
+   "text": "Now the payoff I promised. What might be swimming down there?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moscow State University microbial mat 2014-01 1389532009.JPG"
+    ],
+    "query": "Moscow State University microbial mat 2014-01 1389532009"
+   },
+   "headline": "Life in the dark"
+  },
+  {
+   "text": "On Earth, at the bottom of the sea, there are hot vents where life thrives without any sunlight at all. Microbes eat chemicals that bubble out of the rocks. Shrimp, worms and crabs eat the microbes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Moscow State University microbial mat 2014-01 1389532009.JPG"
+    ],
+    "query": "Moscow State University microbial mat 2014-01 1389532009"
+   }
+  },
+  {
+   "text": "If Europa's rocky seafloor has vents like these, its ocean could have the same ingredients. Water, energy, and chemistry. Scientists think the ocean might even contain oxygen, made on the surface by radiation, and carried down through the ice.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Europa - Perijove 45 (cropped).png"
+    ],
+    "query": "Europa - Perijove 45 (cropped)"
+   },
+   "headline": "The ingredients of life"
+  },
+  {
+   "text": "If life exists there, it would most likely be tiny. Microbes, not monsters. But finding even one living cell would be one of the biggest discoveries in human history. It would mean life began twice, in one solar system.",
+   "visual": {
+    "type": "card",
+    "big": "one cell",
+    "label": "would change everything",
+    "sub": "proof that life began twice"
+   }
+  },
+  {
+   "chapter": "When we'll know",
+   "text": "So when will we know? Europa Clipper won't land, and it won't look for life directly. Its job is to find out whether Europa could support life.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Europa Clipper spacecraft model.png"
+    ],
+    "query": "Europa Clipper spacecraft model"
+   },
+   "headline": "Is Europa habitable?"
+  },
+  {
+   "text": "It will measure the ice shell with radar, map the surface, and fly through any plumes of water that might be spraying into space. Hubble has seen hints of them.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA17202 - Approaching Enceladus.jpg"
+    ],
+    "query": "PIA17202 - Approaching Enceladus"
+   },
+   "headline": "Flying through plumes?"
+  },
+  {
+   "text": "Europe's JUICE spacecraft, launched in 2023, is also on its way, and is set to fly past Europa too in the early 2030s.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Jupiter Family of Moons by Juno.png"
+    ],
+    "query": "Jupiter Family of Moons by Juno"
+   }
+  },
+  {
+   "text": "Clipper even carries a message. A plate engraved with the word water in more than a hundred languages, and a poem.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Europa Clipper commemorative plate 1.jpg"
+    ],
+    "query": "Europa Clipper commemorative plate 1"
+   },
+   "headline": "A message in a bottle"
+  },
+  {
+   "text": "So here's my question. If you could, would you ride a submarine down into Europa's dark ocean? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you ride a submarine into Europa's ocean?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "Europa is the place you'd never survive a swim. But it may be the place where we finally learn that we are not alone.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA19048 realistic color Europa mosaic edited.jpg"
+    ],
+    "query": "PIA19048 realistic color Europa mosaic edited"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never visit next? Proxima b? Saturn's rings? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never visit next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never visit next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

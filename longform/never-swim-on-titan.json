@@ -1,0 +1,527 @@
+{
+ "slug": "never-swim-on-titan",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Want to Swim on Titan",
+ "screen_title": "Why You'd Never Want to Swim on Titan",
+ "subtitle": "Saturn's giant moon, where it rains gasoline-like methane",
+ "yt_title": "Why You'd Never Want to Swim on Titan",
+ "intro": "What would happen if you stood on Titan, Saturn's giant moon? We drop through an orange haze thicker than Earth's air, walk on ice as hard as rock, watch giant raindrops of methane drift down in slow motion, and find out what would happen if you tried to swim in its seas. Stay to the end to find out how, on Titan, you could fly with your own arms.",
+ "questions": [
+  "Did you know Titan is bigger than the planet Mercury?",
+  "Would you strap on wings and fly on Titan?",
+  "What should we never visit next?"
+ ],
+ "hashtags": "#titan #saturn #space #astronomy #science",
+ "tags": [
+  "why you'd never",
+  "titan",
+  "saturn's moon titan",
+  "could you survive on titan",
+  "methane lakes",
+  "huygens probe",
+  "dragonfly mission",
+  "kraken mare",
+  "moons of saturn",
+  "solar system",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Titan in true color by Kevin M. Gill.jpg"
+  ],
+  "query": "Titan true color",
+  "white": "IT DROWNS",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "A moon with weather",
+   "text": "What if you jumped into a lake on Titan? You'd sink like a stone. The liquid would boil against your skin, and then you'd freeze solid. But up in the sky, you could fly like a bird. How?",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Titan in true color by Kevin M. Gill.jpg"
+    ],
+    "query": "Titan in true color by Kevin M. Gill"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we land on the strangest moon in the solar system. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "This is Titan. The largest moon of Saturn. It's bigger than the planet Mercury.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Titan in true color by Kevin M. Gill.jpg"
+    ],
+    "query": "Titan in true color by Kevin M. Gill"
+   },
+   "headline": "Saturn's giant moon"
+  },
+  {
+   "text": "And it's the only moon in the solar system with a thick atmosphere. It has clouds, rain, rivers, lakes and seas. It's the only other world we know where liquid falls from the sky and flows across the ground.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Liquid lakes on titan.jpg"
+    ],
+    "query": "Liquid lakes on titan"
+   },
+   "headline": "Rain, rivers and seas"
+  },
+  {
+   "text": "It sounds like Earth. But every single part of it would kill you in its own strange way. And stay to the end, because on Titan, you could do something no human can do on Earth. You could fly, using your own arms.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bald eagle in Alaska 2016-3.jpg"
+    ],
+    "query": "Bald eagle in Alaska 2016-3"
+   },
+   "headline": "Fly like a bird?"
+  },
+  {
+   "chapter": "The long trip",
+   "text": "First, getting there. Titan orbits Saturn, about one point four billion kilometers from Earth. Even a radio signal takes well over an hour to make the trip.",
+   "visual": {
+    "type": "card",
+    "big": "~80 minutes",
+    "label": "for a radio signal to reach Titan"
+   }
+  },
+  {
+   "text": "The Cassini spacecraft took almost seven years to get there. It carried a small passenger, a probe called Huygens, built by the European Space Agency.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Cassini Saturn Orbit Insertion.jpg"
+    ],
+    "query": "Cassini Saturn Orbit Insertion"
+   },
+   "headline": "Cassini and Huygens"
+  },
+  {
+   "text": "As you arrive, Saturn fills the sky, with its rings stretched out like a bright blade. But Titan itself is just a fuzzy orange ball. You can't see the ground at all.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Saturn global view from Cassini, rings open Better Colour.png"
+    ],
+    "query": "Saturn global view from Cassini, rings open Better Colour"
+   },
+   "headline": "Arriving at Saturn"
+  },
+  {
+   "chapter": "Into the orange haze",
+   "text": "So we dive in. Titan's atmosphere is enormous. It reaches about ten times higher than Earth's.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Titan globe.jpg"
+    ],
+    "query": "Titan globe"
+   },
+   "headline": "A giant atmosphere"
+  },
+  {
+   "text": "It's mostly nitrogen, like the air you're breathing right now. But it's mixed with methane, the gas in a kitchen stove. Sunlight breaks the methane apart, and the pieces join into a thick, orange smog.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Titan in true color by Kevin M. Gill.jpg"
+    ],
+    "query": "Titan in true color by Kevin M. Gill"
+   },
+   "headline": "An orange smog"
+  },
+  {
+   "text": "As you fall, the sky glows orange all around you. Like falling through a sunset that never ends.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Desert Sky (Unsplash).jpg"
+    ],
+    "query": "Desert Sky (Unsplash)"
+   }
+  },
+  {
+   "text": "On January fourteenth, 2005, Huygens made this same fall. It drifted down under parachutes for about two and a half hours.",
+   "visual": {
+    "type": "card",
+    "big": "2005",
+    "label": "Huygens lands on Titan",
+    "sub": "the most distant landing ever made"
+   }
+  },
+  {
+   "text": "It's still the most distant landing ever made. And this is what it saw on the ground.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Huygens on the Ground.jpg"
+    ],
+    "query": "Huygens on the Ground"
+   },
+   "headline": "The view from the ground"
+  },
+  {
+   "text": "Huygens hit the ground at about the speed of a dropped ball, and kept sending pictures and measurements for about seventy-two minutes, until Cassini flew out of range. The ground felt a bit like damp sand, with a thin frozen crust on top.",
+   "visual": {
+    "type": "card",
+    "big": "72 minutes",
+    "label": "Huygens kept talking from the surface"
+   }
+  },
+  {
+   "chapter": "Standing on Titan",
+   "text": "Those round stones look like river pebbles. And that's exactly what they are. But they aren't made of rock. They're made of water ice, frozen as hard as granite.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Huygens on the Ground.jpg"
+    ],
+    "query": "Huygens on the Ground"
+   },
+   "headline": "Pebbles of ice"
+  },
+  {
+   "text": "It's minus one hundred seventy-nine degrees Celsius on the ground. Cold enough to freeze the air in your lungs, if you could even breathe it.",
+   "visual": {
+    "type": "card",
+    "big": "−179 °C",
+    "label": "on the surface of Titan"
+   }
+  },
+  {
+   "text": "Here's the surprise. The air pressure is only about one and a half times Earth's. You wouldn't be crushed. On Titan, you wouldn't need a pressure suit at all.",
+   "visual": {
+    "type": "card",
+    "big": "1.5 times",
+    "label": "Earth's air pressure",
+    "sub": "no pressure suit needed"
+   }
+  },
+  {
+   "text": "You would need a heated suit and an oxygen mask. There's no oxygen to breathe. And the cold would pull the heat from your body in minutes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ed White First American Spacewalker - GPN-2000-001180.jpg"
+    ],
+    "query": "Ed White First American Spacewalker - GPN-2000-001180"
+   },
+   "headline": "Mask and heated suit"
+  },
+  {
+   "text": "It's also dark. Sunlight on Titan is about a hundred times weaker than on Earth, and the haze swallows most of it. Noon on Titan looks like a dim evening at home.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Snowfall at night over Brofjorden and Preemraff oil refinery.jpg"
+    ],
+    "query": "Snowfall at night over Brofjorden and Preemraff oil refinery"
+   },
+   "headline": "Noon looks like dusk"
+  },
+  {
+   "text": "Quick question for you. Did you know Titan is bigger than the planet Mercury? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Did you know Titan is bigger than the planet Mercury?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "A day on Titan",
+   "text": "Now let's spend a day here. And a day on Titan is long. Titan always keeps the same face toward Saturn, so one day lasts as long as one orbit. Almost sixteen Earth days.",
+   "visual": {
+    "type": "card",
+    "big": "~16 Earth days",
+    "label": "one day on Titan"
+   }
+  },
+  {
+   "text": "From the side facing Saturn, the giant planet hangs in the sky and never moves. It would look enormous, about ten times wider than our full Moon. But the orange haze hides it almost completely. You'd stand under the most spectacular view in the solar system, and see nothing.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Backlit Saturn from Cassini Orbiter 2007 May 9.jpg"
+    ],
+    "query": "Backlit Saturn from Cassini Orbiter 2007 May 9"
+   },
+   "headline": "Saturn, hidden"
+  },
+  {
+   "text": "Near the equator, you'd find huge dunes, taller than a thirty-story building, stretching for hundreds of kilometers. But the sand isn't rock. It's made of dark grains of frozen hydrocarbons, a bit like coffee grounds.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Titan globe.jpg"
+    ],
+    "query": "Titan globe"
+   },
+   "headline": "Dunes of dark grains"
+  },
+  {
+   "text": "And the seasons are slow. Saturn takes about twenty-nine years to circle the Sun, so each season on Titan lasts about seven years. Summer storms near the lakes are rare, and wonderful to watch.",
+   "visual": {
+    "type": "card",
+    "big": "~7 years",
+    "label": "one season on Titan"
+   }
+  },
+  {
+   "chapter": "Rain in slow motion",
+   "text": "Now the weather. On Titan, it rains. But not water. It rains liquid methane.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Liquid lakes on titan.jpg"
+    ],
+    "query": "Liquid lakes on titan"
+   },
+   "headline": "It rains methane"
+  },
+  {
+   "text": "And the rain falls in slow motion. Titan's gravity is weak, and its air is thick. So raindrops can grow much bigger than on Earth, and they drift down about six times slower, like snowflakes.",
+   "visual": {
+    "type": "card",
+    "big": "6 times slower",
+    "label": "raindrops fall on Titan"
+   }
+  },
+  {
+   "text": "It doesn't rain often. In some places, maybe once every few years, or even centuries. But when it does, the storms can carve rivers and flood the valleys.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Titan globe.jpg"
+    ],
+    "query": "Titan globe"
+   }
+  },
+  {
+   "chapter": "The seas of Titan",
+   "text": "And those rivers flow into lakes and seas. Near Titan's north pole, the Cassini spacecraft found dozens of them, filled not with water, but with liquid methane and ethane.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Liquid lakes on titan.jpg"
+    ],
+    "query": "Liquid lakes on titan"
+   },
+   "headline": "Seas of methane"
+  },
+  {
+   "text": "The biggest one is called Kraken Mare. It's larger than the Caspian Sea, the largest lake on Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA17655 Kraken Mare crop no labels.jpg"
+    ],
+    "query": "PIA17655 Kraken Mare crop no labels"
+   },
+   "headline": "Kraken Mare"
+  },
+  {
+   "text": "Another sea, Ligeia Mare, is about one hundred and sixty meters deep in places. Taller than a forty-story building.",
+   "visual": {
+    "type": "card",
+    "big": "~160 m deep",
+    "label": "Ligeia Mare",
+    "sub": "a sea of liquid methane"
+   }
+  },
+  {
+   "text": "Titan holds hundreds of times more liquid hydrocarbons than all the known oil and gas on Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA17655 Kraken Mare crop no labels.jpg"
+    ],
+    "query": "PIA17655 Kraken Mare crop no labels"
+   }
+  },
+  {
+   "chapter": "Why you'd never swim",
+   "text": "So, could you go for a swim? Here's why you'd never want to.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "PIA17655 Kraken Mare crop no labels.jpg"
+    ],
+    "query": "PIA17655 Kraken Mare crop no labels"
+   },
+   "headline": "Going for a swim?"
+  },
+  {
+   "text": "Liquid methane is less than half as dense as water. Your body wouldn't float in it. You'd sink straight to the bottom, like a stone.",
+   "visual": {
+    "type": "card",
+    "big": "less than half",
+    "label": "the density of water",
+    "sub": "you'd sink like a stone"
+   }
+  },
+  {
+   "text": "And your warm suit would be a hundred and eighty degrees warmer than the liquid. The methane touching you would boil, wrapping you in a fizzing cloud of bubbles.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Water drop 001.jpg"
+    ],
+    "query": "Water drop 001"
+   },
+   "headline": "It would boil around you"
+  },
+  {
+   "text": "Then the cold would win. The sea would pull the heat out of your suit far faster than air ever could. You'd freeze solid, deep under a sea of liquid gas.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Liquid lakes on titan.jpg"
+    ],
+    "query": "Liquid lakes on titan"
+   }
+  },
+  {
+   "text": "And there's another hidden ocean. Deep under Titan's icy crust, scientists think there's a huge ocean of salty liquid water. Some wonder if something could live there.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Titan globe.jpg"
+    ],
+    "query": "Titan globe"
+   },
+   "headline": "A hidden ocean"
+  },
+  {
+   "chapter": "You could fly",
+   "text": "Now the payoff I promised. On Titan, you could fly. With your own arms.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Bald eagle in Alaska 2016-3.jpg"
+    ],
+    "query": "Bald eagle in Alaska 2016-3"
+   },
+   "headline": "Human flight"
+  },
+  {
+   "text": "Titan's gravity is only about one seventh of Earth's. You'd weigh about as much as a bag of groceries.",
+   "visual": {
+    "type": "card",
+    "big": "14%",
+    "label": "of Earth's gravity",
+    "sub": "a 70 kg person weighs about 10 kg"
+   }
+  },
+  {
+   "text": "And the air is about four times denser than ours. So if you strapped a pair of wings to your arms and flapped, you could lift off the ground and glide over the methane seas.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Formation skydiving with smoke at the Wings Over Miami air show.jpg"
+    ],
+    "query": "Formation skydiving with smoke at the Wings Over Miami air show"
+   },
+   "headline": "Strap on some wings"
+  },
+  {
+   "text": "Scientists have actually said this. Titan may be the one place in the solar system where human-powered flight would be easy.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hot Air Balloon Ride by Sky Waltz.jpg"
+    ],
+    "query": "Hot Air Balloon Ride by Sky Waltz"
+   }
+  },
+  {
+   "text": "So here's my question. Would you strap on a pair of wings and fly over the seas of Titan? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you strap on wings and fly on Titan?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The next visitor",
+   "text": "And a flying robot is on its way. NASA's Dragonfly is a nuclear-powered drone, about the size of a car. It's planned to launch in July 2028.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Dragonfly render June 2025.png"
+    ],
+    "query": "Dragonfly render June 2025"
+   },
+   "headline": "Dragonfly"
+  },
+  {
+   "text": "After a journey of about six years, it should arrive in the mid-2030s. It will hop from place to place, flying across the dunes to study the building blocks of life.",
+   "visual": {
+    "type": "card",
+    "big": "2028",
+    "label": "Dragonfly's planned launch",
+    "sub": "a flying lander for Titan"
+   }
+  },
+  {
+   "text": "Titan is a frozen copy of Earth. Rain, rivers and seas, made from all the wrong ingredients. A beautiful place to fly over. And the very last place you'd ever want to go for a swim.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Titan in true color by Kevin M. Gill.jpg"
+    ],
+    "query": "Titan in true color by Kevin M. Gill"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never visit next? Europa? A rogue planet? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never visit next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never visit next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

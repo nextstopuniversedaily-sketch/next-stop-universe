@@ -1,0 +1,526 @@
+{
+ "slug": "never-survive-on-venus",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive on Venus",
+ "screen_title": "Why You'd Never Survive on Venus",
+ "subtitle": "Earth's twin is the deadliest planet next door",
+ "yt_title": "Why You'd Never Survive on Venus",
+ "intro": "What would happen if you landed on Venus, the planet that looks like Earth's twin? We drop through clouds of acid, feel air heavy enough to crush a submarine, stand on ground hot enough to melt lead, and find out how long the toughest machines ever built lasted down there. Stay to the end for the one place on Venus where you could actually survive.",
+ "questions": [
+  "Would you rather visit Venus or Mars?",
+  "Would you live in a floating city above Venus?",
+  "What should we never visit next?"
+ ],
+ "hashtags": "#venus #space #astronomy #solarsystem #science",
+ "tags": [
+  "why you'd never survive",
+  "venus",
+  "could you survive on venus",
+  "what if you landed on venus",
+  "venus surface",
+  "how hot is venus",
+  "venus atmosphere",
+  "venera",
+  "earth's twin",
+  "solar system",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Venus-real color.jpg"
+  ],
+  "query": "Venus real color",
+  "white": "IT COOKS",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "Earth's evil twin",
+   "text": "What if you stepped out onto Venus? You'd be crushed, cooked and choked, all in the same second. Your spacesuit wouldn't save you. Neither would a tank. So how long could anything last down there?",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Venus-real color.jpg"
+    ],
+    "query": "Venus-real color"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we fall through the clouds of Earth's twin. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "Look up just after sunset, and you'll often see it. The brightest thing in the sky after the Moon. A calm, white jewel. That's Venus.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus from Mariner 10.jpg"
+    ],
+    "query": "Venus from Mariner 10"
+   },
+   "headline": "The evening star"
+  },
+  {
+   "text": "It's almost the same size as Earth. Almost the same mass. It's our closest planetary neighbor. For centuries, people imagined it as a warm, swampy world full of life.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus 2 Approach Image.jpg"
+    ],
+    "query": "Venus 2 Approach Image"
+   },
+   "headline": "Earth's twin"
+  },
+  {
+   "text": "They were wrong. Venus is the most hostile planet in the solar system. And today, you're going to find out why, layer by layer, from the top of its clouds all the way to the ground.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus-real color.jpg"
+    ],
+    "query": "Venus-real color"
+   },
+   "headline": "The deadliest planet"
+  },
+  {
+   "text": "And stay to the end, because there is one place on Venus where you could actually take off your heavy suit and breathe easy. Well, almost.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hot Air Balloon Ride by Sky Waltz.jpg"
+    ],
+    "query": "Hot Air Balloon Ride by Sky Waltz"
+   },
+   "headline": "One safe place?"
+  },
+  {
+   "chapter": "The journey there",
+   "text": "First, the trip. Venus is the easiest planet to reach. At its closest, it's about forty million kilometers away. A spacecraft can get there in about four to six months.",
+   "visual": {
+    "type": "card",
+    "big": "~4 months",
+    "label": "to fly to Venus",
+    "sub": "the quickest planet to reach"
+   }
+  },
+  {
+   "text": "As you approach, you see no oceans, no continents, no mountains. Just a smooth, creamy ball of cloud, glowing in the sunlight. Venus reflects about three quarters of the light that hits it. That's why it shines so brightly.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus Mariner 10 true color.png"
+    ],
+    "query": "Venus Mariner 10 true color"
+   },
+   "headline": "A world wrapped in cloud"
+  },
+  {
+   "text": "Those clouds never break. Not once, not anywhere. You could orbit Venus for a lifetime and never see the ground with your own eyes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus - December 23 2016.png"
+    ],
+    "query": "Venus - December 23 2016"
+   }
+  },
+  {
+   "chapter": "Clouds of acid",
+   "text": "Now we start falling. About seventy kilometers up, you hit the top of the clouds. And here's the first shock. These aren't water clouds. They're made of droplets of sulfuric acid.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus - December 23 2016.png"
+    ],
+    "query": "Venus - December 23 2016"
+   },
+   "headline": "Clouds of acid"
+  },
+  {
+   "text": "The same acid in a car battery, only stronger. It would eat through fabric, rubber and skin. Any rain that falls from these clouds is acid rain. But it never reaches the ground. It's far too hot down there. The drops boil away on the way down.",
+   "visual": {
+    "type": "card",
+    "big": "sulfuric acid",
+    "label": "what Venus's clouds are made of",
+    "sub": "it rains, but never reaches the ground"
+   }
+  },
+  {
+   "text": "And the winds up here are wild. At the cloud tops, they blow at around three hundred and sixty kilometers an hour. Faster than any hurricane on Earth. They whip all the way around the planet in about four days.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus 2 Approach Image.jpg"
+    ],
+    "query": "Venus 2 Approach Image"
+   },
+   "headline": "Hurricane winds"
+  },
+  {
+   "text": "That's strange, because the planet underneath turns incredibly slowly. More on that in a moment.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus from Mariner 10.jpg"
+    ],
+    "query": "Venus from Mariner 10"
+   }
+  },
+  {
+   "chapter": "The weight of the air",
+   "text": "Keep falling. Below the clouds, the sky turns a murky orange. And the air keeps getting thicker. And thicker. And thicker.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Desert Sky (Unsplash).jpg"
+    ],
+    "query": "Desert Sky (Unsplash)"
+   },
+   "headline": "Thicker and thicker"
+  },
+  {
+   "text": "By the time you reach the ground, the air pressure is about ninety-two times what you feel on Earth.",
+   "visual": {
+    "type": "card",
+    "big": "92 times",
+    "label": "Earth's air pressure",
+    "sub": "on the surface of Venus"
+   }
+  },
+  {
+   "text": "To feel that on Earth, you'd have to dive about nine hundred meters under the sea. That's deep enough to crush many submarines.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "ISS-45 StoryOfWater, Great Barrier Reef, Australia.jpg"
+    ],
+    "query": "ISS-45 StoryOfWater, Great Barrier Reef, Australia"
+   },
+   "headline": "900 m under the sea"
+  },
+  {
+   "text": "The air is so dense, it behaves almost like a liquid. Walking would feel like wading through water. A gentle breeze would push you like a strong ocean current.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus - December 23 2016.png"
+    ],
+    "query": "Venus - December 23 2016"
+   }
+  },
+  {
+   "text": "And you couldn't breathe it. It's about ninety-six percent carbon dioxide, with almost no oxygen at all.",
+   "visual": {
+    "type": "card",
+    "big": "96.5%",
+    "label": "carbon dioxide",
+    "sub": "and almost no oxygen"
+   }
+  },
+  {
+   "text": "Quick question for you. If you had to pick one planet to visit, Venus or Mars, which would it be? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you rather visit Venus or Mars?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Hot enough to melt lead",
+   "text": "Now the heat. Venus is almost twice as far from the Sun as Mercury. Yet it's the hottest planet in the solar system.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   },
+   "headline": "Hotter than Mercury"
+  },
+  {
+   "text": "On the surface, it's about four hundred and sixty-five degrees Celsius. Day and night. At the poles and at the equator. There's no cool place to hide.",
+   "visual": {
+    "type": "card",
+    "big": "465 °C",
+    "label": "on the surface of Venus",
+    "sub": "day and night"
+   }
+  },
+  {
+   "text": "That's hot enough to melt lead. Hotter than a pizza oven. If you dropped a tin spoon on the ground, it would melt into a puddle.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Basaltic lava (late March 2021 eruption in Geldingadalur Valley, Rekjanes Peninsula, Iceland) 2.jpg"
+    ],
+    "query": "Basaltic lava (late March 2021 eruption in Geldingadalur Valley, Rekjanes Peninsula, Iceland) 2"
+   },
+   "headline": "Lead would melt"
+  },
+  {
+   "text": "Why so hot? All that carbon dioxide works like a giant blanket. Sunlight gets in, warms the ground, but the heat can't get back out. It's the greenhouse effect, gone completely out of control.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus-real color.jpg"
+    ],
+    "query": "Venus-real color"
+   },
+   "headline": "A runaway greenhouse"
+  },
+  {
+   "text": "Scientists think Venus may once have had oceans, long ago. As the Sun grew brighter, they evaporated. The water vapor trapped even more heat, and the planet never cooled down again.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Water drop 001.jpg"
+    ],
+    "query": "Water drop 001"
+   },
+   "headline": "Lost oceans"
+  },
+  {
+   "chapter": "So how long would you last?",
+   "text": "So, what would actually happen to you? Let's be honest. In an ordinary spacesuit, you'd be crushed and cooked within moments. The suit would collapse, and the heat would pour in.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ed White First American Spacewalker - GPN-2000-001180.jpg"
+    ],
+    "query": "Ed White First American Spacewalker - GPN-2000-001180"
+   },
+   "headline": "Your suit fails"
+  },
+  {
+   "text": "Even our toughest machines can't last. In the 1970s and 1980s, the Soviet Union sent a series of landers called Venera. They were built like armored diving bells, packed with cooling systems.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus 2 Approach Image.jpg"
+    ],
+    "query": "Venus 2 Approach Image"
+   },
+   "headline": "The Venera landers"
+  },
+  {
+   "text": "In 1970, Venera 7 became the first spacecraft ever to land on another planet and send back a signal. It lasted about twenty minutes.",
+   "visual": {
+    "type": "card",
+    "big": "1970",
+    "label": "first landing on another planet",
+    "sub": "Venera 7, on Venus"
+   }
+  },
+  {
+   "text": "The record holder, Venera 13, landed in 1982. It sent back the first color pictures from the surface. A flat, orange plain of rocks under a yellow sky. Then, after about two hours, it went silent. It was cooked.",
+   "visual": {
+    "type": "card",
+    "big": "127 minutes",
+    "label": "the longest anything has survived",
+    "sub": "Venera 13, 1982"
+   }
+  },
+  {
+   "text": "No spacecraft has touched the surface of Venus since the 1980s. It's that hard.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus - December 23 2016.png"
+    ],
+    "query": "Venus - December 23 2016"
+   }
+  },
+  {
+   "chapter": "A very strange day",
+   "text": "Now imagine you could survive. You'd notice something odd. Venus spins backwards compared to almost every other planet. So on Venus, the Sun rises in the west and sets in the east.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus from Mariner 10.jpg"
+    ],
+    "query": "Venus from Mariner 10"
+   },
+   "headline": "The Sun rises in the west"
+  },
+  {
+   "text": "And it spins incredibly slowly. One turn takes two hundred and forty-three Earth days. But one trip around the Sun takes only two hundred and twenty-five days. So a day on Venus is longer than its year.",
+   "visual": {
+    "type": "card",
+    "big": "243 days",
+    "label": "for Venus to spin once",
+    "sub": "longer than its 225-day year"
+   }
+  },
+  {
+   "text": "Not that you'd see the Sun anyway. Through the thick clouds, it would just be a dim, blurry glow in an orange sky.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Desert Sky (Unsplash).jpg"
+    ],
+    "query": "Desert Sky (Unsplash)"
+   }
+  },
+  {
+   "text": "And there may be lightning in those clouds, and volcanoes on the ground. Venus has more volcanoes than any other planet. Radar has found signs that some may still be erupting today.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Basaltic lava (late March 2021 eruption in Geldingadalur Valley, Rekjanes Peninsula, Iceland) 2.jpg"
+    ],
+    "query": "Basaltic lava (late March 2021 eruption in Geldingadalur Valley, Rekjanes Peninsula, Iceland) 2"
+   },
+   "headline": "Living volcanoes?"
+  },
+  {
+   "text": "And on the tops of its highest mountains, radar sees something shiny. Scientists think it may be a kind of metal frost. Metals that boil off in the lowland heat, then settle as a glittering coat on the cooler peaks.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus Mariner 10 true color.png"
+    ],
+    "query": "Venus Mariner 10 true color"
+   },
+   "headline": "Metal snow"
+  },
+  {
+   "text": "Imagine that. A world so hot, its mountains are dusted not with snow, but with metal.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus-real color.jpg"
+    ],
+    "query": "Venus-real color"
+   }
+  },
+  {
+   "chapter": "The one place you could survive",
+   "text": "So here's the payoff I promised. Is there anywhere on Venus you could survive? Surprisingly, yes. Not on the ground. In the sky.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hot Air Balloon Ride by Sky Waltz.jpg"
+    ],
+    "query": "Hot Air Balloon Ride by Sky Waltz"
+   },
+   "headline": "Up in the sky"
+  },
+  {
+   "text": "About fifty to fifty-five kilometers above the surface, the air pressure is almost the same as at sea level on Earth. And the temperature is somewhere between zero and fifty degrees Celsius. Like a warm day at home.",
+   "visual": {
+    "type": "card",
+    "big": "~50 km up",
+    "label": "Earth-like pressure and temperature",
+    "sub": "the most Earth-like place beyond Earth"
+   }
+  },
+  {
+   "text": "It gets better. The air you breathe, oxygen and nitrogen, is lighter than Venus's carbon dioxide. So a big balloon full of ordinary breathable air would float there, all by itself.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Hot Air Balloon Ride by Sky Waltz.jpg"
+    ],
+    "query": "Hot Air Balloon Ride by Sky Waltz"
+   },
+   "headline": "Air is a lifting gas"
+  },
+  {
+   "text": "Some scientists have dreamed of floating cities, drifting with the winds above the clouds. You'd still need an air mask and acid-proof clothes. But you wouldn't need a pressure suit. You could stand outside in light protective gear.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus-real color.jpg"
+    ],
+    "query": "Venus-real color"
+   },
+   "headline": "Floating cities"
+  },
+  {
+   "text": "So here's my question. Would you live in a floating city, fifty kilometers above Venus, with acid clouds below you? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you live in a floating city above Venus?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Why it matters to Earth",
+   "text": "Venus is also a warning. Two planets, born the same size, from the same materials, side by side. One became a blue world full of life. The other became a furnace.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "Two twins, two fates"
+  },
+  {
+   "text": "That's why space agencies are planning new missions to Venus. They want to know what went wrong, and whether Venus was ever a place where life could have started.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Venus 2 Approach Image.jpg"
+    ],
+    "query": "Venus 2 Approach Image"
+   }
+  },
+  {
+   "text": "So the next time you see that bright evening star, remember. It's beautiful from here. And it's the last place in the solar system you'd ever want to land.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028.jpg"
+    ],
+    "query": "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028"
+   },
+   "headline": "Beautiful from afar"
+  },
+  {
+   "text": "Now my last question. What should we never visit next? Titan? A nearby supernova? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never visit next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never visit next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

@@ -1,0 +1,515 @@
+{
+ "slug": "never-survive-proxima-b",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Survive a Trip to Proxima b",
+ "screen_title": "Why You'd Never Survive a Trip to Proxima b",
+ "subtitle": "The nearest planet beyond our Sun, and the journey there",
+ "yt_title": "Why You'd Never Survive a Trip to Proxima b",
+ "intro": "What would it take to reach the nearest planet outside our solar system? We set off for Proxima b, 40 trillion kilometers away, find out how long the trip takes with today's fastest spacecraft, land under a red sun that hurls deadly flares, and look back to see our own Sun as just another star. Stay to the end to see the tiny spacecraft that might get there in about twenty years.",
+ "questions": [
+  "Would you board a ship to Proxima b knowing you'd never arrive?",
+  "Would you live on a planet where the sun never moves?",
+  "Where should we never go next?"
+ ],
+ "hashtags": "#proximab #exoplanet #space #astronomy #science",
+ "tags": [
+  "why you'd never survive",
+  "proxima b",
+  "proxima centauri",
+  "nearest exoplanet",
+  "alpha centauri",
+  "interstellar travel",
+  "breakthrough starshot",
+  "voyager 1",
+  "how long to reach another star",
+  "exoplanets",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg"
+  ],
+  "query": "Proxima Centauri b",
+  "white": "IT FRIES",
+  "accent": "YOU..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "The nearest other world",
+   "text": "What if you set off today for the nearest planet beyond our Sun? On the fastest spacecraft we've ever built, you'd never arrive. Neither would your great-great-grandchildren. And if you did, the star there might fry you.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg"
+    ],
+    "query": "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we try to reach the nearest planet beyond our Sun. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "Its name is Proxima b. It circles Proxima Centauri, the closest star to the Sun. And it might be a rocky world, about the size of Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg"
+    ],
+    "query": "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth"
+   },
+   "headline": "Proxima b"
+  },
+  {
+   "text": "It orbits in what astronomers call the habitable zone. The distance where, in the right conditions, water could be liquid on the surface.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima d (wider view).jpg"
+    ],
+    "query": "Artist’s impression of Proxima d (wider view)"
+   },
+   "headline": "The habitable zone"
+  },
+  {
+   "text": "So it's the obvious first stop outside our solar system. Today, we'll try to get there. And stay to the end, because there's a tiny spacecraft design that could reach Proxima in about twenty years. I'll show you how.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Laser Sail (25259478171).png"
+    ],
+    "query": "Laser Sail (25259478171)"
+   },
+   "headline": "Twenty years?"
+  },
+  {
+   "chapter": "How far is it?",
+   "text": "First, how far is it? Proxima Centauri is about four point two four light years away.",
+   "visual": {
+    "type": "card",
+    "big": "4.24 light years",
+    "label": "to Proxima Centauri",
+    "sub": "the nearest star to the Sun"
+   }
+  },
+  {
+   "text": "Light, the fastest thing in the universe, takes more than four years to make the trip. So when you look at Proxima through a telescope tonight, you're seeing it as it was over four years ago.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "New shot of Proxima Centauri, our nearest neighbour.jpg"
+    ],
+    "query": "New shot of Proxima Centauri, our nearest neighbour"
+   },
+   "headline": "Light from the past"
+  },
+  {
+   "text": "That's about forty trillion kilometers. A number so big it's almost meaningless. So let's make it real.",
+   "visual": {
+    "type": "card",
+    "big": "~40 trillion km",
+    "label": "to the nearest star"
+   }
+  },
+  {
+   "text": "If the Sun were the size of a grapefruit in your hand, Earth would be a grain of sand about eleven meters away. And Proxima Centauri? It would be a cherry, about three thousand kilometers away. Across a whole continent.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Solar system scale edit.jpg"
+    ],
+    "query": "Solar system scale edit"
+   },
+   "headline": "A grapefruit Sun"
+  },
+  {
+   "text": "Space between the stars is unbelievably empty. And that's the first reason you'd never make it.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way over Big Prairie (16631110890)"
+   }
+  },
+  {
+   "chapter": "The fastest ship we have",
+   "text": "Let's try with real spacecraft. Voyager 1, launched in 1977, is the most distant human-made object. It travels at about seventeen kilometers every second.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Voyager spacecraft.jpg"
+    ],
+    "query": "Voyager spacecraft"
+   },
+   "headline": "Voyager 1"
+  },
+  {
+   "text": "Just a few weeks ago, on November eighteenth, 2026, Voyager 1 became the first spacecraft to reach one light-day from Earth. A radio signal now takes a full twenty-four hours to reach it.",
+   "visual": {
+    "type": "card",
+    "big": "1 light-day",
+    "label": "Voyager 1's distance, Nov 18, 2026",
+    "sub": "after 49 years of flight"
+   }
+  },
+  {
+   "text": "Forty-nine years to go one light-day. Proxima is more than fifteen hundred light-days away. At Voyager's speed, it would take about seventy-five thousand years to get there.",
+   "visual": {
+    "type": "card",
+    "big": "~75,000 years",
+    "label": "to reach Proxima at Voyager's speed"
+   }
+  },
+  {
+   "text": "Seventy-five thousand years ago, our ancestors had not yet spread across most of the world. That's how long the trip would take.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Landscape of patagonia.jpg"
+    ],
+    "query": "Landscape of patagonia"
+   },
+   "headline": "Longer than history"
+  },
+  {
+   "text": "The fastest object humans ever made, the Parker Solar Probe, hits about one hundred ninety kilometers per second as it whips past the Sun. Even at that speed, it would take over six thousand years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Parker Solar Probe.jpg"
+    ],
+    "query": "Parker Solar Probe"
+   },
+   "headline": "Still thousands of years"
+  },
+  {
+   "text": "Quick question for you. Would you board a ship to Proxima b, knowing only your distant descendants would arrive? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you board a ship to Proxima b knowing you'd never arrive?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The long dark",
+   "text": "So to get there with today's technology, you'd need a generation ship. A giant spacecraft where people are born, live their whole lives, and die, for thousands of years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The station pictured from the SpaceX Crew Dragon 5.jpg"
+    ],
+    "query": "The station pictured from the SpaceX Crew Dragon 5"
+   },
+   "headline": "A generation ship"
+  },
+  {
+   "text": "And the space between stars is not gentle. Cosmic rays would pass through the ship every second, slowly damaging your cells. Every tiny grain of dust you hit at high speed could punch through the hull like a bullet.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Debris-GEO1280.jpg"
+    ],
+    "query": "Debris-GEO1280"
+   },
+   "headline": "Dangers between stars"
+  },
+  {
+   "text": "Your food, your water, your air would all have to be recycled perfectly, for longer than any civilization on Earth has ever lasted.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Astronaut Jessica Watkins is pictured eating a meal.jpg"
+    ],
+    "query": "Astronaut Jessica Watkins is pictured eating a meal"
+   }
+  },
+  {
+   "chapter": "Arriving at a red star",
+   "text": "But let's say you make it. What do you find? Proxima Centauri is a red dwarf. A small, cool star, about one eighth of the mass of our Sun.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "New shot of Proxima Centauri, our nearest neighbour.jpg"
+    ],
+    "query": "New shot of Proxima Centauri, our nearest neighbour"
+   },
+   "headline": "A red dwarf"
+  },
+  {
+   "text": "It's so faint that, even though it's our nearest star, you can't see it from Earth without a telescope.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "New shot of Proxima Centauri, our nearest neighbour.jpg"
+    ],
+    "query": "New shot of Proxima Centauri, our nearest neighbour"
+   }
+  },
+  {
+   "text": "It's actually part of a family. Nearby are two bright stars, Alpha Centauri A and B, circling each other. Proxima slowly loops around them, in an orbit that takes over half a million years.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Best image of Alpha Centauri A and B.jpg"
+    ],
+    "query": "Best image of Alpha Centauri A and B"
+   },
+   "headline": "A family of three stars"
+  },
+  {
+   "text": "Proxima b orbits very close to its star. Much closer than Mercury is to our Sun. One year on Proxima b lasts just eleven days.",
+   "visual": {
+    "type": "card",
+    "big": "11.2 days",
+    "label": "one year on Proxima b"
+   }
+  },
+  {
+   "chapter": "Proxima's other worlds",
+   "text": "And Proxima b isn't alone. In 2022, astronomers confirmed a second planet, Proxima d. It's tiny, only about a quarter of Earth's mass, and it whips around its star in just five days.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima d (wider view).jpg"
+    ],
+    "query": "Artist’s impression of Proxima d (wider view)"
+   },
+   "headline": "Proxima d"
+  },
+  {
+   "text": "Next door, around Alpha Centauri A, a star very much like our Sun, the James Webb Space Telescope found evidence in 2025 of a giant planet, about the mass of Saturn. If it's confirmed, it would be the closest planet to us orbiting a Sun-like star.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Best image of Alpha Centauri A and B.jpg"
+    ],
+    "query": "Best image of Alpha Centauri A and B"
+   },
+   "headline": "A giant next door?"
+  },
+  {
+   "text": "So our nearest neighbors have planets. Lots of them. The question is whether any of them are friendly.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg"
+    ],
+    "query": "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth"
+   }
+  },
+  {
+   "chapter": "Under a red sun",
+   "text": "Now step outside, if you can. The star in the sky looks about three times wider than our Sun does from Earth. But it glows a deep, dim orange red.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg"
+    ],
+    "query": "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth"
+   },
+   "headline": "A giant red sun"
+  },
+  {
+   "text": "Proxima b is probably tidally locked. That means one side always faces the star, and the other side always faces away. On the day side, the sun never sets. On the night side, it never rises.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg"
+    ],
+    "query": "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth"
+   },
+   "headline": "Endless day, endless night"
+  },
+  {
+   "text": "If it has air and water, the best place to live might be the thin ring between the two. A twilight zone where the red sun sits forever on the horizon.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028.jpg"
+    ],
+    "query": "View of sunset over Eyjafjörður in Svalbarðsstrandarhreppur commune, Iceland, 20240715 2237 1028"
+   },
+   "headline": "Living in the twilight"
+  },
+  {
+   "text": "So here's my question. Would you live on a planet where the sun never moves, and it's always sunset? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Would you live on a planet where the sun never moves?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "Why it would fry you",
+   "text": "Now here's the reason you'd never survive. Proxima Centauri has a temper.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Flaring red dwarf star (artist's impression) (opo1102a).jpg"
+    ],
+    "query": "Flaring red dwarf star (artist's impression) (opo1102a)"
+   },
+   "headline": "A star with a temper"
+  },
+  {
+   "text": "Red dwarfs like Proxima throw out huge flares. In 2019, astronomers watched one flare make the star about fourteen thousand times brighter in ultraviolet light, in just a few seconds.",
+   "visual": {
+    "type": "card",
+    "big": "14,000 times",
+    "label": "brighter in a few seconds",
+    "sub": "a Proxima flare in 2019"
+   }
+  },
+  {
+   "text": "And because Proxima b is so close to its star, it gets blasted. It receives hundreds of times more X-rays than Earth does.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Flaring red dwarf star (artist's impression) (opo1102a).jpg"
+    ],
+    "query": "Flaring red dwarf star (artist's impression) (opo1102a)"
+   }
+  },
+  {
+   "text": "Over billions of years, flares like these may have stripped away much of the planet's air and water. If you stood on the surface without shelter, a big flare could give you a dangerous dose of radiation in minutes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima d (wider view).jpg"
+    ],
+    "query": "Artist’s impression of Proxima d (wider view)"
+   },
+   "headline": "Stripped bare?"
+  },
+  {
+   "text": "Nobody knows yet if Proxima b has an atmosphere at all. Future giant telescopes on Earth are being built partly to find out.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "ALMA and a Starry Night.jpg"
+    ],
+    "query": "ALMA and a Starry Night"
+   }
+  },
+  {
+   "chapter": "Looking back home",
+   "text": "But here's something beautiful. Look up at the night sky from Proxima b. Most constellations would look almost the same, because the stars are so far away.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Milky Way over Avenue of Baobabs (ann22042n).jpg"
+    ],
+    "query": "Milky Way over Avenue of Baobabs (ann22042n)"
+   },
+   "headline": "A familiar sky"
+  },
+  {
+   "text": "Except for one new star in the constellation Cassiopeia. A bright, yellowish star. That's our Sun. Everything you've ever known, every person who ever lived, shrunk into one point of light.",
+   "visual": {
+    "type": "card",
+    "big": "one star",
+    "label": "our Sun, seen from Proxima",
+    "sub": "in the constellation Cassiopeia"
+   }
+  },
+  {
+   "chapter": "Getting there in twenty years",
+   "text": "So, is there any way to get there in a human lifetime? Here's the payoff. Maybe, if you're very, very small.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Laser Sail (25259478171).png"
+    ],
+    "query": "Laser Sail (25259478171)"
+   },
+   "headline": "Think small"
+  },
+  {
+   "text": "A project called Breakthrough Starshot has studied an idea. Send not one big ship, but a fleet of tiny probes, each weighing about a gram, attached to a sail thinner than a soap bubble.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Diffractive solar sail concept art.png"
+    ],
+    "query": "Diffractive solar sail concept art"
+   },
+   "headline": "Tiny sails"
+  },
+  {
+   "text": "Then, from Earth, a gigantic array of lasers would push the sails for a few minutes, speeding them up to about one fifth of the speed of light.",
+   "visual": {
+    "type": "card",
+    "big": "20%",
+    "label": "of the speed of light",
+    "sub": "the Starshot goal"
+   }
+  },
+  {
+   "text": "At that speed, they could reach Proxima in about twenty years, and send back pictures of the planet four years after that. It's still just an idea, with enormous challenges. But it doesn't break any laws of physics.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Laser Sail (25259478171).png"
+    ],
+    "query": "Laser Sail (25259478171)"
+   },
+   "headline": "About twenty years"
+  },
+  {
+   "text": "So you'd never survive a trip to Proxima b. But maybe a tiny spacecraft, the size of a postage stamp, will make the trip for you, and show us what's really there.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg"
+    ],
+    "query": "Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth"
+   }
+  },
+  {
+   "text": "Now my last question. Where should we never go next? Saturn's rings? The edge of the universe? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Where should we never go next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never go next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

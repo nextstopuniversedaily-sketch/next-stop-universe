@@ -1,0 +1,500 @@
+{
+ "slug": "never-want-solar-superstorm",
+ "series": "Why You'd Never",
+ "kicker": "WHY YOU'D NEVER...",
+ "title": "Why You'd Never Want a Solar Superstorm to Hit Earth",
+ "screen_title": "Why You'd Never Want a Solar Superstorm to Hit Earth",
+ "subtitle": "What happens when the Sun throws a storm at us",
+ "yt_title": "Why You'd Never Want a Solar Superstorm to Hit Earth",
+ "intro": "What would happen if a giant solar storm hit Earth tonight? We follow a billion-ton cloud of plasma from the Sun's surface to our planet, see the sky turn red over the tropics, watch what happened to the telegraph in 1859 and to a whole city's power in 1989, and find out what a superstorm would do to the world you live in today. Stay to the end to see how you'd know one is coming, and what you might see from your own backyard.",
+ "questions": [
+  "Have you ever seen the northern or southern lights?",
+  "What would you miss most if the power went out for a week?",
+  "What should we never get close to next?"
+ ],
+ "hashtags": "#solarstorm #sun #aurora #space #science",
+ "tags": [
+  "why you'd never",
+  "solar storm",
+  "solar superstorm",
+  "what if a solar storm hit earth",
+  "carrington event",
+  "geomagnetic storm",
+  "coronal mass ejection",
+  "northern lights",
+  "aurora",
+  "space weather",
+  "space documentary",
+  "space facts",
+  "science explained",
+  "astronomy for beginners",
+  "space",
+  "universe",
+  "astronomy",
+  "nasa",
+  "next stop universe"
+ ],
+ "thumbnail": {
+  "files": [
+   "X Class Solar Flare Sends ‘Shockwaves’ on The Sun (6819094556).jpg"
+  ],
+  "query": "X class solar flare SDO",
+  "white": "LIGHTS",
+  "accent": "OUT..",
+  "astronaut": [
+   0.82,
+   0.74
+  ],
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "zoom": 1.0,
+  "astronaut_size": 64
+ },
+ "segments": [
+  {
+   "chapter": "Tonight's storm",
+   "text": "What if, tonight, the sky above you turned blood red, and then every light in your city went out? It has happened before. And it will happen again. The only question is when.",
+   "visual": {
+    "type": "title",
+    "files": [
+     "X Class Solar Flare Sends ‘Shockwaves’ on The Sun (6819094556).jpg"
+    ],
+    "query": "X Class Solar Flare Sends ‘Shockwaves’ on The Sun (6819094556)"
+   }
+  },
+  {
+   "text": "Welcome to Next Stop: Universe. If you enjoy calm, easy-to-follow journeys through space, tap subscribe. Today we follow a storm from the Sun all the way to your front door. So, let's go.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Good Morning From the International Space Station.jpg"
+    ],
+    "query": "Good Morning From the International Space Station"
+   },
+   "subscribe": true
+  },
+  {
+   "text": "In 1859, a storm from the Sun hit Earth so hard that telegraph wires threw sparks, and the northern lights glowed over the Caribbean. That was in a world with no electricity in homes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora and perseids.jpg"
+    ],
+    "query": "Aurora and perseids"
+   },
+   "headline": "1859"
+  },
+  {
+   "text": "Today, almost everything you use depends on electricity, satellites and the internet. So what would the same storm do to your world?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "City Lights of the United States 2012.jpg"
+    ],
+    "query": "City Lights of the United States 2012"
+   },
+   "headline": "Your world today"
+  },
+  {
+   "text": "That's our journey. And stay to the end, because I'll show you how you'd know a storm is coming, and what you might see in the sky over your own home.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora Australis From ISS.JPG"
+    ],
+    "query": "Aurora Australis From ISS"
+   }
+  },
+  {
+   "chapter": "The Sun throws a punch",
+   "text": "It all starts on the Sun. The Sun is a ball of churning, electrically charged gas, tangled up in powerful magnetic fields.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   },
+   "headline": "A tangled star"
+  },
+  {
+   "text": "Sometimes those magnetic fields twist and snap, like a rubber band stretched too far. The result is a solar flare. A flash of light and radiation that can release as much energy as millions of nuclear bombs in a few minutes.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "X3.2 Solar flare on 2013-05-14 at four wavelengths.jpg"
+    ],
+    "query": "X3.2 Solar flare on 2013-05-14 at four wavelengths"
+   },
+   "headline": "A solar flare"
+  },
+  {
+   "text": "Often, the flare is followed by something much bigger. The Sun hurls a huge cloud of its own gas into space. Scientists call it a coronal mass ejection.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "05 Coronal Mass Ejection (2819895025).jpg"
+    ],
+    "query": "05 Coronal Mass Ejection (2819895025)"
+   },
+   "headline": "A coronal mass ejection"
+  },
+  {
+   "text": "A big one can carry around a billion tons of magnetized gas, racing outward at millions of kilometers an hour.",
+   "visual": {
+    "type": "card",
+    "big": "~1 billion tons",
+    "label": "of solar gas",
+    "sub": "flung into space"
+   }
+  },
+  {
+   "text": "Most of these clouds miss us. Space is big. But every now and then, one is aimed straight at Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "05 Coronal Mass Ejection (2819895025).jpg"
+    ],
+    "query": "05 Coronal Mass Ejection (2819895025)"
+   }
+  },
+  {
+   "chapter": "The journey to Earth",
+   "text": "The light from the flare reaches us first. In about eight minutes. It can scramble radio signals on the daytime side of the planet.",
+   "visual": {
+    "type": "card",
+    "big": "8 minutes",
+    "label": "for the flare's light to reach Earth"
+   }
+  },
+  {
+   "text": "Then come the fastest particles. Protons, blasted close to the speed of light. They can arrive within an hour, and they're dangerous for astronauts and satellites.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The station pictured from the SpaceX Crew Dragon 5.jpg"
+    ],
+    "query": "The station pictured from the SpaceX Crew Dragon 5"
+   },
+   "headline": "A radiation storm"
+  },
+  {
+   "text": "And then, the cloud itself. Usually it takes one to three days to cross the hundred and fifty million kilometers to Earth. The fastest ever recorded did it in less than a day.",
+   "visual": {
+    "type": "card",
+    "big": "17.6 hours",
+    "label": "the 1859 storm's trip to Earth",
+    "sub": "one of the fastest ever"
+   }
+  },
+  {
+   "text": "When it hits, it slams into Earth's magnetic field and shakes it like a bell. That's a geomagnetic storm.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "Earth's shield shakes"
+  },
+  {
+   "chapter": "The Carrington Event",
+   "text": "Let's go back to September 1859. An English astronomer named Richard Carrington was sketching sunspots when he saw two blinding white patches of light burst out on the Sun. He was the first person to see a solar flare.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   },
+   "headline": "Carrington sees a flare"
+  },
+  {
+   "text": "Less than a day later, the storm hit. Auroras lit up the sky as far south as Cuba, Hawaii and Colombia. They were so bright that in the Rocky Mountains, gold miners woke up in the middle of the night and started making breakfast. They thought it was morning.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora and perseids.jpg"
+    ],
+    "query": "Aurora and perseids"
+   },
+   "headline": "Breakfast at 1 a.m."
+  },
+  {
+   "text": "And the telegraph, the internet of its day, went haywire. Sparks jumped from the wires. Some operators got electric shocks. Paper caught fire.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Highest resolution photo of Sun (NSF) as of January 20, 2020.jpg"
+    ],
+    "query": "Highest resolution photo of Sun (NSF) as of January 20, 2020"
+   },
+   "headline": "Sparks from the wires"
+  },
+  {
+   "text": "Strangest of all, some operators unplugged their batteries, and kept sending messages using only the electricity from the storm itself.",
+   "visual": {
+    "type": "card",
+    "big": "1859",
+    "label": "the Carrington Event",
+    "sub": "the biggest solar storm on record"
+   }
+  },
+  {
+   "text": "Quick question for you. Have you ever seen the northern or southern lights with your own eyes? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "Have you ever seen the northern or southern lights?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "When the lights went out",
+   "text": "Now jump to March 1989. A much smaller storm than Carrington's hit Earth.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "North America from low orbiting satellite Suomi NPP.jpg"
+    ],
+    "query": "North America from low orbiting satellite Suomi NPP"
+   },
+   "headline": "March 1989"
+  },
+  {
+   "text": "In Quebec, Canada, the storm pushed extra electric currents into the power lines. In about ninety seconds, the whole power grid collapsed. Six million people lost power, in the middle of a Canadian winter, for about nine hours.",
+   "visual": {
+    "type": "card",
+    "big": "90 seconds",
+    "label": "for Quebec's power grid to collapse",
+    "sub": "6 million people in the dark"
+   }
+  },
+  {
+   "text": "That storm was just a fraction of Carrington's strength. So what would a full Carrington storm do today?",
+   "visual": {
+    "type": "image",
+    "files": [
+     "City Lights of the United States 2012.jpg"
+    ],
+    "query": "City Lights of the United States 2012"
+   }
+  },
+  {
+   "chapter": "A superstorm today",
+   "text": "Here's what experts worry about. The storm would drive powerful currents into long power lines. Some of the giant transformers that run the grid could overheat and burn out.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "North America from low orbiting satellite Suomi NPP.jpg"
+    ],
+    "query": "North America from low orbiting satellite Suomi NPP"
+   },
+   "headline": "Burnt-out transformers"
+  },
+  {
+   "text": "And those transformers are huge, custom-built machines. Replacing them can take many months. Some regions could be without reliable power for weeks.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "City Lights of the United States 2012.jpg"
+    ],
+    "query": "City Lights of the United States 2012"
+   }
+  },
+  {
+   "text": "Up in space, satellites would be battered by radiation. GPS could become inaccurate or fail. That affects not just maps on your phone, but airplanes, ships, farms, and even bank transfers that rely on GPS clocks.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "GPS satellite constellation.jpg"
+    ],
+    "query": "GPS satellite constellation"
+   },
+   "headline": "GPS goes wrong"
+  },
+  {
+   "text": "The storm also heats and puffs up Earth's upper atmosphere, which drags satellites down. In February 2022, even a small storm caused about forty brand-new Starlink satellites to fall back and burn up.",
+   "visual": {
+    "type": "card",
+    "big": "~40 satellites",
+    "label": "lost after a small storm",
+    "sub": "Starlink, February 2022"
+   }
+  },
+  {
+   "text": "One study for insurers estimated a Carrington-sized storm could cost the United States alone up to two and a half trillion dollars.",
+   "visual": {
+    "type": "card",
+    "big": "up to $2.6 trillion",
+    "label": "possible cost of a superstorm",
+    "sub": "in the US alone (Lloyd's estimate)"
+   }
+  },
+  {
+   "text": "So let me ask you. If the power went out for a week, what would you miss the most? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What would you miss most if the power went out for a week?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "chapter": "The near miss",
+   "text": "Here's the scary part. It almost happened. In July 2012, the Sun launched a Carrington-class storm. It crossed Earth's orbit, but Earth wasn't there. We missed it by about nine days.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "05 Coronal Mass Ejection (2819895025).jpg"
+    ],
+    "query": "05 Coronal Mass Ejection (2819895025)"
+   },
+   "headline": "Missed by nine days"
+  },
+  {
+   "text": "If it had erupted just one week earlier, it would have hit us head on. One scientist estimated the chance of such a storm hitting Earth in any ten-year period at around twelve percent.",
+   "visual": {
+    "type": "card",
+    "big": "~12%",
+    "label": "chance per decade",
+    "sub": "one estimate of a Carrington-class hit"
+   }
+  },
+  {
+   "text": "And tree rings tell us of even bigger storms long ago. In the year 774, a sudden burst of radiation left its mark in trees all around the world. Many scientists think it came from a solar storm far stronger than Carrington's.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia.jpg"
+    ],
+    "query": "Ergaki, Siberian pine forest, Spruce forest, Taiga wilderness, Sayan Mountains, Siberia, Russia"
+   },
+   "headline": "Written in tree rings"
+  },
+  {
+   "chapter": "Recent storms",
+   "text": "And the Sun has been very busy lately. In May 2024, the strongest geomagnetic storm in over twenty years painted auroras across the sky, as far south as Mexico.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora and perseids.jpg"
+    ],
+    "query": "Aurora and perseids"
+   },
+   "headline": "May 2024"
+  },
+  {
+   "text": "In November 2025, another severe storm sent the lights south again. And in January 2026, the Sun released one of the most intense radiation storms in more than twenty years.",
+   "visual": {
+    "type": "card",
+    "big": "2024–2026",
+    "label": "some of the strongest storms in decades"
+   }
+  },
+  {
+   "text": "None of these were superstorms. Power grids held. But they reminded everyone that the Sun is not a calm, steady lamp.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg"
+    ],
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+   }
+  },
+  {
+   "chapter": "Would you survive?",
+   "text": "So would you survive? On the ground, yes. Earth's magnetic field and atmosphere are a superb shield. The storm itself can't hurt your body.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Blue Marble Western Hemisphere.jpg"
+    ],
+    "query": "Blue Marble Western Hemisphere"
+   },
+   "headline": "Your shield"
+  },
+  {
+   "text": "But an astronaut walking on the Moon would be in real danger. In August 1972, between two Apollo missions, a huge solar storm blasted the Moon with radiation. Astronauts caught outside could have received a very dangerous dose.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "A Man on the Moon, AS11-40-5903 (cropped).jpg"
+    ],
+    "query": "A Man on the Moon, AS11-40-5903 (cropped)"
+   },
+   "headline": "Danger on the Moon"
+  },
+  {
+   "text": "What you'd really face is a world without power, without GPS, and without the internet, maybe for days or weeks. That's why you'd never want a superstorm to hit.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "City Lights of the United States 2012.jpg"
+    ],
+    "query": "City Lights of the United States 2012"
+   }
+  },
+  {
+   "chapter": "How you'd know",
+   "text": "Now the payoff. Could we see it coming? Yes. Spacecraft watch the Sun all the time. When a big cloud is launched toward Earth, forecasters usually get one to three days of warning.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Parker Solar Probe.jpg"
+    ],
+    "query": "Parker Solar Probe"
+   },
+   "headline": "Watching the Sun"
+  },
+  {
+   "text": "A spacecraft parked about one and a half million kilometers toward the Sun measures the cloud as it passes. That gives about fifteen to sixty minutes of final warning, enough for power companies to protect the grid.",
+   "visual": {
+    "type": "card",
+    "big": "15–60 minutes",
+    "label": "final warning before impact"
+   }
+  },
+  {
+   "text": "And here's the beautiful part. If a big storm is coming, step outside after dark and look north, or south if you live in the southern half of the world. You might see the sky glow red and green, even if you live far from the poles. In a true superstorm, the aurora could dance right over your head.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "Aurora Australis From ISS.JPG"
+    ],
+    "query": "Aurora Australis From ISS"
+   },
+   "headline": "Look up"
+  },
+  {
+   "text": "The Sun gives us life, light and warmth. But every now and then, it reminds us that we live inside the atmosphere of a very wild star.",
+   "visual": {
+    "type": "image",
+    "files": [
+     "X Class Solar Flare Sends ‘Shockwaves’ on The Sun (6819094556).jpg"
+    ],
+    "query": "X Class Solar Flare Sends ‘Shockwaves’ on The Sun (6819094556)"
+   }
+  },
+  {
+   "text": "Now my last question. What should we never get close to next? A rogue planet? Europa's hidden ocean? Tell us in the comments.",
+   "visual": {
+    "type": "question",
+    "q": "What should we never get close to next?",
+    "sub": "Tell us in the comments."
+   }
+  },
+  {
+   "text": "If you enjoyed this journey, please give it a like, and share it with someone who loves space, maybe a grandchild, or an old friend. Subscribe for more in this series. And tell us in the comments what we should never get close to next. See you there.",
+   "visual": {
+    "type": "end",
+    "files": [
+     "Milky Way over Big Prairie (16631110890).jpg"
+    ],
+    "query": "Milky Way night sky",
+    "big": "THANKS FOR WATCHING"
+   }
+  }
+ ]
+}

@@ -448,10 +448,26 @@
   "status": "pending"
  },
  {
+  "id": "long-never-survive-on-venus",
+  "kind": "long",
+  "publishAt": "2026-12-05T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-on-venus.jpg"
+ },
+ {
   "id": "ep058",
   "kind": "episode",
   "publishAt": "2026-12-06T13:00:00-06:00",
   "status": "pending"
+ },
+ {
+  "id": "long-never-survive-nearby-supernova",
+  "kind": "long",
+  "publishAt": "2026-12-06T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-nearby-supernova.jpg"
  },
  {
   "id": "ep059",
@@ -460,10 +476,26 @@
   "status": "pending"
  },
  {
+  "id": "long-never-swim-on-titan",
+  "kind": "long",
+  "publishAt": "2026-12-07T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-swim-on-titan.jpg"
+ },
+ {
   "id": "ep060",
   "kind": "episode",
   "publishAt": "2026-12-08T13:00:00-06:00",
   "status": "pending"
+ },
+ {
+  "id": "long-never-want-solar-superstorm",
+  "kind": "long",
+  "publishAt": "2026-12-08T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-want-solar-superstorm.jpg"
  },
  {
   "id": "ep061",
@@ -473,6 +505,14 @@
   "notBefore": "2026-11-27"
  },
  {
+  "id": "long-never-survive-rogue-planet",
+  "kind": "long",
+  "publishAt": "2026-12-09T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-rogue-planet.jpg"
+ },
+ {
   "id": "ep062",
   "kind": "episode",
   "publishAt": "2026-12-10T13:00:00-06:00",
@@ -480,11 +520,27 @@
   "notBefore": "2026-11-27"
  },
  {
+  "id": "long-never-swim-europa-ocean",
+  "kind": "long",
+  "publishAt": "2026-12-10T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-swim-europa-ocean.jpg"
+ },
+ {
   "id": "ep063",
   "kind": "episode",
   "publishAt": "2026-12-11T13:00:00-06:00",
   "status": "pending",
   "notBefore": "2026-11-27"
+ },
+ {
+  "id": "long-never-survive-proxima-b",
+  "kind": "long",
+  "publishAt": "2026-12-11T18:00:00-06:00",
+  "status": "pending",
+  "series": "Why You'd Never",
+  "thumbnail": "previews/thumb-never-survive-proxima-b.jpg"
  },
  {
   "id": "ep064",
