@@ -1,0 +1,83 @@
+[0;93m2026-11-25 20:37:45.829377834 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+== Long-form: Why You'd Never Survive a Nearby Supernova
+  audio 538.1s (8.97 min)
+  WIKI File:Crab Nebula.jpg (Public domain)
+  segment 1/44 [title] 12.7s
+  WIKI File:Good Morning From the International Space Station.jpg (Public domain)
+  segment 2/44 [image] 13.3s
+  WIKI File:SN1994D.jpg (Public domain)
+  segment 3/44 [image] 11.6s
+  WIKI File:SN1994D.jpg (Public domain)
+  segment 4/44 [image] 11.0s
+  WIKI File:Orion Constellation (2006-01-1836).jpg (Public domain)
+  segment 5/44 [image] 16.1s
+  WIKI File:Red hypergiant.jpg (CC BY 4.0)
+  segment 6/44 [image] 7.9s
+  WIKI File:Artist’s impression of the red supergiant star Antares.jpg (CC BY 4.0)
+  segment 7/44 [image] 12.6s
+  WIKI File:Red hypergiant.jpg (CC BY 4.0)
+  segment 8/44 [image] 9.7s
+  segment 9/44 [card] 8.7s
+  WIKI File:Artist's Illustration of Neutron Star (2009-cassio-more-2 - neutron).jpg (Public domain)
+  segment 10/44 [image] 13.2s
+  segment 11/44 [card] 9.0s
+  WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
+  segment 12/44 [image] 5.8s
+  WIKI File:Leptonic event in Gargamelle bubble chamber.jpg (CC BY 4.0)
+  segment 13/44 [image] 17.6s
+  segment 14/44 [card] 15.1s
+  WIKI File:NASA's Chandra Releases 'Red, White, and Blue' Universe for US 250th (Cassiopeia A composite).jpg (Public domain)
+  segment 15/44 [image] 15.8s
+  segment 16/44 [question] 7.5s
+  WIKI File:Keplers supernova.jpg (Public domain)
+  segment 17/44 [image] 14.7s
+  WIKI File:Top of Atmosphere.jpg (Public domain)
+  segment 18/44 [image] 11.2s
+  WIKI File:ISS-45 StoryOfWater, Great Barrier Reef, Australia.jpg (Public domain)
+  segment 19/44 [image] 11.5s
+  segment 20/44 [card] 15.1s
+  WIKI File:Aurora Australis From ISS.JPG (Public domain)
+  segment 21/44 [image] 9.1s
+  WIKI File:Aurora and perseids.jpg (CC BY 4.0)
+  segment 22/44 [image] 15.8s
+  WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
+  segment 23/44 [image] 12.0s
+  segment 24/44 [card] 10.5s
+  WIKI File:Vela Supernova Remnant - Noirlab2406a.jpg (CC BY 4.0)
+  segment 25/44 [image] 6.2s
+  segment 26/44 [card] 12.2s
+  WIKI File:Ultraviolet image of the Cygnus Loop Nebula crop.jpg (Public domain)
+  segment 27/44 [image] 14.7s
+  WIKI File:Blue Marble Western Hemisphere.jpg (Public domain)
+  segment 28/44 [image] 14.9s
+  WIKI File:Crab Nebula.jpg (Public domain)
+  segment 29/44 [image] 12.6s
+  WIKI File:Moving heart of the Crab Nebula.jpg (CC BY 4.0)
+  segment 30/44 [image] 13.0s
+  WIKI File:Chandra X-ray Observations of the Crab Nebula (2011-crab-more-2 - 154).jpg (Public domain)
+  segment 31/44 [image] 6.6s
+  segment 32/44 [card] 18.6s
+  WIKI File:New Hubble Observations of Supernova 1987A Trace Shock Wave (4954621859).jpg (Public domain)
+  segment 33/44 [image] 17.0s
+  WIKI File:Milky Way over Avenue of Baobabs (ann22042n).jpg (CC BY 4.0)
+  segment 34/44 [image] 8.8s
+  WIKI File:Full disk of the Sun (eso1703e-comparisona).jpg (CC BY 4.0)
+  segment 35/44 [image] 10.1s
+  WIKI File:Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg (Public domain)
+  segment 36/44 [image] 13.5s
+  WIKI File:Orion Constellation (2006-01-1836).jpg (Public domain)
+  segment 37/44 [image] 9.6s
+  WIKI File:Betelgeuse’s Great Dimming Event in high resolution (potw2343a).jpg (CC BY 4.0)
+  segment 38/44 [image] 12.2s
+  WIKI File:Betelgeuse and wake of its companion star (artist's concept) (opo2602).jpg (CC BY 4.0)
+  segment 39/44 [image] 15.6s
+  segment 40/44 [card] 20.0s
+  segment 41/44 [question] 5.9s
+  WIKI File:NASA's Chandra Releases 'Red, White, and Blue' Universe for US 250th (Cassiopeia A composite).jpg (Public domain)
+  segment 42/44 [image] 11.2s
+  segment 43/44 [question] 8.8s
+  WIKI File:Milky Way over Big Prairie (16631110890).jpg (Public domain)
+  segment 44/44 [end] 18.8s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/long/never-survive-nearby-supernova.mp4 (43.6 MB, 8.97 min)
+  WIKI File:Crab Nebula.jpg (Public domain)
+thumbnail -> /home/runner/work/next-stop-universe/next-stop-universe/previews/thumb-never-survive-nearby-supernova.jpg
