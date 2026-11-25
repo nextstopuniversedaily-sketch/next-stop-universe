@@ -1,4 +1,3 @@
-[0;93m2026-11-25 22:45:10.381927822 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive on a Rogue Planet
   audio 523.2s (8.72 min)
   WIKI File:Icy Earth-mass Rogue Planet (SVS14380).jpg (Public domain)
