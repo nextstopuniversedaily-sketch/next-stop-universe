@@ -1,4 +1,4 @@
-[0;93m2026-11-25 20:37:45.829377834 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+[0;93m2026-11-25 22:08:29.522183240 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Long-form: Why You'd Never Survive a Nearby Supernova
   audio 538.1s (8.97 min)
   WIKI File:Crab Nebula.jpg (Public domain)
@@ -67,7 +67,7 @@
   segment 36/44 [image] 13.5s
   WIKI File:Orion Constellation (2006-01-1836).jpg (Public domain)
   segment 37/44 [image] 9.6s
-  WIKI File:Betelgeuse’s Great Dimming Event in high resolution (potw2343a).jpg (CC BY 4.0)
+  WIKI File:Artist’s impression of the red supergiant star Antares.jpg (CC BY 4.0)
   segment 38/44 [image] 12.2s
   WIKI File:Betelgeuse and wake of its companion star (artist's concept) (opo2602).jpg (CC BY 4.0)
   segment 39/44 [image] 15.6s
