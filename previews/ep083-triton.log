@@ -1,4 +1,3 @@
-[0;93m2026-11-21 22:04:49.584185524 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 83: Triton
   audio 68.0s
   WIKI File:Triton-usgs23-with-frame.jpg (CC BY 4.0)
@@ -19,4 +18,4 @@
   segment 9/10 [card] 5.5s
   WIKI File:Reworked_composite_image_of_Arrokoth.png (Public domain)
   segment 10/10 [end] 7.8s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep083.mp4 (12.2 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep083.mp4 (12.1 MB)
