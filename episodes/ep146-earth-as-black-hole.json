@@ -58,7 +58,7 @@
    "text": "That's the size of a marble.",
    "visual": {
     "type": "card",
-    "big": "🔮",
+    "big": "Marble",
     "label": "the size of a marble"
    }
   },
@@ -66,12 +66,12 @@
    "text": "Here's the weird part: the Moon wouldn't fall in. It would keep orbiting, because Earth's mass, and its pull, would be the same.",
    "visual": {
     "type": "image",
-    "query": "Earth-Moon-edit3",
+    "query": "Moon",
     "wiki": [
      "Moon"
     ],
     "commons": [
-     "Earth-Moon-edit3"
+     "Full Moon photograph"
     ]
    },
    "headline": "The Moon keeps orbiting"
