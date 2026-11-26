@@ -1,6 +1,5 @@
-[0;93m2026-11-21 21:09:56.608293496 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 53: The Quadrantids
-  audio 73.5s
+  audio 74.9s
   - skip File:In the photo there is one Perseid, Milky Way and Andromega galaxy and light pollution on the horizon - Luhasoo bog in Estonia.jpg: license 'CC BY-SA 4.0'
   WIKI File:Aurora and perseids.jpg (CC BY 4.0)
   segment 1/10 [title] 5.0s
@@ -29,5 +28,5 @@
   WIKI File:Sidney Hall - Urania's Mirror - Bootes, Canes Venatici, Coma Berenices, and Quadrans Muralis.jpg (Public domain)
   segment 9/10 [image] 10.2s
   WIKI File:Rubin Oort Cloud and Kuiper Belt Illustration (rubin-Oort-Cloud-and-Kuiper-Belt).jpg (CC BY 4.0)
-  segment 10/10 [end] 7.6s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep053.mp4 (18.9 MB)
+  segment 10/10 [end] 9.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep053.mp4 (19.8 MB)
