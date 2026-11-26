@@ -1,7 +1,7 @@
-[0;93m2026-11-21 21:23:15.412631711 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 60: The End of the Universe
-  audio 88.9s
-  WIKI File:Hubble ultra deep field.jpg (Public domain)
+  audio 88.7s
+  ! commons search failed Hubble Ultra Deep Field 'query'
+  NASA 'Hubble Ultra Deep Field' -> hubble-sees-a-legion-of-galaxies_25608651281_o: Swimming in Sculptor
   segment 1/11 [title] 5.8s
   WIKI File:Hubble ultra deep field.jpg (Public domain)
   segment 2/11 [image] 5.8s
@@ -20,5 +20,5 @@
   WIKI File:Milky way in Elbrus.jpg (CC BY 4.0)
   segment 10/11 [image] 7.7s
   WIKI File:Hubble catches scattered light from the Boomerang Nebula (opo0525a).jpg (Public domain)
-  segment 11/11 [end] 8.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep060.mp4 (19.5 MB)
+  segment 11/11 [end] 8.2s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep060.mp4 (19.2 MB)
