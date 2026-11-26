@@ -1,6 +1,5 @@
-[0;93m2026-11-21 21:19:38.011175240 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 58: Gravitational Waves
-  audio 76.9s
+  audio 76.4s
   ! no usable NASA image for 'black hole merger simulation'
   segment 1/11 [title] 5.8s
   WIKI File:Albert_Einstein_Head_cleaned.jpg (Public domain)
@@ -19,5 +18,5 @@
   WIKI File:Eso1733s Artist's impression of merging neutron stars.jpg (CC BY 4.0)
   segment 10/11 [image] 4.3s
   WIKI File:Hubble reveals the Ring Nebula’s true shape.jpg (Public domain)
-  segment 11/11 [end] 8.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep058.mp4 (12.9 MB)
+  segment 11/11 [end] 8.0s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep058.mp4 (12.7 MB)
