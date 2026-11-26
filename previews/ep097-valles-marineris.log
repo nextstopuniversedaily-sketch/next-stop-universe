@@ -1,16 +1,15 @@
-[0;93m2026-11-21 22:30:14.194766669 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 97: Valles Marineris
-  audio 69.9s
+  audio 69.3s
   WIKI File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg (Public domain)
   segment 1/10 [title] 4.7s
   WIKI File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg (Public domain)
   segment 2/10 [image] 6.3s
   segment 3/10 [card] 8.5s
+  - skip File:Grand Canyon (Arizona, USA), South Rim nahe Tusayan -- 2012 -- 5893.jpg: license 'CC BY-SA 4.0'
   - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 6009.jpg: license 'CC BY-SA 4.0'
   - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5962.jpg: license 'CC BY-SA 4.0'
   - skip File:Grand Canyon (Arizona, USA), South Rim nahe Tusayan -- 2012 -- 6042.jpg: license 'CC BY-SA 4.0'
   - skip File:Grand Canyon (Arizona, USA), South Rim nahe Tusayan -- 2012 -- 5892.jpg: license 'CC BY-SA 4.0'
-  - skip File:Grand Canyon (Arizona, USA), South Rim nahe Tusayan -- 2012 -- 5893.jpg: license 'CC BY-SA 4.0'
   - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5968.jpg: license 'CC BY-SA 4.0'
   - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5997.jpg: license 'CC BY-SA 4.0'
   - skip File:Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5963.jpg: license 'CC BY-SA 4.0'
@@ -37,5 +36,5 @@
   WIKI File:Possible Clay Deposit in Valles Marineris (46306435295).jpg (Public domain)
   segment 9/10 [image] 6.6s
   WIKI File:Phobos colour 2008.jpg (Public domain)
-  segment 10/10 [end] 8.3s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep097.mp4 (16.4 MB)
+  segment 10/10 [end] 7.6s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep097.mp4 (16.2 MB)
