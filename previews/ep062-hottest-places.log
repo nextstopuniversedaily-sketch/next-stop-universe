@@ -1,6 +1,5 @@
-[0;93m2026-11-21 21:27:21.244712776 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 62: The Hottest Places
-  audio 75.0s
+  audio 74.7s
   WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
   segment 1/11 [title] 4.3s
   WIKI File:X3.2 Solar flare on 2013-05-14 at four wavelengths.jpg (Public domain)
@@ -25,5 +24,5 @@
   WIKI File:Cosmic Microwave Background (CMB).jpeg (CC BY 4.0)
   segment 10/11 [image] 6.9s
   WIKI File:Merging white dwarf remnant (artist impression) (heic2510a).jpg (CC BY 4.0)
-  segment 11/11 [end] 8.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep062.mp4 (21.7 MB)
+  segment 11/11 [end] 8.1s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep062.mp4 (21.6 MB)
