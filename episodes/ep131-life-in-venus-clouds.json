@@ -1,0 +1,111 @@
+{
+ "number": 131,
+ "title": "Life on Venus?",
+ "subtitle": "Could Something Be Alive in the Clouds of Venus?",
+ "next_stop": "The Runaway Moon",
+ "yt_title": "Could Something Be Alive in the Clouds of Venus? ☁️ #shorts",
+ "description": "Could Something Be Alive in the Clouds of Venus?\n\nVenus's surface is hot enough to melt lead, but fifty kilometers up the clouds are surprisingly mild. In 2020 scientists reported a gas that might hint at life. The debate is still open.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#venus #space #aliens #astronomy #shorts #science",
+ "tags": [
+  "venus",
+  "phosphine",
+  "life on venus",
+  "venus clouds",
+  "astrobiology",
+  "aliens",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Could something be alive, floating in the clouds of Venus?",
+   "visual": {
+    "type": "title",
+    "query": "Venus Mariner 10 true color",
+    "wiki": [
+     "Venus"
+    ],
+    "commons": [
+     "Venus Mariner 10 true color"
+    ]
+   }
+  },
+  {
+   "text": "On the ground, Venus is the hottest planet. Hot enough to melt lead.",
+   "visual": {
+    "type": "card",
+    "big": "465°C",
+    "label": "on the surface of Venus"
+   }
+  },
+  {
+   "text": "But about fifty kilometers up, in the clouds, the temperature and pressure are a lot like Earth's.",
+   "visual": {
+    "type": "image",
+    "query": "Venus clouds ultraviolet",
+    "wiki": [
+     "Atmosphere of Venus"
+    ],
+    "commons": [
+     "Venus clouds ultraviolet"
+    ]
+   },
+   "headline": "Mild, high in the clouds"
+  },
+  {
+   "text": "In 2020, astronomers announced they'd spotted a gas there called phosphine. On Earth, it's mostly made by microbes.",
+   "visual": {
+    "type": "image",
+    "query": "James Clerk Maxwell Telescope",
+    "wiki": [
+     "James Clerk Maxwell Telescope"
+    ],
+    "commons": [
+     "James Clerk Maxwell Telescope"
+    ]
+   },
+   "headline": "A strange gas"
+  },
+  {
+   "text": "The news went around the world. Then other scientists checked, and many couldn't find it.",
+   "visual": {
+    "type": "card",
+    "big": "?",
+    "label": "real signal, or a mistake?"
+   }
+  },
+  {
+   "text": "The debate is still going. New missions to Venus are being planned to settle it.",
+   "visual": {
+    "type": "image",
+    "query": "Venus - December 23 2016",
+    "wiki": [
+     "Venus"
+    ],
+    "commons": [
+     "Venus - December 23 2016"
+    ]
+   },
+   "headline": "Still unsolved"
+  },
+  {
+   "text": "Next stop: The Runaway Moon. Do you think something lives up there? Tell me in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Venus from Mariner 10",
+    "warm": true,
+    "wiki": [
+     "Venus"
+    ],
+    "commons": [
+     "Venus from Mariner 10"
+    ]
+   }
+  }
+ ]
+}

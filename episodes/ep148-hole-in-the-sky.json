@@ -1,0 +1,115 @@
+{
+ "number": 148,
+ "title": "Barnard 68",
+ "subtitle": "Why Is There a Hole in the Sky?",
+ "next_stop": "Sagittarius A*",
+ "yt_title": "Why Is There a Hole in the Sky? ⚫ #shorts",
+ "description": "Why Is There a Hole in the Sky?\n\nBarnard 68 looks like a hole punched in the sky, but it is a cold, dark cloud of dust and gas about 500 light-years away, blocking the stars behind it. One day it may form new stars.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#space #nebula #astronomy #astronomy #shorts #science",
+ "tags": [
+  "barnard 68",
+  "dark nebula",
+  "molecular cloud",
+  "star formation",
+  "eso",
+  "space mystery",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Astronomers found what looks like a hole in the sky, where the stars just disappear.",
+   "visual": {
+    "type": "title",
+    "query": "Barnard 68",
+    "wiki": [
+     "Barnard 68"
+    ],
+    "commons": [
+     "Barnard 68"
+    ]
+   }
+  },
+  {
+   "text": "It's called Barnard 68. Look at it. Thousands of stars, and then nothing.",
+   "visual": {
+    "type": "image",
+    "query": "Barnard 68",
+    "wiki": [
+     "Barnard 68"
+    ]
+   },
+   "headline": "A hole in the stars?"
+  },
+  {
+   "text": "It's not empty space, and it's not a black hole. It's a cloud of cold dust and gas, blocking the stars behind it.",
+   "visual": {
+    "type": "image",
+    "query": "dark nebula stars",
+    "commons": [
+     "dark nebula stars"
+    ]
+   },
+   "headline": "A cloud, not a hole"
+  },
+  {
+   "text": "It's about half a light-year wide and five hundred light-years away.",
+   "visual": {
+    "type": "card",
+    "big": "500",
+    "label": "light-years away"
+   }
+  },
+  {
+   "text": "Inside, it's one of the coldest places nearby. Just a few degrees above absolute zero.",
+   "visual": {
+    "type": "card",
+    "big": "−257°C",
+    "label": "inside the cloud"
+   }
+  },
+  {
+   "text": "With infrared cameras, astronomers can see straight through it, to the stars behind.",
+   "visual": {
+    "type": "image",
+    "query": "Barnard 68 infrared",
+    "commons": [
+     "Barnard 68 infrared"
+    ]
+   },
+   "headline": "Seeing through it"
+  },
+  {
+   "text": "And one day, gravity may squeeze it so hard that it collapses, and a brand new star switches on.",
+   "visual": {
+    "type": "image",
+    "query": "Eagle Nebula from ESO",
+    "wiki": [
+     "Pillars of Creation"
+    ],
+    "commons": [
+     "Eagle Nebula from ESO"
+    ]
+   },
+   "headline": "A future star"
+  },
+  {
+   "text": "Next stop: Sagittarius A*. Did it look like a black hole to you at first? Tell me in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Guisard - Milky Way",
+    "warm": false,
+    "wiki": [
+     "Milky Way"
+    ],
+    "commons": [
+     "Guisard - Milky Way"
+    ]
+   }
+  }
+ ]
+}

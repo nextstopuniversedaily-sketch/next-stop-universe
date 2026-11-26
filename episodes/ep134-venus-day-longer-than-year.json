@@ -1,0 +1,102 @@
+{
+ "number": 134,
+ "title": "Venus Time",
+ "subtitle": "Why Is a Day on Venus Longer Than Its Year?",
+ "next_stop": "Gravitational Waves",
+ "yt_title": "Why Is a Day on Venus Longer Than Its Year? 🌅 #shorts",
+ "description": "Why Is a Day on Venus Longer Than Its Year?\n\nVenus spins so slowly, and backwards, that one rotation takes longer than one trip around the Sun. On Venus the Sun rises in the west.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#venus #planets #space #astronomy #shorts #science",
+ "tags": [
+  "venus",
+  "venus rotation",
+  "day on venus",
+  "retrograde rotation",
+  "planets",
+  "solar system",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Imagine a world where your birthday comes around before the day ends.",
+   "visual": {
+    "type": "title",
+    "query": "Venus - December 23 2016",
+    "wiki": [
+     "Venus"
+    ],
+    "commons": [
+     "Venus - December 23 2016"
+    ]
+   }
+  },
+  {
+   "text": "That's Venus. It takes two hundred and twenty-five Earth days to go around the Sun.",
+   "visual": {
+    "type": "card",
+    "big": "225 days",
+    "label": "one year on Venus"
+   }
+  },
+  {
+   "text": "But it takes two hundred and forty-three days to spin around just once.",
+   "visual": {
+    "type": "card",
+    "big": "243 days",
+    "label": "one spin of Venus"
+   }
+  },
+  {
+   "text": "So one turn of Venus is longer than its whole year.",
+   "visual": {
+    "type": "image",
+    "query": "Venus Mariner 10 true color",
+    "wiki": [
+     "Venus"
+    ],
+    "commons": [
+     "Venus Mariner 10 true color"
+    ]
+   },
+   "headline": "A day longer than a year"
+  },
+  {
+   "text": "And it spins backwards. If you stood on Venus, the Sun would rise in the west and set in the east.",
+   "visual": {
+    "type": "image",
+    "query": "Maat Mons on Venus",
+    "commons": [
+     "Maat Mons on Venus"
+    ]
+   },
+   "headline": "The Sun rises in the west"
+  },
+  {
+   "text": "Because it spins backwards, sunrise to sunrise takes about a hundred and seventeen Earth days.",
+   "visual": {
+    "type": "card",
+    "big": "117 days",
+    "label": "from sunrise to sunrise"
+   }
+  },
+  {
+   "text": "Next stop: Gravitational Waves. How would you spend a sunrise that lasts for weeks? Tell me in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Venus from Mariner 10",
+    "warm": true,
+    "wiki": [
+     "Venus"
+    ],
+    "commons": [
+     "Venus from Mariner 10"
+    ]
+   }
+  }
+ ]
+}

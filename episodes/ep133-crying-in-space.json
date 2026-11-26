@@ -1,0 +1,104 @@
+{
+ "number": 133,
+ "title": "Tears in Space",
+ "subtitle": "What Happens If You Cry in Space?",
+ "next_stop": "The Biggest Stars",
+ "yt_title": "What Happens If You Cry in Space? 😢 #shorts",
+ "description": "What Happens If You Cry in Space?\n\nWithout gravity, tears don't fall. They gather into a wobbly ball of water on your eye, and they sting.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#astronaut #space #iss #astronomy #shorts #science",
+ "tags": [
+  "crying in space",
+  "astronaut life",
+  "microgravity",
+  "iss",
+  "chris hadfield",
+  "space facts",
+  "space",
+  "universe",
+  "astronomy",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What happens if you cry in space?",
+   "visual": {
+    "type": "title",
+    "query": "ISS-68 NASA astronaut Frank Rubio peers through a window in the cupola",
+    "wiki": [
+     "International Space Station"
+    ],
+    "commons": [
+     "ISS-68 NASA astronaut Frank Rubio peers through a window in the cupola"
+    ]
+   }
+  },
+  {
+   "text": "On Earth, tears roll down your cheeks because gravity pulls them.",
+   "visual": {
+    "type": "image",
+    "query": "International Space Station over Earth",
+    "commons": [
+     "International Space Station over Earth"
+    ]
+   },
+   "headline": "Gravity pulls tears down"
+  },
+  {
+   "text": "In orbit, everything is falling together, so your tears don't fall at all.",
+   "visual": {
+    "type": "image",
+    "query": "Weightlessness",
+    "wiki": [
+     "Weightlessness"
+    ]
+   },
+   "headline": "Nothing falls"
+  },
+  {
+   "text": "Instead, they pile up on your eye, forming a growing ball of water that clings to you.",
+   "visual": {
+    "type": "image",
+    "query": "water bubble floating ISS astronaut",
+    "commons": [
+     "water bubble floating ISS astronaut"
+    ]
+   },
+   "headline": "A ball of water on your eye"
+  },
+  {
+   "text": "Astronauts say it stings. Chris Hadfield showed it on video in 2013, and it looks really uncomfortable.",
+   "visual": {
+    "type": "card",
+    "big": "Ouch",
+    "label": "tears that won't fall"
+   }
+  },
+  {
+   "text": "The fix? Wipe it away with a towel, or shake your head and chase the tiny floating drops.",
+   "visual": {
+    "type": "image",
+    "query": "Astronaut Jessica Watkins is pictured eating a meal",
+    "commons": [
+     "Astronaut Jessica Watkins is pictured eating a meal"
+    ]
+   },
+   "headline": "Wipe it away"
+  },
+  {
+   "text": "Next stop: The Biggest Stars. Would you be able to handle living in space? Tell me in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "The Earth seen from Apollo 17",
+    "warm": false,
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   }
+  }
+ ]
+}

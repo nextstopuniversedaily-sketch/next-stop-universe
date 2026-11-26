@@ -1,0 +1,116 @@
+{
+ "number": 146,
+ "title": "A Pocket Black Hole",
+ "subtitle": "What If Earth Became a Black Hole?",
+ "next_stop": "Time Dilation",
+ "yt_title": "What If Earth Became a Black Hole? 🕳️ #shorts",
+ "description": "What If Earth Became a Black Hole?\n\nTo turn Earth into a black hole you would have to crush it down to about 2 centimeters across, the size of a marble. And the Moon would keep orbiting it.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#blackhole #whatif #space #astronomy #shorts #science",
+ "tags": [
+  "black hole",
+  "schwarzschild radius",
+  "earth black hole",
+  "what if",
+  "physics",
+  "gravity",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "If Earth turned into a black hole, you could hold it in your hand.",
+   "visual": {
+    "type": "title",
+    "query": "Artist's impression of a black hole and accretion disk",
+    "wiki": [
+     "Black hole"
+    ],
+    "commons": [
+     "Artist's impression of a black hole and accretion disk"
+    ]
+   }
+  },
+  {
+   "text": "Any object can become a black hole, if you squeeze it small enough.",
+   "visual": {
+    "type": "image",
+    "query": "Black hole - Messier 87 crop max res",
+    "commons": [
+     "Black hole - Messier 87 crop max res"
+    ]
+   },
+   "headline": "Squeeze it small"
+  },
+  {
+   "text": "For Earth, all six sextillion tonnes would have to fit into a ball about eighteen millimeters wide.",
+   "visual": {
+    "type": "card",
+    "big": "18 mm",
+    "label": "Earth as a black hole"
+   }
+  },
+  {
+   "text": "That's the size of a marble.",
+   "visual": {
+    "type": "card",
+    "big": "🔮",
+    "label": "the size of a marble"
+   }
+  },
+  {
+   "text": "Here's the weird part: the Moon wouldn't fall in. It would keep orbiting, because Earth's mass, and its pull, would be the same.",
+   "visual": {
+    "type": "image",
+    "query": "Earth-Moon-edit3",
+    "wiki": [
+     "Moon"
+    ],
+    "commons": [
+     "Earth-Moon-edit3"
+    ]
+   },
+   "headline": "The Moon keeps orbiting"
+  },
+  {
+   "text": "The Sun would need to shrink to about six kilometers across. Smaller than a city.",
+   "visual": {
+    "type": "card",
+    "big": "6 km",
+    "label": "the Sun as a black hole"
+   }
+  },
+  {
+   "text": "Luckily, neither of them is heavy enough to ever collapse like that on their own.",
+   "visual": {
+    "type": "image",
+    "query": "The Earth seen from Apollo 17",
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   },
+   "headline": "Don't panic"
+  },
+  {
+   "text": "Next stop: Time Dilation. Would you hold a marble-sized black hole? Just kidding. Don't. Tell me what you'd do in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Black hole - Messier 87 crop max res",
+    "warm": false,
+    "wiki": [
+     "Black hole"
+    ],
+    "commons": [
+     "Black hole - Messier 87 crop max res"
+    ]
+   }
+  }
+ ]
+}

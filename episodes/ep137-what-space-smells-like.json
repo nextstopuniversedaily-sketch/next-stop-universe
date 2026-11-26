@@ -1,0 +1,110 @@
+{
+ "number": 137,
+ "title": "The Smell of Space",
+ "subtitle": "What Does Space Smell Like?",
+ "next_stop": "The Coldest Place",
+ "yt_title": "What Does Space Smell Like? 👃 #shorts",
+ "description": "What Does Space Smell Like?\n\nYou can't breathe in space, but astronauts smell it on their suits and tools after spacewalks: burnt steak, hot metal, welding fumes.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#astronaut #space #iss #astronomy #shorts #science",
+ "tags": [
+  "smell of space",
+  "spacewalk",
+  "astronaut",
+  "iss",
+  "space facts",
+  "eva",
+  "space",
+  "universe",
+  "astronomy",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What does space smell like? Astronauts actually know.",
+   "visual": {
+    "type": "title",
+    "query": "STS-116 spacewalk 1",
+    "wiki": [
+     "Extravehicular activity"
+    ],
+    "commons": [
+     "STS-116 spacewalk 1"
+    ]
+   }
+  },
+  {
+   "text": "You can't sniff space directly. Open your helmet and you'd be in serious trouble.",
+   "visual": {
+    "type": "image",
+    "query": "Ed White First American Spacewalker - GPN-2000-001180",
+    "commons": [
+     "Ed White First American Spacewalker - GPN-2000-001180"
+    ]
+   },
+   "headline": "Don't open the helmet"
+  },
+  {
+   "text": "But after a spacewalk, astronauts come back inside the airlock, and their suits and tools carry a smell.",
+   "visual": {
+    "type": "image",
+    "query": "ISS airlock spacewalk",
+    "wiki": [
+     "Quest Joint Airlock"
+    ],
+    "commons": [
+     "ISS airlock spacewalk"
+    ]
+   },
+   "headline": "The smell comes inside"
+  },
+  {
+   "text": "They describe it as seared steak, hot metal, or welding fumes.",
+   "visual": {
+    "type": "card",
+    "big": "🥩🔥",
+    "label": "seared steak and hot metal"
+   }
+  },
+  {
+   "text": "One idea: tiny bits of oxygen stuck to the suit react with the air inside, making that burnt smell.",
+   "visual": {
+    "type": "image",
+    "query": "spacewalk astronaut Earth",
+    "commons": [
+     "spacewalk astronaut Earth"
+    ]
+   },
+   "headline": "Why it smells"
+  },
+  {
+   "text": "Even the Moon has a smell. Apollo astronauts said Moon dust smelled like spent gunpowder.",
+   "visual": {
+    "type": "image",
+    "query": "A Man on the Moon, AS11-40-5903",
+    "wiki": [
+     "Lunar regolith"
+    ],
+    "commons": [
+     "A Man on the Moon, AS11-40-5903"
+    ]
+   },
+   "headline": "The Moon smells like gunpowder"
+  },
+  {
+   "text": "Next stop: The Coldest Place. Would you want to smell space for yourself? Tell me in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "The Earth seen from Apollo 17",
+    "warm": false,
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   }
+  }
+ ]
+}

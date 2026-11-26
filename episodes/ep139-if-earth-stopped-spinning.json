@@ -1,0 +1,116 @@
+{
+ "number": 139,
+ "title": "Stop the Earth",
+ "subtitle": "What If Earth Suddenly Stopped Spinning?",
+ "next_stop": "The Diamond Star",
+ "yt_title": "What If Earth Suddenly Stopped Spinning? 🌍 #shorts",
+ "description": "What If Earth Suddenly Stopped Spinning?\n\nAt the equator you are moving at about 1,670 km/h. If Earth stopped spinning, everything not attached to bedrock would keep going.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#earth #whatif #space #astronomy #shorts #science",
+ "tags": [
+  "earth stopped spinning",
+  "what if",
+  "earth rotation",
+  "planets",
+  "physics",
+  "space what if",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What would happen to you if Earth suddenly stopped spinning?",
+   "visual": {
+    "type": "title",
+    "query": "The Earth seen from Apollo 17",
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   }
+  },
+  {
+   "text": "Right now, if you're near the equator, you're moving at about one thousand six hundred and seventy kilometers per hour.",
+   "visual": {
+    "type": "card",
+    "big": "1,670 km/h",
+    "label": "your speed at the equator"
+   }
+  },
+  {
+   "text": "You don't feel it, because everything around you is moving too. The air, the oceans, the buildings.",
+   "visual": {
+    "type": "image",
+    "query": "Earth from space ISS",
+    "commons": [
+     "Earth from space ISS"
+    ]
+   },
+   "headline": "You don't feel it"
+  },
+  {
+   "text": "If the ground stopped, all of that would keep going. Winds faster than any hurricane would sweep the planet.",
+   "visual": {
+    "type": "image",
+    "query": "ISS-20 Thunderstorms on the Brazilian Horizon",
+    "commons": [
+     "ISS-20 Thunderstorms on the Brazilian Horizon"
+    ]
+   },
+   "headline": "Winds beyond any hurricane"
+  },
+  {
+   "text": "Oceans would surge across the land.",
+   "visual": {
+    "type": "image",
+    "query": "ISS-45 StoryOfWater, Great Barrier Reef, Australia",
+    "commons": [
+     "ISS-45 StoryOfWater, Great Barrier Reef, Australia"
+    ]
+   },
+   "headline": "Oceans on the move"
+  },
+  {
+   "text": "And once things calmed down, one day would last a whole year: six months of daylight, then six months of night.",
+   "visual": {
+    "type": "card",
+    "big": "6 months",
+    "label": "of daylight, then night"
+   }
+  },
+  {
+   "text": "Good news: Earth isn't going to stop. It's slowing, but only by milliseconds per century.",
+   "visual": {
+    "type": "image",
+    "query": "Earthset",
+    "wiki": [
+     "Earth's rotation"
+    ],
+    "commons": [
+     "Earthset"
+    ]
+   },
+   "headline": "Don't worry"
+  },
+  {
+   "text": "Next stop: The Diamond Star. Would you rather live on the day side or the night side? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Earthrise Apollo 8",
+    "warm": false,
+    "wiki": [
+     "Earthrise"
+    ],
+    "commons": [
+     "Earthrise Apollo 8"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "number": 141,
+ "title": "Why Is Space Dark?",
+ "subtitle": "If There Are Trillions of Stars, Why Is the Night Sky Dark?",
+ "next_stop": "51 Pegasi b",
+ "yt_title": "If There Are Trillions of Stars, Why Is the Night Sky Dark? 🌌 #shorts",
+ "description": "If There Are Trillions of Stars, Why Is the Night Sky Dark?\n\nIf the universe were endless and full of stars, every direction would end on a star and the night sky would blaze. It doesn't, because the universe has an age, and it is expanding.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#space #universe #science #astronomy #shorts #science",
+ "tags": [
+  "olbers paradox",
+  "why is space dark",
+  "night sky",
+  "big bang",
+  "universe",
+  "cosmology",
+  "space",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "If there are trillions of stars, why is the night sky dark?",
+   "visual": {
+    "type": "title",
+    "query": "Hubble ultra deep field high rez edit1",
+    "wiki": [
+     "Hubble Ultra-Deep Field"
+    ],
+    "commons": [
+     "Hubble ultra deep field high rez edit1"
+    ]
+   }
+  },
+  {
+   "text": "Think about it. If space went on forever, filled with stars, every direction you look would end on a star.",
+   "visual": {
+    "type": "image",
+    "query": "Milky Way over Big Prairie",
+    "commons": [
+     "Milky Way over Big Prairie"
+    ]
+   },
+   "headline": "Stars in every direction"
+  },
+  {
+   "text": "The whole sky would be as bright as the surface of the Sun. Day and night.",
+   "visual": {
+    "type": "card",
+    "big": "☀️ everywhere",
+    "label": "a sky with no dark gaps"
+   }
+  },
+  {
+   "text": "This puzzle is called Olbers' paradox. The answer is hiding in the dark itself.",
+   "visual": {
+    "type": "image",
+    "query": "Guisard - Milky Way",
+    "commons": [
+     "Guisard - Milky Way"
+    ]
+   },
+   "headline": "Olbers' paradox"
+  },
+  {
+   "text": "The universe is about thirteen point eight billion years old. Light from stars farther away hasn't had time to reach us yet.",
+   "visual": {
+    "type": "card",
+    "big": "13.8 billion",
+    "label": "years: not enough time"
+   }
+  },
+  {
+   "text": "And space is expanding, stretching old light until our eyes can't see it.",
+   "visual": {
+    "type": "image",
+    "query": "Cosmic Microwave Background",
+    "wiki": [
+     "Cosmic microwave background"
+    ],
+    "commons": [
+     "Cosmic Microwave Background"
+    ]
+   },
+   "headline": "Stretched light"
+  },
+  {
+   "text": "So every time you see a dark night sky, you're seeing proof that the universe had a beginning.",
+   "visual": {
+    "type": "image",
+    "query": "A Dark Sky Full of Light",
+    "commons": [
+     "A Dark Sky Full of Light"
+    ]
+   },
+   "headline": "Proof of a beginning"
+  },
+  {
+   "text": "Next stop: 51 Pegasi b. Did you ever wonder about this as a kid? Tell me in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Milky Way night sky",
+    "warm": false,
+    "wiki": [
+     "Milky Way"
+    ],
+    "commons": [
+     "Milky Way night sky"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "number": 142,
+ "title": "The Highest Jump",
+ "subtitle": "Could You Survive Jumping From the Edge of Space?",
+ "next_stop": "TRAPPIST-1",
+ "yt_title": "Could You Survive Jumping From the Edge of Space? 🪂 #shorts",
+ "description": "Could You Survive Jumping From the Edge of Space?\n\nIn 2012 Felix Baumgartner jumped from about 39 km up and broke the speed of sound in free fall. In 2014 Alan Eustace jumped from over 41 km. Here is what that fall is really like.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#spacejump #space #science #astronomy #shorts #science",
+ "tags": [
+  "space jump",
+  "red bull stratos",
+  "felix baumgartner",
+  "alan eustace",
+  "free fall",
+  "stratosphere",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Could you jump from the edge of space, and survive?",
+   "visual": {
+    "type": "title",
+    "query": "stratosphere earth curvature balloon",
+    "wiki": [
+     "Stratosphere"
+    ],
+    "commons": [
+     "stratosphere earth curvature balloon"
+    ]
+   }
+  },
+  {
+   "text": "In 2012, a skydiver rode a balloon up to about thirty-nine kilometers, more than three times higher than a passenger jet.",
+   "visual": {
+    "type": "card",
+    "big": "39 km",
+    "label": "up, in a balloon"
+   }
+  },
+  {
+   "text": "The air up there is so thin that your blood would boil without a pressure suit.",
+   "visual": {
+    "type": "image",
+    "query": "pressure suit stratosphere",
+    "commons": [
+     "pressure suit stratosphere"
+    ]
+   },
+   "headline": "You need a pressure suit"
+  },
+  {
+   "text": "He stepped off, and with almost no air to slow him down, he fell faster than the speed of sound.",
+   "visual": {
+    "type": "card",
+    "big": "1,357 km/h",
+    "label": "in free fall"
+   }
+  },
+  {
+   "text": "He went into a dangerous spin, but got control, and opened his parachute safely.",
+   "visual": {
+    "type": "image",
+    "query": "parachute sky",
+    "commons": [
+     "parachute sky"
+    ]
+   },
+   "headline": "A deadly spin"
+  },
+  {
+   "text": "Two years later, a Google executive named Alan Eustace jumped from over forty-one kilometers.",
+   "visual": {
+    "type": "card",
+    "big": "41 km",
+    "label": "the record"
+   }
+  },
+  {
+   "text": "But real space starts at about a hundred kilometers. From orbit, you'd be moving sideways too fast to just fall. You'd need a heat shield.",
+   "visual": {
+    "type": "image",
+    "query": "Moon over Horizon - ISS - August 30 2026",
+    "wiki": [
+     "Kármán line"
+    ],
+    "commons": [
+     "Moon over Horizon - ISS - August 30 2026"
+    ]
+   },
+   "headline": "Space is higher"
+  },
+  {
+   "text": "Next stop: TRAPPIST-1. Would you ever do this jump? Yes or no in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "The Earth seen from Apollo 17",
+    "warm": false,
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   }
+  }
+ ]
+}

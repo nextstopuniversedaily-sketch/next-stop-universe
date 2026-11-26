@@ -1,0 +1,116 @@
+{
+ "number": 144,
+ "title": "HD 189733b",
+ "subtitle": "The Blue Planet Where It Rains Glass Sideways",
+ "next_stop": "Breakthrough Starshot",
+ "yt_title": "The Blue Planet Where It Rains Glass Sideways 🌧️ #shorts",
+ "description": "The Blue Planet Where It Rains Glass Sideways\n\nHD 189733b looks like a deep blue marble, but its winds blow at thousands of km/h and may carry silicate particles: glass, flying sideways.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#exoplanet #space #weirdplanets #astronomy #shorts #science",
+ "tags": [
+  "hd 189733b",
+  "glass rain",
+  "exoplanet",
+  "hot jupiter",
+  "weird planets",
+  "james webb",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "There's a beautiful blue planet out there. But you'd never want to stand in its rain.",
+   "visual": {
+    "type": "title",
+    "query": "HD 189733b artist impression",
+    "wiki": [
+     "HD 189733 b"
+    ],
+    "commons": [
+     "HD 189733b artist impression"
+    ]
+   }
+  },
+  {
+   "text": "It's called HD 189733b, about sixty-four light-years from us.",
+   "visual": {
+    "type": "image",
+    "query": "HD 189733 b",
+    "wiki": [
+     "HD 189733 b"
+    ]
+   },
+   "headline": "64 light-years away"
+  },
+  {
+   "text": "From far away it looks deep blue, like Earth. But it's a gas giant, roasting close to its star.",
+   "visual": {
+    "type": "image",
+    "query": "blue exoplanet artist impression",
+    "commons": [
+     "blue exoplanet artist impression"
+    ]
+   },
+   "headline": "Blue, but deadly"
+  },
+  {
+   "text": "Winds there blow at about eight thousand seven hundred kilometers per hour.",
+   "visual": {
+    "type": "card",
+    "big": "8,700 km/h",
+    "label": "winds"
+   }
+  },
+  {
+   "text": "Scientists think its clouds hold tiny bits of silicate, the stuff glass is made of.",
+   "visual": {
+    "type": "image",
+    "query": "glass shards",
+    "commons": [
+     "glass shards"
+    ]
+   },
+   "headline": "Clouds of glass"
+  },
+  {
+   "text": "So the rain might be glass, flying sideways at seven times the speed of sound.",
+   "visual": {
+    "type": "card",
+    "big": "Glass",
+    "label": "rain, sideways"
+   }
+  },
+  {
+   "text": "And in 2024, the Webb telescope found it smells like rotten eggs.",
+   "visual": {
+    "type": "image",
+    "query": "James Webb Space Telescope Artist Conception",
+    "wiki": [
+     "James Webb Space Telescope"
+    ],
+    "commons": [
+     "James Webb Space Telescope Artist Conception"
+    ]
+   },
+   "headline": "It stinks too"
+  },
+  {
+   "text": "Next stop: Breakthrough Starshot. Worst weather in the galaxy? Name a worse one in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Neptune Full",
+    "warm": false,
+    "wiki": [
+     "Neptune"
+    ],
+    "commons": [
+     "Neptune Full"
+    ]
+   }
+  }
+ ]
+}

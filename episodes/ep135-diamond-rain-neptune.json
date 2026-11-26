@@ -1,0 +1,119 @@
+{
+ "number": 135,
+ "title": "Diamond Rain",
+ "subtitle": "Does It Really Rain Diamonds on Neptune?",
+ "next_stop": "How the Sun Will Die",
+ "yt_title": "Does It Really Rain Diamonds on Neptune? 💎 #shorts",
+ "description": "Does It Really Rain Diamonds on Neptune?\n\nDeep inside Neptune and Uranus, crushing pressure may squeeze carbon into diamonds that sink like rain. In 2017 a lab experiment made tiny diamonds the same way.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#neptune #diamonds #space #astronomy #shorts #science",
+ "tags": [
+  "diamond rain",
+  "neptune",
+  "uranus",
+  "ice giants",
+  "slac",
+  "planets",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Deep inside Neptune, it might be raining diamonds.",
+   "visual": {
+    "type": "title",
+    "query": "Neptune Voyager2 color calibrated",
+    "wiki": [
+     "Neptune"
+    ],
+    "commons": [
+     "Neptune Voyager2 color calibrated"
+    ]
+   }
+  },
+  {
+   "text": "Neptune is a giant ball of gas and ice, far bigger than Earth.",
+   "visual": {
+    "type": "image",
+    "query": "Neptune Full",
+    "wiki": [
+     "Neptune"
+    ],
+    "commons": [
+     "Neptune Full"
+    ]
+   },
+   "headline": "An ice giant"
+  },
+  {
+   "text": "Its air contains methane, a gas made of carbon and hydrogen.",
+   "visual": {
+    "type": "image",
+    "query": "Neptune clouds Voyager 2",
+    "commons": [
+     "Neptune clouds Voyager 2"
+    ]
+   },
+   "headline": "Carbon in the air"
+  },
+  {
+   "text": "Thousands of kilometers down, the pressure is millions of times higher than on Earth.",
+   "visual": {
+    "type": "card",
+    "big": "Millions ×",
+    "label": "Earth's air pressure"
+   }
+  },
+  {
+   "text": "Scientists think that pressure squeezes the carbon out of methane, and packs it into diamonds.",
+   "visual": {
+    "type": "image",
+    "query": "diamond crystal macro",
+    "commons": [
+     "diamond crystal macro"
+    ]
+   },
+   "headline": "Squeezed into diamonds"
+  },
+  {
+   "text": "In 2017, a team in California blasted plastic with lasers to recreate those conditions. They made tiny diamonds.",
+   "visual": {
+    "type": "card",
+    "big": "2017",
+    "label": "diamonds made in a lab"
+   }
+  },
+  {
+   "text": "So on Neptune and Uranus, diamonds may slowly sink toward the core, like hail.",
+   "visual": {
+    "type": "image",
+    "query": "Uranus Voyager2 color calibrated",
+    "wiki": [
+     "Uranus"
+    ],
+    "commons": [
+     "Uranus Voyager2 color calibrated"
+    ]
+   },
+   "headline": "Diamond hail"
+  },
+  {
+   "text": "Next stop: How the Sun Will Die. If you could bring back one Neptune diamond, what would you do with it? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Neptune Full",
+    "warm": false,
+    "wiki": [
+     "Neptune"
+    ],
+    "commons": [
+     "Neptune Full"
+    ]
+   }
+  }
+ ]
+}

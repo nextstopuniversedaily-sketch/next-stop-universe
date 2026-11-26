@@ -1,0 +1,112 @@
+{
+ "number": 143,
+ "title": "KELT-9b",
+ "subtitle": "This Planet Is Hotter Than Most Stars",
+ "next_stop": "Proxima b",
+ "yt_title": "This Planet Is Hotter Than Most Stars 🔥 #shorts",
+ "description": "This Planet Is Hotter Than Most Stars\n\nKELT-9b orbits so close to its star that its day side reaches about 4,300 °C, hotter than most stars in our galaxy. A year there lasts a day and a half.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#exoplanet #space #astronomy #astronomy #shorts #science",
+ "tags": [
+  "kelt-9b",
+  "hottest planet",
+  "ultra hot jupiter",
+  "exoplanet",
+  "planets",
+  "space facts",
+  "space",
+  "universe",
+  "astronomy",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Imagine a planet so hot, it's hotter than most stars.",
+   "visual": {
+    "type": "title",
+    "query": "Artist’s impression of an ultra-hot Jupiter transiting its star",
+    "wiki": [
+     "KELT-9b"
+    ],
+    "commons": [
+     "Artist’s impression of an ultra-hot Jupiter transiting its star"
+    ]
+   }
+  },
+  {
+   "text": "It's called KELT-9b, a giant planet bigger than Jupiter, discovered in 2017.",
+   "visual": {
+    "type": "image",
+    "query": "KELT-9b",
+    "wiki": [
+     "KELT-9b"
+    ]
+   },
+   "headline": "KELT-9b"
+  },
+  {
+   "text": "It orbits so close to its star that a whole year there takes just a day and a half.",
+   "visual": {
+    "type": "card",
+    "big": "1.5 days",
+    "label": "one year on KELT-9b"
+   }
+  },
+  {
+   "text": "The side facing its star reaches about four thousand three hundred degrees Celsius.",
+   "visual": {
+    "type": "card",
+    "big": "4,300°C",
+    "label": "on the day side"
+   }
+  },
+  {
+   "text": "That's hotter than most stars in our galaxy, which are cooler red dwarfs.",
+   "visual": {
+    "type": "image",
+    "query": "red dwarf star artist impression",
+    "commons": [
+     "red dwarf star artist impression"
+    ]
+   },
+   "headline": "Hotter than most stars"
+  },
+  {
+   "text": "It's so hot that metals like iron and titanium float in its air as vapor.",
+   "visual": {
+    "type": "image",
+    "query": "Artist Impression of the exoplanet WASP-76b",
+    "commons": [
+     "Artist Impression of the exoplanet WASP-76b"
+    ]
+   },
+   "headline": "Iron in the air"
+  },
+  {
+   "text": "And its star is slowly boiling its atmosphere away into space.",
+   "visual": {
+    "type": "image",
+    "query": "Artist's concept of exoplanet with comet-like tail",
+    "commons": [
+     "Artist's concept of exoplanet with comet-like tail"
+    ]
+   },
+   "headline": "Boiling away"
+  },
+  {
+   "text": "Next stop: Proxima b. Hottest planet or coldest planet, which would you visit for one second? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Full disk of the Sun",
+    "warm": true,
+    "wiki": [
+     "Sun"
+    ],
+    "commons": [
+     "Full disk of the Sun"
+    ]
+   }
+  }
+ ]
+}

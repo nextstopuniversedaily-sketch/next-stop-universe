@@ -1,0 +1,107 @@
+{
+ "number": 136,
+ "title": "The Space Bar",
+ "subtitle": "There's a Giant Cloud of Alcohol in Space",
+ "next_stop": "The End of the Universe",
+ "yt_title": "There's a Giant Cloud of Alcohol in Space 🍹 #shorts",
+ "description": "There's a Giant Cloud of Alcohol in Space\n\nNear the center of our galaxy, the gas cloud Sagittarius B2 contains huge amounts of alcohol, and a molecule that smells like rum and raspberries.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#space #galaxy #science #astronomy #shorts #science",
+ "tags": [
+  "sagittarius b2",
+  "alcohol in space",
+  "molecular cloud",
+  "ethyl formate",
+  "galactic center",
+  "space facts",
+  "space",
+  "universe",
+  "astronomy",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Out in space, there's a cloud full of alcohol, bigger than our whole solar system.",
+   "visual": {
+    "type": "title",
+    "query": "Center of the Milky Way Galaxy IV – Composite",
+    "wiki": [
+     "Sagittarius B2"
+    ],
+    "commons": [
+     "Center of the Milky Way Galaxy IV – Composite"
+    ]
+   }
+  },
+  {
+   "text": "It's called Sagittarius B2, a giant cloud of gas and dust near the center of our galaxy.",
+   "visual": {
+    "type": "image",
+    "query": "Sagittarius B2",
+    "wiki": [
+     "Sagittarius B2"
+    ]
+   },
+   "headline": "Sagittarius B2"
+  },
+  {
+   "text": "Radio telescopes found ethyl alcohol in it. The same kind that's in drinks.",
+   "visual": {
+    "type": "image",
+    "query": "ALMA and the centre of the Milky Way",
+    "wiki": [
+     "Atacama Large Millimeter Array"
+    ],
+    "commons": [
+     "ALMA and the centre of the Milky Way"
+    ]
+   },
+   "headline": "Real alcohol"
+  },
+  {
+   "text": "And there's an unbelievable amount of it, far more than all the drinks ever made on Earth.",
+   "visual": {
+    "type": "card",
+    "big": "Trillions",
+    "label": "of trillions of liters"
+   }
+  },
+  {
+   "text": "In 2009, astronomers also found ethyl formate there. On Earth, it gives raspberries their flavor, and it smells like rum.",
+   "visual": {
+    "type": "card",
+    "big": "🍓",
+    "label": "smells like rum and raspberries"
+   }
+  },
+  {
+   "text": "But don't book a flight. It's about twenty-six thousand light-years away, and the alcohol is spread very, very thin.",
+   "visual": {
+    "type": "image",
+    "query": "ESO - Milky Way",
+    "wiki": [
+     "Galactic Center"
+    ],
+    "commons": [
+     "ESO - Milky Way"
+    ]
+   },
+   "headline": "26,000 light-years away"
+  },
+  {
+   "text": "Next stop: The End of the Universe. What would you name the bar at the center of the galaxy? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Milky Way night sky",
+    "warm": false,
+    "wiki": [
+     "Milky Way"
+    ],
+    "commons": [
+     "Milky Way night sky"
+    ]
+   }
+  }
+ ]
+}

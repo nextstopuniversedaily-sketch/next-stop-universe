@@ -1,0 +1,112 @@
+{
+ "number": 140,
+ "title": "The 18-Minute Mystery",
+ "subtitle": "What's Sending Signals Every 18 Minutes?",
+ "next_stop": "Pulsar Planets",
+ "yt_title": "What's Sending Signals Every 18 Minutes? 📻 #shorts",
+ "description": "What's Sending Signals Every 18 Minutes?\n\nIn 2022 astronomers in Australia found an object that flashed radio waves every 18 minutes, for about a minute at a time. Nothing known behaved quite like it.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#spacemystery #space #astronomy #astronomy #shorts #science",
+ "tags": [
+  "mystery signal",
+  "gleam-x",
+  "radio transient",
+  "murchison widefield array",
+  "space mystery",
+  "magnetar",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "Something in our galaxy was flashing radio waves at us, every eighteen minutes.",
+   "visual": {
+    "type": "title",
+    "query": "Murchison Widefield Array",
+    "wiki": [
+     "Murchison Widefield Array"
+    ],
+    "commons": [
+     "Murchison Widefield Array"
+    ]
+   }
+  },
+  {
+   "text": "In 2022, astronomers in Australia were going through old data from a radio telescope in the desert.",
+   "visual": {
+    "type": "image",
+    "query": "Murchison Widefield Array",
+    "wiki": [
+     "Murchison Widefield Array"
+    ]
+   },
+   "headline": "Hidden in old data"
+  },
+  {
+   "text": "They found a source that switched on for about a minute, then off. Again and again.",
+   "visual": {
+    "type": "card",
+    "big": "Every 18 min",
+    "label": "a minute-long flash"
+   }
+  },
+  {
+   "text": "It was about four thousand light-years away, and for a while it was one of the brightest radio sources in that part of the sky.",
+   "visual": {
+    "type": "card",
+    "big": "4,000",
+    "label": "light-years away"
+   }
+  },
+  {
+   "text": "Pulsars flash too, but in seconds or less. Nobody had seen anything this slow.",
+   "visual": {
+    "type": "image",
+    "query": "Vela pulsar Chandra",
+    "wiki": [
+     "Pulsar"
+    ],
+    "commons": [
+     "Vela pulsar Chandra"
+    ]
+   },
+   "headline": "Too slow for a pulsar"
+  },
+  {
+   "text": "It could be a strange kind of magnetar, or a white dwarf. Or something we haven't imagined.",
+   "visual": {
+    "type": "image",
+    "query": "magnetar artist impression",
+    "commons": [
+     "magnetar artist impression"
+    ]
+   },
+   "headline": "What is it?"
+  },
+  {
+   "text": "Since then, astronomers have found more of these slow flashers. And the mystery isn't fully solved.",
+   "visual": {
+    "type": "card",
+    "big": "?",
+    "label": "still not fully explained"
+   }
+  },
+  {
+   "text": "Next stop: Pulsar Planets. What's your guess? Dead star, or something else? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "ESO - Milky Way",
+    "warm": false,
+    "wiki": [
+     "Milky Way"
+    ],
+    "commons": [
+     "ESO - Milky Way"
+    ]
+   }
+  }
+ ]
+}

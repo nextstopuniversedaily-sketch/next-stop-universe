@@ -1,0 +1,122 @@
+{
+ "number": 128,
+ "title": "The Zoo Hypothesis",
+ "subtitle": "Are Aliens Watching You Right Now?",
+ "next_stop": "The Great Attractor",
+ "yt_title": "Are Aliens Watching You Right Now? 👽 #shorts",
+ "description": "Are Aliens Watching You Right Now?\n\nMaybe the galaxy is full of life and they are quietly watching us, like visitors at a zoo. The zoo hypothesis, the 'dark forest' idea, and how far our own radio signals have travelled.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#aliens #space #fermiparadox #astronomy #shorts #science",
+ "tags": [
+  "aliens",
+  "zoo hypothesis",
+  "dark forest",
+  "fermi paradox",
+  "seti",
+  "are we alone",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What if aliens already know you exist, and they've decided not to say hello?",
+   "visual": {
+    "type": "title",
+    "query": "Milky Way night sky",
+    "wiki": [
+     "Milky Way"
+    ],
+    "commons": [
+     "Milky Way night sky"
+    ]
+   }
+  },
+  {
+   "text": "Our radio and TV signals have been leaking into space for about a hundred years.",
+   "visual": {
+    "type": "image",
+    "query": "radio telescope night sky",
+    "wiki": [
+     "Arecibo Telescope"
+    ],
+    "commons": [
+     "radio telescope night sky"
+    ]
+   },
+   "headline": "We've been broadcasting"
+  },
+  {
+   "text": "That bubble of signals is now about a hundred light-years wide, and it holds thousands of stars.",
+   "visual": {
+    "type": "card",
+    "big": "100",
+    "label": "light-years of our signals"
+   }
+  },
+  {
+   "text": "In nineteen seventy-three, an astronomer named John Ball suggested something unsettling: maybe they can hear us, and they're choosing to stay quiet.",
+   "visual": {
+    "type": "image",
+    "query": "Earth from space night lights",
+    "commons": [
+     "Earth from space night lights"
+    ]
+   },
+   "headline": "The zoo hypothesis"
+  },
+  {
+   "text": "Like visitors at a zoo, watching, but never stepping into the enclosure.",
+   "visual": {
+    "type": "image",
+    "query": "The Earth seen from Apollo 17",
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   },
+   "headline": "Watching, not touching"
+  },
+  {
+   "text": "Others have a darker idea: in a dangerous galaxy, the smart move is to hide. Some call it the dark forest.",
+   "visual": {
+    "type": "image",
+    "query": "Dark nebula stars",
+    "wiki": [
+     "Barnard 68"
+    ],
+    "commons": [
+     "Dark nebula stars"
+    ]
+   },
+   "headline": "Or hiding?"
+  },
+  {
+   "text": "Either way, the silence might not mean we're alone. It might mean we're being ignored.",
+   "visual": {
+    "type": "card",
+    "big": "?",
+    "label": "alone, or ignored?"
+   }
+  },
+  {
+   "text": "Next stop: The Great Attractor. So, would you want them to answer? Yes or no in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Earthrise Apollo 8",
+    "warm": false,
+    "wiki": [
+     "Earthrise"
+    ],
+    "commons": [
+     "Earthrise Apollo 8"
+    ]
+   }
+  }
+ ]
+}

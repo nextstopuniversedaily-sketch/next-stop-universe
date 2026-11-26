@@ -1,0 +1,113 @@
+{
+ "number": 138,
+ "title": "No Sun",
+ "subtitle": "What If the Sun Disappeared Right Now?",
+ "next_stop": "The Hottest Places",
+ "yt_title": "What If the Sun Disappeared Right Now? ☀️ #shorts",
+ "description": "What If the Sun Disappeared Right Now?\n\nIf the Sun vanished, you wouldn't notice for eight minutes. Then the sky goes dark, Earth flies off in a straight line, and the cold sets in.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#sun #whatif #space #astronomy #shorts #science",
+ "tags": [
+  "sun disappeared",
+  "what if",
+  "sun",
+  "eight minutes",
+  "gravity",
+  "space what if",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What if the Sun disappeared, right now?",
+   "visual": {
+    "type": "title",
+    "query": "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819",
+    "wiki": [
+     "Sun"
+    ],
+    "commons": [
+     "The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819"
+    ]
+   }
+  },
+  {
+   "text": "At first, nothing would happen. Sunlight takes about eight minutes to reach you.",
+   "visual": {
+    "type": "card",
+    "big": "8 min 20 s",
+    "label": "for sunlight to reach Earth"
+   }
+  },
+  {
+   "text": "Gravity travels at the speed of light too, so for those eight minutes, Earth would keep circling an empty spot.",
+   "visual": {
+    "type": "card",
+    "big": "8 minutes",
+    "label": "of not knowing"
+   }
+  },
+  {
+   "text": "Then, the sky goes black. The Moon and planets go dark too, because they only shine with sunlight.",
+   "visual": {
+    "type": "image",
+    "query": "Earth's City Lights by DMSP, 1994-1995",
+    "commons": [
+     "Earth's City Lights by DMSP, 1994-1995"
+    ]
+   },
+   "headline": "Darkness"
+  },
+  {
+   "text": "Earth would fly off in a straight line, into deep space.",
+   "visual": {
+    "type": "image",
+    "query": "The Earth seen from Apollo 17",
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   },
+   "headline": "Earth flies away"
+  },
+  {
+   "text": "Within about a week, temperatures would fall below freezing almost everywhere.",
+   "visual": {
+    "type": "card",
+    "big": "Below 0°C",
+    "label": "within about a week"
+   }
+  },
+  {
+   "text": "But deep in the oceans, near hot volcanic vents, some life could keep going for a very long time.",
+   "visual": {
+    "type": "image",
+    "query": "hydrothermal vent black smoker",
+    "commons": [
+     "hydrothermal vent black smoker"
+    ]
+   },
+   "headline": "Life in the deep"
+  },
+  {
+   "text": "Next stop: The Hottest Places. What would you do in your last eight minutes of sunlight? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Full disk of the Sun",
+    "warm": true,
+    "wiki": [
+     "Sun"
+    ],
+    "commons": [
+     "Full disk of the Sun"
+    ]
+   }
+  }
+ ]
+}

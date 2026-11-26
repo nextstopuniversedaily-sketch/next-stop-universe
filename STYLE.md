@@ -1,5 +1,12 @@
 # Engagement style guide (follow for every new Short and long video)
 
+## What the numbers say (Nov 26, 2026)
+- Best Short: "If Aliens Exist, Why Haven't You Met One?" — 1,023 views, 25 likes, 2 comments. Aliens / mystery / "are we alone" with an open question people want to argue about.
+- Next: "One Teaspoon Weighs a Billion Tons" (541), "Leaving Earth: What You'd Feel…" (412), "What If You Fell Into a Black Hole?" (344, 76% watched).
+- Winning ingredients: (1) an unbelievable number or a "what would happen to YOU" scenario, (2) 45–60 seconds, (3) a debate question at the end ("Would you want them to answer? Yes or no").
+- Long videos get almost no views yet (5–46 each): a new channel's long videos need subscribers first, and those come from Shorts. Shorts are the growth engine.
+- Topics to favour: aliens & first contact, mysteries nobody has solved, "what if" disasters (Sun disappears, Earth stops), body-in-space ("what happens if you cry in space"), extreme planets (hotter than a star, glass rain), insane numbers.
+
 Based on what worked: Ep 11 "What If You Fell Into a Black Hole?" reached 300 views with a ~78% average watch rate.
 It worked because the title is a personal "what if" question, the payoff ("stretched like spaghetti") comes in the
 first 10 seconds, and the whole Short is about 60 seconds.
@@ -17,7 +24,7 @@ first 10 seconds, and the whole Short is about 60 seconds.
 - Put the most visceral or surprising fact in the first 10–15 seconds, then explain.
 - Talk to the viewer: "you'd see…", "imagine standing…", "your feet would…".
 - Short sentences. One idea per segment. Cut history and dates unless they are the story.
-- Shorts: aim for 130–170 words (about 55–70 seconds). Long videos: 8–14 minutes, chaptered, with a question card every chapter.
+- Shorts: aim for 105–140 words (about 45–60 seconds). Shorter beats longer. Long videos: 8–14 minutes, chaptered, with a question card every chapter.
 
 ## Ending
 - Open loop: tease tomorrow's stop in one line ("Tomorrow, …").

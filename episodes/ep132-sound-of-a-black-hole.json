@@ -1,0 +1,102 @@
+{
+ "number": 132,
+ "title": "The Sound of a Black Hole",
+ "subtitle": "What Does a Black Hole Sound Like?",
+ "next_stop": "Gamma-Ray Bursts",
+ "yt_title": "What Does a Black Hole Sound Like? 🔊 #shorts",
+ "description": "What Does a Black Hole Sound Like?\n\nSpace is mostly silent, but in the Perseus galaxy cluster a black hole sends pressure waves through hot gas. NASA turned them into sound.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#blackhole #space #nasa #astronomy #shorts #science",
+ "tags": [
+  "black hole sound",
+  "perseus cluster",
+  "nasa sonification",
+  "chandra",
+  "black hole",
+  "sound in space",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "You've heard that space is silent. But a black hole is humming, right now.",
+   "visual": {
+    "type": "title",
+    "query": "Perseus galaxy cluster Chandra",
+    "wiki": [
+     "Perseus Cluster"
+    ],
+    "commons": [
+     "Perseus galaxy cluster Chandra"
+    ]
+   }
+  },
+  {
+   "text": "It sits in a giant cluster of galaxies called Perseus, about two hundred and forty million light-years away.",
+   "visual": {
+    "type": "image",
+    "query": "Perseus Cluster",
+    "wiki": [
+     "Perseus Cluster"
+    ]
+   },
+   "headline": "The Perseus cluster"
+  },
+  {
+   "text": "The cluster is filled with hot gas. And gas can carry sound waves.",
+   "visual": {
+    "type": "image",
+    "query": "Perseus cluster x-ray ripples",
+    "commons": [
+     "Perseus cluster x-ray ripples"
+    ]
+   },
+   "headline": "Gas carries sound"
+  },
+  {
+   "text": "The black hole sends out ripples. Scientists measured the note: a B-flat, fifty-seven octaves below middle C.",
+   "visual": {
+    "type": "card",
+    "big": "57",
+    "label": "octaves below middle C"
+   }
+  },
+  {
+   "text": "That's far too deep for any human ear, more than a quadrillion times too low.",
+   "visual": {
+    "type": "card",
+    "big": "1 quadrillion×",
+    "label": "too low to hear"
+   }
+  },
+  {
+   "text": "So NASA sped it up until we could hear it. And it sounds like a haunted, rumbling moan.",
+   "visual": {
+    "type": "image",
+    "query": "Chandra X-ray Observatory",
+    "wiki": [
+     "Chandra X-ray Observatory"
+    ]
+   },
+   "headline": "NASA made it audible"
+  },
+  {
+   "text": "Next stop: Gamma-Ray Bursts. Search for it after this. Would you call it creepy or beautiful? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Black hole - Messier 87 crop max res",
+    "warm": false,
+    "wiki": [
+     "Black hole"
+    ],
+    "commons": [
+     "Black hole - Messier 87 crop max res"
+    ]
+   }
+  }
+ ]
+}

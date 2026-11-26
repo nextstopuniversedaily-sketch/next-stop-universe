@@ -1,0 +1,110 @@
+{
+ "number": 145,
+ "title": "Echo of the Big Bang",
+ "subtitle": "Did You Know Old TV Static Showed the Big Bang?",
+ "next_stop": "The Speed of Light",
+ "yt_title": "Did You Know Old TV Static Showed the Big Bang? 📺 #shorts",
+ "description": "Did You Know Old TV Static Showed the Big Bang?\n\nA small part of the static on old analog TVs came from the cosmic microwave background, light released 380,000 years after the Big Bang. It was discovered by accident in 1965.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#bigbang #space #science #astronomy #shorts #science",
+ "tags": [
+  "cosmic microwave background",
+  "big bang",
+  "tv static",
+  "penzias and wilson",
+  "cmb",
+  "cosmology",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "If you ever saw static on an old TV, you saw a little bit of the Big Bang.",
+   "visual": {
+    "type": "title",
+    "query": "Cosmic Microwave Background",
+    "wiki": [
+     "Cosmic microwave background"
+    ],
+    "commons": [
+     "Cosmic Microwave Background"
+    ]
+   }
+  },
+  {
+   "text": "When an old TV couldn't find a channel, it showed snowy static.",
+   "visual": {
+    "type": "image",
+    "query": "television static noise",
+    "commons": [
+     "television static noise"
+    ]
+   },
+   "headline": "TV snow"
+  },
+  {
+   "text": "About one percent of that static was a signal from the beginning of the universe.",
+   "visual": {
+    "type": "card",
+    "big": "~1%",
+    "label": "of the static"
+   }
+  },
+  {
+   "text": "It's called the cosmic microwave background. Light released about three hundred and eighty thousand years after the Big Bang.",
+   "visual": {
+    "type": "image",
+    "query": "Cosmic microwave background",
+    "wiki": [
+     "Cosmic microwave background"
+    ]
+   },
+   "headline": "The oldest light"
+  },
+  {
+   "text": "It has been travelling for thirteen point eight billion years to reach you.",
+   "visual": {
+    "type": "card",
+    "big": "13.8 billion",
+    "label": "years old"
+   }
+  },
+  {
+   "text": "It was found by accident in 1965. Two radio engineers kept hearing a hiss in their antenna. They even cleaned out pigeon droppings to get rid of it.",
+   "visual": {
+    "type": "image",
+    "query": "Holmdel Horn Antenna",
+    "wiki": [
+     "Holmdel Horn Antenna"
+    ]
+   },
+   "headline": "Blame the pigeons?"
+  },
+  {
+   "text": "The hiss didn't go away. It was the Big Bang. They won a Nobel Prize for it.",
+   "visual": {
+    "type": "card",
+    "big": "Nobel",
+    "label": "Prize, 1978"
+   }
+  },
+  {
+   "text": "Next stop: The Speed of Light. Do you remember TV static? Tell me how old you are in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Hubble ultra deep field",
+    "warm": false,
+    "wiki": [
+     "Hubble Ultra-Deep Field"
+    ],
+    "commons": [
+     "Hubble ultra deep field"
+    ]
+   }
+  }
+ ]
+}

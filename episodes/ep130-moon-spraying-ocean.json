@@ -1,0 +1,122 @@
+{
+ "number": 130,
+ "title": "Enceladus",
+ "subtitle": "There's a Moon Spraying Its Ocean Into Space",
+ "next_stop": "The Oort Cloud",
+ "yt_title": "There's a Moon Spraying Its Ocean Into Space 🌊 #shorts",
+ "description": "There's a Moon Spraying Its Ocean Into Space\n\nSaturn's moon Enceladus hides a salty ocean under its ice and blasts it into space through giant geysers. Cassini flew right through them and found the ingredients for life.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#enceladus #saturn #space #astronomy #shorts #science",
+ "tags": [
+  "enceladus",
+  "saturn moon",
+  "geysers",
+  "cassini",
+  "ocean world",
+  "life in space",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "There's a moon out there spraying its own ocean into space.",
+   "visual": {
+    "type": "title",
+    "query": "PIA17202 - Approaching Enceladus",
+    "wiki": [
+     "Enceladus"
+    ],
+    "commons": [
+     "PIA17202 - Approaching Enceladus"
+    ]
+   }
+  },
+  {
+   "text": "It's called Enceladus, a tiny white moon of Saturn, only about five hundred kilometers wide.",
+   "visual": {
+    "type": "image",
+    "query": "Enceladus",
+    "wiki": [
+     "Enceladus"
+    ]
+   },
+   "headline": "Saturn's tiny moon"
+  },
+  {
+   "text": "Under its icy shell is a hidden ocean of salty water.",
+   "visual": {
+    "type": "image",
+    "query": "Enceladus interior ocean",
+    "wiki": [
+     "Enceladus"
+    ],
+    "commons": [
+     "Enceladus interior ocean"
+    ]
+   },
+   "headline": "An ocean under the ice"
+  },
+  {
+   "text": "And at its south pole, cracks in the ice blast that water out as giant geysers.",
+   "visual": {
+    "type": "image",
+    "query": "Enceladus plumes Cassini",
+    "commons": [
+     "Enceladus plumes Cassini"
+    ]
+   },
+   "headline": "Geysers into space"
+  },
+  {
+   "text": "So NASA did something wild. The Cassini spacecraft flew straight through the spray, and tasted it.",
+   "visual": {
+    "type": "image",
+    "query": "Cassini–Huygens",
+    "wiki": [
+     "Cassini–Huygens"
+    ]
+   },
+   "headline": "Cassini tasted it"
+  },
+  {
+   "text": "It found salt, organic molecules, and in 2023, phosphorus. Ingredients life on Earth needs.",
+   "visual": {
+    "type": "card",
+    "big": "Life's recipe?",
+    "label": "salt, organics, phosphorus"
+   }
+  },
+  {
+   "text": "Nobody has found life there. But it's one of the best places in the solar system to look.",
+   "visual": {
+    "type": "image",
+    "query": "Saturn rings Cassini",
+    "wiki": [
+     "Saturn"
+    ],
+    "commons": [
+     "Saturn rings Cassini"
+    ]
+   },
+   "headline": "Is something living there?"
+  },
+  {
+   "text": "Next stop: The Oort Cloud. Should we send a mission to look for life there? Yes or no in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Saturn global view from Cassini",
+    "warm": false,
+    "wiki": [
+     "Saturn"
+    ],
+    "commons": [
+     "Saturn global view from Cassini"
+    ]
+   }
+  }
+ ]
+}

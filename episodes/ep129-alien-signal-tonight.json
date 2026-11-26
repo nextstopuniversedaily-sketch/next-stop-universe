@@ -1,0 +1,122 @@
+{
+ "number": 129,
+ "title": "First Contact",
+ "subtitle": "What If We Heard an Alien Signal Tonight?",
+ "next_stop": "Planet Nine",
+ "yt_title": "What If We Heard an Alien Signal Tonight? 📡 #shorts",
+ "description": "What If We Heard an Alien Signal Tonight?\n\nWhat would actually happen if a radio telescope picked up an alien signal: checking it, announcing it, and why replying would take years.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#aliens #seti #space #astronomy #shorts #science",
+ "tags": [
+  "alien signal",
+  "first contact",
+  "seti",
+  "radio telescope",
+  "aliens",
+  "wow signal",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "What would happen if scientists picked up an alien signal tonight?",
+   "visual": {
+    "type": "title",
+    "query": "Green Bank Telescope",
+    "wiki": [
+     "Green Bank Telescope"
+    ],
+    "commons": [
+     "Green Bank Telescope"
+    ]
+   }
+  },
+  {
+   "text": "First, nobody would celebrate. They'd try to prove it wrong.",
+   "visual": {
+    "type": "image",
+    "query": "radio telescope array night",
+    "wiki": [
+     "Very Large Array"
+    ],
+    "commons": [
+     "radio telescope array night"
+    ]
+   },
+   "headline": "Step one: doubt it"
+  },
+  {
+   "text": "Is it a satellite? A phone? A microwave oven? That has fooled astronomers before.",
+   "visual": {
+    "type": "image",
+    "query": "Parkes radio telescope",
+    "wiki": [
+     "Parkes Observatory"
+    ],
+    "commons": [
+     "Parkes radio telescope"
+    ]
+   },
+   "headline": "Is it us?"
+  },
+  {
+   "text": "Then a second telescope, on another continent, would have to hear the same thing.",
+   "visual": {
+    "type": "image",
+    "query": "Allen Telescope Array",
+    "wiki": [
+     "Allen Telescope Array"
+    ]
+   },
+   "headline": "Check it twice"
+  },
+  {
+   "text": "SETI scientists agreed long ago: if it's real, tell the whole world. No secrets.",
+   "visual": {
+    "type": "card",
+    "big": "1989",
+    "label": "SETI's first-contact rules"
+   }
+  },
+  {
+   "text": "But answering is a different story. Even the nearest star is over four light-years away. One hello and one reply would take nearly nine years.",
+   "visual": {
+    "type": "card",
+    "big": "9 years",
+    "label": "for one hello and one reply"
+   }
+  },
+  {
+   "text": "And nobody has agreed who gets to speak for Earth.",
+   "visual": {
+    "type": "image",
+    "query": "The Earth seen from Apollo 17",
+    "wiki": [
+     "Earth"
+    ],
+    "commons": [
+     "The Earth seen from Apollo 17"
+    ]
+   },
+   "headline": "Who speaks for Earth?"
+  },
+  {
+   "text": "Next stop: Planet Nine. If it were up to you, would we reply? Tell me in the comments, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Milky Way night sky",
+    "warm": false,
+    "wiki": [
+     "Milky Way"
+    ],
+    "commons": [
+     "Milky Way night sky"
+    ]
+   }
+  }
+ ]
+}

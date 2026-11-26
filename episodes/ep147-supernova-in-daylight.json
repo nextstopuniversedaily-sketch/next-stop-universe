@@ -1,0 +1,113 @@
+{
+ "number": 147,
+ "title": "SN 1006",
+ "subtitle": "What If a Star Exploded So Bright You Could See It in Daylight?",
+ "next_stop": "Wormholes",
+ "yt_title": "What If a Star Exploded So Bright You Could See It in Daylight? 💥 #shorts",
+ "description": "What If a Star Exploded So Bright You Could See It in Daylight?\n\nIn the year 1006, a supernova appeared that was bright enough to see during the day and to read by at night. People recorded it in China, Japan, Egypt and Europe.\n\nFollow for daily trips through the universe. 🚀\n\nImages: NASA, ESA, ESO and Wikimedia Commons (free licenses, credited in the video file's notes)\nNarration: AI voice\n\n#supernova #space #history #astronomy #shorts #science",
+ "tags": [
+  "sn 1006",
+  "supernova",
+  "brightest supernova",
+  "history of astronomy",
+  "betelgeuse",
+  "exploding star",
+  "space",
+  "universe",
+  "astronomy",
+  "space facts",
+  "science shorts",
+  "space mystery",
+  "astronomy for beginners",
+  "next stop universe"
+ ],
+ "segments": [
+  {
+   "text": "A thousand years ago, a star exploded so brightly, people could see it in broad daylight.",
+   "visual": {
+    "type": "title",
+    "query": "SN 1006 Chandra",
+    "wiki": [
+     "SN 1006"
+    ],
+    "commons": [
+     "SN 1006 Chandra"
+    ]
+   }
+  },
+  {
+   "text": "It happened in the year one thousand and six. A new star suddenly appeared in the southern sky.",
+   "visual": {
+    "type": "card",
+    "big": "1006",
+    "label": "a new star appears"
+   }
+  },
+  {
+   "text": "It was the brightest star-like event in recorded history, far brighter than Venus.",
+   "visual": {
+    "type": "card",
+    "big": "Brightest",
+    "label": "ever recorded"
+   }
+  },
+  {
+   "text": "Some reports say it was bright enough to read by at night. And it stayed visible for months.",
+   "visual": {
+    "type": "image",
+    "query": "Kepler's supernova",
+    "wiki": [
+     "Kepler's Supernova"
+    ],
+    "commons": [
+     "Kepler's supernova"
+    ]
+   },
+   "headline": "Visible for months"
+  },
+  {
+   "text": "People wrote about it in China, Japan, Egypt and Europe. A doctor in Cairo said it was three times bigger than Venus.",
+   "visual": {
+    "type": "image",
+    "query": "Night sky ancient observatory",
+    "commons": [
+     "Night sky ancient observatory"
+    ]
+   },
+   "headline": "Seen around the world"
+  },
+  {
+   "text": "It was a white dwarf star that exploded about seven thousand light-years away.",
+   "visual": {
+    "type": "card",
+    "big": "7,200",
+    "label": "light-years away"
+   }
+  },
+  {
+   "text": "Today, telescopes can still see the expanding cloud it left behind.",
+   "visual": {
+    "type": "image",
+    "query": "SN 1006",
+    "wiki": [
+     "SN 1006"
+    ]
+   },
+   "headline": "Still expanding"
+  },
+  {
+   "text": "Next stop: Wormholes. If a star exploded in daylight tomorrow, what would you think was happening? Comment below, and follow for the next stop.",
+   "visual": {
+    "type": "end",
+    "query": "Crab Nebula",
+    "warm": false,
+    "wiki": [
+     "Crab Nebula"
+    ],
+    "commons": [
+     "Crab Nebula"
+    ]
+   }
+  }
+ ]
+}
