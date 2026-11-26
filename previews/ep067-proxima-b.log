@@ -1,6 +1,5 @@
-[0;93m2026-11-21 21:36:13.434047799 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 67: Proxima b
-  audio 68.0s
+  audio 71.3s
   WIKI File:Artist’s impression of Proxima Centauri b shown hypothetically as an arid rocky super-earth.jpg (CC BY 4.0)
   segment 1/10 [title] 5.6s
   WIKI File:New_shot_of_Proxima_Centauri,_our_nearest_neighbour.jpg (CC BY 4.0)
@@ -19,5 +18,5 @@
   WIKI File:Rocky Exoplanet TRAPPIST-1 c (Artist Concept).jpg (Public domain)
   segment 9/10 [image] 7.3s
   WIKI File:Laser Sail (25259478171).png (CC BY 2.0)
-  segment 10/10 [end] 8.4s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep067.mp4 (10.4 MB)
+  segment 10/10 [end] 11.7s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep067.mp4 (10.6 MB)
