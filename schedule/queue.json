@@ -367,22 +367,29 @@
     "id": "ep128",
     "kind": "episode",
     "publishAt": "2026-11-27T19:30:00-06:00",
-    "status": "pending"
+    "status": "scheduled",
+    "postId": "7940da2a-7dfb-4648-a8e5-24733a999f2f",
+    "postUrl": "https://www.youtube.com/watch?v=hbTr0Cis950"
   },
   {
     "id": "ep050",
     "kind": "episode",
     "publishAt": "2026-11-28T19:30:00-06:00",
-    "status": "pending"
+    "status": "scheduled",
+    "postId": "cf370ada-c1a0-4e82-ad40-e71c16a33288",
+    "postUrl": "https://www.youtube.com/watch?v=4Z4llsqoG1k"
   },
   {
     "id": "long-never-survive-on-mars",
     "kind": "long",
     "publishAt": "2026-11-29T18:00:00-06:00",
-    "status": "pending",
+    "status": "scheduled",
     "series": "Why You'd Never",
     "thumbnail": "previews/thumb-never-survive-on-mars.jpg",
-    "note": "new series episode; set thumbnailImageId from the thumbnail file if possible"
+    "note": "new series episode; set thumbnailImageId from the thumbnail file if possible",
+    "postId": "6bb03681-a4ed-4c17-b09a-335caf08b657",
+    "postUrl": "https://www.youtube.com/watch?v=W1yQ3e-Cnq8",
+    "thumbnailImageId": "8845dc95-d666-47a8-9632-390e67c011cb"
   },
   {
     "id": "ep129",
