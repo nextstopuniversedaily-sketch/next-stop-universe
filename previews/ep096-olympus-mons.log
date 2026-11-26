@@ -1,6 +1,5 @@
-[0;93m2026-11-21 22:28:27.880322400 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 96: Olympus Mons vs Everest
-  audio 70.9s
+  audio 70.5s
   WIKI File:Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png (CC BY 2.0)
   segment 1/10 [title] 5.5s
   segment 2/10 [card] 7.7s
@@ -18,5 +17,5 @@
   WIKI File:Mauna_Kea_from_the_ocean.jpg (CC BY 2.0)
   segment 9/10 [image] 7.1s
   WIKI File:PlanetMars-VallesMarineris-VikingOrbiter-1980.jpg (Public domain)
-  segment 10/10 [end] 8.7s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep096.mp4 (12.8 MB)
+  segment 10/10 [end] 8.3s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep096.mp4 (12.5 MB)
