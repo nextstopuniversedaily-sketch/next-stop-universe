@@ -1,6 +1,5 @@
-[0;93m2026-11-21 22:48:35.845883813 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 108: Comets vs Asteroids
-  audio 70.9s
+  audio 70.7s
   - skip File:Kométa C-2020 F3 (NEOWISE).jpg: license 'CC BY-SA 4.0'
   WIKI File:Comet NEOWISE above Strzelce Dolne.jpg (CC BY 4.0)
   segment 1/10 [title] 5.6s
@@ -24,5 +23,5 @@
   segment 8/10 [image] 9.0s
   segment 9/10 [card] 5.9s
   WIKI File:Willamette meteorite at Dorothy and Lewis B. Cullman Hall of the Universe.jpg (CC BY 4.0)
-  segment 10/10 [end] 8.9s
+  segment 10/10 [end] 8.7s
   -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep108.mp4 (18.5 MB)
