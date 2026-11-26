@@ -1,6 +1,5 @@
-[0;93m2026-11-21 21:04:21.871814630 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 50: Io
-  audio 69.9s
+  audio 69.5s
   WIKI File:Io_highest_resolution_natural_color.png (Public domain)
   segment 1/11 [title] 4.9s
   WIKI File:Io_highest_resolution_natural_color.png (Public domain)
@@ -23,5 +22,5 @@
   segment 10/11 [card] 4.6s
   - skip File:Planet nine artistic plain.png: license 'CC BY-SA 4.0'
   WIKI File:Hypothetical Planet Nine (24420842591).png (CC BY 2.0)
-  segment 11/11 [end] 7.9s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep050.mp4 (8.0 MB)
+  segment 11/11 [end] 7.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep050.mp4 (7.9 MB)
