@@ -1,6 +1,5 @@
-[0;93m2026-11-21 21:32:49.045868397 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 65: 51 Pegasi b
-  audio 72.3s
+  audio 72.8s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
   segment 1/10 [title] 6.0s
   WIKI File:Artist's impression of an ultra-short-period planet.jpg (CC BY 4.0)
@@ -26,5 +25,5 @@
   segment 8/10 [image] 5.0s
   segment 9/10 [card] 7.8s
   WIKI File:TRAPPIST-1h artist impression 2018.png (Public domain)
-  segment 10/10 [end] 7.9s
+  segment 10/10 [end] 8.3s
   -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep065.mp4 (7.5 MB)
