@@ -1,3 +1,4 @@
+[0;93m2026-11-26 02:40:40.163391600 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 146: A Pocket Black Hole
   audio 47.2s
   WIKI File:Black_hole_-_Messier_87_crop_max_res.jpg (CC BY 4.0)
@@ -7,7 +8,9 @@
   segment 3/8 [card] 6.7s
   segment 4/8 [card] 2.2s
   - skip File:FullMoon2010.jpg: license 'CC BY-SA 3.0'
-  WIKI File:Earth-Moon-edit3.png (CC BY 2.5)
+  - skip File:Full Moon Luc Viatour.jpg: license 'CC BY-SA 3.0'
+  - skip File:Full moon partially obscured by atmosphere.jpg: looks like a chart/blank
+  WIKI File:Space Shuttle Discovery under a full moon, 03-11-09.jpg (Public domain)
   segment 5/8 [image] 7.8s
   segment 6/8 [card] 5.3s
   - skip File:Meteosat-12-fci-march-equinox-2025-noon.jpg: license 'Attribution'
@@ -15,4 +18,4 @@
   segment 7/8 [image] 5.0s
   WIKI File:Black_hole_-_Messier_87_crop_max_res.jpg (CC BY 4.0)
   segment 8/8 [end] 11.5s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep146.mp4 (3.8 MB)
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep146.mp4 (5.4 MB)
