@@ -1,6 +1,5 @@
-[0;93m2026-11-21 21:39:32.892317798 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
 == Episode 69: The Speed of Light
-  audio 70.2s
+  audio 70.5s
   - skip File:Dichroitisches Prisma -- 2020 -- 5123.jpg: license 'CC BY-SA 4.0'
   - skip File:Dispersive Prism Illustration.jpg: license 'CC BY-SA 3.0'
   - skip File:Prism Refraction.jpg: license 'CC BY-SA 3.0'
@@ -8,8 +7,7 @@
   segment 1/10 [title] 5.5s
   segment 2/10 [card] 4.8s
   segment 3/10 [card] 4.8s
-  ! commons search failed Sun SDO 'query'
-  NASA 'Sun SDO' -> GSFC_20171208_Archive_e000790: NASA's SDO Sees Giant Filament on the Sun
+  WIKI File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg (Public domain)
   segment 4/10 [image] 5.6s
   - skip File:Rapanui Rock during sunset, Sumner, Christchurch, New Zealand.jpg: license 'CC BY-SA 4.0'
   - skip File:Sunset, Kuta, Bali, Indonesia, 20220825 1755 0879.jpg: license 'CC BY-SA 4.0'
@@ -37,5 +35,5 @@
   - skip File:Prague September 2016-15.jpg: license 'CC BY-SA 4.0'
   - skip File:Prag, Altstädter Rathaus, Astronomische Uhr -- 2019 -- 6591.jpg: license 'CC BY-SA 4.0'
   WIKI File:GPS satellite constellation.jpg (Public domain)
-  segment 10/10 [end] 8.2s
-  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep069.mp4 (18.6 MB)
+  segment 10/10 [end] 8.5s
+  -> /home/runner/work/next-stop-universe/next-stop-universe/videos/ep069.mp4 (19.0 MB)
