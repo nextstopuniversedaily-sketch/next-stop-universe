@@ -395,22 +395,29 @@
     "id": "ep129",
     "kind": "episode",
     "publishAt": "2026-11-29T19:30:00-06:00",
-    "status": "pending"
+    "status": "scheduled",
+    "postId": "0d91fd65-ca5f-42bb-89c8-6c8c098ac8ee",
+    "postUrl": "https://www.youtube.com/watch?v=Tr3uUbyJxY8"
   },
   {
     "id": "ep051",
     "kind": "episode",
     "publishAt": "2026-11-30T13:00:00-06:00",
-    "status": "pending"
+    "status": "scheduled",
+    "postId": "305007fe-c9e5-4fc5-8689-1d2c80ee9544",
+    "postUrl": "https://www.youtube.com/watch?v=-8N4N4cSisY"
   },
   {
     "id": "long-never-survive-trip-to-sun",
     "kind": "long",
     "publishAt": "2026-11-30T18:00:00-06:00",
-    "status": "pending",
+    "status": "scheduled",
     "series": "Why You'd Never",
     "thumbnail": "previews/thumb-never-survive-trip-to-sun.jpg",
-    "note": "new series episode; set thumbnailImageId from the thumbnail file if possible"
+    "note": "new series episode; set thumbnailImageId from the thumbnail file if possible",
+    "postId": "4ce636dc-b114-49bf-8055-c6ac39153dde",
+    "postUrl": "https://www.youtube.com/watch?v=mvaKBRJJZzg",
+    "thumbnailImageId": "7da50737-6a29-4b48-942f-4436220baf83"
   },
   {
     "id": "ep130",
